@@ -1,0 +1,48 @@
+name: Sync positions
+
+# Tõmbab PORTFELL_positions.csv Google Drive'ist (fail peab olema jagatud "Anyone with the link")
+# ja paneb selle reposse, kui sisu muutus. Õhtune sünkroon Macist jookseb ~17:49 Tallinna aja järgi.
+on:
+  schedule:
+    - cron: "25 15 * * *"   # 18:25 Tallinn (suveaeg)
+    - cron: "25 16 * * *"   # 18:25 Tallinn (talveaeg)
+    - cron: "10 4 * * *"    # hommikune kontroll
+  workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/sync-positions.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    env:
+      FILE_ID: 1878rAg0Gh2laz741K1r8tKou_22EztMx
+    steps:
+      - uses: actions/checkout@v4
+      - name: Download CSV from Drive
+        run: |
+          set -euo pipefail
+          curl -fsSL -o new.csv "https://drive.usercontent.google.com/download?id=${FILE_ID}&export=download&confirm=t"
+          head -c 200 new.csv; echo
+          if ! head -n1 new.csv | grep -q '^Book,Symbol,'; then
+            echo "::error::Drive ei andnud CSV-faili. Kontrolli, et PORTFELL_positions.csv on jagatud 'Anyone with the link'."
+            exit 1
+          fi
+          lines=$(wc -l < new.csv)
+          if [ "$lines" -lt 20 ]; then echo "::error::CSV on kahtlaselt lühike ($lines rida)"; exit 1; fi
+      - name: Commit if changed
+        run: |
+          set -euo pipefail
+          if [ -f positions.csv ] && cmp -s new.csv positions.csv; then
+            echo "Muutusi pole"; rm new.csv; exit 0
+          fi
+          mv new.csv positions.csv
+          printf '{"fetchedAt":"%s"}\n' "$(date -u +%Y-%m-%dT%H:%M:%SZ)" > meta.json
+          git config user.name "positions-sync"
+          git config user.email "actions@users.noreply.github.com"
+          git add positions.csv meta.json
+          git commit -m "Positsioonid $(date -u +%Y-%m-%d)"
+          git push
