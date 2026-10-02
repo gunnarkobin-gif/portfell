@@ -143,13 +143,14 @@ details summary{cursor:pointer;color:var(--muted);font-size:.85rem}
     <div class="tools">
       <div role="group" aria-label="Raamat" id="chips" style="display:flex;gap:6px;flex-wrap:wrap"></div>
       <input type="search" id="q" placeholder="Otsi nime või tickerit" aria-label="Otsi" style="max-width:none">
-      <div class="sortbar" role="group" aria-label="Järjesta" id="sortBar">
-        <span class="k">Järjesta</span>
-        <button class="chip" type="button" data-s="dayEur">Päev €</button>
-        <button class="chip" type="button" data-s="pct">Päev %</button>
-        <button class="chip" type="button" data-s="valEur">Väärtus</button>
-        <button class="chip" type="button" data-s="name">Nimi</button>
-      </div>
+      <select id="sortSel" aria-label="Järjestus">
+        <option value="dayEur:-1">Päev € (suurim)</option>
+        <option value="dayEur:1">Päev € (väikseim)</option>
+        <option value="pct:-1">Päev % (tõus)</option>
+        <option value="pct:1">Päev % (langus)</option>
+        <option value="valEur:-1">Väärtus</option>
+        <option value="name:1">Nimi A–Z</option>
+      </select>
       <label class="tog"><input type="checkbox" id="big5"> ainult ±5%</label>
     </div>
     <ul class="plist" id="tb"><li class="skel">Laen positsioone…</li></ul>
@@ -318,9 +319,8 @@ function chips(){
   $("chips").innerHTML=opts.map(([k,l])=>`<button class="chip" type="button" data-f="${k}" aria-pressed="${k===filt}">${l}</button>`).join("");
 }
 $("chips").addEventListener("click",e=>{const b=e.target.closest("[data-f]");if(!b)return;filt=b.dataset.f;try{localStorage.setItem("pp_filt",filt);}catch(_){}chips();renderTable();});
-function sortUI(){document.querySelectorAll("#sortBar [data-s]").forEach(b=>{const on=b.dataset.s===sortK;b.setAttribute("aria-pressed",on);b.dataset.arrow=on?(sortDir>0?(sortK==="name"?" A→Z":" ↑"):(sortK==="name"?" Z→A":" ↓")):"";});}
-$("sortBar").addEventListener("click",e=>{const b=e.target.closest("[data-s]");if(!b)return;const k=b.dataset.s;
-  if(k===sortK)sortDir*=-1;else{sortK=k;sortDir=k==="name"?1:-1;}
+function sortUI(){const el=$("sortSel");if(el)el.value=sortK+":"+sortDir;}
+$("sortSel").addEventListener("change",e=>{const [k,d]=e.target.value.split(":");sortK=k;sortDir=+d;
   try{localStorage.setItem("pp_sort",sortK+":"+sortDir);}catch(_){} renderTable();});
 try{const v=localStorage.getItem("pp_sort");if(v){const [k,d]=v.split(":");if(k&&d){sortK=k;sortDir=+d;}}}catch(_){}
 document.querySelector(".mtabs").addEventListener("click",e=>{const b=e.target.closest("[data-m]");if(!b)return;
