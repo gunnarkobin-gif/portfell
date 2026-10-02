@@ -78,6 +78,9 @@ label.tog{display:flex;align-items:center;gap:6px;font-size:.85rem;color:var(--m
 .plist .meta{font-family:var(--f-num);font-size:.74rem;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
 .plist .r1,.plist .r2{text-align:right;white-space:nowrap}
 .plist .r2{font-family:var(--f-num);font-size:.78rem}
+.sortbar{display:flex;gap:6px;flex-wrap:wrap;align-items:center;width:100%}
+.sortbar .k{margin-right:2px}
+.sortbar .chip::after{content:attr(data-arrow)}
 select{font:inherit;font-size:.85rem;border:1px solid var(--line);background:var(--surface);color:var(--fg);border-radius:6px;padding:5px 8px}
 .pill{display:inline-block;padding:1px 7px;border-radius:999px;font-family:var(--f-num);font-variant-numeric:tabular-nums;font-weight:600}
 .pill.up{background:var(--upbg)} .pill.down{background:var(--downbg)}
@@ -140,14 +143,13 @@ details summary{cursor:pointer;color:var(--muted);font-size:.85rem}
     <div class="tools">
       <div role="group" aria-label="Raamat" id="chips" style="display:flex;gap:6px;flex-wrap:wrap"></div>
       <input type="search" id="q" placeholder="Otsi nime või tickerit" aria-label="Otsi" style="max-width:none">
-      <select id="sortSel" aria-label="Järjestus">
-        <option value="dayEur:-1">Päev € (suurim)</option>
-        <option value="dayEur:1">Päev € (väikseim)</option>
-        <option value="pct:-1">Päev % (tõus)</option>
-        <option value="pct:1">Päev % (langus)</option>
-        <option value="valEur:-1">Väärtus</option>
-        <option value="name:1">Nimi A–Z</option>
-      </select>
+      <div class="sortbar" role="group" aria-label="Järjesta" id="sortBar">
+        <span class="k">Järjesta</span>
+        <button class="chip" type="button" data-s="dayEur">Päev €</button>
+        <button class="chip" type="button" data-s="pct">Päev %</button>
+        <button class="chip" type="button" data-s="valEur">Väärtus</button>
+        <button class="chip" type="button" data-s="name">Nimi</button>
+      </div>
       <label class="tog"><input type="checkbox" id="big5"> ainult ±5%</label>
     </div>
     <ul class="plist" id="tb"><li class="skel">Laen positsioone…</li></ul>
@@ -298,7 +300,8 @@ function render(){
 function renderTable(){
   const q=$("q").value.trim().toLowerCase(), only5=$("big5").checked;
   let list=rows.filter(o=>(filt==="ALL"||o.book===filt)&&(!q||o.name.toLowerCase().includes(q)||o.sym.toLowerCase().includes(q))&&(!only5||(o.pct!=null&&Math.abs(o.pct)>=5)));
-  list.sort((a,b)=>{let x=a[sortK],y=b[sortK];if(typeof x==="string"||typeof y==="string")return String(x).localeCompare(String(y))*sortDir;x=x==null?-Infinity:x;y=y==null?-Infinity:y;if(sortK==="dayEur"||sortK==="pct"){/* nullid alla */}return (x-y)*sortDir;});
+  list.sort((a,b)=>{const x=a[sortK],y=b[sortK];if(sortK==="name")return String(x).localeCompare(String(y),"et")*sortDir;const xn=x==null,yn=y==null;if(xn||yn)return xn===yn?a.name.localeCompare(b.name,"et"):xn?1:-1;return (x-y)*sortDir;});
+  sortUI();
   const bl={EU:"EU",US:"US",ASIA:"Aasia",BONDS:"Võlak."};
   $("tb").innerHTML=list.length?list.map(o=>{
     const flag=o.pct!=null&&Math.abs(o.pct)>=5?'<span class="flag">±5</span>':"";
@@ -315,7 +318,11 @@ function chips(){
   $("chips").innerHTML=opts.map(([k,l])=>`<button class="chip" type="button" data-f="${k}" aria-pressed="${k===filt}">${l}</button>`).join("");
 }
 $("chips").addEventListener("click",e=>{const b=e.target.closest("[data-f]");if(!b)return;filt=b.dataset.f;try{localStorage.setItem("pp_filt",filt);}catch(_){}chips();renderTable();});
-$("sortSel").addEventListener("change",e=>{const [k,d]=e.target.value.split(":");sortK=k;sortDir=+d;renderTable();});
+function sortUI(){document.querySelectorAll("#sortBar [data-s]").forEach(b=>{const on=b.dataset.s===sortK;b.setAttribute("aria-pressed",on);b.dataset.arrow=on?(sortDir>0?(sortK==="name"?" A→Z":" ↑"):(sortK==="name"?" Z→A":" ↓")):"";});}
+$("sortBar").addEventListener("click",e=>{const b=e.target.closest("[data-s]");if(!b)return;const k=b.dataset.s;
+  if(k===sortK)sortDir*=-1;else{sortK=k;sortDir=k==="name"?1:-1;}
+  try{localStorage.setItem("pp_sort",sortK+":"+sortDir);}catch(_){} renderTable();});
+try{const v=localStorage.getItem("pp_sort");if(v){const [k,d]=v.split(":");if(k&&d){sortK=k;sortDir=+d;}}}catch(_){}
 document.querySelector(".mtabs").addEventListener("click",e=>{const b=e.target.closest("[data-m]");if(!b)return;
   document.querySelectorAll(".mtabs [data-m]").forEach(x=>{x.setAttribute("aria-pressed",x===b);$(x.dataset.m).hidden=x!==b;});});
 $("q").addEventListener("input",renderTable);$("big5").addEventListener("change",renderTable);
