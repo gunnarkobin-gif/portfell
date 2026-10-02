@@ -152,7 +152,7 @@ details summary{cursor:pointer;color:var(--muted);font-size:.85rem}
     </div>
     <ul class="plist" id="tb"><li class="skel">Laen positsioone…</li></ul>
     <details style="margin-top:10px"><summary id="missSum">Hinnata positsioonid</summary><p class="small muted" id="missList"></p></details>
-    <p class="small muted">Päev = iga börsi viimane sessioon FMP järgi (Aasia ja Austraalia on Euroopa hommikul juba suletud). Eurodes muutus on valuutakursi muutuseta. Võlakirjad on õhtuse sünkrooni hinnaga. Positsioonid uuenevad igal õhtul PORTFELL failist.</p>
+    <p class="small muted">Päeva tulemus näidatakse ainult börsidel, kus täna on kaubeldud. Enne avamist, nädalavahetusel ja pühadel on rida märgitud „suletud“ ja päevatulemusse see ei lähe. Eurodes muutus on valuutakursi muutuseta. Võlakirjad on õhtuse sünkrooni hinnaga, päevatulemust neil ei näidata. Positsioonid uuenevad igal õhtul PORTFELL failist.</p>
     <button class="linkbtn" id="keyReset" type="button">Vaheta FMP võtit</button>
   </section>
 </div>
@@ -212,13 +212,20 @@ function buildRows(text){
   return out;
 }
 
+const SUFTZ={".L":"Europe/London",".LS":"Europe/Lisbon",".HE":"Europe/Helsinki",".HK":"Asia/Hong_Kong",".KL":"Asia/Kuala_Lumpur",".AX":"Australia/Sydney",".TO":"America/New_York","":"America/New_York"};
+const dayIn=(ms,tz)=>new Intl.DateTimeFormat("en-CA",{timeZone:tz,year:"numeric",month:"2-digit",day:"2-digit"}).format(new Date(ms));
+function tradedToday(fmp,q){
+  if(!q||!q.timestamp) return true;
+  const tz=SUFTZ[sufOf(fmp)]||"Europe/Paris";
+  return dayIn(q.timestamp*1000,tz)===dayIn(Date.now(),tz);
+}
 function fxRate(c){ if(c==="EUR")return 1; if(c==="GBp")return fx.GBP?fx.GBP*100:null; return fx[c]||null; }
 
 function compute(){
   for(const o of rows){
-    o.price=null;o.pct=null;o.valEur=null;o.dayEur=null;o.priced=false;
+    o.price=null;o.pct=null;o.valEur=null;o.dayEur=null;o.priced=false;o.traded=false;o.closed=false;
     if(o.book==="BONDS"){
-      const r=fxRate(o.ccy||"USD"); if(o.last!=null&&r){o.price=o.last;o.valEur=o.qty*o.last/100/r;o.pct=o.syncPct;o.dayEur=o.pct!=null?o.valEur*o.pct/(100+o.pct):null;o.priced=true;}
+      const r=fxRate(o.ccy||"USD"); if(o.last!=null&&r){o.price=o.last;o.valEur=o.qty*o.last/100/r;o.priced=true;o.closed=true;}
       continue;
     }
     const q=o.fmp&&quotes[o.fmp];
@@ -234,7 +241,9 @@ function compute(){
     else if(ratio&&ratio>60&&ratio<160){ px=q.price/100; }
     else { ccy=SUFCCY[sufOf(o.fmp)]||ccy; }
     const r=fxRate(ccy); if(!r) continue;
-    o.valEur=o.qty*px/r; o.dayEur=o.valEur*(q.change||0)/q.price; o.priced=true;
+    o.valEur=o.qty*px/r; o.priced=true;
+    if(tradedToday(o.fmp,q)){o.dayEur=o.valEur*(q.change||0)/q.price;o.traded=true;}
+    else{o.pct=null;o.dayEur=null;o.closed=true;}
   }
 }
 
@@ -252,13 +261,14 @@ function render(){
   const tot=rows.reduce((a,o)=>a+(o.valEur||0),0);
   const eqVal=eq.reduce((a,o)=>a+(o.valEur||0),0), eqDay=eq.reduce((a,o)=>a+(o.dayEur||0),0);
   for(const o of rows) o.w=tot?(o.valEur||0)/tot*100:0;
-  const priced=eq.filter(o=>o.priced);
+  const priced=eq.filter(o=>o.traded);
+  const valued=eq.filter(o=>o.priced);
   $("totVal").textContent=rows.length?fmtE(eqVal):"—";
   const bonds=rows.filter(o=>o.book==="BONDS"), bVal=bonds.reduce((a,o)=>a+(o.valEur||0),0);
-  $("totCount").textContent=rows.length?`${priced.length}/${eq.length} aktsiat hinnatud · võlakirjad ${fmtE(bVal)}`:"positsioone laen…";
+  $("totCount").textContent=rows.length?`${priced.length}/${eq.length} kaubeldud täna · võlakirjad ${fmtE(bVal)}`:"positsioone laen…";
   $("totDay").textContent=priced.length?fmtSE(eqDay):"—"; $("totDay").className="big "+cls(eqDay);
   const prevVal=eqVal-eqDay; const tp=prevVal?eqDay/prevVal*100:null;
-  $("totPct").textContent=priced.length?fmtP(tp)+" aktsiaraamatul":"—"; $("totPct").className="sub "+cls(tp);
+  $("totPct").textContent=priced.length?fmtP(tp)+" aktsiaraamatul":(valued.length?"turud on täna veel suletud":"—"); $("totPct").className="sub "+cls(tp);
   const up=priced.filter(o=>o.pct>0.005).length, dn=priced.filter(o=>o.pct<-0.005).length, fl=priced.length-up-dn;
   $("nUp").textContent=up;$("nDn").textContent=dn;
   const tN=priced.length||1;$("bUp").style.width=up/tN*100+"%";$("bFl").style.width=(priced.length?fl/tN*100:100)+"%";$("bDn").style.width=dn/tN*100+"%";
@@ -266,8 +276,8 @@ function render(){
   $("books").innerHTML=BOOKS.map(([k,lab])=>{
     const bs=rows.filter(o=>o.book===k); if(!bs.length) return "";
     const v=bs.reduce((a,o)=>a+(o.valEur||0),0), d=bs.reduce((a,o)=>a+(o.dayEur||0),0), p=v-d?d/(v-d)*100:null;
-    const pr=bs.filter(o=>o.priced).length;
-    const note=k==="BONDS"?"sünkroonihind, mitte live":`${pr}/${bs.length} hinnatud`;
+    const pr=bs.filter(o=>o.traded).length;
+    const note=k==="BONDS"?"päevatulemust ei näidata":(pr?`${pr}/${bs.length} kaubeldud täna`:"turg täna suletud");
     return `<div class="book"><div class="row"><h3>${lab}</h3><span class="num muted small">${bs.length} rida</span></div>
       <div class="row"><span class="num">${fmtE(v)}</span><span class="num ${cls(d)}">${fmtSE(d)}</span></div>
       <div class="row"><span class="note">${note}</span><span class="num ${cls(p)} small">${fmtP(p)}</span></div></div>`;
@@ -292,7 +302,7 @@ function renderTable(){
   const bl={EU:"EU",US:"US",ASIA:"Aasia",BONDS:"Võlak."};
   $("tb").innerHTML=list.length?list.map(o=>{
     const flag=o.pct!=null&&Math.abs(o.pct)>=5?'<span class="flag">±5</span>':"";
-    const pill=o.pct==null?'<span class="muted num">—</span>':`<span class="pill ${cls(o.pct)}">${fmtP(o.pct)}</span>`;
+    const pill=o.closed?'<span class="flag" style="background:var(--line);color:var(--muted)">suletud</span>':o.pct==null?'<span class="muted num">—</span>':`<span class="pill ${cls(o.pct)}">${fmtP(o.pct)}</span>`;
     const w=o.w?" · "+o.w.toFixed(1).replace(".",",")+"%":"";
     return `<li><span class="nm">${esc(o.name)}${flag}</span><span class="r1">${pill}</span>
       <span class="meta">${esc(o.sym)} · ${bl[o.book]||o.book} · ${fmtPx(o.price)}</span>
@@ -353,8 +363,8 @@ async function loadPositions(){
   try{const m=await (await fetch("meta.json?t="+Date.now(),{cache:"no-store"})).json(); if(m.modifiedTime||m.fetchedAt) syncTime=Date.parse(m.modifiedTime||m.fetchedAt);}catch(_){}
   return true;
 }
-async function fmpBatch(syms){
-  const url="https://financialmodelingprep.com/stable/batch-quote-short?symbols="+encodeURIComponent(syms.join(","))+"&apikey="+encodeURIComponent(apiKey);
+async function fmpBatch(syms,ep){
+  const url="https://financialmodelingprep.com/stable/"+(ep||"batch-quote")+"?symbols="+encodeURIComponent(syms.join(","))+"&apikey="+encodeURIComponent(apiKey);
   const r=await fetch(url,{cache:"no-store"});
   const body=await r.json().catch(()=>null);
   if(r.status===401||r.status===403){const e=new Error("auth");e.kind="auth";e.detail=body&&(body["Error Message"]||body.message);throw e;}
@@ -369,7 +379,7 @@ async function refreshQuotes(){
   const syms=[...new Set(rows.map(o=>o.fmp).filter(Boolean))];
   const groups=[FXCCY.map(c=>"EUR"+c)];for(let i=0;i<syms.length;i+=CHUNK)groups.push(syms.slice(i,i+CHUNK));
   let anyOk=false;
-  const res=await Promise.allSettled(groups.map(fmpBatch));
+  const res=await Promise.allSettled(groups.map((g,gi)=>fmpBatch(g,gi===0?"batch-quote-short":"batch-quote")));
   res.forEach((r,gi)=>{
     if(r.status==="fulfilled"){anyOk=true;
       if(gi===0) r.value.forEach(q=>{if(q.price)fx[q.symbol.slice(3)]=q.price;});
