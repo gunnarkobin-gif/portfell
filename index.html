@@ -1,0 +1,405 @@
+<!doctype html>
+<html lang="et">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#1f5f8b">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
+<meta name="apple-mobile-web-app-title" content="Portfell">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-180.png">
+<link rel="icon" href="icon-192.png">
+<title>Portfelli päev</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;700;800&family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600&display=swap">
+<style>
+*{box-sizing:border-box}html{-webkit-text-size-adjust:100%}body{margin:0}:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}[hidden]{display:none!important}
+.keybox{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:8px;padding:12px 14px;display:grid;gap:8px}
+.keybox form{display:flex;gap:8px;flex-wrap:wrap}.keybox input{font:inherit;flex:1 1 200px;min-width:0;border:1px solid var(--line);background:var(--bg);color:var(--fg);border-radius:6px;padding:7px 10px}
+.linkbtn{background:none;border:0;color:var(--muted);text-decoration:underline;padding:0;font-size:.75rem;justify-self:start}
+/* Layout: kokkuvõte (koguväärtus + päev) → raamatud → liikujad → täistabel. Arvud monos, tabulaarsed. */
+:root{
+  --bg:#f3f5f7; --surface:#ffffff; --line:#dde2e8; --fg:#16202b; --muted:#5d6b7a;
+  --accent:#1f5f8b; --up:#127a4b; --down:#c0392b; --upbg:#e3f3ea; --downbg:#fbe7e4; --warn:#a86a00; --warnbg:#fdf1d8;
+  --f-display:"Archivo","Helvetica Neue",Arial,sans-serif;
+  --f-body:"IBM Plex Sans",system-ui,-apple-system,"Segoe UI",sans-serif;
+  --f-num:"IBM Plex Mono",ui-monospace,"SF Mono",Menlo,monospace;
+}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){
+  --bg:#0f151c; --surface:#16202a; --line:#26323f; --fg:#e6ecf2; --muted:#93a2b2;
+  --accent:#6fb1e0; --up:#4cc98b; --down:#ff7a6b; --upbg:#143326; --downbg:#3a1a17; --warn:#f0b54a; --warnbg:#3a2c10; color-scheme:dark}}
+:root[data-theme="dark"]{
+  --bg:#0f151c; --surface:#16202a; --line:#26323f; --fg:#e6ecf2; --muted:#93a2b2;
+  --accent:#6fb1e0; --up:#4cc98b; --down:#ff7a6b; --upbg:#143326; --downbg:#3a1a17; --warn:#f0b54a; --warnbg:#3a2c10; color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--f-body);font-size:14px;line-height:1.45}
+.wrap{max-width:520px;margin:0 auto;padding-inline:14px;padding-block:14px 40px;display:grid;gap:16px}
+.num{font-family:var(--f-num);font-variant-numeric:tabular-nums}
+.up{color:var(--up)} .down{color:var(--down)} .flat{color:var(--muted)}
+header.top{display:flex;align-items:flex-start;justify-content:space-between;gap:10px}
+h1{font-family:var(--f-display);font-weight:800;font-size:1.35rem;letter-spacing:-.01em;margin:0}
+.status{color:var(--muted);font-size:.75rem;display:grid;gap:2px;margin-top:4px}
+.dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--muted);margin-right:6px;vertical-align:middle}
+.dot.live{background:var(--up)} .dot.err{background:var(--down)} .dot.wait{background:var(--warn)}
+button{font:inherit;cursor:pointer}
+.btn{border:1px solid var(--line);background:var(--surface);color:var(--fg);border-radius:6px;padding:7px 12px;font-weight:500}
+.btn:hover{border-color:var(--accent)} .btn:focus-visible,.chip:focus-visible,th button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+.hero{background:var(--surface);border:1px solid var(--line);border-radius:10px;padding:14px;display:grid;grid-template-columns:1fr 1fr;gap:12px 14px}
+.hero .wide{grid-column:1/-1}
+.k{font-size:.68rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);font-weight:600}
+.big{font-family:var(--f-num);font-variant-numeric:tabular-nums;font-size:1.3rem;font-weight:600;margin-top:2px;letter-spacing:-.02em}
+.sub{font-family:var(--f-num);font-size:.8rem;margin-top:2px}
+.breadth{display:flex;height:6px;border-radius:3px;overflow:hidden;background:var(--line);margin-top:6px}
+.breadth i{display:block;height:100%}
+.books{display:grid;grid-template-columns:1fr 1fr;gap:8px}
+.book{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:10px 11px;display:grid;gap:3px;min-width:0}
+.book .row{display:flex;justify-content:space-between;gap:6px;align-items:baseline;flex-wrap:wrap}
+.book h3{margin:0;font-family:var(--f-display);font-weight:700;font-size:.88rem}
+.book .note{font-size:.68rem;color:var(--muted)}
+h2{font-family:var(--f-display);font-weight:700;font-size:1rem;margin:0 0 8px}
+.movers{display:grid;gap:8px}
+.mtabs{display:flex;gap:6px;margin-bottom:8px}
+.mcol{background:var(--surface);border:1px solid var(--line);border-radius:8px;padding:10px 12px;min-width:0}
+.mcol h4{margin:0 0 8px;font-size:.72rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted)}
+.mlist{list-style:none;margin:0;padding:0;display:grid;gap:6px}
+.mlist li{display:grid;grid-template-columns:1fr auto;gap:8px;align-items:baseline}
+.mlist .nm{white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
+.mlist .tk{color:var(--muted);font-family:var(--f-num);font-size:.75rem;margin-left:6px}
+.tools{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin-bottom:10px}
+.chip{border:1px solid var(--line);background:var(--surface);color:var(--fg);border-radius:999px;padding:5px 12px;font-size:.85rem}
+.chip[aria-pressed="true"]{background:var(--accent);border-color:var(--accent);color:var(--surface)}
+input[type=search]{font:inherit;border:1px solid var(--line);background:var(--surface);color:var(--fg);border-radius:6px;padding:6px 10px;min-width:0;flex:1 1 180px;max-width:280px}
+label.tog{display:flex;align-items:center;gap:6px;font-size:.85rem;color:var(--muted)}
+.plist{list-style:none;margin:0;padding:0;background:var(--surface);border:1px solid var(--line);border-radius:8px}
+.plist li{display:grid;grid-template-columns:minmax(0,1fr) auto;gap:2px 10px;padding:9px 12px;border-bottom:1px solid var(--line)}
+.plist li:last-child{border-bottom:0}
+.plist .nm{font-weight:500;white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
+.plist .meta{font-family:var(--f-num);font-size:.74rem;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
+.plist .r1,.plist .r2{text-align:right;white-space:nowrap}
+.plist .r2{font-family:var(--f-num);font-size:.78rem}
+select{font:inherit;font-size:.85rem;border:1px solid var(--line);background:var(--surface);color:var(--fg);border-radius:6px;padding:5px 8px}
+.pill{display:inline-block;padding:1px 7px;border-radius:999px;font-family:var(--f-num);font-variant-numeric:tabular-nums;font-weight:600}
+.pill.up{background:var(--upbg)} .pill.down{background:var(--downbg)}
+.flag{display:inline-block;margin-left:6px;font-size:.7rem;padding:0 5px;border-radius:3px;background:var(--warnbg);color:var(--warn);font-weight:600;letter-spacing:.04em}
+.bar{display:inline-block;height:6px;border-radius:3px;vertical-align:middle}
+.banner{border:1px solid var(--line);border-left:4px solid var(--warn);background:var(--surface);border-radius:6px;padding:10px 14px;font-size:.9rem}
+.banner.err{border-left-color:var(--down)}
+.muted{color:var(--muted)} .small{font-size:.8rem}
+details summary{cursor:pointer;color:var(--muted);font-size:.85rem}
+.skel{color:var(--muted)}
+@media (prefers-reduced-motion:no-preference){.flash{animation:fl 1.2s ease-out}@keyframes fl{from{background:var(--warnbg)}to{background:transparent}}}
+</style>
+
+</head>
+<body>
+<div class="wrap">
+  <header class="top">
+    <div>
+      <h1>Portfelli päev</h1>
+      <div class="status" id="status">
+        <span><span class="dot wait" id="dot"></span><span id="stText">Laen…</span></span>
+        <span id="syncText"></span>
+        <span id="fxText"></span>
+      </div>
+    </div>
+    <button class="btn" id="refresh" type="button">Värskenda</button>
+  </header>
+
+  <div id="banners"></div>
+  <div class="keybox" id="keyBox" hidden>
+    <div id="keyMsg"></div>
+    <form id="keyForm" autocomplete="off"><input id="keyIn" type="password" placeholder="FMP API võti" aria-label="FMP API võti"><button class="btn" type="submit">Salvesta</button></form>
+  </div>
+
+  <section class="hero" aria-label="Kokkuvõte">
+    <div><div class="k">Aktsiate väärtus</div><div class="big" id="totVal">—</div><div class="sub muted" id="totCount">positsioone laen…</div></div>
+    <div><div class="k">Päeva muutus</div><div class="big" id="totDay">—</div><div class="sub" id="totPct">—</div></div>
+    <div class="wide"><div class="k">Tõusjad <span class="up num" id="nUp">0</span> · langejad <span class="down num" id="nDn">0</span></div>
+      <div class="breadth" aria-hidden="true"><i id="bUp" style="background:var(--up);width:0"></i><i id="bFl" style="background:var(--line);width:100%"></i><i id="bDn" style="background:var(--down);width:0"></i></div></div>
+  </section>
+
+  <section class="books" id="books" aria-label="Raamatud"></section>
+
+  <section aria-label="Liikujad">
+    <h2>Suurimad liikujad</h2>
+    <div class="mtabs" role="group" aria-label="Liikujate vaade">
+      <button class="chip" type="button" data-m="mUp" aria-pressed="true">Tõusjad</button>
+      <button class="chip" type="button" data-m="mDn" aria-pressed="false">Langejad</button>
+      <button class="chip" type="button" data-m="mEur" aria-pressed="false">Mõju €</button>
+    </div>
+    <div class="mcol">
+      <ul class="mlist" id="mUp"><li class="skel">ootan hindu</li></ul>
+      <ul class="mlist" id="mDn" hidden><li class="skel">ootan hindu</li></ul>
+      <ul class="mlist" id="mEur" hidden><li class="skel">ootan hindu</li></ul>
+    </div>
+  </section>
+
+  <section aria-label="Kõik positsioonid">
+    <h2>Kõik positsioonid</h2>
+    <div class="tools">
+      <div role="group" aria-label="Raamat" id="chips" style="display:flex;gap:6px;flex-wrap:wrap"></div>
+      <input type="search" id="q" placeholder="Otsi nime või tickerit" aria-label="Otsi" style="max-width:none">
+      <select id="sortSel" aria-label="Järjestus">
+        <option value="dayEur:-1">Päev € (suurim)</option>
+        <option value="dayEur:1">Päev € (väikseim)</option>
+        <option value="pct:-1">Päev % (tõus)</option>
+        <option value="pct:1">Päev % (langus)</option>
+        <option value="valEur:-1">Väärtus</option>
+        <option value="name:1">Nimi A–Z</option>
+      </select>
+      <label class="tog"><input type="checkbox" id="big5"> ainult ±5%</label>
+    </div>
+    <ul class="plist" id="tb"><li class="skel">Laen positsioone…</li></ul>
+    <details style="margin-top:10px"><summary id="missSum">Hinnata positsioonid</summary><p class="small muted" id="missList"></p></details>
+    <p class="small muted">Päev = iga börsi viimane sessioon FMP järgi (Aasia ja Austraalia on Euroopa hommikul juba suletud). Eurodes muutus on valuutakursi muutuseta. Võlakirjad on õhtuse sünkrooni hinnaga. Positsioonid uuenevad igal õhtul PORTFELL failist.</p>
+    <button class="linkbtn" id="keyReset" type="button">Vaheta FMP võtit</button>
+  </section>
+</div>
+
+<script>
+(function(){
+const FILE_ID="1878rAg0Gh2laz741K1r8tKou_22EztMx";
+const DRIVE="Google Drive", FMP="FMP";
+const REFRESH_MS=60000, CHUNK=80;
+const SUF={se:".ST",no:".OL",par:".PA",fr:".PA",ch:".SW",swx:".SW",mil:".MI",it:".MI",lon:".L",gb:".L",etr:".DE",de:".DE",be:".BR",bru:".BR",dk:".CO",ams:".AS",lis:".LS",pl:".WA",es:".MC",mce:".MC",hel:".HE",ca:".TO",hk:".HK",hkg:".HK",kls:".KL",au:".AX",aus:".AX"};
+const SUFCCY={".ST":"SEK",".OL":"NOK",".PA":"EUR",".SW":"CHF",".MI":"EUR",".L":"GBp",".DE":"EUR",".BR":"EUR",".CO":"DKK",".AS":"EUR",".LS":"EUR",".WA":"PLN",".MC":"EUR",".HE":"EUR",".TO":"CAD",".HK":"HKD",".KL":"MYR",".AX":"AUD","":"USD"};
+const OVERRIDE={"envi-ams":"ENVIP.OL","nyxh-be":"NYXH"};
+const FXCCY=["USD","GBP","SEK","NOK","DKK","CHF","PLN","CAD","AUD","HKD","MYR"];
+const BOOKS=[["EU","Euroopa"],["US","USA / Kanada"],["ASIA","Aasia / Okeaania"],["BONDS","Võlakirjad"]];
+const $=id=>document.getElementById(id);
+
+let mcp=null, rows=[], quotes={}, fx={EUR:1}, fxAt=null, lastQuoteAt=null, syncTime=null;
+let watches=[], filt="ALL", sortK="dayEur", sortDir=-1;
+const errs={};
+
+function toFmp(sym){
+  const s=sym.trim().toLowerCase(); if(OVERRIDE[s]) return OVERRIDE[s];
+  const i=s.lastIndexOf("-");
+  if(i<0) return s.toUpperCase().replace(/\./g,"-");
+  let base=s.slice(0,i), suf=SUF[s.slice(i+1)];
+  if(!suf) return null;
+  if(suf===".HK") base=base.padStart(4,"0");
+  return base.toUpperCase().replace(/\./g,"-")+suf;
+}
+function sufOf(f){const m=f.match(/\.[A-Z]+$/);return m?m[0]:"";}
+function parseCSV(t){
+  const out=[];let row=[],cur="",q=false;
+  for(let i=0;i<t.length;i++){const c=t[i];
+    if(q){if(c=='"'){if(t[i+1]=='"'){cur+='"';i++;}else q=false;}else cur+=c;}
+    else if(c=='"')q=true; else if(c==','){row.push(cur);cur="";}
+    else if(c=='\n'||c=='\r'){if(c=='\r'&&t[i+1]=='\n')i++;row.push(cur);out.push(row);row=[];cur="";}
+    else cur+=c;}
+  if(cur||row.length){row.push(cur);out.push(row);}
+  return out;
+}
+const n=v=>{const x=parseFloat(String(v).replace(",","."));return isFinite(x)?x:null;};
+
+function decodeB64(b){const bin=atob(b.replace(/\s/g,""));const u=new Uint8Array(bin.length);for(let i=0;i<bin.length;i++)u[i]=bin.charCodeAt(i);return new TextDecoder("utf-8").decode(u);}
+
+function buildRows(text){
+  const t=parseCSV(text);const h=t.shift().map(x=>x.trim());
+  const ix=k=>h.indexOf(k);
+  const out=[];
+  for(const r of t){ if(r.length<5) continue;
+    const book=(r[ix("Book")]||"").trim().toUpperCase(), sym=(r[ix("Symbol")]||"").trim(), name=(r[ix("Name")]||"").trim();
+    if(!book||!sym||name.startsWith("#")) continue;
+    const o={book,sym,name,ccy:(r[ix("Currency")]||"").trim().toUpperCase(),qty:n(r[ix("Saldo_or_Nominal")]),last:n(r[ix("Last")]),syncPct:n(r[ix("Daily_pct")])};
+    if(book==="BONDS"){o.fmp=null;o.coupon=n(r[ix("Coupon_pct")]);o.ytm=n(r[ix("Yield_pct")]);o.mat=(r[ix("Maturity")]||"").trim();}
+    else o.fmp=toFmp(sym);
+    if(o.qty) out.push(o);
+  }
+  return out;
+}
+
+function fxRate(c){ if(c==="EUR")return 1; if(c==="GBp")return fx.GBP?fx.GBP*100:null; return fx[c]||null; }
+
+function compute(){
+  for(const o of rows){
+    o.price=null;o.pct=null;o.valEur=null;o.dayEur=null;o.priced=false;
+    if(o.book==="BONDS"){
+      const r=fxRate(o.ccy||"USD"); if(o.last!=null&&r){o.price=o.last;o.valEur=o.qty*o.last/100/r;o.pct=o.syncPct;o.dayEur=o.pct!=null?o.valEur*o.pct/(100+o.pct):null;o.priced=true;}
+      continue;
+    }
+    const q=o.fmp&&quotes[o.fmp];
+    if(!q||!q.price){
+      if(o.last!=null){const r=fxRate(o.ccy);if(r)o.valEur=o.qty*o.last/r;}
+      continue;
+    }
+    o.price=q.price; const prev=q.price-(q.change||0);
+    o.pct=prev>0?(q.change||0)/prev*100:0;
+    let px=q.price, ccy=o.ccy||SUFCCY[sufOf(o.fmp)];
+    const ratio=o.last?q.price/o.last:null;
+    if(ratio&&ratio>0.6&&ratio<1.6){ /* sama valuuta mis failis */ }
+    else if(ratio&&ratio>60&&ratio<160){ px=q.price/100; }
+    else { ccy=SUFCCY[sufOf(o.fmp)]||ccy; }
+    const r=fxRate(ccy); if(!r) continue;
+    o.valEur=o.qty*px/r; o.dayEur=o.valEur*(q.change||0)/q.price; o.priced=true;
+  }
+}
+
+const eur0=new Intl.NumberFormat("et-EE",{maximumFractionDigits:0});
+const fmtE=v=>v==null?"—":(v<0?"−":"")+eur0.format(Math.abs(Math.round(v)))+" €";
+const fmtSE=v=>v==null?"—":(v>0?"+":v<0?"−":"")+eur0.format(Math.abs(Math.round(v)))+" €";
+const fmtP=v=>v==null?"—":(v>0?"+":v<0?"−":"")+Math.abs(v).toFixed(2).replace(".",",")+"%";
+const fmtPx=v=>v==null?"—":v.toLocaleString("et-EE",{maximumFractionDigits:v<10?3:2});
+const cls=v=>v==null||Math.abs(v)<0.005?"flat":v>0?"up":"down";
+const esc=s=>String(s).replace(/[&<>"]/g,c=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+
+function render(){
+  compute();
+  const eq=rows.filter(o=>o.book!=="BONDS");
+  const tot=rows.reduce((a,o)=>a+(o.valEur||0),0);
+  const eqVal=eq.reduce((a,o)=>a+(o.valEur||0),0), eqDay=eq.reduce((a,o)=>a+(o.dayEur||0),0);
+  for(const o of rows) o.w=tot?(o.valEur||0)/tot*100:0;
+  const priced=eq.filter(o=>o.priced);
+  $("totVal").textContent=rows.length?fmtE(eqVal):"—";
+  const bonds=rows.filter(o=>o.book==="BONDS"), bVal=bonds.reduce((a,o)=>a+(o.valEur||0),0);
+  $("totCount").textContent=rows.length?`${priced.length}/${eq.length} aktsiat hinnatud · võlakirjad ${fmtE(bVal)}`:"positsioone laen…";
+  $("totDay").textContent=priced.length?fmtSE(eqDay):"—"; $("totDay").className="big "+cls(eqDay);
+  const prevVal=eqVal-eqDay; const tp=prevVal?eqDay/prevVal*100:null;
+  $("totPct").textContent=priced.length?fmtP(tp)+" aktsiaraamatul":"—"; $("totPct").className="sub "+cls(tp);
+  const up=priced.filter(o=>o.pct>0.005).length, dn=priced.filter(o=>o.pct<-0.005).length, fl=priced.length-up-dn;
+  $("nUp").textContent=up;$("nDn").textContent=dn;
+  const tN=priced.length||1;$("bUp").style.width=up/tN*100+"%";$("bFl").style.width=(priced.length?fl/tN*100:100)+"%";$("bDn").style.width=dn/tN*100+"%";
+
+  $("books").innerHTML=BOOKS.map(([k,lab])=>{
+    const bs=rows.filter(o=>o.book===k); if(!bs.length) return "";
+    const v=bs.reduce((a,o)=>a+(o.valEur||0),0), d=bs.reduce((a,o)=>a+(o.dayEur||0),0), p=v-d?d/(v-d)*100:null;
+    const pr=bs.filter(o=>o.priced).length;
+    const note=k==="BONDS"?"sünkroonihind, mitte live":`${pr}/${bs.length} hinnatud`;
+    return `<div class="book"><div class="row"><h3>${lab}</h3><span class="num muted small">${bs.length} rida</span></div>
+      <div class="row"><span class="num">${fmtE(v)}</span><span class="num ${cls(d)}">${fmtSE(d)}</span></div>
+      <div class="row"><span class="note">${note}</span><span class="num ${cls(p)} small">${fmtP(p)}</span></div></div>`;
+  }).join("");
+
+  const li=(o,val,c)=>`<li><span class="nm">${esc(o.name)}<span class="tk">${esc(o.sym)}</span></span><span class="num ${c}">${val}</span></li>`;
+  const byPct=[...priced].sort((a,b)=>b.pct-a.pct);
+  $("mUp").innerHTML=byPct.filter(o=>o.pct>0).slice(0,8).map(o=>li(o,fmtP(o.pct),"up")).join("")||'<li class="skel">tõusjaid pole</li>';
+  $("mDn").innerHTML=byPct.filter(o=>o.pct<0).reverse().slice(0,8).map(o=>li(o,fmtP(o.pct),"down")).join("")||'<li class="skel">langejaid pole</li>';
+  $("mEur").innerHTML=[...priced].sort((a,b)=>Math.abs(b.dayEur)-Math.abs(a.dayEur)).slice(0,8).map(o=>li(o,fmtSE(o.dayEur),cls(o.dayEur))).join("")||'<li class="skel">ootan hindu</li>';
+
+  renderTable();
+  const miss=eq.filter(o=>!o.priced);
+  $("missSum").textContent=`Hinnata positsioonid (${miss.length})`;
+  $("missList").textContent=miss.length?miss.map(o=>`${o.name} (${o.sym} → ${o.fmp||"tundmatu börs"})`).join("; "):"Kõik aktsiad said FMP-st hinna.";
+}
+
+function renderTable(){
+  const q=$("q").value.trim().toLowerCase(), only5=$("big5").checked;
+  let list=rows.filter(o=>(filt==="ALL"||o.book===filt)&&(!q||o.name.toLowerCase().includes(q)||o.sym.toLowerCase().includes(q))&&(!only5||(o.pct!=null&&Math.abs(o.pct)>=5)));
+  list.sort((a,b)=>{let x=a[sortK],y=b[sortK];if(typeof x==="string"||typeof y==="string")return String(x).localeCompare(String(y))*sortDir;x=x==null?-Infinity:x;y=y==null?-Infinity:y;if(sortK==="dayEur"||sortK==="pct"){/* nullid alla */}return (x-y)*sortDir;});
+  const bl={EU:"EU",US:"US",ASIA:"Aasia",BONDS:"Võlak."};
+  $("tb").innerHTML=list.length?list.map(o=>{
+    const flag=o.pct!=null&&Math.abs(o.pct)>=5?'<span class="flag">±5</span>':"";
+    const pill=o.pct==null?'<span class="muted num">—</span>':`<span class="pill ${cls(o.pct)}">${fmtP(o.pct)}</span>`;
+    const w=o.w?" · "+o.w.toFixed(1).replace(".",",")+"%":"";
+    return `<li><span class="nm">${esc(o.name)}${flag}</span><span class="r1">${pill}</span>
+      <span class="meta">${esc(o.sym)} · ${bl[o.book]||o.book} · ${fmtPx(o.price)}</span>
+      <span class="r2"><span class="${cls(o.dayEur)}">${fmtSE(o.dayEur)}</span> <span class="muted">/ ${fmtE(o.valEur)}${w}</span></span></li>`;
+  }).join(""):`<li class="skel">${rows.length?"Filtrile vastavaid ridu pole.":"Positsioone pole veel laaditud."}</li>`;
+}
+
+function chips(){
+  const opts=[["ALL","Kõik"],...BOOKS];
+  $("chips").innerHTML=opts.map(([k,l])=>`<button class="chip" type="button" data-f="${k}" aria-pressed="${k===filt}">${l}</button>`).join("");
+}
+$("chips").addEventListener("click",e=>{const b=e.target.closest("[data-f]");if(!b)return;filt=b.dataset.f;try{localStorage.setItem("pp_filt",filt);}catch(_){}chips();renderTable();});
+$("sortSel").addEventListener("change",e=>{const [k,d]=e.target.value.split(":");sortK=k;sortDir=+d;renderTable();});
+document.querySelector(".mtabs").addEventListener("click",e=>{const b=e.target.closest("[data-m]");if(!b)return;
+  document.querySelectorAll(".mtabs [data-m]").forEach(x=>{x.setAttribute("aria-pressed",x===b);$(x.dataset.m).hidden=x!==b;});});
+$("q").addEventListener("input",renderTable);$("big5").addEventListener("change",renderTable);
+try{const f=localStorage.getItem("pp_filt");if(f)filt=f;}catch(_){}
+chips();
+
+/* --- olek ja vead --- */
+function setErr(key,txt){
+  if(!txt)delete errs[key]; else errs[key]=txt;
+  const vals=[...new Set(Object.values(errs))];
+  $("banners").innerHTML=vals.map(t=>`<div class="banner err" style="margin-bottom:8px">${esc(t)}</div>`).join("");
+  status();
+}
+function status(){
+  const hasErr=Object.keys(errs).length, live=lastQuoteAt;
+  $("dot").className="dot "+(hasErr?"err":live?"live":"wait");
+  $("stText").textContent=live?`Hinnad uuendatud ${new Date(live).toLocaleTimeString("et-EE",{hour:"2-digit",minute:"2-digit",second:"2-digit"})} · iga minut`:(hasErr?"Andmed puuduvad":"Laen…");
+  if(syncTime){const age=(Date.now()-syncTime)/3600000;$("syncText").innerHTML=`Positsioonid seisuga ${new Date(syncTime).toLocaleString("et-EE",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"})}${age>36?' <span class="flag">vana sünkroon</span>':""}`;}
+  if(fx.USD) $("fxText").textContent=`EUR/USD ${fx.USD.toFixed(4)}`;
+}
+
+/* --- API võti: #k=... lingist või vormist, hoitakse ainult selles seadmes --- */
+const KEY_LS="pp_fmp_key";
+function getKey(){
+  const m=location.hash.match(/k=([A-Za-z0-9]+)/);
+  if(m){try{localStorage.setItem(KEY_LS,m[1]);}catch(_){}
+    history.replaceState(null,"",location.pathname+location.search);return m[1];}
+  try{return localStorage.getItem(KEY_LS)||"";}catch(_){return "";}
+}
+let apiKey=getKey();
+function showKeyForm(msg){
+  $("keyBox").hidden=false; $("keyMsg").textContent=msg||"Sisesta oma FMP API võti. See salvestatakse ainult selles seadmes.";
+}
+$("keyForm").addEventListener("submit",e=>{e.preventDefault();const v=$("keyIn").value.trim();if(!v)return;
+  apiKey=v;try{localStorage.setItem(KEY_LS,v);}catch(_){} $("keyBox").hidden=true;$("keyIn").value="";boot();});
+$("keyReset").addEventListener("click",()=>{try{localStorage.removeItem(KEY_LS);}catch(_){} apiKey="";stopTimer();showKeyForm();});
+
+/* --- andmete laadimine --- */
+async function loadPositions(){
+  try{
+    const r=await fetch("positions.csv?t="+Date.now(),{cache:"no-store"});
+    if(!r.ok) throw new Error("HTTP "+r.status);
+    rows=buildRows(await r.text()); setErr("pos",null);
+  }catch(e){ if(!rows.length) setErr("pos","Positsioonide faili ei saanud laadida ("+e.message+"). Proovin uuesti järgmisel värskendusel."); return false; }
+  try{const m=await (await fetch("meta.json?t="+Date.now(),{cache:"no-store"})).json(); if(m.modifiedTime||m.fetchedAt) syncTime=Date.parse(m.modifiedTime||m.fetchedAt);}catch(_){}
+  return true;
+}
+async function fmpBatch(syms){
+  const url="https://financialmodelingprep.com/stable/batch-quote-short?symbols="+encodeURIComponent(syms.join(","))+"&apikey="+encodeURIComponent(apiKey);
+  const r=await fetch(url,{cache:"no-store"});
+  const body=await r.json().catch(()=>null);
+  if(r.status===401||r.status===403){const e=new Error("auth");e.kind="auth";e.detail=body&&(body["Error Message"]||body.message);throw e;}
+  if(r.status===429){const e=new Error("limit");e.kind="limit";throw e;}
+  if(!r.ok){const e=new Error("HTTP "+r.status);e.detail=body&&(body["Error Message"]||body.message);throw e;}
+  if(body&&!Array.isArray(body)){const e=new Error("api");e.kind=/Invalid API|apikey/i.test(JSON.stringify(body))?"auth":"api";e.detail=body["Error Message"]||body.message||JSON.stringify(body).slice(0,160);throw e;}
+  return body||[];
+}
+let busy=false;
+async function refreshQuotes(){
+  if(busy||!apiKey||!rows.length) return; busy=true;
+  const syms=[...new Set(rows.map(o=>o.fmp).filter(Boolean))];
+  const groups=[FXCCY.map(c=>"EUR"+c)];for(let i=0;i<syms.length;i+=CHUNK)groups.push(syms.slice(i,i+CHUNK));
+  let anyOk=false;
+  const res=await Promise.allSettled(groups.map(fmpBatch));
+  res.forEach((r,gi)=>{
+    if(r.status==="fulfilled"){anyOk=true;
+      if(gi===0) r.value.forEach(q=>{if(q.price)fx[q.symbol.slice(3)]=q.price;});
+      else r.value.forEach(q=>{quotes[q.symbol]=q;});
+    }
+  });
+  const fail=res.find(r=>r.status==="rejected");
+  if(fail){const e=fail.reason;
+    if(e.kind==="auth"){setErr("fmp","FMP ei aktsepteeri API võtit"+(e.detail?": "+e.detail:"")+". Sisesta võti uuesti.");stopTimer();showKeyForm("FMP lükkas võtme tagasi. Sisesta õige võti.");}
+    else if(e.kind==="limit") setErr("fmp","FMP päringulimiit on täis. Proovin järgmisel minutil uuesti.");
+    else if(e instanceof TypeError) setErr("fmp","FMP-ga ei saanud ühendust (võrk puudub?). Proovin uuesti.");
+    else setErr("fmp","FMP andis vea"+(e.detail?": "+e.detail:" ("+e.message+")")+".");
+  } else setErr("fmp",null);
+  if(anyOk) lastQuoteAt=Date.now();
+  busy=false; render();
+}
+let timer=null, posTimer=null;
+function startTimer(){stopTimer();timer=setInterval(()=>{if(!document.hidden)refreshQuotes();},REFRESH_MS);posTimer=setInterval(async()=>{if(!document.hidden&&await loadPositions())render();},30*60000);}
+function stopTimer(){if(timer)clearInterval(timer);if(posTimer)clearInterval(posTimer);timer=posTimer=null;}
+document.addEventListener("visibilitychange",()=>{if(!document.hidden&&apiKey&&lastQuoteAt&&Date.now()-lastQuoteAt>REFRESH_MS/2)refreshQuotes();});
+
+async function boot(){
+  const ok=await loadPositions(); render();
+  if(!apiKey){showKeyForm();return;}
+  if(ok){await refreshQuotes();startTimer();}
+}
+$("refresh").addEventListener("click",async()=>{$("refresh").disabled=true;await loadPositions();await refreshQuotes();$("refresh").disabled=false;});
+boot();
+})();
+</script>
+
+</body>
+</html>
