@@ -136,6 +136,7 @@ details summary{cursor:pointer;color:var(--muted);font-size:.85rem}
 
   <section aria-label="Liikujad">
     <h2>Suurimad liikujad</h2>
+    <p class="small muted" id="whyStatus" style="margin:-4px 0 8px">Uudiste selgitusi täna veel pole.</p>
     <div class="mtabs" role="group" aria-label="Liikujate vaade">
       <button class="chip" type="button" data-m="mUp" aria-pressed="true">Tõusjad</button>
       <button class="chip" type="button" data-m="mDn" aria-pressed="false">Langejad</button>
@@ -165,7 +166,7 @@ details summary{cursor:pointer;color:var(--muted);font-size:.85rem}
     </div>
     <ul class="plist" id="tb"><li class="skel">Laen positsioone…</li></ul>
     <details style="margin-top:10px"><summary id="missSum">Hinnata positsioonid</summary><p class="small muted" id="missList"></p></details>
-    <p class="small muted">Päeva tulemus näidatakse ainult börsidel, kus täna on kaubeldud. Enne avamist, nädalavahetusel ja pühadel on rida märgitud „suletud“ ja päevatulemusse see ei lähe. Eurodes muutus on valuutakursi muutuseta. Võlakirjad on õhtuse sünkrooni hinnaga, päevatulemust neil ei näidata. Positsioonid uuenevad Google Drive'i PORTFELL sünkroonist iga tund. Üle ±5% liikujatele otsib Claude tööpäeviti 4 korda (u 11, 15, 18 ja 23) tänased uudised ja lisab selgituse rea alla.</p>
+    <p class="small muted">Päeva tulemus näidatakse ainult börsidel, kus täna on kaubeldud. Enne avamist, nädalavahetusel ja pühadel on rida märgitud „suletud“ ja päevatulemusse see ei lähe. Eurodes muutus on valuutakursi muutuseta. Võlakirjad on õhtuse sünkrooni hinnaga, päevatulemust neil ei näidata. Positsioonid uuenevad Google Drive'i PORTFELL sünkroonist iga tund. Üle ±5% liikujatele otsib Claude tööpäeviti 4 korda (u 11, 15, 18 ja 23) tänased uudised ja lisab selgituse rea alla. Käsitsi saad otsingu käivitada Claude'i äpist.</p>
     <button class="linkbtn" id="keyReset" type="button">Vaheta FMP võtit</button>
   </section>
 </div>
@@ -182,7 +183,7 @@ const FXCCY=["USD","GBP","SEK","NOK","DKK","CHF","PLN","CAD","AUD","HKD","MYR"];
 const BOOKS=[["EU","Euroopa"],["US","USA / Kanada"],["ASIA","Aasia / Okeaania"],["BONDS","Võlakirjad"]];
 const $=id=>document.getElementById(id);
 
-let mcp=null, rows=[], quotes={}, fx={EUR:1}, fxAt=null, lastQuoteAt=null, syncTime=null, why={}, whyAt=null;
+let mcp=null, rows=[], quotes={}, fx={EUR:1}, fxAt=null, lastQuoteAt=null, syncTime=null, why={}, whyAt=null, whyErr="";
 let watches=[], filt="ALL", sortK="dayEur", sortDir=-1;
 const errs={};
 
@@ -304,6 +305,10 @@ function render(){
 
   renderTable();
   const miss=eq.filter(o=>!o.priced);
+  const nWhy=Object.keys(why).length;
+  $("whyStatus").textContent=whyErr?("Uudiste kontroll ebaõnnestus: "+whyErr)
+    :whyAt?`Uudised kontrollitud ${new Date(whyAt).toLocaleTimeString("et-EE",{hour:"2-digit",minute:"2-digit"})} · ${nWhy?nWhy+" selgitust":"üle ±5% liikujaid polnud"}`
+    :"Uudiste selgitusi täna veel pole.";
   $("missSum").textContent=`Hinnata positsioonid (${miss.length})`;
   $("missList").textContent=miss.length?miss.map(o=>`${o.name} (${o.sym} → ${o.fmp||"tundmatu börs"})`).join("; "):"Kõik aktsiad said FMP-st hinna.";
 }
@@ -320,7 +325,7 @@ async function loadMovers(){
     const r=await fetch("movers.json?t="+Date.now(),{cache:"no-store"}); if(!r.ok) return;
     const m=await r.json(), today=new Intl.DateTimeFormat("en-CA",{timeZone:"Europe/Tallinn"}).format(new Date());
     const nw={}; if(m&&m.date===today&&Array.isArray(m.items)) m.items.forEach(it=>{if(it&&it.fmp)nw[it.fmp]=it;});
-    why=nw; whyAt=m&&m.updated?Date.parse(m.updated):null;
+    why=nw; whyAt=m&&m.date===today&&m.updated?Date.parse(m.updated):null; whyErr=m&&m.date===today&&m.error?String(m.error):"";
   }catch(_){}
 }
 function renderTable(){
