@@ -78,6 +78,16 @@ label.tog{display:flex;align-items:center;gap:6px;font-size:.85rem;color:var(--m
 .plist .meta{font-family:var(--f-num);font-size:.74rem;color:var(--muted);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;min-width:0}
 .plist .r1,.plist .r2{text-align:right;white-space:nowrap}
 .plist .r2{font-family:var(--f-num);font-size:.78rem}
+.why{grid-column:1/-1;margin-top:4px;font-size:.84rem;line-height:1.45}
+.why summary{cursor:pointer;color:var(--accent);font-weight:600;font-size:.8rem;list-style:none}
+.why summary::-webkit-details-marker{display:none}
+.why summary::before{content:"▸ ";}
+.why[open] summary::before{content:"▾ ";}
+.why p{margin:4px 0 0}
+.why .src{font-size:.74rem;color:var(--muted)}
+.why .src a{color:var(--accent)}
+.whyshort{display:block;font-size:.76rem;color:var(--muted);white-space:normal;margin-top:1px}
+.mlist li{align-items:start}
 .sortbar{display:flex;gap:6px;flex-wrap:wrap;align-items:center;width:100%}
 .sortbar .k{margin-right:2px}
 .sortbar .chip::after{content:attr(data-arrow)}
@@ -155,7 +165,7 @@ details summary{cursor:pointer;color:var(--muted);font-size:.85rem}
     </div>
     <ul class="plist" id="tb"><li class="skel">Laen positsioone…</li></ul>
     <details style="margin-top:10px"><summary id="missSum">Hinnata positsioonid</summary><p class="small muted" id="missList"></p></details>
-    <p class="small muted">Päeva tulemus näidatakse ainult börsidel, kus täna on kaubeldud. Enne avamist, nädalavahetusel ja pühadel on rida märgitud „suletud“ ja päevatulemusse see ei lähe. Eurodes muutus on valuutakursi muutuseta. Võlakirjad on õhtuse sünkrooni hinnaga, päevatulemust neil ei näidata. Positsioonid uuenevad Google Drive'i PORTFELL sünkroonist iga tund.</p>
+    <p class="small muted">Päeva tulemus näidatakse ainult börsidel, kus täna on kaubeldud. Enne avamist, nädalavahetusel ja pühadel on rida märgitud „suletud“ ja päevatulemusse see ei lähe. Eurodes muutus on valuutakursi muutuseta. Võlakirjad on õhtuse sünkrooni hinnaga, päevatulemust neil ei näidata. Positsioonid uuenevad Google Drive'i PORTFELL sünkroonist iga tund. Üle ±5% liikujatele otsib Claude tööpäeviti 4 korda (u 11, 15, 18 ja 23) tänased uudised ja lisab selgituse rea alla.</p>
     <button class="linkbtn" id="keyReset" type="button">Vaheta FMP võtit</button>
   </section>
 </div>
@@ -172,7 +182,7 @@ const FXCCY=["USD","GBP","SEK","NOK","DKK","CHF","PLN","CAD","AUD","HKD","MYR"];
 const BOOKS=[["EU","Euroopa"],["US","USA / Kanada"],["ASIA","Aasia / Okeaania"],["BONDS","Võlakirjad"]];
 const $=id=>document.getElementById(id);
 
-let mcp=null, rows=[], quotes={}, fx={EUR:1}, fxAt=null, lastQuoteAt=null, syncTime=null;
+let mcp=null, rows=[], quotes={}, fx={EUR:1}, fxAt=null, lastQuoteAt=null, syncTime=null, why={}, whyAt=null;
 let watches=[], filt="ALL", sortK="dayEur", sortDir=-1;
 const errs={};
 
@@ -220,7 +230,7 @@ const dayIn=(ms,tz)=>new Intl.DateTimeFormat("en-CA",{timeZone:tz,year:"numeric"
 function tradedToday(fmp,q){
   if(!q||!q.timestamp) return true;
   const tz=SUFTZ[sufOf(fmp)]||"Europe/Paris";
-  return dayIn(q.timestamp*1000,tz)===dayIn(Date.now(),tz);
+  return dayIn(q.timestamp*1000,tz)===dayIn(Date.now(),"Europe/Tallinn"); // kauplemispäev = tänane Tallinna kuupäev
 }
 function fxRate(c){ if(c==="EUR")return 1; if(c==="GBp")return fx.GBP?fx.GBP*100:null; return fx[c]||null; }
 
@@ -286,7 +296,7 @@ function render(){
       <div class="row"><span class="note">${note}</span><span class="num ${cls(p)} small">${fmtP(p)}</span></div></div>`;
   }).join("");
 
-  const li=(o,val,c)=>`<li><span class="nm">${esc(o.name)}<span class="tk">${esc(o.sym)}</span></span><span class="num ${c}">${val}</span></li>`;
+  const li=(o,val,c)=>{const w=o.fmp&&why[o.fmp];return `<li><span class="nm">${esc(o.name)}<span class="tk">${esc(o.sym)}</span>${w&&w.short?`<span class="whyshort">${esc(w.short)}</span>`:""}</span><span class="num ${c}">${val}</span></li>`;};
   const byPct=[...priced].sort((a,b)=>b.pct-a.pct);
   $("mUp").innerHTML=byPct.filter(o=>o.pct>0).slice(0,8).map(o=>li(o,fmtP(o.pct),"up")).join("")||'<li class="skel">tõusjaid pole</li>';
   $("mDn").innerHTML=byPct.filter(o=>o.pct<0).reverse().slice(0,8).map(o=>li(o,fmtP(o.pct),"down")).join("")||'<li class="skel">langejaid pole</li>';
@@ -298,6 +308,21 @@ function render(){
   $("missList").textContent=miss.length?miss.map(o=>`${o.name} (${o.sym} → ${o.fmp||"tundmatu börs"})`).join("; "):"Kõik aktsiad said FMP-st hinna.";
 }
 
+const safeUrl=u=>/^https?:\/\//i.test(String(u||""))?String(u):null;
+function whyBlock(o){
+  const w=o.fmp&&why[o.fmp]; if(!w) return "";
+  const src=(w.sources||[]).map(s=>{const u=safeUrl(s.url);return u?`<a href="${esc(u)}" target="_blank" rel="noopener">${esc(s.title||new URL(u).hostname)}</a>`:"";}).filter(Boolean).join(" · ");
+  const t=w.at?new Date(w.at).toLocaleTimeString("et-EE",{hour:"2-digit",minute:"2-digit"}):"";
+  return `<details class="why"><summary>Miks ${w.pct!=null?fmtP(w.pct):""}?</summary><p>${esc(w.text||w.short||"")}</p>${src||t?`<p class="src">${src}${src&&t?" · ":""}${t?"selgitus "+t:""}</p>`:""}</details>`;
+}
+async function loadMovers(){
+  try{
+    const r=await fetch("movers.json?t="+Date.now(),{cache:"no-store"}); if(!r.ok) return;
+    const m=await r.json(), today=new Intl.DateTimeFormat("en-CA",{timeZone:"Europe/Tallinn"}).format(new Date());
+    const nw={}; if(m&&m.date===today&&Array.isArray(m.items)) m.items.forEach(it=>{if(it&&it.fmp)nw[it.fmp]=it;});
+    why=nw; whyAt=m&&m.updated?Date.parse(m.updated):null;
+  }catch(_){}
+}
 function renderTable(){
   const q=$("q").value.trim().toLowerCase(), only5=$("big5").checked;
   let list=rows.filter(o=>(filt==="ALL"||o.book===filt)&&(!q||o.name.toLowerCase().includes(q)||o.sym.toLowerCase().includes(q))&&(!only5||(o.pct!=null&&Math.abs(o.pct)>=5)));
@@ -310,7 +335,7 @@ function renderTable(){
     const w=o.w?" · "+o.w.toFixed(1).replace(".",",")+"%":"";
     return `<li><span class="nm">${esc(o.name)}${flag}</span><span class="r1">${pill}</span>
       <span class="meta">${esc(o.sym)} · ${bl[o.book]||o.book} · ${fmtPx(o.price)}</span>
-      <span class="r2"><span class="${cls(o.dayEur)}">${fmtSE(o.dayEur)}</span> <span class="muted">/ ${fmtE(o.valEur)}${w}</span></span></li>`;
+      <span class="r2"><span class="${cls(o.dayEur)}">${fmtSE(o.dayEur)}</span> <span class="muted">/ ${fmtE(o.valEur)}${w}</span></span>${whyBlock(o)}</li>`;
   }).join(""):`<li class="skel">${rows.length?"Filtrile vastavaid ridu pole.":"Positsioone pole veel laaditud."}</li>`;
 }
 
@@ -406,16 +431,16 @@ async function refreshQuotes(){
   busy=false; render();
 }
 let timer=null, posTimer=null;
-function startTimer(){stopTimer();timer=setInterval(()=>{if(!document.hidden)refreshQuotes();},REFRESH_MS);posTimer=setInterval(async()=>{if(!document.hidden&&await loadPositions())render();},30*60000);}
+function startTimer(){stopTimer();timer=setInterval(()=>{if(!document.hidden)refreshQuotes();},REFRESH_MS);posTimer=setInterval(async()=>{if(document.hidden)return;const ok=await loadPositions();await loadMovers();if(ok)render();},15*60000);}
 function stopTimer(){if(timer)clearInterval(timer);if(posTimer)clearInterval(posTimer);timer=posTimer=null;}
 document.addEventListener("visibilitychange",()=>{if(!document.hidden&&apiKey&&lastQuoteAt&&Date.now()-lastQuoteAt>REFRESH_MS/2)refreshQuotes();});
 
 async function boot(){
-  const ok=await loadPositions(); render();
+  const ok=await loadPositions(); await loadMovers(); render();
   if(!apiKey){showKeyForm();return;}
   if(ok){await refreshQuotes();startTimer();}
 }
-$("refresh").addEventListener("click",async()=>{$("refresh").disabled=true;await loadPositions();await refreshQuotes();$("refresh").disabled=false;});
+$("refresh").addEventListener("click",async()=>{$("refresh").disabled=true;await loadPositions();await loadMovers();await refreshQuotes();$("refresh").disabled=false;});
 boot();
 })();
 </script>
