@@ -1,12 +1,10 @@
 name: Sync positions
 
 # Tõmbab PORTFELL_positions.csv Google Drive'ist (fail peab olema jagatud "Anyone with the link")
-# ja paneb selle reposse, kui sisu muutus. Õhtune sünkroon Macist jookseb ~17:49 Tallinna aja järgi.
+# ja paneb selle reposse, kui sisu muutus. PORTFELL sünkroon Drive'i jookseb iga tund.
 on:
   schedule:
-    - cron: "25 15 * * *"   # 18:25 Tallinn (suveaeg)
-    - cron: "25 16 * * *"   # 18:25 Tallinn (talveaeg)
-    - cron: "10 4 * * *"    # hommikune kontroll
+    - cron: "20 * * * *"    # iga tund, :20 minutil
   workflow_dispatch:
   push:
     paths:
