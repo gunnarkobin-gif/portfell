@@ -18,8 +18,6 @@
 *{box-sizing:border-box}html{-webkit-text-size-adjust:100%}body{margin:0}:root{padding-top:env(safe-area-inset-top,0px);padding-bottom:env(safe-area-inset-bottom,0px)}[hidden]{display:none!important}
 .keybox{background:var(--surface);border:1px solid var(--line);border-left:4px solid var(--accent);border-radius:8px;padding:12px 14px;display:grid;gap:8px}
 .keybox form{display:flex;gap:8px;flex-wrap:wrap}.keybox input{font:inherit;flex:1 1 200px;min-width:0;border:1px solid var(--line);background:var(--bg);color:var(--fg);border-radius:6px;padding:7px 10px}
-.impbar{display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px}
-.impbar .btn{font-size:.85rem;padding:6px 10px}
 .linkbtn{background:none;border:0;color:var(--muted);text-decoration:underline;padding:0;font-size:.75rem;justify-self:start}
 /* Layout: kokkuvõte (koguväärtus + päev) → raamatud → liikujad → täistabel. Arvud monos, tabulaarsed. */
 :root{
@@ -111,11 +109,6 @@ details summary{cursor:pointer;color:var(--muted);font-size:.85rem}
     <button class="btn" id="refresh" type="button">Värskenda</button>
   </header>
 
-  <div class="impbar">
-    <button class="btn" id="impBtn" type="button">Uuenda positsioonid Excelist</button>
-    <input type="file" id="impFile" accept=".xlsx,.xlsm,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet" hidden>
-    <span class="small muted" id="impMsg">Vali iCloud Drive'ist PORTFELL fail.</span>
-  </div>
   <div id="banners"></div>
   <div class="keybox" id="keyBox" hidden>
     <div id="keyMsg"></div>
@@ -162,12 +155,11 @@ details summary{cursor:pointer;color:var(--muted);font-size:.85rem}
     </div>
     <ul class="plist" id="tb"><li class="skel">Laen positsioone…</li></ul>
     <details style="margin-top:10px"><summary id="missSum">Hinnata positsioonid</summary><p class="small muted" id="missList"></p></details>
-    <p class="small muted">Päeva tulemus näidatakse ainult börsidel, kus täna on kaubeldud. Enne avamist, nädalavahetusel ja pühadel on rida märgitud „suletud“ ja päevatulemusse see ei lähe. Eurodes muutus on valuutakursi muutuseta. Võlakirjad on õhtuse sünkrooni hinnaga, päevatulemust neil ei näidata. Positsioonid uuenevad igal õhtul PORTFELL failist.</p>
+    <p class="small muted">Päeva tulemus näidatakse ainult börsidel, kus täna on kaubeldud. Enne avamist, nädalavahetusel ja pühadel on rida märgitud „suletud“ ja päevatulemusse see ei lähe. Eurodes muutus on valuutakursi muutuseta. Võlakirjad on õhtuse sünkrooni hinnaga, päevatulemust neil ei näidata. Positsioonid uuenevad Google Drive'i PORTFELL sünkroonist iga tund.</p>
     <button class="linkbtn" id="keyReset" type="button">Vaheta FMP võtit</button>
   </section>
 </div>
 
-<script src="xlsx-import.js"></script>
 <script>
 (function(){
 const FILE_ID="1878rAg0Gh2laz741K1r8tKou_22EztMx";
@@ -180,7 +172,7 @@ const FXCCY=["USD","GBP","SEK","NOK","DKK","CHF","PLN","CAD","AUD","HKD","MYR"];
 const BOOKS=[["EU","Euroopa"],["US","USA / Kanada"],["ASIA","Aasia / Okeaania"],["BONDS","Võlakirjad"]];
 const $=id=>document.getElementById(id);
 
-let mcp=null, rows=[], quotes={}, fx={EUR:1}, fxAt=null, lastQuoteAt=null, syncTime=null, posSrc="";
+let mcp=null, rows=[], quotes={}, fx={EUR:1}, fxAt=null, lastQuoteAt=null, syncTime=null;
 let watches=[], filt="ALL", sortK="dayEur", sortDir=-1;
 const errs={};
 
@@ -348,7 +340,7 @@ function status(){
   const hasErr=Object.keys(errs).length, live=lastQuoteAt;
   $("dot").className="dot "+(hasErr?"err":live?"live":"wait");
   $("stText").textContent=live?`Hinnad uuendatud ${new Date(live).toLocaleTimeString("et-EE",{hour:"2-digit",minute:"2-digit",second:"2-digit"})} · iga minut`:(hasErr?"Andmed puuduvad":"Laen…");
-  if(syncTime){const age=(Date.now()-syncTime)/3600000;$("syncText").innerHTML=`Positsioonid ${posSrc==="phone"?"Excelist (telefon)":"õhtusest sünkroonist"}, ${new Date(syncTime).toLocaleString("et-EE",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"})}${age>36?' <span class="flag">vana</span>':""}`;}
+  if(syncTime){const age=(Date.now()-syncTime)/3600000;$("syncText").innerHTML=`Positsioonid seisuga ${new Date(syncTime).toLocaleString("et-EE",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"})}${age>36?' <span class="flag">vana sünkroon</span>':""}`;}
   if(fx.USD) $("fxText").textContent=`EUR/USD ${fx.USD.toFixed(4)}`;
 }
 
@@ -369,51 +361,17 @@ $("keyForm").addEventListener("submit",e=>{e.preventDefault();const v=$("keyIn")
 $("keyReset").addEventListener("click",()=>{try{localStorage.removeItem(KEY_LS);}catch(_){} apiKey="";stopTimer();showKeyForm();});
 
 /* --- andmete laadimine --- */
-const LS={csv:"pp_pos_csv",at:"pp_pos_at",name:"pp_pos_name"};
-function lsGet(k){try{return localStorage.getItem(k);}catch(_){return null;}}
-function lsSet(k,v){try{localStorage.setItem(k,v);return true;}catch(_){return false;}}
+/* vanad telefonis imporditud positsioonid ei ole enam kasutusel */
+try{["pp_pos_csv","pp_pos_at","pp_pos_name"].forEach(k=>localStorage.removeItem(k));}catch(_){}
 async function loadPositions(){
-  let ghCsv=null, ghAt=null;
   try{
     const r=await fetch("positions.csv?t="+Date.now(),{cache:"no-store"});
     if(!r.ok) throw new Error("HTTP "+r.status);
-    ghCsv=await r.text();
-    try{const m=await (await fetch("meta.json?t="+Date.now(),{cache:"no-store"})).json(); if(m.modifiedTime||m.fetchedAt) ghAt=Date.parse(m.modifiedTime||m.fetchedAt);}catch(_){}
-  }catch(e){ ghCsv=null; }
-  const phCsv=lsGet(LS.csv), phAt=+(lsGet(LS.at)||0);
-  if(phCsv&&phAt&&(!ghCsv||!ghAt||phAt>ghAt)){ rows=buildRows(phCsv); syncTime=phAt; posSrc="phone"; setErr("pos",null); return true; }
-  if(ghCsv){ rows=buildRows(ghCsv); syncTime=ghAt; posSrc="sync"; setErr("pos",null); return true; }
-  if(!rows.length) setErr("pos","Positsioonide faili ei saanud laadida. Proovin uuesti järgmisel värskendusel.");
-  return false;
+    rows=buildRows(await r.text()); setErr("pos",null);
+  }catch(e){ if(!rows.length) setErr("pos","Positsioonide faili ei saanud laadida ("+e.message+"). Proovin uuesti järgmisel värskendusel."); return false; }
+  try{const m=await (await fetch("meta.json?t="+Date.now(),{cache:"no-store"})).json(); if(m.modifiedTime||m.fetchedAt) syncTime=Date.parse(m.modifiedTime||m.fetchedAt);}catch(_){}
+  return true;
 }
-
-/* --- positsioonid Excelist telefonis --- */
-function loadSheetJS(){
-  if(window.XLSX) return Promise.resolve(window.XLSX);
-  return new Promise((ok,fail)=>{const sc=document.createElement("script");
-    sc.src="https://cdnjs.cloudflare.com/ajax/libs/xlsx/0.18.5/xlsx.full.min.js";
-    sc.onload=()=>window.XLSX?ok(window.XLSX):fail(new Error("Exceli lugeja ei laadinud"));
-    sc.onerror=()=>fail(new Error("Exceli lugejat ei saanud alla laadida (võrk?)"));
-    document.head.appendChild(sc);});
-}
-$("impBtn").addEventListener("click",()=>{$("impFile").value="";$("impFile").click();});
-$("impFile").addEventListener("change",async e=>{
-  const f=e.target.files&&e.target.files[0]; if(!f) return;
-  const btn=$("impBtn"), msg=$("impMsg"); btn.disabled=true; msg.textContent="Loen faili "+f.name+"…";
-  try{
-    const XLSX=await loadSheetJS();
-    const res=PortfellXlsx.extract(XLSX,new Uint8Array(await f.arrayBuffer()));
-    const c=res.counts, empty=["EU","US","ASIA"].filter(b=>!c[b]);
-    if(empty.length) throw new Error("Lehtedelt "+empty.join(", ")+" ei leitud ühtegi positsiooni. Kas see on õige PORTFELL fail?");
-    const now=Date.now();
-    lsSet(LS.csv,res.csv); lsSet(LS.at,String(now)); lsSet(LS.name,f.name);
-    rows=buildRows(res.csv); syncTime=now; posSrc="phone"; setErr("pos",null);
-    msg.textContent=`Uuendatud: EU ${c.EU||0}, US ${c.US||0}, Aasia ${c.ASIA||0}, võlakirjad ${c.BONDS||0} (${f.name})`;
-    render(); await refreshQuotes(); if(apiKey&&!timer) startTimer();
-  }catch(err){
-    msg.textContent="Ei õnnestunud: "+(err&&err.message||err);
-  }finally{ btn.disabled=false; }
-});
 async function fmpBatch(syms,ep){
   const url="https://financialmodelingprep.com/stable/"+(ep||"batch-quote")+"?symbols="+encodeURIComponent(syms.join(","))+"&apikey="+encodeURIComponent(apiKey);
   const r=await fetch(url,{cache:"no-store"});
