@@ -1,12 +1,12 @@
 {
   "date": "2026-10-08",
-  "updated": "2026-10-08T11:07:06Z",
+  "updated": "2026-10-08T13:07:37Z",
   "items": [
     {
       "fmp": "EVS.BR",
       "sym": "evs-bru",
       "name": "EVS SA",
-      "pct": -30.8,
+      "pct": -28.69,
       "short": "Kasumihoiatus: 2026. a käibeprognoos langetati 220–240 mln € pealt 190–205 mln €-le",
       "text": "EVS langetas eile õhtul 2026. aasta käibeprognoosi 220–240 miljonilt eurolt 190–205 miljonile eurole ja hoiatas, et see surub ka kasumlikkust. Põhjustena nimetati oodatust nõrgemat septembri tellimuste mahtu, klientide pikemaid otsustusperioode, geopoliitikat ja kärbitud eelarveid; umbes veerand IV kvartali oodatud tehingutest lükkub 2027. aastasse ja osa tühistati. Seos tänase ~33% langusega on väga tugev; täpsemad andmed tulevad 17. novembri III kvartali ülevaatega.",
       "sources": [
@@ -21,7 +21,7 @@
       "fmp": "NFG.L",
       "sym": "nfg-lon",
       "name": "Next 15 Group plc",
-      "pct": -12.27,
+      "pct": -10.3,
       "short": "Poolaasta tulemused: käive −6,9%, maksueelne kahjum 1,5 mln £; aktsia ~−12%",
       "text": "Next 15 avaldas täna poolaasta (veebr–juuli 2026) tulemused: puhaskäive langes 6,9% 214,9 miljonile naelale (võrreldaval baasil −1,3%) ja maksueelne tulemus pöördus 15,8 mln £ kasumist 1,5 mln £ kahjumiks, peamiselt Mach49 vaidluse kohtukulude ja ülevõtmiste raamatupidamise tõttu. Korrigeeritud ärikasum oli 32,1 mln £ (marginaal paranes 14,9%-le), netovõlg kasvas 57,3 mln £-ni ja dividend jäi 4,75 pennile. Ettevõte kinnitas, et terve aasta käive ja korrigeeritud ärikasum vastavad turu ootustele; seos tulemuste ja langusega on tugev.",
       "sources": [
@@ -36,7 +36,7 @@
       "fmp": "FRVIA.PA",
       "sym": "frvia-par",
       "name": "Forvia SE",
-      "pct": -7.44,
+      "pct": -8.58,
       "short": "Autotarnijad langesid pärast Opmobility kasumihoiatust; Pariisi börs nõrk",
       "text": "Opmobility (endine Plastic Omnium) langetas täna aastaeesmärke ja hoiatas kasumi osas, aktsia kukkus 16–20%; teised autotarnijad järgnesid, Valeo −7% ja Forvia −6…−9%. Turgu survestasid ka naftahinna tõus (Brent ~103 USD) ja kõrgemad võlakirjatulusused, CAC 40 oli ~−0,9%. Forvia ise teatas täna ~500 mln € EnergyCore tellimustest, kuid see langust ei peatanud; seos sektoriuudisega on usutav, Forvia enda negatiivset uudist ei leitud.",
       "sources": [
@@ -70,7 +70,7 @@
       "fmp": "JUN3.DE",
       "sym": "jun3-etr",
       "name": "Jungheinrich AG Pref",
-      "pct": -6.28,
+      "pct": -6.01,
       "short": "BofA langetas soovituse „alatootlus“ peale, sihthind 35 € → 21 €",
       "text": "Bank of America alandas täna Jungheinrichi soovituse „Underperform“ peale ja kärpis sihthinda 35 eurolt 21 eurole. Analüütik viitab kõrgetele intressidele, püsivale inflatsioonile ja Hiina tootjate kasvavale survele Euroopa tõstukiturul ning ei oota kiiret taastumist. Aktsia langes ~6,5% nelja aasta madalaimale tasemele (~20,9 €); seos analüütiku muudatusega on tugev.",
       "sources": [
@@ -115,7 +115,7 @@
       "fmp": "ALK-B.CO",
       "sym": "alk.b-dk",
       "name": "ALK-abello A/S Class B",
-      "pct": 5.05,
+      "pct": 6.33,
       "short": "Tänast uudist ei leitud; tõus jätkub pärast eilset Nordea ostusoovitust",
       "text": "Tänast ettevõttespetsiifilist uudist ALK kohta ei leitud. Eile (7. okt) tõstis Nordea aktsia soovituse „hoia“ pealt „osta“ peale sihthinnaga 280 DKK (~30% tõusuruumi), viidates kasvule alates 2028 ja võimalikele kapitali väljamaksetele; aktsia tõusis eile ~4%. Tänane tõus on tõenäoliselt selle jätk, kuid otsest tänast käivitajat allikad ei kinnita.",
       "sources": [
