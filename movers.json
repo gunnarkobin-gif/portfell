@@ -1,12 +1,12 @@
 {
   "date": "2026-10-08",
-  "updated": "2026-10-08T13:07:37Z",
+  "updated": "2026-10-08T15:08:25Z",
   "items": [
     {
       "fmp": "EVS.BR",
       "sym": "evs-bru",
       "name": "EVS SA",
-      "pct": -28.69,
+      "pct": -27.05,
       "short": "Kasumihoiatus: 2026. a käibeprognoos langetati 220–240 mln € pealt 190–205 mln €-le",
       "text": "EVS langetas eile õhtul 2026. aasta käibeprognoosi 220–240 miljonilt eurolt 190–205 miljonile eurole ja hoiatas, et see surub ka kasumlikkust. Põhjustena nimetati oodatust nõrgemat septembri tellimuste mahtu, klientide pikemaid otsustusperioode, geopoliitikat ja kärbitud eelarveid; umbes veerand IV kvartali oodatud tehingutest lükkub 2027. aastasse ja osa tühistati. Seos tänase ~33% langusega on väga tugev; täpsemad andmed tulevad 17. novembri III kvartali ülevaatega.",
       "sources": [
@@ -21,7 +21,7 @@
       "fmp": "NFG.L",
       "sym": "nfg-lon",
       "name": "Next 15 Group plc",
-      "pct": -10.3,
+      "pct": -10.76,
       "short": "Poolaasta tulemused: käive −6,9%, maksueelne kahjum 1,5 mln £; aktsia ~−12%",
       "text": "Next 15 avaldas täna poolaasta (veebr–juuli 2026) tulemused: puhaskäive langes 6,9% 214,9 miljonile naelale (võrreldaval baasil −1,3%) ja maksueelne tulemus pöördus 15,8 mln £ kasumist 1,5 mln £ kahjumiks, peamiselt Mach49 vaidluse kohtukulude ja ülevõtmiste raamatupidamise tõttu. Korrigeeritud ärikasum oli 32,1 mln £ (marginaal paranes 14,9%-le), netovõlg kasvas 57,3 mln £-ni ja dividend jäi 4,75 pennile. Ettevõte kinnitas, et terve aasta käive ja korrigeeritud ärikasum vastavad turu ootustele; seos tulemuste ja langusega on tugev.",
       "sources": [
@@ -36,7 +36,7 @@
       "fmp": "FRVIA.PA",
       "sym": "frvia-par",
       "name": "Forvia SE",
-      "pct": -8.58,
+      "pct": -10.08,
       "short": "Autotarnijad langesid pärast Opmobility kasumihoiatust; Pariisi börs nõrk",
       "text": "Opmobility (endine Plastic Omnium) langetas täna aastaeesmärke ja hoiatas kasumi osas, aktsia kukkus 16–20%; teised autotarnijad järgnesid, Valeo −7% ja Forvia −6…−9%. Turgu survestasid ka naftahinna tõus (Brent ~103 USD) ja kõrgemad võlakirjatulusused, CAC 40 oli ~−0,9%. Forvia ise teatas täna ~500 mln € EnergyCore tellimustest, kuid see langust ei peatanud; seos sektoriuudisega on usutav, Forvia enda negatiivset uudist ei leitud.",
       "sources": [
@@ -67,49 +67,42 @@
       "at": "2026-10-08T05:08:33Z"
     },
     {
-      "fmp": "JUN3.DE",
-      "sym": "jun3-etr",
-      "name": "Jungheinrich AG Pref",
-      "pct": -6.01,
-      "short": "BofA langetas soovituse „alatootlus“ peale, sihthind 35 € → 21 €",
-      "text": "Bank of America alandas täna Jungheinrichi soovituse „Underperform“ peale ja kärpis sihthinda 35 eurolt 21 eurole. Analüütik viitab kõrgetele intressidele, püsivale inflatsioonile ja Hiina tootjate kasvavale survele Euroopa tõstukiturul ning ei oota kiiret taastumist. Aktsia langes ~6,5% nelja aasta madalaimale tasemele (~20,9 €); seos analüütiku muudatusega on tugev.",
+      "fmp": "BUR.L",
+      "sym": "bur-lon",
+      "name": "Burford Capital Limited",
+      "pct": -7.04,
+      "short": "Tänast ettevõttepõhist uudist ei leitud; aktsia langes 52 nädala madalaimale tasemele",
+      "text": "Burford Capitali kohta ei leidnud me tänast börsiteadet ega analüütikute muudatust; viimased teated olid 28. septembri patendivaidluse vandekohtu otsus ja 29. septembri kvartaliväljaanne. Aktsia kauples täna Londonis 250,4 pennini, mis on 52 nädala madalaim tase, ning on aasta jooksul YPF-kohtuasja tagasilöögi järel tugevalt langenud. Konkreetset tänase ~7% languse põhjust allikad ei kinnita.",
       "sources": [
         {
-          "title": "sharedeals.de: Jungheinrich-Aktie: Vierjahrestief nach BofA-Abstufung",
-          "url": "https://www.sharedeals.de/kompakt/jungheinrich-aktie-vierjahrestief-nach-bofa-abstufung/"
+          "title": "StockTitan: Burford Capital (BUR) uudised",
+          "url": "https://www.stocktitan.net/overview/BUR/"
+        },
+        {
+          "title": "PRNewswire: Statement Regarding Jury Verdict in Patent Matter",
+          "url": "https://www.prnewswire.com/news-releases/statement-regarding-jury-verdict-in-patent-matter-302890959.html"
         }
       ],
-      "at": "2026-10-08T09:14:57Z"
+      "at": "2026-10-08T15:08:25Z"
     },
     {
-      "fmp": "VLA.PA",
-      "sym": "vla-par",
-      "name": "Valneva SE",
-      "pct": -5.22,
-      "short": "Ühendkuningriik tühistas chikungunya-vaktsiini IXCHIQ müügiloa",
-      "text": "Briti ravimiamet MHRA tühistas pärast eilset börsi sulgemist Valneva chikungunya-vaktsiini IXCHIQ müügiloa kasu-riski ümberhindamise järel. Valneva sõnul pole otsus seotud uue kõrvaltoime signaaliga, ettevõte ei kaeba edasi ja finantsmõju on tühine, sest müük Ühendkuningriigis oli juba peatatud; luba kehtib edasi ELis, Kanadas ja Brasiilias. Seos langusega on tugev, kuigi sisuline mõju on väike ning turgu survestasid ka naftahind ja võlakirjatulusused.",
+      "fmp": "DYVOX.ST",
+      "sym": "dyvox-se",
+      "name": "Dynavox Group AB",
+      "pct": 6.54,
+      "short": "Handelsbanken tõstis sihthinda 120 → 123 SEK, kordas ostusoovitust",
+      "text": "Handelsbanken tõstis täna hommikul Dynavoxi sihthinda 120 kroonilt 123 kroonile ja kordas ostusoovitust. Ettevõttelt endalt tänast börsiteadet ei tulnud; III kvartali aruanne avaldatakse 21. oktoobril. Analüütiku teade toetab tõusu, kuid sihthinna muutus on väike, seega on seos ~6,5% tõusuga mõõdukas.",
       "sources": [
         {
-          "title": "Investing.com: Why is Valneva stock falling today?",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-valneva-stock-falling-today-93CH-4938042"
-        }
-      ],
-      "at": "2026-10-08T09:14:57Z"
-    },
-    {
-      "fmp": "2883.HK",
-      "sym": "2883-hk",
-      "name": "China Oilfield Services Limited Class H",
-      "pct": 5.59,
-      "short": "Naftaaktsiad tõusid: Brent üle 101 USD, EIA tõstis naftahinna prognoose",
-      "text": "Hongkongi naftaaktsiad tõusid täna laialt: China Oilfield Services üle 3% juba ennelõunal, CNOOC 2,5%, PetroChina ligi 2%. Brent ületas 101 USD/barrel ja USA energiateabe amet (EIA) tõstis tugevalt selle ja järgmise aasta naftahinna prognoose, viidates varude kiirele vähenemisele ja Hormuzi väina häiretele. Seos sektoriuudisega on tugev; ettevõttepõhist uudist ei leitud.",
-      "sources": [
+          "title": "Placera/Finwire: Handelsbanken höjer riktkursen för Dynavox till 123 kronor (120)",
+          "url": "https://www.placera.se/telegram/dynavox-group-handelsbanken-hojer-riktkursen-for-dynavox-till-123-kronor-120-upprepar-kop-bn-20261008"
+        },
         {
-          "title": "21财经: 港股异动丨石油股集体上涨，布油突破101美元，EIA大幅上调油价预期",
-          "url": "https://m.21jingji.com/article/20261008/herald/6ee305769f457232212db82751ea65cc.html"
+          "title": "Cision: Dynavox Group pressmeddelanden",
+          "url": "https://news.cision.com/dynavox-group/ListItems"
         }
       ],
-      "at": "2026-10-08T07:19:10Z"
+      "at": "2026-10-08T15:08:25Z"
     },
     {
       "fmp": "ALK-B.CO",
@@ -126,6 +119,36 @@
         {
           "title": "Nordnet: ALK-Abelló B uudised",
           "url": "https://www.nordnet.dk/aktier/kurser/alk-abell-b-alk-b-xcse"
+        }
+      ],
+      "at": "2026-10-08T07:19:10Z"
+    },
+    {
+      "fmp": "JUN3.DE",
+      "sym": "jun3-etr",
+      "name": "Jungheinrich AG Pref",
+      "pct": -5.65,
+      "short": "BofA langetas soovituse „alatootlus“ peale, sihthind 35 € → 21 €",
+      "text": "Bank of America alandas täna Jungheinrichi soovituse „Underperform“ peale ja kärpis sihthinda 35 eurolt 21 eurole. Analüütik viitab kõrgetele intressidele, püsivale inflatsioonile ja Hiina tootjate kasvavale survele Euroopa tõstukiturul ning ei oota kiiret taastumist. Aktsia langes ~6,5% nelja aasta madalaimale tasemele (~20,9 €); seos analüütiku muudatusega on tugev.",
+      "sources": [
+        {
+          "title": "sharedeals.de: Jungheinrich-Aktie: Vierjahrestief nach BofA-Abstufung",
+          "url": "https://www.sharedeals.de/kompakt/jungheinrich-aktie-vierjahrestief-nach-bofa-abstufung/"
+        }
+      ],
+      "at": "2026-10-08T09:14:57Z"
+    },
+    {
+      "fmp": "2883.HK",
+      "sym": "2883-hk",
+      "name": "China Oilfield Services Limited Class H",
+      "pct": 5.59,
+      "short": "Naftaaktsiad tõusid: Brent üle 101 USD, EIA tõstis naftahinna prognoose",
+      "text": "Hongkongi naftaaktsiad tõusid täna laialt: China Oilfield Services üle 3% juba ennelõunal, CNOOC 2,5%, PetroChina ligi 2%. Brent ületas 101 USD/barrel ja USA energiateabe amet (EIA) tõstis tugevalt selle ja järgmise aasta naftahinna prognoose, viidates varude kiirele vähenemisele ja Hormuzi väina häiretele. Seos sektoriuudisega on tugev; ettevõttepõhist uudist ei leitud.",
+      "sources": [
+        {
+          "title": "21财经: 港股异动丨石油股集体上涨，布油突破101美元，EIA大幅上调油价预期",
+          "url": "https://m.21jingji.com/article/20261008/herald/6ee305769f457232212db82751ea65cc.html"
         }
       ],
       "at": "2026-10-08T07:19:10Z"
@@ -156,6 +179,21 @@
         {
           "title": "Investing.com (cn): 极智嘉-W 10月7日斥资109.56万港元回购15万股",
           "url": "https://cn.investing.com/news/stock-market-news/article-3598328"
+        }
+      ],
+      "at": "2026-10-08T09:14:57Z"
+    },
+    {
+      "fmp": "VLA.PA",
+      "sym": "vla-par",
+      "name": "Valneva SE",
+      "pct": -5.22,
+      "short": "Ühendkuningriik tühistas chikungunya-vaktsiini IXCHIQ müügiloa",
+      "text": "Briti ravimiamet MHRA tühistas pärast eilset börsi sulgemist Valneva chikungunya-vaktsiini IXCHIQ müügiloa kasu-riski ümberhindamise järel. Valneva sõnul pole otsus seotud uue kõrvaltoime signaaliga, ettevõte ei kaeba edasi ja finantsmõju on tühine, sest müük Ühendkuningriigis oli juba peatatud; luba kehtib edasi ELis, Kanadas ja Brasiilias. Seos langusega on tugev, kuigi sisuline mõju on väike ning turgu survestasid ka naftahind ja võlakirjatulusused.",
+      "sources": [
+        {
+          "title": "Investing.com: Why is Valneva stock falling today?",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-valneva-stock-falling-today-93CH-4938042"
         }
       ],
       "at": "2026-10-08T09:14:57Z"
