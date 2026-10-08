@@ -1,12 +1,61 @@
 {
   "date": "2026-10-08",
-  "updated": "2026-10-08T07:19:10Z",
+  "updated": "2026-10-08T09:14:57Z",
   "items": [
+    {
+      "fmp": "EVS.BR",
+      "sym": "evs-bru",
+      "name": "EVS SA",
+      "pct": -32.6,
+      "short": "Kasumihoiatus: 2026. a käibeprognoos langetati 220–240 mln € pealt 190–205 mln €-le",
+      "text": "EVS langetas eile õhtul 2026. aasta käibeprognoosi 220–240 miljonilt eurolt 190–205 miljonile eurole ja hoiatas, et see surub ka kasumlikkust. Põhjustena nimetati oodatust nõrgemat septembri tellimuste mahtu, klientide pikemaid otsustusperioode, geopoliitikat ja kärbitud eelarveid; umbes veerand IV kvartali oodatud tehingutest lükkub 2027. aastasse ja osa tühistati. Seos tänase ~33% langusega on väga tugev; täpsemad andmed tulevad 17. novembri III kvartali ülevaatega.",
+      "sources": [
+        {
+          "title": "TipRanks: EVS Cuts 2026 Revenue Guidance as Orders Slow and Customer Decisions Slip",
+          "url": "https://www.tipranks.com/news/company-announcements/evs-cuts-2026-revenue-guidance-as-orders-slow-and-customer-decisions-slip"
+        }
+      ],
+      "at": "2026-10-08T09:14:57Z"
+    },
+    {
+      "fmp": "NFG.L",
+      "sym": "nfg-lon",
+      "name": "Next 15 Group plc",
+      "pct": -11.82,
+      "short": "Poolaasta tulemused: käive −6,9%, maksueelne kahjum 1,5 mln £; aktsia ~−12%",
+      "text": "Next 15 avaldas täna poolaasta (veebr–juuli 2026) tulemused: puhaskäive langes 6,9% 214,9 miljonile naelale (võrreldaval baasil −1,3%) ja maksueelne tulemus pöördus 15,8 mln £ kasumist 1,5 mln £ kahjumiks, peamiselt Mach49 vaidluse kohtukulude ja ülevõtmiste raamatupidamise tõttu. Korrigeeritud ärikasum oli 32,1 mln £ (marginaal paranes 14,9%-le), netovõlg kasvas 57,3 mln £-ni ja dividend jäi 4,75 pennile. Ettevõte kinnitas, et terve aasta käive ja korrigeeritud ärikasum vastavad turu ootustele; seos tulemuste ja langusega on tugev.",
+      "sources": [
+        {
+          "title": "Investing.com: Next 15 shares drop 10% after half-year revenue falls, pretax loss",
+          "url": "https://www.investing.com/news/stock-market-news/next-15-shares-drop-10-after-halfyear-revenue-falls-pretax-loss-93CH-4938041"
+        }
+      ],
+      "at": "2026-10-08T09:14:57Z"
+    },
+    {
+      "fmp": "FRVIA.PA",
+      "sym": "frvia-par",
+      "name": "Forvia SE",
+      "pct": -7.9,
+      "short": "Autotarnijad langesid pärast Opmobility kasumihoiatust; Pariisi börs nõrk",
+      "text": "Opmobility (endine Plastic Omnium) langetas täna aastaeesmärke ja hoiatas kasumi osas, aktsia kukkus 16–20%; teised autotarnijad järgnesid, Valeo −7% ja Forvia −6…−9%. Turgu survestasid ka naftahinna tõus (Brent ~103 USD) ja kõrgemad võlakirjatulusused, CAC 40 oli ~−0,9%. Forvia ise teatas täna ~500 mln € EnergyCore tellimustest, kuid see langust ei peatanud; seos sektoriuudisega on usutav, Forvia enda negatiivset uudist ei leitud.",
+      "sources": [
+        {
+          "title": "Zonebourse: CAC 40 en fort recul avec la hausse du pétrole et des taux, Opmobility chute",
+          "url": "https://www.zonebourse.com/actualite-bourse/cac-40-la-bourse-de-paris-en-fort-recul-avec-la-hausse-du-petrole-et-des-taux-opmobility-chute-ce785ddede80f126"
+        },
+        {
+          "title": "Investing.com: Forvia receives €500 million in orders for EnergyCore solutions",
+          "url": "https://www.investing.com/news/stock-market-news/forvia-receives-500-million-in-orders-for-energycore-solutions-93CH-4937969"
+        }
+      ],
+      "at": "2026-10-08T09:14:57Z"
+    },
     {
       "fmp": "2382.HK",
       "sym": "2382-hk",
       "name": "Sunny Optical Technology (Group) Co., Ltd.",
-      "pct": -6.61,
+      "pct": -7.69,
       "short": "Ettevõttepõhist uudist ei leitud; Hongkongi tehnoloogiaaktsiad olid nõrgad",
       "text": "Sunny Opticali kohta tänast ettevõttespetsiifilist uudist (tulemused, tarnenumbrid, analüütiku muudatus) ei leitud; Hiina uudisteportaalid märgivad vaid, et aktsia langes päevasiseselt üle 5%. Hang Seng langes keskpäevaks 0,69% (23 963 punkti), langust vedasid kiibi-, tehisintellekti-, trükkplaadi- ja optilise side aktsiad ning HSBC ja Standard Chartered. Seos laiema tehnoloogiasektori müügisurvega on usutav, kuid otsest põhjust allikad ei kinnita.",
       "sources": [
@@ -18,16 +67,46 @@
       "at": "2026-10-08T05:08:33Z"
     },
     {
-      "fmp": "NFG.L",
-      "sym": "nfg-lon",
-      "name": "Next 15 Group plc",
-      "pct": -6.21,
-      "short": "Täna avaldati poolaasta tulemused (veebr–juuli 2026); aktsia langes pärast raportit",
-      "text": "Next 15 avaldas täna kell 07:00 Briti aja järgi poolaasta tulemused perioodi kohta, mis lõppes 31. juulil 2026. Tulemuste sisu (käive, kasum, väljavaade) ei õnnestunud allikatest kätte saada, seega konkreetset põhjust ei saa kinnitada. Langus algas kohe börsi avanedes pärast raportit ja järgnes eilsele ~3,5% tõusule, mistõttu on seos tulemustega väga tõenäoline, kuid detailid vajavad kontrolli.",
+      "fmp": "JUN3.DE",
+      "sym": "jun3-etr",
+      "name": "Jungheinrich AG Pref",
+      "pct": -6.73,
+      "short": "BofA langetas soovituse „alatootlus“ peale, sihthind 35 € → 21 €",
+      "text": "Bank of America alandas täna Jungheinrichi soovituse „Underperform“ peale ja kärpis sihthinda 35 eurolt 21 eurole. Analüütik viitab kõrgetele intressidele, püsivale inflatsioonile ja Hiina tootjate kasvavale survele Euroopa tõstukiturul ning ei oota kiiret taastumist. Aktsia langes ~6,5% nelja aasta madalaimale tasemele (~20,9 €); seos analüütiku muudatusega on tugev.",
       "sources": [
         {
-          "title": "Kalkine: Next 15 Group to publish interim results on 8 October 2026",
-          "url": "https://kalkinemedia.com/uk/news/announcements/next-15-group-plc-to-publish-interim-results-for-july-2026-period-on-8-october-2026"
+          "title": "sharedeals.de: Jungheinrich-Aktie: Vierjahrestief nach BofA-Abstufung",
+          "url": "https://www.sharedeals.de/kompakt/jungheinrich-aktie-vierjahrestief-nach-bofa-abstufung/"
+        }
+      ],
+      "at": "2026-10-08T09:14:57Z"
+    },
+    {
+      "fmp": "VLA.PA",
+      "sym": "vla-par",
+      "name": "Valneva SE",
+      "pct": -5.79,
+      "short": "Ühendkuningriik tühistas chikungunya-vaktsiini IXCHIQ müügiloa",
+      "text": "Briti ravimiamet MHRA tühistas pärast eilset börsi sulgemist Valneva chikungunya-vaktsiini IXCHIQ müügiloa kasu-riski ümberhindamise järel. Valneva sõnul pole otsus seotud uue kõrvaltoime signaaliga, ettevõte ei kaeba edasi ja finantsmõju on tühine, sest müük Ühendkuningriigis oli juba peatatud; luba kehtib edasi ELis, Kanadas ja Brasiilias. Seos langusega on tugev, kuigi sisuline mõju on väike ning turgu survestasid ka naftahind ja võlakirjatulusused.",
+      "sources": [
+        {
+          "title": "Investing.com: Why is Valneva stock falling today?",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-valneva-stock-falling-today-93CH-4938042"
+        }
+      ],
+      "at": "2026-10-08T09:14:57Z"
+    },
+    {
+      "fmp": "2883.HK",
+      "sym": "2883-hk",
+      "name": "China Oilfield Services Limited Class H",
+      "pct": 5.59,
+      "short": "Naftaaktsiad tõusid: Brent üle 101 USD, EIA tõstis naftahinna prognoose",
+      "text": "Hongkongi naftaaktsiad tõusid täna laialt: China Oilfield Services üle 3% juba ennelõunal, CNOOC 2,5%, PetroChina ligi 2%. Brent ületas 101 USD/barrel ja USA energiateabe amet (EIA) tõstis tugevalt selle ja järgmise aasta naftahinna prognoose, viidates varude kiirele vähenemisele ja Hormuzi väina häiretele. Seos sektoriuudisega on tugev; ettevõttepõhist uudist ei leitud.",
+      "sources": [
+        {
+          "title": "21财经: 港股异动丨石油股集体上涨，布油突破101美元，EIA大幅上调油价预期",
+          "url": "https://m.21jingji.com/article/20261008/herald/6ee305769f457232212db82751ea65cc.html"
         }
       ],
       "at": "2026-10-08T07:19:10Z"
@@ -36,7 +115,7 @@
       "fmp": "ALK-B.CO",
       "sym": "alk.b-dk",
       "name": "ALK-abello A/S Class B",
-      "pct": 5.69,
+      "pct": 5.41,
       "short": "Tänast uudist ei leitud; tõus jätkub pärast eilset Nordea ostusoovitust",
       "text": "Tänast ettevõttespetsiifilist uudist ALK kohta ei leitud. Eile (7. okt) tõstis Nordea aktsia soovituse „hoia“ pealt „osta“ peale sihthinnaga 280 DKK (~30% tõusuruumi), viidates kasvule alates 2028 ja võimalikele kapitali väljamaksetele; aktsia tõusis eile ~4%. Tänane tõus on tõenäoliselt selle jätk, kuid otsest tänast käivitajat allikad ei kinnita.",
       "sources": [
@@ -67,19 +146,34 @@
       "at": "2026-10-08T07:19:10Z"
     },
     {
-      "fmp": "2883.HK",
-      "sym": "2883-hk",
-      "name": "China Oilfield Services Limited Class H",
-      "pct": 5.11,
-      "short": "Naftaaktsiad tõusid: Brent üle 101 USD, EIA tõstis naftahinna prognoose",
-      "text": "Hongkongi naftaaktsiad tõusid täna laialt: China Oilfield Services üle 3% juba ennelõunal, CNOOC 2,5%, PetroChina ligi 2%. Brent ületas 101 USD/barrel ja USA energiateabe amet (EIA) tõstis tugevalt selle ja järgmise aasta naftahinna prognoose, viidates varude kiirele vähenemisele ja Hormuzi väina häiretele. Seos sektoriuudisega on tugev; ettevõttepõhist uudist ei leitud.",
+      "fmp": "2590.HK",
+      "sym": "2590-hk",
+      "name": "Beijing Geekplus Technology Co., Ltd. Class H",
+      "pct": -5.33,
+      "short": "Ettevõttepõhist tänast uudist ei leitud; aktsia uuel 52 nädala madalaimal tasemel",
+      "text": "Geekplusi kohta tänast ettevõttespetsiifilist uudist (tulemused, analüütiku muudatus) ei leitud. Ettevõte jätkas eile (7. okt) aktsiate tagasiostu (150 000 aktsiat ~1,1 mln HKD eest), kuid langust see ei peatanud; aktsia sulgus päeva ja 52 nädala madalaimal tasemel 6,93 HKD. Otsest põhjust allikad ei kinnita.",
       "sources": [
         {
-          "title": "21财经: 港股异动丨石油股集体上涨，布油突破101美元，EIA大幅上调油价预期",
-          "url": "https://m.21jingji.com/article/20261008/herald/6ee305769f457232212db82751ea65cc.html"
+          "title": "Investing.com (cn): 极智嘉-W 10月7日斥资109.56万港元回购15万股",
+          "url": "https://cn.investing.com/news/stock-market-news/article-3598328"
         }
       ],
-      "at": "2026-10-08T07:19:10Z"
+      "at": "2026-10-08T09:14:57Z"
+    },
+    {
+      "fmp": "0189.HK",
+      "sym": "189-hk",
+      "name": "Dongyue Group Limited",
+      "pct": -5.0,
+      "short": "Ettevõttepõhist tänast uudist ei leitud",
+      "text": "Dongyue Groupi kohta tänast ettevõttespetsiifilist uudist (tulemused, külmaainete hinnad, analüütiku muudatus) ei leitud. Aktsia langes 5% 10,64 HKD-ni ja on selle aasta tipust (23,74 HKD) üle 50% madalamal. Otsest põhjust allikad ei kinnita.",
+      "sources": [
+        {
+          "title": "Futu: 东岳集团 (00189) uudised",
+          "url": "https://www.futunn.com/stock/00189-HK"
+        }
+      ],
+      "at": "2026-10-08T09:14:57Z"
     }
   ]
 }
