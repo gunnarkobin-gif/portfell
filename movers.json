@@ -1,12 +1,12 @@
 {
   "date": "2026-10-08",
-  "updated": "2026-10-08T15:08:25Z",
+  "updated": "2026-10-08T17:08:47Z",
   "items": [
     {
       "fmp": "EVS.BR",
       "sym": "evs-bru",
       "name": "EVS SA",
-      "pct": -27.05,
+      "pct": -29.55,
       "short": "Kasumihoiatus: 2026. a käibeprognoos langetati 220–240 mln € pealt 190–205 mln €-le",
       "text": "EVS langetas eile õhtul 2026. aasta käibeprognoosi 220–240 miljonilt eurolt 190–205 miljonile eurole ja hoiatas, et see surub ka kasumlikkust. Põhjustena nimetati oodatust nõrgemat septembri tellimuste mahtu, klientide pikemaid otsustusperioode, geopoliitikat ja kärbitud eelarveid; umbes veerand IV kvartali oodatud tehingutest lükkub 2027. aastasse ja osa tühistati. Seos tänase ~33% langusega on väga tugev; täpsemad andmed tulevad 17. novembri III kvartali ülevaatega.",
       "sources": [
@@ -18,25 +18,10 @@
       "at": "2026-10-08T09:14:57Z"
     },
     {
-      "fmp": "NFG.L",
-      "sym": "nfg-lon",
-      "name": "Next 15 Group plc",
-      "pct": -10.76,
-      "short": "Poolaasta tulemused: käive −6,9%, maksueelne kahjum 1,5 mln £; aktsia ~−12%",
-      "text": "Next 15 avaldas täna poolaasta (veebr–juuli 2026) tulemused: puhaskäive langes 6,9% 214,9 miljonile naelale (võrreldaval baasil −1,3%) ja maksueelne tulemus pöördus 15,8 mln £ kasumist 1,5 mln £ kahjumiks, peamiselt Mach49 vaidluse kohtukulude ja ülevõtmiste raamatupidamise tõttu. Korrigeeritud ärikasum oli 32,1 mln £ (marginaal paranes 14,9%-le), netovõlg kasvas 57,3 mln £-ni ja dividend jäi 4,75 pennile. Ettevõte kinnitas, et terve aasta käive ja korrigeeritud ärikasum vastavad turu ootustele; seos tulemuste ja langusega on tugev.",
-      "sources": [
-        {
-          "title": "Investing.com: Next 15 shares drop 10% after half-year revenue falls, pretax loss",
-          "url": "https://www.investing.com/news/stock-market-news/next-15-shares-drop-10-after-halfyear-revenue-falls-pretax-loss-93CH-4938041"
-        }
-      ],
-      "at": "2026-10-08T09:14:57Z"
-    },
-    {
       "fmp": "FRVIA.PA",
       "sym": "frvia-par",
       "name": "Forvia SE",
-      "pct": -10.08,
+      "pct": -10.85,
       "short": "Autotarnijad langesid pärast Opmobility kasumihoiatust; Pariisi börs nõrk",
       "text": "Opmobility (endine Plastic Omnium) langetas täna aastaeesmärke ja hoiatas kasumi osas, aktsia kukkus 16–20%; teised autotarnijad järgnesid, Valeo −7% ja Forvia −6…−9%. Turgu survestasid ka naftahinna tõus (Brent ~103 USD) ja kõrgemad võlakirjatulusused, CAC 40 oli ~−0,9%. Forvia ise teatas täna ~500 mln € EnergyCore tellimustest, kuid see langust ei peatanud; seos sektoriuudisega on usutav, Forvia enda negatiivset uudist ei leitud.",
       "sources": [
@@ -50,6 +35,59 @@
         }
       ],
       "at": "2026-10-08T09:14:57Z"
+    },
+    {
+      "fmp": "NFG.L",
+      "sym": "nfg-lon",
+      "name": "Next 15 Group plc",
+      "pct": -10.0,
+      "short": "Poolaasta tulemused: käive −6,9%, maksueelne kahjum 1,5 mln £; aktsia ~−12%",
+      "text": "Next 15 avaldas täna poolaasta (veebr–juuli 2026) tulemused: puhaskäive langes 6,9% 214,9 miljonile naelale (võrreldaval baasil −1,3%) ja maksueelne tulemus pöördus 15,8 mln £ kasumist 1,5 mln £ kahjumiks, peamiselt Mach49 vaidluse kohtukulude ja ülevõtmiste raamatupidamise tõttu. Korrigeeritud ärikasum oli 32,1 mln £ (marginaal paranes 14,9%-le), netovõlg kasvas 57,3 mln £-ni ja dividend jäi 4,75 pennile. Ettevõte kinnitas, et terve aasta käive ja korrigeeritud ärikasum vastavad turu ootustele; seos tulemuste ja langusega on tugev.",
+      "sources": [
+        {
+          "title": "Investing.com: Next 15 shares drop 10% after half-year revenue falls, pretax loss",
+          "url": "https://www.investing.com/news/stock-market-news/next-15-shares-drop-10-after-halfyear-revenue-falls-pretax-loss-93CH-4938041"
+        }
+      ],
+      "at": "2026-10-08T09:14:57Z"
+    },
+    {
+      "fmp": "NVMI",
+      "sym": "nvmi",
+      "name": "Nova Ltd.",
+      "pct": -7.96,
+      "short": "Citi langetas reitingu „neutraalseks“ ja kärpis hinnasihti",
+      "text": "Citi analüütik Atif Malik langetas täna Nova reitingu neutraalseks ja alandas hinnasihti; aktsia kukkus päeva jooksul alguses ~5% ja langus süvenes ~8%-ni. Juba eile langes aktsia ~4% kõrgemate USA võlakirjatulususte tõttu ning Zacks langetas reitingu tugevast ostust hoidmiseks. Seos Citi reitingulangetusega on tugev; aktsia on juunikuu tipust ~40% madalamal.",
+      "sources": [
+        {
+          "title": "StockStory: Why Nova (NVMI) Shares Are Falling Today",
+          "url": "https://stockstory.org/us/stocks/nasdaq/nvmi/news/why-up-down/why-nova-nvmi-shares-are-falling-today"
+        },
+        {
+          "title": "MarketBeat: Zacks Research Downgrades Nova (NASDAQ:NVMI) to Hold",
+          "url": "https://www.marketbeat.com/instant-alerts/analyst-zacks-research-downgrades-nova-nasdaq-nvmi-to-hold-2026-10-07/"
+        }
+      ],
+      "at": "2026-10-08T17:08:47Z"
+    },
+    {
+      "fmp": "BUR.L",
+      "sym": "bur-lon",
+      "name": "Burford Capital Limited",
+      "pct": -7.7,
+      "short": "Tänast ettevõttepõhist uudist ei leitud; aktsia langes 52 nädala madalaimale tasemele",
+      "text": "Burford Capitali kohta ei leidnud me tänast börsiteadet ega analüütikute muudatust; viimased teated olid 28. septembri patendivaidluse vandekohtu otsus ja 29. septembri kvartaliväljaanne. Aktsia kauples täna Londonis 250,4 pennini, mis on 52 nädala madalaim tase, ning on aasta jooksul YPF-kohtuasja tagasilöögi järel tugevalt langenud. Konkreetset tänase ~7% languse põhjust allikad ei kinnita.",
+      "sources": [
+        {
+          "title": "StockTitan: Burford Capital (BUR) uudised",
+          "url": "https://www.stocktitan.net/overview/BUR/"
+        },
+        {
+          "title": "PRNewswire: Statement Regarding Jury Verdict in Patent Matter",
+          "url": "https://www.prnewswire.com/news-releases/statement-regarding-jury-verdict-in-patent-matter-302890959.html"
+        }
+      ],
+      "at": "2026-10-08T15:08:25Z"
     },
     {
       "fmp": "2382.HK",
@@ -67,29 +105,29 @@
       "at": "2026-10-08T05:08:33Z"
     },
     {
-      "fmp": "BUR.L",
-      "sym": "bur-lon",
-      "name": "Burford Capital Limited",
-      "pct": -7.04,
-      "short": "Tänast ettevõttepõhist uudist ei leitud; aktsia langes 52 nädala madalaimale tasemele",
-      "text": "Burford Capitali kohta ei leidnud me tänast börsiteadet ega analüütikute muudatust; viimased teated olid 28. septembri patendivaidluse vandekohtu otsus ja 29. septembri kvartaliväljaanne. Aktsia kauples täna Londonis 250,4 pennini, mis on 52 nädala madalaim tase, ning on aasta jooksul YPF-kohtuasja tagasilöögi järel tugevalt langenud. Konkreetset tänase ~7% languse põhjust allikad ei kinnita.",
+      "fmp": "VST",
+      "sym": "vst",
+      "name": "Vistra Corp.",
+      "pct": -6.69,
+      "short": "Kasumivõtt pärast ~20% tõusu viie päevaga; ettevõttepõhist uudist ei leitud",
+      "text": "Vistra kohta tänast ettevõttepõhist uudist ei leitud. Aktsia oli viimase viie päeva jooksul tõusnud umbes 20% (eile +3,9% 166,72 dollarini, RSI üle 70 ehk ülemüüdud tsoonis), osaliselt pärast Constellationi ja Google'i tuumaenergialepingut, mis tõstis kogu sektorit. Tänane langus paistab seega kasumivõtuna, kuid see on tõlgendus, mitte allikaga kinnitatud põhjus.",
       "sources": [
         {
-          "title": "StockTitan: Burford Capital (BUR) uudised",
-          "url": "https://www.stocktitan.net/overview/BUR/"
+          "title": "Benzinga: Top 3 Utilities Stocks That May Keep You Up At Night In October",
+          "url": "https://www.benzinga.com/trading-ideas/short-ideas/26/10/62244077/top-3-utilities-stocks-that-may-keep-you-up-at-night-in-october"
         },
         {
-          "title": "PRNewswire: Statement Regarding Jury Verdict in Patent Matter",
-          "url": "https://www.prnewswire.com/news-releases/statement-regarding-jury-verdict-in-patent-matter-302890959.html"
+          "title": "24/7 Wall St.: Constellation Energy Soars 12% on Google Nuclear Deal; Vistra Jumps 8%",
+          "url": "https://247wallst.com/investing/2026/10/06/constellation-energy-soars-12-on-google-nuclear-deal-for-890-mw-vistra-jumps-8-talen-energy-climbs-7/"
         }
       ],
-      "at": "2026-10-08T15:08:25Z"
+      "at": "2026-10-08T17:08:47Z"
     },
     {
       "fmp": "DYVOX.ST",
       "sym": "dyvox-se",
       "name": "Dynavox Group AB",
-      "pct": 6.54,
+      "pct": 6.34,
       "short": "Handelsbanken tõstis sihthinda 120 → 123 SEK, kordas ostusoovitust",
       "text": "Handelsbanken tõstis täna hommikul Dynavoxi sihthinda 120 kroonilt 123 kroonile ja kordas ostusoovitust. Ettevõttelt endalt tänast börsiteadet ei tulnud; III kvartali aruanne avaldatakse 21. oktoobril. Analüütiku teade toetab tõusu, kuid sihthinna muutus on väike, seega on seos ~6,5% tõusuga mõõdukas.",
       "sources": [
@@ -124,19 +162,34 @@
       "at": "2026-10-08T07:19:10Z"
     },
     {
-      "fmp": "JUN3.DE",
-      "sym": "jun3-etr",
-      "name": "Jungheinrich AG Pref",
-      "pct": -5.65,
-      "short": "BofA langetas soovituse „alatootlus“ peale, sihthind 35 € → 21 €",
-      "text": "Bank of America alandas täna Jungheinrichi soovituse „Underperform“ peale ja kärpis sihthinda 35 eurolt 21 eurole. Analüütik viitab kõrgetele intressidele, püsivale inflatsioonile ja Hiina tootjate kasvavale survele Euroopa tõstukiturul ning ei oota kiiret taastumist. Aktsia langes ~6,5% nelja aasta madalaimale tasemele (~20,9 €); seos analüütiku muudatusega on tugev.",
+      "fmp": "AMRC",
+      "sym": "amrc",
+      "name": "Ameresco, Inc. Class A",
+      "pct": -5.84,
+      "short": "Põhjust ei leitud; täna teatati hoopis 42 mln $ lepingust",
+      "text": "Ameresco langusele ei leitud tänast negatiivset uudist. Ettevõte teatas täna hommikul hoopis 42 miljoni dollari suurusest lepingust Columbia linnaga (Missouri) elektri- ja veearvestite moderniseerimiseks, mis langust ei seleta. Põhjus jääb ebaselgeks; aktsia on aasta tipust üle 50% madalamal ja kõikuv.",
       "sources": [
         {
-          "title": "sharedeals.de: Jungheinrich-Aktie: Vierjahrestief nach BofA-Abstufung",
-          "url": "https://www.sharedeals.de/kompakt/jungheinrich-aktie-vierjahrestief-nach-bofa-abstufung/"
+          "title": "Business Wire: Ameresco Secures $42 Million Contract to Modernize Electric and Water Metering Infrastructure for the City of Columbia, MO",
+          "url": "https://www.businesswire.com/news/home/20261008787357/en/Ameresco-Secures-42-Million-Contract-to-Modernize-Electric-and-Water-Metering-Infrastructure-for-the-City-of-Columbia-MO/"
         }
       ],
-      "at": "2026-10-08T09:14:57Z"
+      "at": "2026-10-08T17:08:47Z"
+    },
+    {
+      "fmp": "NYXH",
+      "sym": "nyxh-be",
+      "name": "Nyxoah SA",
+      "pct": -5.63,
+      "short": "Tänast ettevõttepõhist uudist ei leitud",
+      "text": "Nyxoah kohta ei leitud tänast uudist ega börsiteadet, mis langust seletaks. Aktsia hind on väga madal (~1,34 dollarit), mistõttu protsentuaalsed kõikumised on suured ka väikese hinnamuutuse korral (−0,08 dollarit). Viimane leitud analüüs (5. okt) oli positiivne Genio implantaadi kasvuväljavaate suhtes.",
+      "sources": [
+        {
+          "title": "Seeking Alpha: Nyxoah: Label Expansion Set To Unlock A Monopoly In A Billion Dollar Market",
+          "url": "https://seekingalpha.com/article/4951942-nyxoah-stock-label-expansion-set-to-unlock-a-monopoly-billion-dollar-market"
+        }
+      ],
+      "at": "2026-10-08T17:08:47Z"
     },
     {
       "fmp": "2883.HK",
@@ -152,6 +205,21 @@
         }
       ],
       "at": "2026-10-08T07:19:10Z"
+    },
+    {
+      "fmp": "JUN3.DE",
+      "sym": "jun3-etr",
+      "name": "Jungheinrich AG Pref",
+      "pct": -5.56,
+      "short": "BofA langetas soovituse „alatootlus“ peale, sihthind 35 € → 21 €",
+      "text": "Bank of America alandas täna Jungheinrichi soovituse „Underperform“ peale ja kärpis sihthinda 35 eurolt 21 eurole. Analüütik viitab kõrgetele intressidele, püsivale inflatsioonile ja Hiina tootjate kasvavale survele Euroopa tõstukiturul ning ei oota kiiret taastumist. Aktsia langes ~6,5% nelja aasta madalaimale tasemele (~20,9 €); seos analüütiku muudatusega on tugev.",
+      "sources": [
+        {
+          "title": "sharedeals.de: Jungheinrich-Aktie: Vierjahrestief nach BofA-Abstufung",
+          "url": "https://www.sharedeals.de/kompakt/jungheinrich-aktie-vierjahrestief-nach-bofa-abstufung/"
+        }
+      ],
+      "at": "2026-10-08T09:14:57Z"
     },
     {
       "fmp": "1910.HK",
@@ -197,6 +265,21 @@
         }
       ],
       "at": "2026-10-08T09:14:57Z"
+    },
+    {
+      "fmp": "MWH",
+      "sym": "mwh",
+      "name": "SOLV Energy Inc Class A",
+      "pct": -5.09,
+      "short": "Tänast ettevõttepõhist uudist ei leitud",
+      "text": "SOLV Energy kohta ei leitud tänast uudist, analüütikute tegevust ega börsiteadet, mis langust seletaks. Leitud lühiartiklid kirjeldavad vaid hinnaliikumist ilma põhjuseta. Põhjus jääb ebaselgeks; aktsia on aasta tipust ligi 50% madalamal.",
+      "sources": [
+        {
+          "title": "AAII: Why SOLV Energy, Inc.'s (MWH) Stock Is Down 5.08%",
+          "url": "https://www.aaii.com/investingideas/article/535094-why-solv-energy-inc8217s-mwh-stock-is-down-508"
+        }
+      ],
+      "at": "2026-10-08T17:08:47Z"
     },
     {
       "fmp": "0189.HK",
