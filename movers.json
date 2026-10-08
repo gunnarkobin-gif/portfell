@@ -1,12 +1,12 @@
 {
   "date": "2026-10-08",
-  "updated": "2026-10-08T05:08:33Z",
+  "updated": "2026-10-08T07:19:10Z",
   "items": [
     {
       "fmp": "2382.HK",
       "sym": "2382-hk",
       "name": "Sunny Optical Technology (Group) Co., Ltd.",
-      "pct": -6.07,
+      "pct": -6.61,
       "short": "Ettevõttepõhist uudist ei leitud; Hongkongi tehnoloogiaaktsiad olid nõrgad",
       "text": "Sunny Opticali kohta tänast ettevõttespetsiifilist uudist (tulemused, tarnenumbrid, analüütiku muudatus) ei leitud; Hiina uudisteportaalid märgivad vaid, et aktsia langes päevasiseselt üle 5%. Hang Seng langes keskpäevaks 0,69% (23 963 punkti), langust vedasid kiibi-, tehisintellekti-, trükkplaadi- ja optilise side aktsiad ning HSBC ja Standard Chartered. Seos laiema tehnoloogiasektori müügisurvega on usutav, kuid otsest põhjust allikad ei kinnita.",
       "sources": [
@@ -16,6 +16,70 @@
         }
       ],
       "at": "2026-10-08T05:08:33Z"
+    },
+    {
+      "fmp": "NFG.L",
+      "sym": "nfg-lon",
+      "name": "Next 15 Group plc",
+      "pct": -6.21,
+      "short": "Täna avaldati poolaasta tulemused (veebr–juuli 2026); aktsia langes pärast raportit",
+      "text": "Next 15 avaldas täna kell 07:00 Briti aja järgi poolaasta tulemused perioodi kohta, mis lõppes 31. juulil 2026. Tulemuste sisu (käive, kasum, väljavaade) ei õnnestunud allikatest kätte saada, seega konkreetset põhjust ei saa kinnitada. Langus algas kohe börsi avanedes pärast raportit ja järgnes eilsele ~3,5% tõusule, mistõttu on seos tulemustega väga tõenäoline, kuid detailid vajavad kontrolli.",
+      "sources": [
+        {
+          "title": "Kalkine: Next 15 Group to publish interim results on 8 October 2026",
+          "url": "https://kalkinemedia.com/uk/news/announcements/next-15-group-plc-to-publish-interim-results-for-july-2026-period-on-8-october-2026"
+        }
+      ],
+      "at": "2026-10-08T07:19:10Z"
+    },
+    {
+      "fmp": "ALK-B.CO",
+      "sym": "alk.b-dk",
+      "name": "ALK-abello A/S Class B",
+      "pct": 5.69,
+      "short": "Tänast uudist ei leitud; tõus jätkub pärast eilset Nordea ostusoovitust",
+      "text": "Tänast ettevõttespetsiifilist uudist ALK kohta ei leitud. Eile (7. okt) tõstis Nordea aktsia soovituse „hoia“ pealt „osta“ peale sihthinnaga 280 DKK (~30% tõusuruumi), viidates kasvule alates 2028 ja võimalikele kapitali väljamaksetele; aktsia tõusis eile ~4%. Tänane tõus on tõenäoliselt selle jätk, kuid otsest tänast käivitajat allikad ei kinnita.",
+      "sources": [
+        {
+          "title": "Proinvestor: ALK-Abelló bliver sendt i vejret efter løftet anbefaling fra Nordea",
+          "url": "https://proinvestor.com/nyheder/alk-abell-bliver-sendt-i-vejret-efter-loeftet-anbefaling-fra-nordea-1791357159350"
+        },
+        {
+          "title": "Nordnet: ALK-Abelló B uudised",
+          "url": "https://www.nordnet.dk/aktier/kurser/alk-abell-b-alk-b-xcse"
+        }
+      ],
+      "at": "2026-10-08T07:19:10Z"
+    },
+    {
+      "fmp": "1910.HK",
+      "sym": "1910-hk",
+      "name": "Samsonite Group S.A.",
+      "pct": -5.33,
+      "short": "Ettevõttepõhist uudist ei leitud; Hongkongi turg oli täna surve all",
+      "text": "Samsonite'i kohta tänast ettevõttespetsiifilist uudist (tulemused, analüütiku muudatus) ei leitud. Hiina finantsmeedia seostab Hongkongi turu tänast survet Iraani konflikti ja kõrgete naftahindadega (Brent üle 101 USD). Seos Samsonite'i langusega on vaid oletuslik.",
+      "sources": [
+        {
+          "title": "21财经: 港股异动丨石油股集体上涨，布油突破101美元",
+          "url": "https://m.21jingji.com/article/20261008/herald/6ee305769f457232212db82751ea65cc.html"
+        }
+      ],
+      "at": "2026-10-08T07:19:10Z"
+    },
+    {
+      "fmp": "2883.HK",
+      "sym": "2883-hk",
+      "name": "China Oilfield Services Limited Class H",
+      "pct": 5.11,
+      "short": "Naftaaktsiad tõusid: Brent üle 101 USD, EIA tõstis naftahinna prognoose",
+      "text": "Hongkongi naftaaktsiad tõusid täna laialt: China Oilfield Services üle 3% juba ennelõunal, CNOOC 2,5%, PetroChina ligi 2%. Brent ületas 101 USD/barrel ja USA energiateabe amet (EIA) tõstis tugevalt selle ja järgmise aasta naftahinna prognoose, viidates varude kiirele vähenemisele ja Hormuzi väina häiretele. Seos sektoriuudisega on tugev; ettevõttepõhist uudist ei leitud.",
+      "sources": [
+        {
+          "title": "21财经: 港股异动丨石油股集体上涨，布油突破101美元，EIA大幅上调油价预期",
+          "url": "https://m.21jingji.com/article/20261008/herald/6ee305769f457232212db82751ea65cc.html"
+        }
+      ],
+      "at": "2026-10-08T07:19:10Z"
     }
   ]
 }
