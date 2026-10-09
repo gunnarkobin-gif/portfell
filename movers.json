@@ -1,5 +1,36 @@
 {
   "date": "2026-10-09",
-  "updated": "2026-10-09T05:07:26Z",
-  "items": []
+  "updated": "2026-10-09T07:07:47Z",
+  "items": [
+    {
+      "fmp": "0268.HK",
+      "sym": "268-hkg",
+      "name": "Kingdee International Software Group Co., Ltd.",
+      "pct": 8.68,
+      "short": "Tänast ettevõttespetsiifilist uudist ei leitud; Hongkongi turg oli üldiselt tõusus",
+      "text": "Tänase päeva kohta ei leidnud ma ühtegi Kingdee uudist (tulemused, prognoos, analüütikute hinnangud vms), mis tõusu seletaks. Hongkongi börsil tõusid samal ajal ka mitmed teised portfelli aktsiad (nt AIA, Meitu, MGM China 3–5%), mis viitab laiemale turu- ja tehnoloogiasektori tõusule, kuid otsest seost Kingdee 8,7% tõusuga allikad ei kinnita. Usaldus põhjuse osas on madal.",
+      "sources": [
+        {
+          "title": "KINGDEE INT'L (00268) News Flow - moomoo",
+          "url": "https://www.moomoo.com/stock/00268-HK/news"
+        }
+      ],
+      "at": "2026-10-09T07:07:47Z"
+    },
+    {
+      "fmp": "GREEN.ST",
+      "sym": "green-se",
+      "name": "Green Landscaping Group AB",
+      "pct": 5.58,
+      "short": "Uudist ei leitud; hinnamuutus väga väikese käibe pealt (vaid mõni aktsia)",
+      "text": "Tänase päeva kohta ei leidnud ma Green Landscapingu pressiteadet ega muud uudist, mis 5,6% tõusu seletaks. Kontrolli hetkel oli päeva käive vaid paar aktsiat, seega võib hinnamuutus olla juhuslik ja peegeldada õhukest hommikust kauplemist, mitte uut infot. Usaldus mistahes põhjuse osas on madal.",
+      "sources": [
+        {
+          "title": "Pressmeddelanden från Green Landscaping - Börskollen",
+          "url": "https://www.borskollen.se/aktie/green-landscaping/pressmeddelanden"
+        }
+      ],
+      "at": "2026-10-09T07:07:47Z"
+    }
+  ]
 }
