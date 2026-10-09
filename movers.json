@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "updated": "2026-10-09T09:09:56Z",
+  "updated": "2026-10-09T11:07:08Z",
   "items": [
     {
       "fmp": "0268.HK",
@@ -36,7 +36,7 @@
       "fmp": "DTE.DE",
       "sym": "dte-etr",
       "name": "Deutsche Telekom AG",
-      "pct": -7.64,
+      "pct": -6.41,
       "short": "SpaceX ostab USA 800 MHz sagedusi Starlink Mobile jaoks – kartus T-Mobile US-i konkurentsi pärast",
       "text": "SpaceX teatas 8. oktoobril, et ostab Grain Managementilt üleriigilise 800 MHz sagedusloa (kuni 14 MHz) oma kavandatava Starlink Mobile mobiilsideteenuse jaoks; FCC kiitis samal ajal heaks uue põlvkonna Starlinki mobiilisüsteemi. T-Mobile US kukkus järelturul ~6–7% (AT&T −6,6%, Verizon −5,7%) ning Deutsche Telekom, kellele kuulub ~54% T-Mobile US-ist, langes reedel DAX-i suurimate kaotajate hulgas ~7%. Seos hinnaliikumisega on tugev, kuigi rahaline mõju pole veel mõõdetav.",
       "sources": [
@@ -55,7 +55,7 @@
       "fmp": "DYVOX.ST",
       "sym": "dyvox-se",
       "name": "Dynavox Group AB",
-      "pct": 6.98,
+      "pct": 5.77,
       "short": "Tänast uudist ei leitud; eile tõstis Handelsbanken hinnasihti 123 kroonile (ostusoovitus)",
       "text": "Tänase päeva kohta ei leidnud ma Dynavoxi pressiteadet ega muud ettevõttespetsiifilist uudist. Eile (8. oktoobril) tõstis Handelsbanken hinnasihti 120-lt 123 kroonile ja kordas ostusoovitust, kuid see ei seleta tõenäoliselt üksi tänast ~7% tõusu. Usaldus põhjuse osas on madal.",
       "sources": [
@@ -70,7 +70,7 @@
       "fmp": "ADOC.PA",
       "sym": "adoc-par",
       "name": "Adocia SA",
-      "pct": 6.37,
+      "pct": 6.67,
       "short": "Uudist ei leitud; väike käive, aktsia 52 nädala madalaima taseme lähedal",
       "text": "Tänase päeva kohta ei leidnud ma Adocia pressiteadet ega muud uudist; viimased teated (I poolaasta tulemused, rahastus kuni 2027. aasta alguseni) on septembrist. Aktsia kaupleb 52 nädala madalaima taseme (2,01 €) lähedal ja päeva käive on väike, seega võib tegemist olla tehnilise tagasipõrkega. Usaldus mistahes põhjuse osas on madal.",
       "sources": [
@@ -119,7 +119,7 @@
       "fmp": "NEM.DE",
       "sym": "nem-etr",
       "name": "Nemetschek SE",
-      "pct": 5.29,
+      "pct": 5.14,
       "short": "Ettevõttespetsiifilist uudist ei leitud; ka teised Euroopa tarkvara- ja IT-aktsiad tõusevad",
       "text": "Tänase päeva kohta ei leidnud ma Nemetscheki uudist; viimane analüütikute samm oli Jefferiesi hinnasihi tõstmine 72 eurole 23. septembril ning järgmised tulemused tulevad 5. novembril. Samal ajal tõusevad ka mitmed teised portfelli Euroopa tarkvara- ja IT-aktsiad (nt Capgemini, RELX, Vitec ~3–4%), mis viitab sektoriülesele tõusule, kuid otsest põhjust allikad ei kinnita. Usaldus on madal.",
       "sources": [
