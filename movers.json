@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "updated": "2026-10-09T11:07:08Z",
+  "updated": "2026-10-09T13:14:16Z",
   "items": [
     {
       "fmp": "0268.HK",
@@ -18,25 +18,10 @@
       "at": "2026-10-09T07:07:47Z"
     },
     {
-      "fmp": "GREEN.ST",
-      "sym": "green-se",
-      "name": "Green Landscaping Group AB",
-      "pct": 5.58,
-      "short": "Uudist ei leitud; hinnamuutus väga väikese käibe pealt (vaid mõni aktsia)",
-      "text": "Tänase päeva kohta ei leidnud ma Green Landscapingu pressiteadet ega muud uudist, mis 5,6% tõusu seletaks. Kontrolli hetkel oli päeva käive vaid paar aktsiat, seega võib hinnamuutus olla juhuslik ja peegeldada õhukest hommikust kauplemist, mitte uut infot. Usaldus mistahes põhjuse osas on madal.",
-      "sources": [
-        {
-          "title": "Pressmeddelanden från Green Landscaping - Börskollen",
-          "url": "https://www.borskollen.se/aktie/green-landscaping/pressmeddelanden"
-        }
-      ],
-      "at": "2026-10-09T07:07:47Z"
-    },
-    {
       "fmp": "DTE.DE",
       "sym": "dte-etr",
       "name": "Deutsche Telekom AG",
-      "pct": -6.41,
+      "pct": -7.31,
       "short": "SpaceX ostab USA 800 MHz sagedusi Starlink Mobile jaoks – kartus T-Mobile US-i konkurentsi pärast",
       "text": "SpaceX teatas 8. oktoobril, et ostab Grain Managementilt üleriigilise 800 MHz sagedusloa (kuni 14 MHz) oma kavandatava Starlink Mobile mobiilsideteenuse jaoks; FCC kiitis samal ajal heaks uue põlvkonna Starlinki mobiilisüsteemi. T-Mobile US kukkus järelturul ~6–7% (AT&T −6,6%, Verizon −5,7%) ning Deutsche Telekom, kellele kuulub ~54% T-Mobile US-ist, langes reedel DAX-i suurimate kaotajate hulgas ~7%. Seos hinnaliikumisega on tugev, kuigi rahaline mõju pole veel mõõdetav.",
       "sources": [
@@ -47,21 +32,6 @@
         {
           "title": "Deutsche Telekom Aktie: SpaceX greift US-Markt an",
           "url": "https://www.boerse-global.de/deutsche-telekom-aktie-spacex-greift-us-markt-an/831828"
-        }
-      ],
-      "at": "2026-10-09T09:09:56Z"
-    },
-    {
-      "fmp": "DYVOX.ST",
-      "sym": "dyvox-se",
-      "name": "Dynavox Group AB",
-      "pct": 5.77,
-      "short": "Tänast uudist ei leitud; eile tõstis Handelsbanken hinnasihti 123 kroonile (ostusoovitus)",
-      "text": "Tänase päeva kohta ei leidnud ma Dynavoxi pressiteadet ega muud ettevõttespetsiifilist uudist. Eile (8. oktoobril) tõstis Handelsbanken hinnasihti 120-lt 123 kroonile ja kordas ostusoovitust, kuid see ei seleta tõenäoliselt üksi tänast ~7% tõusu. Usaldus põhjuse osas on madal.",
-      "sources": [
-        {
-          "title": "Handelsbanken höjer riktkursen för Dynavox till 123 kronor (120), upprepar köp",
-          "url": "https://www.placera.se/telegram/dynavox-group-handelsbanken-hojer-riktkursen-for-dynavox-till-123-kronor-120-upprepar-kop-bn-20261008"
         }
       ],
       "at": "2026-10-09T09:09:56Z"
@@ -85,7 +55,7 @@
       "fmp": "EVS.BR",
       "sym": "evs-bru",
       "name": "EVS SA",
-      "pct": 6.33,
+      "pct": 6.56,
       "short": "Tagasipõrge pärast eilset ~30% kukkumist, mis järgnes 2026. aasta käibeprognoosi kärpele",
       "text": "EVS kärpis 7. oktoobri õhtul 2026. aasta käibeprognoosi 220–240 mln eurolt 190–205 mln eurole, sest ligi veerand IV kvartali tellimustest nihkus 2027. aastasse; aktsia kukkus seejärel ~30% (25,55 eurolt ~17,90 eurole). Tänase kohta uut uudist ei leidnud, seega on 6% tõus tõenäoliselt osaline tagasipõrge pärast järsku langust. Usaldus selle seletuse osas on keskmine.",
       "sources": [
@@ -101,10 +71,25 @@
       "at": "2026-10-09T09:09:56Z"
     },
     {
+      "fmp": "DYVOX.ST",
+      "sym": "dyvox-se",
+      "name": "Dynavox Group AB",
+      "pct": 6.47,
+      "short": "Tänast uudist ei leitud; eile tõstis Handelsbanken hinnasihti 123 kroonile (ostusoovitus)",
+      "text": "Tänase päeva kohta ei leidnud ma Dynavoxi pressiteadet ega muud ettevõttespetsiifilist uudist. Eile (8. oktoobril) tõstis Handelsbanken hinnasihti 120-lt 123 kroonile ja kordas ostusoovitust, kuid see ei seleta tõenäoliselt üksi tänast ~7% tõusu. Usaldus põhjuse osas on madal.",
+      "sources": [
+        {
+          "title": "Handelsbanken höjer riktkursen för Dynavox till 123 kronor (120), upprepar köp",
+          "url": "https://www.placera.se/telegram/dynavox-group-handelsbanken-hojer-riktkursen-for-dynavox-till-123-kronor-120-upprepar-kop-bn-20261008"
+        }
+      ],
+      "at": "2026-10-09T09:09:56Z"
+    },
+    {
       "fmp": "BUR.L",
       "sym": "bur-lon",
       "name": "Burford Capital Limited",
-      "pct": 6.06,
+      "pct": 5.86,
       "short": "Tänast ettevõttespetsiifilist uudist ei leitud; Londonis väike käive",
       "text": "Tänase päeva kohta ei leidnud ma Burfordi pressiteadet ega muud uudist; viimased teated (patendiasja vandekohtu otsus, võlakirjaemissioon) on septembrist. Aktsia on pärast märtsikuist YPF-i apellatsioonikaotust tugevalt langenud ja Londoni käive on täna väike, mistõttu võib liikumine olla juhuslik. Usaldus mistahes põhjuse osas on madal.",
       "sources": [
@@ -116,19 +101,68 @@
       "at": "2026-10-09T09:09:56Z"
     },
     {
-      "fmp": "NEM.DE",
-      "sym": "nem-etr",
-      "name": "Nemetschek SE",
-      "pct": 5.14,
-      "short": "Ettevõttespetsiifilist uudist ei leitud; ka teised Euroopa tarkvara- ja IT-aktsiad tõusevad",
-      "text": "Tänase päeva kohta ei leidnud ma Nemetscheki uudist; viimane analüütikute samm oli Jefferiesi hinnasihi tõstmine 72 eurole 23. septembril ning järgmised tulemused tulevad 5. novembril. Samal ajal tõusevad ka mitmed teised portfelli Euroopa tarkvara- ja IT-aktsiad (nt Capgemini, RELX, Vitec ~3–4%), mis viitab sektoriülesele tõusule, kuid otsest põhjust allikad ei kinnita. Usaldus on madal.",
+      "fmp": "KRU.WA",
+      "sym": "kru-pl",
+      "name": "Kruk S.A",
+      "pct": -5.6,
+      "short": "III kv. portfellide ostud -44% ja sissenõuded -5% aasta võrdluses",
+      "text": "Kruk avaldas täna III kvartali tegevusnäitajad: võlaportfellide ostudeks kulus 347 mln zlotti (aasta varem 622 mln, −44%) ja sissenõuded olid 960 mln zlotti (−5%). Oodatust nõrgemad ostu- ja sissenõudmismahud on ajaliselt ja sisuliselt tõenäoline põhjus aktsia ~5–6% langusele, mis süvenes pärast teate avaldamist. Seos on keskmiselt kuni tugevalt usutav; tulemused tulevad 27. oktoobril.",
       "sources": [
         {
-          "title": "Jefferies hob Ziel auf 72 Euro an: Nemetschek-Aktie",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/jefferies-hob-ziel-auf-72-euro-an-nemetschek-aktie-liegt-9-96-prozent-darunter/70273918"
+          "title": "Kruk reports 44.00 percent lower Q3 spending",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/kruk-reports-44-00-percent-lower-q3-spending-kruk-stock-falls-2-30-percent/70278194"
         }
       ],
-      "at": "2026-10-09T09:09:56Z"
+      "at": "2026-10-09T13:14:16Z"
+    },
+    {
+      "fmp": "GREEN.ST",
+      "sym": "green-se",
+      "name": "Green Landscaping Group AB",
+      "pct": 5.58,
+      "short": "Uudist ei leitud; hinnamuutus väga väikese käibe pealt (vaid mõni aktsia)",
+      "text": "Tänase päeva kohta ei leidnud ma Green Landscapingu pressiteadet ega muud uudist, mis 5,6% tõusu seletaks. Kontrolli hetkel oli päeva käive vaid paar aktsiat, seega võib hinnamuutus olla juhuslik ja peegeldada õhukest hommikust kauplemist, mitte uut infot. Usaldus mistahes põhjuse osas on madal.",
+      "sources": [
+        {
+          "title": "Pressmeddelanden från Green Landscaping - Börskollen",
+          "url": "https://www.borskollen.se/aktie/green-landscaping/pressmeddelanden"
+        }
+      ],
+      "at": "2026-10-09T07:07:47Z"
+    },
+    {
+      "fmp": "FCT.MI",
+      "sym": "fct-mil",
+      "name": "Fincantieri S.p.A.",
+      "pct": 5.48,
+      "short": "FTSE MIB-i parim; tänast uudist ei leitud, 1. okt. alustas BofA ostusoovitusega",
+      "text": "Fincantieri tõusis ~5,5–5,7% 12,3 euro lähedale ja oli päeva parim FTSE MIB-i aktsia, kuid Itaalia turukommentaarid konkreetset põhjust ei nimeta. Hiljutise taustana alustas BofA 1. oktoobril katmist ostusoovituse ja 17-eurose hinnasihiga, viidates allveeäri kasvupotentsiaalile; Milano turg tervikuna oli täna tõusus. Tänase liikumise otsest põhjust allikad ei kinnita, usaldus on madal.",
+      "sources": [
+        {
+          "title": "Borsa Italiana, il commento della seduta del 9 ottobre 2026",
+          "url": "https://soldionline.it/notizie/azioni-italia/borsa-italiana-commento-giornata-9-ottobre-2026"
+        },
+        {
+          "title": "BofA starts coverage of Fincantieri stock with EUR 17 target",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/bofa-starts-coverage-of-fincantieri-stock-with-eur-17-target/70278377"
+        }
+      ],
+      "at": "2026-10-09T13:14:16Z"
+    },
+    {
+      "fmp": "SCATC.OL",
+      "sym": "scatc-no",
+      "name": "Scatec ASA",
+      "pct": 5.23,
+      "short": "Tänast ettevõttespetsiifilist uudist ei leitud",
+      "text": "Tänase päeva kohta ei leidnud ma Scateci pressiteadet ega muud uudist, mis ~5% tõusu seletaks; viimane leitud teade on 21. augusti II kvartali tulemused (käive 2,29 mld, EBITDA 1,02 mld NOK). Põhjus jääb teadmata ning usaldus mistahes seletuse osas on madal.",
+      "sources": [
+        {
+          "title": "Scatec second quarter 2026 – growth journey and solid project execution continues",
+          "url": "https://www.inderes.dk/releases/scatec-second-quarter-2026-growth-journey-and-solid-project-execution-continues"
+        }
+      ],
+      "at": "2026-10-09T13:14:16Z"
     },
     {
       "fmp": "ZAL.DE",
@@ -141,6 +175,21 @@
         {
           "title": "Deutlicher Kurssprung bei der Zalando Aktie – 09.10.2026",
           "url": "https://www.wallstreet-online.de/nachricht/21500722-beachtet-deutlicher-kurssprung-zalando-aktie-09-10-2026"
+        }
+      ],
+      "at": "2026-10-09T09:09:56Z"
+    },
+    {
+      "fmp": "NEM.DE",
+      "sym": "nem-etr",
+      "name": "Nemetschek SE",
+      "pct": 5.06,
+      "short": "Ettevõttespetsiifilist uudist ei leitud; ka teised Euroopa tarkvara- ja IT-aktsiad tõusevad",
+      "text": "Tänase päeva kohta ei leidnud ma Nemetscheki uudist; viimane analüütikute samm oli Jefferiesi hinnasihi tõstmine 72 eurole 23. septembril ning järgmised tulemused tulevad 5. novembril. Samal ajal tõusevad ka mitmed teised portfelli Euroopa tarkvara- ja IT-aktsiad (nt Capgemini, RELX, Vitec ~3–4%), mis viitab sektoriülesele tõusule, kuid otsest põhjust allikad ei kinnita. Usaldus on madal.",
+      "sources": [
+        {
+          "title": "Jefferies hob Ziel auf 72 Euro an: Nemetschek-Aktie",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/jefferies-hob-ziel-auf-72-euro-an-nemetschek-aktie-liegt-9-96-prozent-darunter/70273918"
         }
       ],
       "at": "2026-10-09T09:09:56Z"
