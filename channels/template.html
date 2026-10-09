@@ -1,0 +1,185 @@
+<title>__TITLE__</title>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&family=Fraunces:opsz,wght@9..144,600&display=swap">
+<style>
+/* Layout: summary strip on top, sortable grid of small channel charts below */
+:root{--bg:#f6f7f8;--panel:#ffffff;--fg:#1a2129;--muted:#66717d;--line:#dde2e7;--price:#1f3b57;--pre:#a9b4bf;--fit:#c2571a;--band:rgba(194,87,26,.10);--low:#2a7d4f;--hot:#b4232c;--buy:#6b4fa3;--f1:#1f7a8c;--f2:#3451b2;--band2:rgba(52,81,178,.08);--band1:rgba(31,122,140,.10);--sup:#5b6670;
+--display:'Fraunces',Georgia,serif;--body:'IBM Plex Sans',system-ui,sans-serif;--mono:'IBM Plex Mono',ui-monospace,monospace}
+@media (prefers-color-scheme:dark){:root:not([data-theme="light"]){--bg:#121619;--panel:#1a2025;--fg:#e4e8ec;--muted:#93a0ac;--line:#2b333a;--price:#9cc3e6;--pre:#4c5862;--fit:#f08a4b;--band:rgba(240,138,75,.13);--low:#5cc48a;--hot:#ff6b72;--buy:#b9a2ec;--f1:#5cc2d6;--f2:#8fa6ff;--band2:rgba(143,166,255,.10);--band1:rgba(92,194,214,.12);--sup:#c3ccd4;color-scheme:dark}}
+:root[data-theme="dark"]{--bg:#121619;--panel:#1a2025;--fg:#e4e8ec;--muted:#93a0ac;--line:#2b333a;--price:#9cc3e6;--pre:#4c5862;--fit:#f08a4b;--band:rgba(240,138,75,.13);--low:#5cc48a;--hot:#ff6b72;--buy:#b9a2ec;--f1:#5cc2d6;--f2:#8fa6ff;--band2:rgba(143,166,255,.10);--band1:rgba(92,194,214,.12);--sup:#c3ccd4;color-scheme:dark}
+body{background:var(--bg);color:var(--fg);font-family:var(--body);font-size:14px}
+.wrap{max-width:1280px;margin:0 auto;padding:28px 16px 48px}
+h1{font-family:var(--display);font-size:clamp(24px,4vw,34px);margin:0 0 6px;text-wrap:balance}
+.lede{color:var(--muted);max-width:70ch;line-height:1.5;margin:0 0 18px}
+.bar{display:flex;flex-wrap:wrap;gap:8px;align-items:center;margin:0 0 18px}
+.bar span{color:var(--muted);font-size:12px;text-transform:uppercase;letter-spacing:.06em;margin-right:4px}
+button{font:inherit;font-size:13px;padding:6px 12px;border:1px solid var(--line);background:var(--panel);color:var(--fg);border-radius:6px;cursor:pointer}
+button[aria-pressed="true"]{border-color:var(--fit);color:var(--fit);font-weight:600}
+button:focus-visible{outline:2px solid var(--fit);outline-offset:2px}
+.legend{display:flex;flex-wrap:wrap;gap:14px;font-size:12px;color:var(--muted);margin-bottom:18px}
+.legend i{display:inline-block;width:18px;height:3px;vertical-align:middle;margin-right:6px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(min(100%,380px),1fr));gap:14px}
+.card{background:var(--panel);border:1px solid var(--line);border-radius:8px;padding:12px 14px 10px;min-width:0}
+.hd{display:flex;justify-content:space-between;gap:10px;align-items:baseline}
+.sym{font-family:var(--mono);font-weight:500;font-size:13px}
+.nm{color:var(--muted);font-size:12px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.z{font-family:var(--mono);font-size:12px;padding:2px 7px;border-radius:999px;border:1px solid var(--line);white-space:nowrap}
+.z1{border-style:dashed}.z2{border-style:dotted}.hd>div:last-child{flex-wrap:wrap;justify-content:flex-end}.z.lo{color:var(--hot);border-color:var(--hot)}.z.hi{color:var(--low);border-color:var(--low)}
+svg{display:block;width:100%;height:auto;margin-top:6px}
+.meta{display:grid;grid-template-columns:repeat(4,1fr);gap:6px;margin-top:6px;font-size:11px;color:var(--muted)}
+.meta b{display:block;font-family:var(--mono);font-weight:500;color:var(--fg);font-size:12px;font-variant-numeric:tabular-nums}
+.note{font-size:12px;color:var(--muted);margin-top:6px}.note.brk{color:var(--hot)}
+.pl{display:flex;justify-content:space-between;align-items:baseline;gap:10px;margin-top:8px;padding-top:8px;border-top:1px solid var(--line);font-size:12px;color:var(--muted)}
+.pl b{font-family:var(--mono);font-size:14px;white-space:nowrap;font-variant-numeric:tabular-nums}
+.pl b.up,.tot b.up{color:var(--low)}.pl b.dn,.tot b.dn{color:var(--hot)}
+.tot{display:flex;flex-wrap:wrap;gap:22px;margin:0 0 16px;font-size:12px;color:var(--muted);text-transform:uppercase;letter-spacing:.05em}
+.tot b{display:block;font-family:var(--mono);font-size:20px;letter-spacing:0;text-transform:none;color:var(--fg);font-variant-numeric:tabular-nums}
+.card.f-exit{border-color:var(--hot);box-shadow:inset 0 3px 0 var(--hot)}
+.card.f-watch{border-color:var(--fit);box-shadow:inset 0 3px 0 var(--fit)}
+.flag{display:inline-block;margin-top:6px;font-size:11px;font-weight:600;letter-spacing:.02em;padding:3px 8px;border-radius:4px}
+.flag.exit{background:var(--hot);color:var(--panel)}.flag.watch{border:1px solid var(--fit);color:var(--fit)}
+.foot{color:var(--muted);font-size:12px;margin-top:24px;max-width:80ch;line-height:1.5}
+.card{cursor:zoom-in}.card:focus-visible{outline:2px solid var(--fit);outline-offset:2px}
+dialog#big{width:min(1100px,calc(100vw - 32px));max-width:none;max-height:calc(100vh - 32px);padding:0;border:none;background:transparent;color:var(--fg);overflow:auto}
+dialog#big::backdrop{background:rgba(10,14,18,.6)}
+#big .card{cursor:default;padding:18px 22px 16px}
+#big .sym{font-size:18px}#big .nm{font-size:14px;white-space:normal}#big .z{font-size:13px}
+#big .meta{font-size:13px;gap:10px}#big .meta b{font-size:15px}#big .note{font-size:14px}#big .pl{font-size:14px}#big .pl b{font-size:17px}#big .flag{font-size:13px}
+#big .tools{display:flex;flex-wrap:wrap;gap:8px;justify-content:space-between;align-items:center;margin-bottom:10px}
+#big .tools div{display:flex;gap:6px;flex-wrap:wrap}
+</style>
+<div class="wrap">
+<h1>__TITLE__</h1>
+<p class="lede">Each chart shows three years of FMP daily closes. A straight-line regression runs from each stock's 3-year low to the latest close (__ASOF_TXT__), with bands at ±2 standard deviations of the residuals. A blue channel runs from the lowest close of the past 2 years and a teal one from the lowest close of the past 12 months. The pills show where today's price sits in each channel, in σ. Grey horizontal lines mark support: price levels below today's close where the stock bottomed at least twice (swing lows within 3% of each other), up to three per chart, labelled with the level and number of touches. Red lines are earlier supports the price has since fallen through (closed more than 2% below after the last touch); the ✕ marks the break, and they often act as resistance on the way back up.</p>
+<div class="tot" id="tot"></div>
+<div class="bar"><span>Chart range</span><button id="v-1y" aria-pressed="false">Last 12 months</button><button id="v-2y" aria-pressed="true">2 years</button><button id="v-3y" aria-pressed="false">3 years</button></div>
+<div class="bar"><span>Sort</span>
+<button id="s-z" aria-pressed="true">Lowest in channel</button>
+<button id="s-wl" aria-pressed="false">Sheet order</button>
+<button id="s-ret" aria-pressed="false">Gain from low</button>
+<button id="s-pl" aria-pressed="false">My € P&amp;L</button>
+<button id="s-fl" aria-pressed="false">Flagged first</button></div>
+<div class="legend"><span><i style="background:var(--pre)"></i>Before the low</span><span><i style="background:var(--price)"></i>Since the low</span><span><i style="background:var(--fit)"></i>3-year regression ±2σ</span><span><i style="background:var(--low);width:8px;height:8px;border-radius:50%"></i>3-year low</span><span><i style="background:var(--f2)"></i>2-year regression ±2σ</span><span><i style="background:var(--f1)"></i>1-year regression ±2σ</span><span><i style="background:var(--buy)"></i>My buy price</span><span><i style="background:repeating-linear-gradient(90deg,var(--sup) 0 5px,transparent 5px 8px)"></i>Horizontal support</span><span><i style="background:repeating-linear-gradient(90deg,var(--hot) 0 5px,transparent 5px 8px)"></i>Broken support (✕ = break)</span></div>
+<div class="grid" id="grid"></div>
+<dialog id="big" aria-label="Enlarged chart"></dialog>
+<p class="foot">__FOOT__</p>
+</div>
+<script>
+const D=__DATA__;
+const MIN_N=40;
+const fmt=v=>v>=100?v.toFixed(1):v>=10?v.toFixed(2):v.toFixed(3);
+const eur=v=>(v>=0?'+':'−')+'€'+Math.abs(Math.round(v)).toLocaleString('en');
+const ns='http://www.w3.org/2000/svg';
+function el(t,a){const e=document.createElementNS(ns,t);for(const k in a)e.setAttribute(k,a[k]);return e}
+let VIEW='2y';
+function clusters(s){if(s._cl)return s._cl;const c=s.close,n=c.length,k=10,P=[];
+  for(let i=k;i<n-3;i++){const b=Math.min(n-1,i+k);let m=true;for(let j=i-k;j<=b;j++)if(c[j]<c[i]){m=false;break}if(m)P.push(i)}
+  const C=[];P.sort((x,y)=>c[x]-c[y]);
+  for(const i of P){const g=C[C.length-1];if(g&&c[i]<=g.lv*1.03){g.ix.push(i);g.lv=g.ix.reduce((t,j)=>t+c[j],0)/g.ix.length}else C.push({ix:[i],lv:c[i]})}
+  return s._cl=C.filter(g=>g.ix.length>=2)}
+function thin(L,f){let k=null;return L.filter(g=>{if(k!==null&&f(g.lv,k))return false;k=g.lv;return true})}
+function supports(s){if(s._sup)return s._sup;
+  return s._sup=thin(clusters(s).filter(g=>g.lv<s.last*0.995&&g.lv>s.last*0.7).sort((a,b)=>b.lv-a.lv),(v,k)=>v>k*0.95).slice(0,3)
+    .map(g=>({lv:g.lv,t:g.ix.length,i0:Math.min(...g.ix)}))}
+function broken(s){if(s._brk)return s._brk;const c=s.close,n=c.length,out=[];
+  for(const g of clusters(s).filter(g=>g.lv>s.last*1.005&&g.lv<s.last*1.4).sort((a,b)=>a.lv-b.lv)){
+    const lt=Math.max(...g.ix);let bi=-1;for(let j=lt+1;j<n;j++)if(c[j]<g.lv*0.98){bi=j;break}
+    if(bi>=0)out.push({lv:g.lv,t:g.ix.length,i0:Math.min(...g.ix),bi})}
+  return s._brk=thin(out,(v,k)=>v<k*1.05).slice(0,2)}
+function chart(s){
+  const W=BIG?1000:400,H=BIG?460:190,L=BIG?56:40,R=8,T=10,B=BIG?26:20,FS=BIG?12:9,n=s.close.length,ok=s.n>=MIN_N,ok1=s.n1>=MIN_N&&s.l1_i!==s.low_i,ok2=s.n2>=MIN_N&&s.l2_i!==s.low_i&&s.l2_i!==s.l1_i;
+  let off=0;if(VIEW!=='3y'){off=s.dates.findIndex(d=>d>=(VIEW==='1y'?'__D1__':'__D2__'));if(off<0)off=0}
+  const seg=s.close.slice(off);let lo=Math.min(...seg),hi=Math.max(...seg);
+  const f3=i=>s.a+s.b*(i-s.low_i),f1=i=>s.a1+s.b1*(i-s.l1_i),f2=i=>s.a2+s.b2*(i-s.l2_i),s2i=Math.max(s.l2_i,off);
+  const s3=Math.max(s.low_i,off);
+  if(ok)for(const i of[s3,n-1]){lo=Math.min(lo,f3(i)-2*s.s);hi=Math.max(hi,f3(i)+2*s.s)}
+  if(ok2)for(const i of[s2i,n-1]){lo=Math.min(lo,f2(i)-2*s.s2);hi=Math.max(hi,f2(i)+2*s.s2)}
+  if(ok1)for(const i of[s.l1_i,n-1]){lo=Math.min(lo,f1(i)-2*s.s1);hi=Math.max(hi,f1(i)+2*s.s1)}
+  if(s.pl&&s.pl.buy){lo=Math.min(lo,s.pl.buy);hi=Math.max(hi,s.pl.buy)}
+  const SP=supports(s),BK=broken(s);for(const p of SP)lo=Math.min(lo,p.lv);for(const p of BK)hi=Math.max(hi,p.lv);
+  const pad=(hi-lo)*.05;lo-=pad;hi+=pad;
+  const X=i=>L+(W-L-R)*(i-off)/(n-1-off),Y=v=>T+(H-T-B)*(1-(v-lo)/(hi-lo));
+  const svg=el('svg',{viewBox:`0 0 ${W} ${H}`,role:'img','aria-label':s.sym+' price channel'});
+  const txt=(x,y,a,t)=>{const e=el('text',{x,y,'text-anchor':a,'font-size':FS,fill:'var(--muted)','font-family':'IBM Plex Mono,monospace'});e.textContent=t;svg.append(e)};
+  for(let k=0;k<=3;k++){const v=lo+(hi-lo)*k/3,y=Y(v);
+    svg.append(el('line',{x1:L,x2:W-R,y1:y,y2:y,stroke:'var(--line)','stroke-width':1}));txt(L-4,y+3,'end',fmt(v))}
+  const M=['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec'];
+  let last='';for(let i=off;i<n;i++){const d=s.dates[i];const key=VIEW!=='3y'?d.slice(0,7):d.slice(0,4);
+    if(key!==last&&i>off){const show=VIEW==='1y'?(+d.slice(5,7)-1)%3===0:VIEW==='2y'?(+d.slice(5,7)-1)%6===0:true;
+      if(show){txt(X(i),H-(BIG?8:6),'middle',VIEW!=='3y'?M[+d.slice(5,7)-1]+(d.slice(5,7)==='01'?' '+d.slice(2,4):''):key);
+      svg.append(el('line',{x1:X(i),x2:X(i),y1:T,y2:H-B,stroke:'var(--line)','stroke-dasharray':'2 3'}))}}last=key}
+  const chan=(i0,f,sd,fill,col,dash)=>{const i1=n-1;
+    svg.append(el('polygon',{points:`${X(i0)},${Y(f(i0)+2*sd)} ${X(i1)},${Y(f(i1)+2*sd)} ${X(i1)},${Y(f(i1)-2*sd)} ${X(i0)},${Y(f(i0)-2*sd)}`,fill}));
+    for(const m of[2,-2])svg.append(el('line',{x1:X(i0),y1:Y(f(i0)+m*sd),x2:X(i1),y2:Y(f(i1)+m*sd),stroke:col,'stroke-width':1,'stroke-dasharray':dash}));
+    svg.append(el('line',{x1:X(i0),y1:Y(f(i0)),x2:X(i1),y2:Y(f(i1)),stroke:col,'stroke-width':1.5}))};
+  if(ok)chan(s3,f3,s.s,'var(--band)','var(--fit)','4 3');
+  if(ok2)chan(s2i,f2,s.s2,'var(--band2)','var(--f2)','6 2');
+  if(ok1)chan(s.l1_i,f1,s.s1,'var(--band1)','var(--f1)','2 2');
+  for(const p of SP){const y=Y(p.lv),x0=X(Math.max(p.i0,off));
+    svg.append(el('line',{x1:x0,x2:W-R,y1:y,y2:y,stroke:'var(--sup)','stroke-width':1.2,'stroke-dasharray':'5 3'}));
+    const t=el('text',{x:W-R-2,y:y-3,'text-anchor':'end','font-size':FS,fill:'var(--sup)','font-family':'IBM Plex Mono,monospace'});t.textContent=fmt(p.lv)+' ×'+p.t;svg.append(t)}
+  for(const p of BK){const y=Y(p.lv),x0=X(Math.max(p.i0,off)),xb=X(Math.max(p.bi,off));
+    svg.append(el('line',{x1:x0,x2:xb,y1:y,y2:y,stroke:'var(--hot)','stroke-width':1.2,'stroke-dasharray':'5 3'}));
+    svg.append(el('line',{x1:xb,x2:W-R,y1:y,y2:y,stroke:'var(--hot)','stroke-width':1,'stroke-dasharray':'1 3',opacity:.8}));
+    if(p.bi>=off)svg.append(el('path',{d:`M${xb-3},${y-3}L${xb+3},${y+3}M${xb-3},${y+3}L${xb+3},${y-3}`,stroke:'var(--hot)','stroke-width':1.5}));
+    const t=el('text',{x:W-R-2,y:y-3,'text-anchor':'end','font-size':FS,fill:'var(--hot)','font-family':'IBM Plex Mono,monospace'});t.textContent=fmt(p.lv)+' broken';svg.append(t)}
+  const pts=(a,b)=>{let p='';for(let i=a;i<=b;i++)p+=X(i).toFixed(1)+','+Y(s.close[i]).toFixed(1)+' ';return p};
+  if(s.low_i>off)svg.append(el('polyline',{points:pts(off,s.low_i),fill:'none',stroke:'var(--pre)','stroke-width':1.2}));
+  svg.append(el('polyline',{points:pts(s3,n-1),fill:'none',stroke:'var(--price)','stroke-width':1.4}));
+  if(s.pl&&s.pl.buy){let bi=s.dates.findIndex(d=>d>=s.pl.buy_date);if(bi<0)bi=n-1;bi=Math.max(bi,off);
+    svg.append(el('line',{x1:X(bi),x2:X(n-1),y1:Y(s.pl.buy),y2:Y(s.pl.buy),stroke:'var(--buy)','stroke-width':1.4}));
+    svg.append(el('circle',{cx:X(bi),cy:Y(s.pl.buy),r:3,fill:'var(--buy)'}))}
+  if(ok2&&s.l2_i>=off)svg.append(el('circle',{cx:X(s.l2_i),cy:Y(s.l2),r:3,fill:'var(--f2)'}));
+  if(ok1)svg.append(el('circle',{cx:X(s.l1_i),cy:Y(s.l1),r:3,fill:'var(--f1)'}));
+  if(s.low_i>=off)svg.append(el('circle',{cx:X(s.low_i),cy:Y(s.low),r:3.5,fill:'var(--low)'}));
+  svg.append(el('circle',{cx:X(n-1),cy:Y(s.last),r:3,fill:'var(--price)'}));
+  return svg}
+function card(s){
+  const ok=s.n>=MIN_N,c=document.createElement('div');c.className='card'+(s.flag==='watch'?' f-watch':s.flag?' f-exit':'');
+  const zc=!ok?'':s.z<=-1.5?'lo':s.z>=1.5?'hi':'';
+  const ztxt=ok?(s.z>=0?'+':'')+s.z.toFixed(2)+'σ':'at low';
+  const gain=(s.last/s.low-1)*100;
+  c.innerHTML=`<div class="hd"><div style="min-width:0"><div class="sym">${s.sym}</div><div class="nm">${s.name}</div></div><div style="display:flex;gap:4px;flex-shrink:0"><span class="z ${zc}" title="Position in 3-year channel">3Y ${ztxt}</span>${s.n2>=MIN_N&&s.l2_i!==s.low_i&&s.l2_i!==s.l1_i?`<span class="z z2 ${s.z2<=-1.5?'lo':s.z2>=1.5?'hi':''}" title="Position in 2-year channel">2Y ${(s.z2>=0?'+':'')+s.z2.toFixed(2)}σ</span>`:''}${s.n1>=MIN_N&&s.l1_i!==s.low_i?`<span class="z z1 ${s.z1<=-1.5?'lo':s.z1>=1.5?'hi':''}" title="Position in 1-year channel">1Y ${(s.z1>=0?'+':'')+s.z1.toFixed(2)}σ</span>`:''}</div></div>`;
+  if(s.flag){const t=document.createElement('div');const FL={broken:['exit','Exit · closed below lower 2σ band'],down:['exit','Exit · regression trend points down'],watch:['watch','Watch · sitting on lower 2σ band']}[s.flag];
+    t.className='flag '+FL[0];t.textContent=FL[1];c.append(t)}
+  c.append(chart(s));
+  const m=document.createElement('div');m.className='meta';
+  m.innerHTML=`<div>3Y low<b>${fmt(s.low)}</b>${s.low_date}</div><div>Last<b>${fmt(s.last)}</b>${s.ccy}</div><div>Lower 2σ<b>${ok?fmt(s.lower):'–'}</b>Trend ${ok?fmt(s.fit_end):'–'}</div><div>Upper 2σ<b>${ok?fmt(s.upper):'–'}</b>+${gain.toFixed(0)}% from low</div>`;
+  c.append(m);
+  {const SP=supports(s);const q=document.createElement('div');q.className='note';
+   q.textContent=SP.length?'Support: '+SP.map(p=>fmt(p.lv)+' ('+((p.lv/s.last-1)*100).toFixed(1)+'%, '+p.t+' touches)').join(' · '):'No tested support within 30% below the price';c.append(q);
+   const BK=broken(s);if(BK.length){const r=document.createElement('div');r.className='note brk';
+   r.textContent='Broken support: '+BK.map(p=>fmt(p.lv)+' ('+p.t+' touches, broke '+s.dates[p.bi]+', price now '+((1-s.last/p.lv)*100).toFixed(1)+'% under it'+')').join(' · ');c.append(r)}}
+  if(s.pl){const p=s.pl,pct=p.open_cost?p.open_pl/p.open_cost*100:0,cl=p.open_pl>=0?'up':'dn';
+    const q=document.createElement('div');q.className='pl';
+    q.innerHTML=`<span>My position · ${p.qty.toLocaleString('en')} @ ${fmt(p.buy)} · ${p.buy_date}${Math.abs(p.real)>0.5?` · realised ${eur(p.real)}`:''}</span><b class="${cl}">${eur(p.open_pl)} <small>(${pct>=0?'+':''}${pct.toFixed(1)}%)</small></b>`;c.append(q)}
+  if(!ok){const p=document.createElement('div');p.className='note';p.textContent=`Low set ${s.n} trading day${s.n>1?'s':''} ago, too recent for a channel.`;c.append(p)}
+  c.tabIndex=0;c.setAttribute('role','button');c.setAttribute('aria-label','Enlarge '+s.sym);
+  c.onclick=()=>openBig(s);c.onkeydown=e=>{if(e.key==='Enter'||e.key===' '){e.preventDefault();openBig(s)}};
+  return c}
+let BIGVIEW=null,BIG=false;
+function openBig(s){const d=document.getElementById('big');if(!BIGVIEW||!d.open)BIGVIEW=VIEW;
+  const keep=VIEW;VIEW=BIGVIEW;BIG=true;const cc=card(s);BIG=false;VIEW=keep;
+  cc.onclick=null;cc.onkeydown=null;cc.removeAttribute('tabindex');cc.removeAttribute('role');cc.style.cursor='default';
+  const t=document.createElement('div');t.className='tools';
+  t.innerHTML='<div>'+[['1y','Last 12 months'],['2y','2 years'],['3y','3 years']].map(([k,l])=>`<button data-v="${k}" aria-pressed="${k===BIGVIEW}">${l}</button>`).join('')+'</div><button data-x="1">Close ✕</button>';
+  t.querySelectorAll('[data-v]').forEach(b=>b.onclick=()=>{BIGVIEW=b.dataset.v;openBig(s)});
+  t.querySelector('[data-x]').onclick=()=>d.close();
+  cc.prepend(t);d.innerHTML='';d.append(cc);if(!d.open)d.showModal()}
+document.getElementById('big').addEventListener('click',e=>{if(e.target.id==='big')e.target.close()});
+const order={wl:D.map((_,i)=>i)};
+function render(mode){
+  const g=document.getElementById('grid');g.innerHTML='';
+  let L=D.map((s,i)=>({s,i}));
+  if(mode==='z')L.sort((a,b)=>((a.s.n>=MIN_N?a.s.z:9)-(b.s.n>=MIN_N?b.s.z:9)));
+  if(mode==='fl'){const R={broken:0,down:1,watch:2};L.sort((a,b)=>(R[a.s.flag]??9)-(R[b.s.flag]??9)||a.s.z-b.s.z)}
+  if(mode==='pl')L.sort((a,b)=>(a.s.pl?a.s.pl.open_pl:1e9)-(b.s.pl?b.s.pl.open_pl:1e9));
+  if(mode==='ret')L.sort((a,b)=>b.s.last/b.s.low-a.s.last/a.s.low);
+  L.forEach(o=>g.append(card(o.s)));
+  for(const k of['z','wl','ret','pl','fl'])document.getElementById('s-'+k).setAttribute('aria-pressed',k===mode)}
+(()=>{let pl=0,cost=0,w=0,l=0;D.forEach(s=>{if(s.pl){pl+=s.pl.open_pl;cost+=s.pl.open_cost;s.pl.open_pl>=0?w++:l++}});
+if(cost>0)document.getElementById('tot').innerHTML=`<div>Open P&amp;L<b class="${pl>=0?'up':'dn'}">${eur(pl)}</b></div><div>On cost<b>€${Math.round(cost).toLocaleString('en')}</b></div><div>Return<b class="${pl>=0?'up':'dn'}">${(pl/cost*100).toFixed(1)}%</b></div><div>Winners / losers<b>${w} / ${l}</b></div>`})();
+for(const k of['z','wl','ret','pl','fl'])document.getElementById('s-'+k).onclick=()=>render(k);
+let MODE='fl';const _r=render;render=m=>{MODE=m;_r(m)};
+for(const v of['1y','2y','3y'])document.getElementById('v-'+v).onclick=()=>{VIEW=v;for(const w of['1y','2y','3y'])document.getElementById('v-'+w).setAttribute('aria-pressed',w===v);render(MODE)};
+render('fl');
+</script>
