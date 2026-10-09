@@ -8,6 +8,8 @@
   live <prices_dir> <quotes.json> <out_dir>
       Copy prices; append today's live quote as a bar when its exchange date is newer
       than the last daily close (Asia trading now).  quotes.json = [{symbol, price, timestamp}]
+  inject <page.html> <report.json> [note]
+      Put the breach list (and an optional note) under the page title.
   breaches <pos.json> <prices_dir> <out_pos.json> <out_report.json>
       Keep only positions whose latest close is the FIRST close more than 2% below a
       tested support level (>=2 swing lows within 3%), i.e. the break happened on the
@@ -71,9 +73,18 @@ def cmd_csvpos(src, out):
                                        ccy=r.get('Currency'), qty=0, open_cost=0, open_pl=0, real=0,
                                        buy=None, buy_date=None, book=book))
             p['qty'] += q
-    for p in P.values(): p['qty'] = 0   # no cost data: cards show price only
+            f = lambda k: float(r.get(k) or 0) if (r.get(k) or '').strip() not in ('', '#N/A') else 0.0
+            p['open_cost'] += f('Cost_EUR'); p['open_pl'] += f('PL_EUR'); p['real'] += f('Realised_EUR')
+            p.setdefault('_bv', 0); p['_bv'] += f('Buy_price') * q
+            d = (r.get('Buy_date') or '').strip()
+            if d: p['buy_date'] = min(p['buy_date'] or d, d)
+    has_pl = any(p['open_cost'] for p in P.values())
+    for p in P.values():
+        bv = p.pop('_bv', 0)
+        p['buy'] = bv / p['qty'] if bv and p['qty'] else None
+        if not has_pl: p['qty'] = 0   # old CSV without cost columns: cards show price only
     json.dump(list(P.values()), open(out, 'w'), indent=1)
-    print(f'{len(P)} equity positions from CSV (no P&L columns)')
+    print(f'{len(P)} equity positions from CSV ({"with" if has_pl else "NO"} P&L columns)')
 
 
 def cmd_merge(out, pairs):
@@ -135,9 +146,32 @@ def cmd_breaches(pos_json, prices, out_pos, out_rep):
     for r in rep: print('  ', r)
 
 
+def cmd_inject(html, rep_json, note=''):
+    """Put a one-line-per-stock breach list (and an optional note) right under the <h1>."""
+    import html as H
+    rep = json.load(open(rep_json)); s = open(html).read()
+    li = []
+    for r in rep:
+        b = r['breaks'][0]
+        pl = f" · open {'+' if r['open_pl'] >= 0 else '−'}€{abs(r['open_pl']):,}" if r.get('open_pl') else ''
+        li.append(f"<li><b>{H.escape(r['sym'])}</b> {H.escape(str(r.get('name') or ''))} <span style='color:var(--muted)'>({r.get('book')}, {r['date']})</span> — "
+                  f"{r['day_pct']:+.1f}% on the day, broke {b['level']:.4g} support ({b['touches']} touches), now {b['below_pct']:.1f}% under it{pl}</li>")
+    box = ("<div class='lede' style='max-width:none'>" + (f"<p><b>{H.escape(note)}</b></p>" if note else '')
+           + f"<p><b>{len(rep)} support break{'s' if len(rep) != 1 else ''} on the last trading day</b></p><ul style='margin:6px 0 0 18px;padding:0;line-height:1.6'>"
+           + ''.join(li) + "</ul></div>")
+    i = s.index('</h1>') + 5
+    s = s[:i] + box + s[i:]
+    if '<meta charset' not in s:   # served as a plain file (GitHub Pages), not wrapped like an artifact
+        s = ('<!doctype html><html lang="en"><meta charset="utf-8">'
+             '<meta name="viewport" content="width=device-width,initial-scale=1">' + s)
+    open(html, 'w').write(s)
+    print('inserted', len(rep), 'lines')
+
+
 if __name__ == '__main__':
     a = sys.argv
     if a[1] == 'csvpos': cmd_csvpos(a[2], a[3])
     elif a[1] == 'merge': cmd_merge(a[2], a[3:])
     elif a[1] == 'live': cmd_live(a[2], a[3], a[4])
     elif a[1] == 'breaches': cmd_breaches(a[2], a[3], a[4], a[5])
+    elif a[1] == 'inject': cmd_inject(a[2], a[3], a[4] if len(a) > 4 else '')

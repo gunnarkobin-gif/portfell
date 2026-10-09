@@ -176,10 +176,33 @@ function render(mode){
   if(mode==='ret')L.sort((a,b)=>b.s.last/b.s.low-a.s.last/a.s.low);
   L.forEach(o=>g.append(card(o.s)));
   for(const k of['z','wl','ret','pl','fl'])document.getElementById('s-'+k).setAttribute('aria-pressed',k===mode)}
-(()=>{let pl=0,cost=0,w=0,l=0;D.forEach(s=>{if(s.pl){pl+=s.pl.open_pl;cost+=s.pl.open_cost;s.pl.open_pl>=0?w++:l++}});
-if(cost>0)document.getElementById('tot').innerHTML=`<div>Open P&amp;L<b class="${pl>=0?'up':'dn'}">${eur(pl)}</b></div><div>On cost<b>€${Math.round(cost).toLocaleString('en')}</b></div><div>Return<b class="${pl>=0?'up':'dn'}">${(pl/cost*100).toFixed(1)}%</b></div><div>Winners / losers<b>${w} / ${l}</b></div>`})();
+function totals(){let pl=0,cost=0,w=0,l=0;D.forEach(s=>{if(s.pl){pl+=s.pl.open_pl;cost+=s.pl.open_cost;s.pl.open_pl>=0?w++:l++}});
+if(cost>0)document.getElementById('tot').innerHTML=`<div>Open P&amp;L<b class="${pl>=0?'up':'dn'}">${eur(pl)}</b></div><div>On cost<b>€${Math.round(cost).toLocaleString('en')}</b></div><div>Return<b class="${pl>=0?'up':'dn'}">${(pl/cost*100).toFixed(1)}%</b></div><div>Winners / losers<b>${w} / ${l}</b></div>`}
+totals();
 for(const k of['z','wl','ret','pl','fl'])document.getElementById('s-'+k).onclick=()=>render(k);
 let MODE='fl';const _r=render;render=m=>{MODE=m;_r(m)};
 for(const v of['1y','2y','3y'])document.getElementById('v-'+v).onclick=()=>{VIEW=v;for(const w of['1y','2y','3y'])document.getElementById('v-'+w).setAttribute('aria-pressed',w===v);render(MODE)};
 render('fl');
+/* Live P&L: when this page is served next to positions.csv (the hourly workbook sync), refresh € P&L on open */
+(async()=>{try{
+  const r=await fetch('positions.csv?t='+Date.now(),{cache:'no-store'});if(!r.ok)return;
+  const rows=[];let row=[],f='',q=false;const t=await r.text();
+  for(let i=0;i<t.length;i++){const ch=t[i];if(q){if(ch=='"'){if(t[i+1]=='"'){f+='"';i++}else q=false}else f+=ch}
+    else if(ch=='"')q=true;else if(ch==','){row.push(f);f=''}else if(ch=='\n'){row.push(f);rows.push(row);row=[];f=''}else if(ch!='\r')f+=ch}
+  if(f||row.length){row.push(f);rows.push(row)}
+  const h=rows[0],ix=k=>h.indexOf(k);if(ix('PL_EUR')<0)return;
+  const num=v=>{const x=parseFloat(v);return isFinite(x)?x:0},A={};
+  for(const r of rows.slice(1)){if(!['EU','US','ASIA'].includes(r[0])||num(r[ix('Saldo_or_Nominal')])<=0)continue;
+    const k=(r[1]||'').trim().toUpperCase(),q=num(r[ix('Saldo_or_Nominal')]),a=A[k]||(A[k]={qty:0,open_cost:0,open_pl:0,real:0,bv:0,buy_date:null});
+    a.qty+=q;a.open_cost+=num(r[ix('Cost_EUR')]);a.open_pl+=num(r[ix('PL_EUR')]);a.real+=num(r[ix('Realised_EUR')]);a.bv+=num(r[ix('Buy_price')])*q;
+    const d=(r[ix('Buy_date')]||'').trim();if(d&&(!a.buy_date||d<a.buy_date))a.buy_date=d}
+  let n=0;for(const s of D){const a=A[s.sym];if(!a)continue;n++;
+    s.pl={open_pl:a.open_pl,open_cost:a.open_cost,qty:a.qty,real:a.real,buy:a.bv?a.bv/a.qty:(s.pl&&s.pl.buy),buy_date:a.buy_date||(s.pl&&s.pl.buy_date)}}
+  if(!n)return;
+  let when='';try{const m=await (await fetch('meta.json?t='+Date.now(),{cache:'no-store'})).json();when=new Date(m.fetchedAt).toLocaleString('en-GB',{dateStyle:'medium',timeStyle:'short'})}catch(e){}
+  totals();render(MODE);
+  const note=document.createElement('p');note.className='lede';note.style.margin='-8px 0 14px';
+  note.textContent='€ P&L refreshed from your PORTFELL workbook'+(when?' (last sync '+when+')':'')+'.';
+  document.getElementById('tot').after(note);
+}catch(e){}})();
 </script>
