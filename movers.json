@@ -1,6 +1,6 @@
 {
   "date": "2026-10-09",
-  "updated": "2026-10-09T15:13:33Z",
+  "updated": "2026-10-09T17:07:25Z",
   "items": [
     {
       "fmp": "0268.HK",
@@ -18,10 +18,44 @@
       "at": "2026-10-09T07:07:47Z"
     },
     {
+      "fmp": "EVS.BR",
+      "sym": "evs-bru",
+      "name": "EVS SA",
+      "pct": 8.78,
+      "short": "Tagasipõrge pärast eilset ~30% kukkumist, mis järgnes 2026. aasta käibeprognoosi kärpele",
+      "text": "EVS kärpis 7. oktoobri õhtul 2026. aasta käibeprognoosi 220–240 mln eurolt 190–205 mln eurole, sest ligi veerand IV kvartali tellimustest nihkus 2027. aastasse; aktsia kukkus seejärel ~30% (25,55 eurolt ~17,90 eurole). Tänase kohta uut uudist ei leidnud, seega on 6% tõus tõenäoliselt osaline tagasipõrge pärast järsku langust. Usaldus selle seletuse osas on keskmine.",
+      "sources": [
+        {
+          "title": "EVS Broadcast Equipment: revises its full year 2026 revenue outlook",
+          "url": "https://www.marketscreener.com/news/evs-broadcast-equipment-revises-its-full-year-2026-revenue-outlook-ce785ddedc8cf72d"
+        },
+        {
+          "title": "EVS Cuts 2026 Revenue Guidance as Orders Slow – TipRanks",
+          "url": "https://www.tipranks.com/news/company-announcements/evs-cuts-2026-revenue-guidance-as-orders-slow-and-customer-decisions-slip"
+        }
+      ],
+      "at": "2026-10-09T09:09:56Z"
+    },
+    {
+      "fmp": "GRGD.TO",
+      "sym": "grgd-ca",
+      "name": "Groupe Dynamite Inc.",
+      "pct": 8.68,
+      "short": "Tänast ettevõttespetsiifilist uudist ei leitud; aktsia põrkab 52 nädala madalama taseme lähedalt",
+      "text": "Tänase päeva kohta ei leidnud ma Groupe Dynamite'i pressiteadet, analüütikute hinnangumuutust ega muud uudist, mis ~7% tõusu seletaks. Eile sulgus aktsia 54,66 Kanada dollari juures, kuu ajaga −11% ja aasta algusest −33%, ning analüütikute konsensuse hinnasiht (~90 CAD) on tunduvalt kõrgemal. Tegemist võib olla tagasipõrkega pärast pikka langust, kuid usaldus mistahes põhjuse osas on madal.",
+      "sources": [
+        {
+          "title": "What's Going On With Groupe Dynamite Inc Stock Thursday?",
+          "url": "https://wealthawesome.com/whats-going-on-with-groupe-dynamite-inc-stock-thursday-10082026-wgo"
+        }
+      ],
+      "at": "2026-10-09T15:13:33Z"
+    },
+    {
       "fmp": "DTE.DE",
       "sym": "dte-etr",
       "name": "Deutsche Telekom AG",
-      "pct": -7.57,
+      "pct": -7.94,
       "short": "SpaceX ostab USA 800 MHz sagedusi Starlink Mobile jaoks – kartus T-Mobile US-i konkurentsi pärast",
       "text": "SpaceX teatas 8. oktoobril, et ostab Grain Managementilt üleriigilise 800 MHz sagedusloa (kuni 14 MHz) oma kavandatava Starlink Mobile mobiilsideteenuse jaoks; FCC kiitis samal ajal heaks uue põlvkonna Starlinki mobiilisüsteemi. T-Mobile US kukkus järelturul ~6–7% (AT&T −6,6%, Verizon −5,7%) ning Deutsche Telekom, kellele kuulub ~54% T-Mobile US-ist, langes reedel DAX-i suurimate kaotajate hulgas ~7%. Seos hinnaliikumisega on tugev, kuigi rahaline mõju pole veel mõõdetav.",
       "sources": [
@@ -37,25 +71,10 @@
       "at": "2026-10-09T09:09:56Z"
     },
     {
-      "fmp": "GRGD.TO",
-      "sym": "grgd-ca",
-      "name": "Groupe Dynamite Inc.",
-      "pct": 7.34,
-      "short": "Tänast ettevõttespetsiifilist uudist ei leitud; aktsia põrkab 52 nädala madalama taseme lähedalt",
-      "text": "Tänase päeva kohta ei leidnud ma Groupe Dynamite'i pressiteadet, analüütikute hinnangumuutust ega muud uudist, mis ~7% tõusu seletaks. Eile sulgus aktsia 54,66 Kanada dollari juures, kuu ajaga −11% ja aasta algusest −33%, ning analüütikute konsensuse hinnasiht (~90 CAD) on tunduvalt kõrgemal. Tegemist võib olla tagasipõrkega pärast pikka langust, kuid usaldus mistahes põhjuse osas on madal.",
-      "sources": [
-        {
-          "title": "What's Going On With Groupe Dynamite Inc Stock Thursday?",
-          "url": "https://wealthawesome.com/whats-going-on-with-groupe-dynamite-inc-stock-thursday-10082026-wgo"
-        }
-      ],
-      "at": "2026-10-09T15:13:33Z"
-    },
-    {
       "fmp": "KRU.WA",
       "sym": "kru-pl",
       "name": "Kruk S.A",
-      "pct": -7.27,
+      "pct": -7.72,
       "short": "III kv. portfellide ostud -44% ja sissenõuded -5% aasta võrdluses",
       "text": "Kruk avaldas täna III kvartali tegevusnäitajad: võlaportfellide ostudeks kulus 347 mln zlotti (aasta varem 622 mln, −44%) ja sissenõuded olid 960 mln zlotti (−5%). Oodatust nõrgemad ostu- ja sissenõudmismahud on ajaliselt ja sisuliselt tõenäoline põhjus aktsia ~5–6% langusele, mis süvenes pärast teate avaldamist. Seos on keskmiselt kuni tugevalt usutav; tulemused tulevad 27. oktoobril.",
       "sources": [
@@ -67,20 +86,35 @@
       "at": "2026-10-09T13:14:16Z"
     },
     {
-      "fmp": "EVS.BR",
-      "sym": "evs-bru",
-      "name": "EVS SA",
-      "pct": 7.22,
-      "short": "Tagasipõrge pärast eilset ~30% kukkumist, mis järgnes 2026. aasta käibeprognoosi kärpele",
-      "text": "EVS kärpis 7. oktoobri õhtul 2026. aasta käibeprognoosi 220–240 mln eurolt 190–205 mln eurole, sest ligi veerand IV kvartali tellimustest nihkus 2027. aastasse; aktsia kukkus seejärel ~30% (25,55 eurolt ~17,90 eurole). Tänase kohta uut uudist ei leidnud, seega on 6% tõus tõenäoliselt osaline tagasipõrge pärast järsku langust. Usaldus selle seletuse osas on keskmine.",
+      "fmp": "FCT.MI",
+      "sym": "fct-mil",
+      "name": "Fincantieri S.p.A.",
+      "pct": 6.89,
+      "short": "FTSE MIB-i parim; tänast uudist ei leitud, 1. okt. alustas BofA ostusoovitusega",
+      "text": "Fincantieri tõusis ~5,5–5,7% 12,3 euro lähedale ja oli päeva parim FTSE MIB-i aktsia, kuid Itaalia turukommentaarid konkreetset põhjust ei nimeta. Hiljutise taustana alustas BofA 1. oktoobril katmist ostusoovituse ja 17-eurose hinnasihiga, viidates allveeäri kasvupotentsiaalile; Milano turg tervikuna oli täna tõusus. Tänase liikumise otsest põhjust allikad ei kinnita, usaldus on madal.",
       "sources": [
         {
-          "title": "EVS Broadcast Equipment: revises its full year 2026 revenue outlook",
-          "url": "https://www.marketscreener.com/news/evs-broadcast-equipment-revises-its-full-year-2026-revenue-outlook-ce785ddedc8cf72d"
+          "title": "Borsa Italiana, il commento della seduta del 9 ottobre 2026",
+          "url": "https://soldionline.it/notizie/azioni-italia/borsa-italiana-commento-giornata-9-ottobre-2026"
         },
         {
-          "title": "EVS Cuts 2026 Revenue Guidance as Orders Slow – TipRanks",
-          "url": "https://www.tipranks.com/news/company-announcements/evs-cuts-2026-revenue-guidance-as-orders-slow-and-customer-decisions-slip"
+          "title": "BofA starts coverage of Fincantieri stock with EUR 17 target",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/bofa-starts-coverage-of-fincantieri-stock-with-eur-17-target/70278377"
+        }
+      ],
+      "at": "2026-10-09T13:14:16Z"
+    },
+    {
+      "fmp": "BUR.L",
+      "sym": "bur-lon",
+      "name": "Burford Capital Limited",
+      "pct": 6.74,
+      "short": "Tänast ettevõttespetsiifilist uudist ei leitud; Londonis väike käive",
+      "text": "Tänase päeva kohta ei leidnud ma Burfordi pressiteadet ega muud uudist; viimased teated (patendiasja vandekohtu otsus, võlakirjaemissioon) on septembrist. Aktsia on pärast märtsikuist YPF-i apellatsioonikaotust tugevalt langenud ja Londoni käive on täna väike, mistõttu võib liikumine olla juhuslik. Usaldus mistahes põhjuse osas on madal.",
+      "sources": [
+        {
+          "title": "Burford press releases (PR Newswire)",
+          "url": "https://www.prnewswire.com/news-releases/statement-regarding-jury-verdict-in-patent-matter-302890959.html"
         }
       ],
       "at": "2026-10-09T09:09:56Z"
@@ -101,44 +135,10 @@
       "at": "2026-10-09T09:09:56Z"
     },
     {
-      "fmp": "DYVOX.ST",
-      "sym": "dyvox-se",
-      "name": "Dynavox Group AB",
-      "pct": 6.47,
-      "short": "Tänast uudist ei leitud; eile tõstis Handelsbanken hinnasihti 123 kroonile (ostusoovitus)",
-      "text": "Tänase päeva kohta ei leidnud ma Dynavoxi pressiteadet ega muud ettevõttespetsiifilist uudist. Eile (8. oktoobril) tõstis Handelsbanken hinnasihti 120-lt 123 kroonile ja kordas ostusoovitust, kuid see ei seleta tõenäoliselt üksi tänast ~7% tõusu. Usaldus põhjuse osas on madal.",
-      "sources": [
-        {
-          "title": "Handelsbanken höjer riktkursen för Dynavox till 123 kronor (120), upprepar köp",
-          "url": "https://www.placera.se/telegram/dynavox-group-handelsbanken-hojer-riktkursen-for-dynavox-till-123-kronor-120-upprepar-kop-bn-20261008"
-        }
-      ],
-      "at": "2026-10-09T09:09:56Z"
-    },
-    {
-      "fmp": "FCT.MI",
-      "sym": "fct-mil",
-      "name": "Fincantieri S.p.A.",
-      "pct": 6.38,
-      "short": "FTSE MIB-i parim; tänast uudist ei leitud, 1. okt. alustas BofA ostusoovitusega",
-      "text": "Fincantieri tõusis ~5,5–5,7% 12,3 euro lähedale ja oli päeva parim FTSE MIB-i aktsia, kuid Itaalia turukommentaarid konkreetset põhjust ei nimeta. Hiljutise taustana alustas BofA 1. oktoobril katmist ostusoovituse ja 17-eurose hinnasihiga, viidates allveeäri kasvupotentsiaalile; Milano turg tervikuna oli täna tõusus. Tänase liikumise otsest põhjust allikad ei kinnita, usaldus on madal.",
-      "sources": [
-        {
-          "title": "Borsa Italiana, il commento della seduta del 9 ottobre 2026",
-          "url": "https://soldionline.it/notizie/azioni-italia/borsa-italiana-commento-giornata-9-ottobre-2026"
-        },
-        {
-          "title": "BofA starts coverage of Fincantieri stock with EUR 17 target",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/bofa-starts-coverage-of-fincantieri-stock-with-eur-17-target/70278377"
-        }
-      ],
-      "at": "2026-10-09T13:14:16Z"
-    },
-    {
       "fmp": "ANOD-B.ST",
       "sym": "anod.b-se",
       "name": "Addnode Group AB Class B",
-      "pct": 5.69,
+      "pct": 6.08,
       "short": "Tänast uudist ei leitud; ka teised Euroopa tarkvara-aktsiad tõusevad",
       "text": "Tänase päeva kohta ei leidnud ma Addnode'i pressiteadet ega analüütikute uudist, mis ~6% tõusu seletaks. Samal päeval tõusevad ka mitmed teised portfelli Euroopa tarkvara-aktsiad (nt Nemetschek ~5%, Vitec ~4%), mis viitab sektoriülesele liikumisele, kuid otsest põhjust allikad ei kinnita. Usaldus on madal.",
       "sources": [
@@ -214,21 +214,6 @@
       "at": "2026-10-09T09:09:56Z"
     },
     {
-      "fmp": "BUR.L",
-      "sym": "bur-lon",
-      "name": "Burford Capital Limited",
-      "pct": 5.06,
-      "short": "Tänast ettevõttespetsiifilist uudist ei leitud; Londonis väike käive",
-      "text": "Tänase päeva kohta ei leidnud ma Burfordi pressiteadet ega muud uudist; viimased teated (patendiasja vandekohtu otsus, võlakirjaemissioon) on septembrist. Aktsia on pärast märtsikuist YPF-i apellatsioonikaotust tugevalt langenud ja Londoni käive on täna väike, mistõttu võib liikumine olla juhuslik. Usaldus mistahes põhjuse osas on madal.",
-      "sources": [
-        {
-          "title": "Burford press releases (PR Newswire)",
-          "url": "https://www.prnewswire.com/news-releases/statement-regarding-jury-verdict-in-patent-matter-302890959.html"
-        }
-      ],
-      "at": "2026-10-09T09:09:56Z"
-    },
-    {
       "fmp": "NEM.DE",
       "sym": "nem-etr",
       "name": "Nemetschek SE",
@@ -247,7 +232,7 @@
       "fmp": "VSURE.ST",
       "sym": "vsure-se",
       "name": "Verisure Plc",
-      "pct": 5.01,
+      "pct": 5.06,
       "short": "Tänast ettevõttespetsiifilist uudist ei leitud",
       "text": "Tänase päeva kohta ei leidnud ma Verisure'i pressiteadet ega analüütikute uudist, mis ~5% tõusu seletaks; viimane leitud ettevõtteteade on 30. juuli II kvartali tulemused ja eridividend. Aktsia on 52 nädala madalama taseme lähedal, nii et tegemist võib olla tagasipõrkega, kuid põhjus jääb teadmata ja usaldus on madal.",
       "sources": [
@@ -257,6 +242,36 @@
         }
       ],
       "at": "2026-10-09T15:13:33Z"
+    },
+    {
+      "fmp": "BPT.L",
+      "sym": "bpt-lon",
+      "name": "Bridgepoint Group Plc",
+      "pct": 5.02,
+      "short": "Deutsche Bank tõstis hinnasihti 460 pennile (ost); jätkub ralli pärast 7. okt. tulemusteadet",
+      "text": "Deutsche Bank tõstis täna Bridgepointi hinnasihti 430-lt 460 pennile ja kordas ostusoovitust; aktsia tõusis 52 nädala kõrgeimale tasemele (~402 penni). Tõus jätkab 7. oktoobri äriteatega alanud ümberhindamist: ettevõte tõstis märgatavalt 2026. aasta EBITDA prognoosi (ProEnergy ümberhindamine ECP V fondis), kaasas fondidesse 28 mld eurot kvartal enne tähtaega, kuid poolitas 2026. aasta dividendi 15 pennile. Seos hinnatõusuga on keskmiselt kuni tugevalt usutav.",
+      "sources": [
+        {
+          "title": "Why is Bridgepoint stock rallying 4% today? – Investing.com",
+          "url": "https://uk.investing.com/news/stock-market-news/why-is-bridgepoint-stock-rallying-4-today-93CH-4902651"
+        }
+      ],
+      "at": "2026-10-09T17:07:25Z"
+    },
+    {
+      "fmp": "DYVOX.ST",
+      "sym": "dyvox-se",
+      "name": "Dynavox Group AB",
+      "pct": 5.01,
+      "short": "Tänast uudist ei leitud; eile tõstis Handelsbanken hinnasihti 123 kroonile (ostusoovitus)",
+      "text": "Tänase päeva kohta ei leidnud ma Dynavoxi pressiteadet ega muud ettevõttespetsiifilist uudist. Eile (8. oktoobril) tõstis Handelsbanken hinnasihti 120-lt 123 kroonile ja kordas ostusoovitust, kuid see ei seleta tõenäoliselt üksi tänast ~7% tõusu. Usaldus põhjuse osas on madal.",
+      "sources": [
+        {
+          "title": "Handelsbanken höjer riktkursen för Dynavox till 123 kronor (120), upprepar köp",
+          "url": "https://www.placera.se/telegram/dynavox-group-handelsbanken-hojer-riktkursen-for-dynavox-till-123-kronor-120-upprepar-kop-bn-20261008"
+        }
+      ],
+      "at": "2026-10-09T09:09:56Z"
     }
   ]
 }
