@@ -1,12 +1,12 @@
 {
   "date": "2026-10-12",
-  "updated": "2026-10-12T15:13:28Z",
+  "updated": "2026-10-12T17:07:31Z",
   "items": [
     {
       "fmp": "EVT.DE",
       "sym": "evt-etr",
       "name": "Evotec SE",
-      "pct": -8.45,
+      "pct": -11.13,
       "short": "Tänast ettevõtteuudist ei leitud; aktsia jätkab langust pärast juulikuist kasumihoiatust",
       "text": "Tänase päeva kohta ei leidnud ma Evotecilt börsiteadet, analüütikute hinnangumuutust ega muud ettevõttespetsiifilist uudist; tänased uudisnupud märgivad vaid, et aktsia kauples ~2,61 euro juures (~5,8% alla reedese 2,77 eurose sulgemise) ja on aasta algusest ~46% miinuses. Taustaks: juulis langetas Evotec 2026. aasta käibeprognoosi 570–610 mln euroni ja EBITDA prognoosi miinusesse, Berenberg alandas hinnasihi 3,60 eurole. Järgmine raport (III kv) tuleb 5. novembril. Tänase languse konkreetne põhjus jääb ebaselgeks – usaldus madal.",
       "sources": [
@@ -44,7 +44,7 @@
       "fmp": "ALLT",
       "sym": "allt",
       "name": "Allot Ltd.",
-      "pct": 6.44,
+      "pct": 7.55,
       "short": "Tänast ettevõtteuudist ei leitud",
       "text": "Tänase päeva kohta ei leidnud ma Allotilt pressiteadet, lepinguuudist, analüütikute hinnangumuutust ega muud ettevõttespetsiifilist uudist; ka FMP uudistevoog oli tühi. Viimane suurem teade oli 12. augusti II kvartali tulemus, kus ettevõte tõstis 2026. aasta käibeprognoosi 115–118 mln dollarini. Tõusu konkreetne põhjus jääb teadmata – usaldus madal.",
       "sources": [
@@ -59,7 +59,7 @@
       "fmp": "DATA.L",
       "sym": "data-lon",
       "name": "GlobalData Plc",
-      "pct": 6.24,
+      "pct": 6.41,
       "short": "Tänast ettevõtteuudist ei leitud; jätkub juunis alanud aktsiate tagasiost",
       "text": "Tänase päeva kohta ei leidnud ma GlobalData börsiteadet, tulemusi, analüütikute hinnangumuutust ega muud ettevõttespetsiifilist uudist ning FMP uudistevoog oli tühi. Ettevõttel käib alates 23. juunist 2026 aktsiate tagasiostuprogramm (nt 23. septembril osteti 100 000 aktsiat hinnaga ~59–61 penni), mis toetab nõudlust, kuid ei selgita üksi tänast ~5% tõusu. Aktsia kaupleb aasta madalaima taseme lähedal ja väikese käibega, seega võib liikumine olla tehniline – usaldus põhjuse osas madal.",
       "sources": [
@@ -74,7 +74,7 @@
       "fmp": "CHRT.L",
       "sym": "chrt-lon",
       "name": "Cohort plc",
-      "pct": 6.13,
+      "pct": 5.63,
       "short": "Tänast ettevõtteuudist ei leitud",
       "text": "Tänase päeva kohta ei leidnud ma Cohorti börsiteadet (RNS), lepinguvõitu, analüütikute hinnangumuutust ega muud ettevõttespetsiifilist uudist; viimane teade oli 6. oktoobri juhtide aktsiatehingu (PDMR) teavitus. Ka sektori kohta ei leidnud ma tänast allikat, mis tõusu selgitaks. Aktsia on väikese käibega, seega võib liikumine olla tehniline – põhjus jääb teadmata.",
       "sources": [
@@ -118,6 +118,25 @@
         }
       ],
       "at": "2026-10-12T13:19:21Z"
+    },
+    {
+      "fmp": "EVS.BR",
+      "sym": "evs-bru",
+      "name": "EVS SA",
+      "pct": -5.21,
+      "short": "Tänast uudist ei leitud; jätkub langus pärast 7. okt käibeprognoosi kärbet",
+      "text": "Tänase päeva kohta ei leidnud ma EVS-ilt börsiteadet, analüütikute hinnangumuutust ega muud uut ettevõttespetsiifilist uudist; FMP uudistevoog oli tühi. Taustaks: 7. oktoobri õhtul langetas EVS 2026. aasta käibeprognoosi 220–240 mln eurolt 190–205 mln eurole, kuna ~25% IV kvartaliks oodatud tellimustest lükkus 2027. aastasse ja osa tühistati; aktsia kukkus seejärel ligi 30% ning reedel taastus osaliselt. Uuendatud kasumiprognoos tuleb koos III kv ülevaatega 17. novembril. Tänane langus on tõenäoliselt selle uudise järelmõju, kuid otsest tänast põhjust allikad ei nimeta – usaldus madal.",
+      "sources": [
+        {
+          "title": "EVS Broadcast Equipment revises its full year 2026 revenue outlook – MarketScreener (7.10.2026)",
+          "url": "https://www.marketscreener.com/news/evs-broadcast-equipment-revises-its-full-year-2026-revenue-outlook-ce785ddedc8cf72d"
+        },
+        {
+          "title": "EVS Broadcast: is koersval 30% overtrokken? – IEX (9.10.2026)",
+          "url": "https://financieel.headliner.nl/item/evs-broadcast-is-koersval-30-overtrokken-iex-137601"
+        }
+      ],
+      "at": "2026-10-12T17:07:31Z"
     },
     {
       "fmp": "0268.HK",
