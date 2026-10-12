@@ -1,6 +1,6 @@
 {
   "date": "2026-10-12",
-  "updated": "2026-10-12T09:06:56Z",
+  "updated": "2026-10-12T11:08:24Z",
   "items": [
     {
       "fmp": "9896.HK",
@@ -35,6 +35,21 @@
         }
       ],
       "at": "2026-10-12T05:13:21Z"
+    },
+    {
+      "fmp": "DATA.L",
+      "sym": "data-lon",
+      "name": "GlobalData Plc",
+      "pct": 5.07,
+      "short": "Tänast ettevõtteuudist ei leitud; jätkub juunis alanud aktsiate tagasiost",
+      "text": "Tänase päeva kohta ei leidnud ma GlobalData börsiteadet, tulemusi, analüütikute hinnangumuutust ega muud ettevõttespetsiifilist uudist ning FMP uudistevoog oli tühi. Ettevõttel käib alates 23. juunist 2026 aktsiate tagasiostuprogramm (nt 23. septembril osteti 100 000 aktsiat hinnaga ~59–61 penni), mis toetab nõudlust, kuid ei selgita üksi tänast ~5% tõusu. Aktsia kaupleb aasta madalaima taseme lähedal ja väikese käibega, seega võib liikumine olla tehniline – usaldus põhjuse osas madal.",
+      "sources": [
+        {
+          "title": "GlobalData – Transaction in Own Shares (Investegate, 24.09.2026)",
+          "url": "https://www.investegate.co.uk/announcement/rns/globaldata--data/transaction-in-own-shares/9787905"
+        }
+      ],
+      "at": "2026-10-12T11:08:24Z"
     }
   ]
 }
