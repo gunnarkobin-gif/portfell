@@ -1,7 +1,26 @@
 {
   "date": "2026-10-12",
-  "updated": "2026-10-12T13:19:21Z",
+  "updated": "2026-10-12T15:13:28Z",
   "items": [
+    {
+      "fmp": "EVT.DE",
+      "sym": "evt-etr",
+      "name": "Evotec SE",
+      "pct": -8.45,
+      "short": "Tänast ettevõtteuudist ei leitud; aktsia jätkab langust pärast juulikuist kasumihoiatust",
+      "text": "Tänase päeva kohta ei leidnud ma Evotecilt börsiteadet, analüütikute hinnangumuutust ega muud ettevõttespetsiifilist uudist; tänased uudisnupud märgivad vaid, et aktsia kauples ~2,61 euro juures (~5,8% alla reedese 2,77 eurose sulgemise) ja on aasta algusest ~46% miinuses. Taustaks: juulis langetas Evotec 2026. aasta käibeprognoosi 570–610 mln euroni ja EBITDA prognoosi miinusesse, Berenberg alandas hinnasihi 3,60 eurole. Järgmine raport (III kv) tuleb 5. novembril. Tänase languse konkreetne põhjus jääb ebaselgeks – usaldus madal.",
+      "sources": [
+        {
+          "title": "Evotec-Aktie notiert bei 2,61 Euro und liegt 46,0 Prozent im Minus – ad-hoc-news (12.10.2026)",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/evotec-aktie-notiert-bei-2-61-euro-und-liegt-46-0-prozent-im-minus/70301700"
+        },
+        {
+          "title": "Evotec Aktie: Zwischen Ausverkauf und Vertragspoker – Börse Express (16.07.2026)",
+          "url": "https://www.boerse-express.com/news/articles/evotec-aktie-zwischen-ausverkauf-und-vertragspoker-928883"
+        }
+      ],
+      "at": "2026-10-12T13:19:21Z"
+    },
     {
       "fmp": "9896.HK",
       "sym": "9896-hkg",
@@ -22,29 +41,40 @@
       "at": "2026-10-12T05:13:21Z"
     },
     {
-      "fmp": "EVT.DE",
-      "sym": "evt-etr",
-      "name": "Evotec SE",
-      "pct": -6.43,
-      "short": "Tänast ettevõtteuudist ei leitud; aktsia jätkab langust pärast juulikuist kasumihoiatust",
-      "text": "Tänase päeva kohta ei leidnud ma Evotecilt börsiteadet, analüütikute hinnangumuutust ega muud ettevõttespetsiifilist uudist; tänased uudisnupud märgivad vaid, et aktsia kauples ~2,61 euro juures (~5,8% alla reedese 2,77 eurose sulgemise) ja on aasta algusest ~46% miinuses. Taustaks: juulis langetas Evotec 2026. aasta käibeprognoosi 570–610 mln euroni ja EBITDA prognoosi miinusesse, Berenberg alandas hinnasihi 3,60 eurole. Järgmine raport (III kv) tuleb 5. novembril. Tänase languse konkreetne põhjus jääb ebaselgeks – usaldus madal.",
+      "fmp": "ALLT",
+      "sym": "allt",
+      "name": "Allot Ltd.",
+      "pct": 6.44,
+      "short": "Tänast ettevõtteuudist ei leitud",
+      "text": "Tänase päeva kohta ei leidnud ma Allotilt pressiteadet, lepinguuudist, analüütikute hinnangumuutust ega muud ettevõttespetsiifilist uudist; ka FMP uudistevoog oli tühi. Viimane suurem teade oli 12. augusti II kvartali tulemus, kus ettevõte tõstis 2026. aasta käibeprognoosi 115–118 mln dollarini. Tõusu konkreetne põhjus jääb teadmata – usaldus madal.",
       "sources": [
         {
-          "title": "Evotec-Aktie notiert bei 2,61 Euro und liegt 46,0 Prozent im Minus – ad-hoc-news (12.10.2026)",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/evotec-aktie-notiert-bei-2-61-euro-und-liegt-46-0-prozent-im-minus/70301700"
-        },
-        {
-          "title": "Evotec Aktie: Zwischen Ausverkauf und Vertragspoker – Börse Express (16.07.2026)",
-          "url": "https://www.boerse-express.com/news/articles/evotec-aktie-zwischen-ausverkauf-und-vertragspoker-928883"
+          "title": "Allot Announces Second Quarter 2026 Financial Results (PR Newswire, 12.08.2026)",
+          "url": "https://www.prnewswire.com/news-releases/allot-announces-second-quarter-2026-financial-results-302849512.html"
         }
       ],
-      "at": "2026-10-12T13:19:21Z"
+      "at": "2026-10-12T15:13:28Z"
+    },
+    {
+      "fmp": "DATA.L",
+      "sym": "data-lon",
+      "name": "GlobalData Plc",
+      "pct": 6.24,
+      "short": "Tänast ettevõtteuudist ei leitud; jätkub juunis alanud aktsiate tagasiost",
+      "text": "Tänase päeva kohta ei leidnud ma GlobalData börsiteadet, tulemusi, analüütikute hinnangumuutust ega muud ettevõttespetsiifilist uudist ning FMP uudistevoog oli tühi. Ettevõttel käib alates 23. juunist 2026 aktsiate tagasiostuprogramm (nt 23. septembril osteti 100 000 aktsiat hinnaga ~59–61 penni), mis toetab nõudlust, kuid ei selgita üksi tänast ~5% tõusu. Aktsia kaupleb aasta madalaima taseme lähedal ja väikese käibega, seega võib liikumine olla tehniline – usaldus põhjuse osas madal.",
+      "sources": [
+        {
+          "title": "GlobalData – Transaction in Own Shares (Investegate, 24.09.2026)",
+          "url": "https://www.investegate.co.uk/announcement/rns/globaldata--data/transaction-in-own-shares/9787905"
+        }
+      ],
+      "at": "2026-10-12T11:08:24Z"
     },
     {
       "fmp": "CHRT.L",
       "sym": "chrt-lon",
       "name": "Cohort plc",
-      "pct": 5.46,
+      "pct": 6.13,
       "short": "Tänast ettevõtteuudist ei leitud",
       "text": "Tänase päeva kohta ei leidnud ma Cohorti börsiteadet (RNS), lepinguvõitu, analüütikute hinnangumuutust ega muud ettevõttespetsiifilist uudist; viimane teade oli 6. oktoobri juhtide aktsiatehingu (PDMR) teavitus. Ka sektori kohta ei leidnud ma tänast allikat, mis tõusu selgitaks. Aktsia on väikese käibega, seega võib liikumine olla tehniline – põhjus jääb teadmata.",
       "sources": [
@@ -54,6 +84,21 @@
         }
       ],
       "at": "2026-10-12T13:19:21Z"
+    },
+    {
+      "fmp": "ENVIP.OL",
+      "sym": "envi-ams",
+      "name": "Envipco Holding N.V.",
+      "pct": -5.48,
+      "short": "Tänast ettevõtteuudist ei leitud",
+      "text": "Tänase päeva kohta ei leidnud ma Envipcolt börsiteadet, analüütikute hinnangumuutust ega muud ettevõttespetsiifilist uudist. Viimased teated olid septembrist: taaraautomaatide tarnelepingud Ühendkuningriigi jaemüüjatega (23. ja 28. sept) ning Ahold Delhaizega Rumeenias (11. sept). Aktsia on väikese käibega, langus võib olla tehniline – põhjus jääb teadmata.",
+      "sources": [
+        {
+          "title": "Envipco Holding NV: Official Announcements – MarketScreener",
+          "url": "https://www.marketscreener.com/quote/stock/ENVIPCO-HOLDING-NV-9263407/news-press-releases/"
+        }
+      ],
+      "at": "2026-10-12T15:13:28Z"
     },
     {
       "fmp": "VK.PA",
@@ -88,21 +133,6 @@
         }
       ],
       "at": "2026-10-12T05:13:21Z"
-    },
-    {
-      "fmp": "DATA.L",
-      "sym": "data-lon",
-      "name": "GlobalData Plc",
-      "pct": 5.07,
-      "short": "Tänast ettevõtteuudist ei leitud; jätkub juunis alanud aktsiate tagasiost",
-      "text": "Tänase päeva kohta ei leidnud ma GlobalData börsiteadet, tulemusi, analüütikute hinnangumuutust ega muud ettevõttespetsiifilist uudist ning FMP uudistevoog oli tühi. Ettevõttel käib alates 23. juunist 2026 aktsiate tagasiostuprogramm (nt 23. septembril osteti 100 000 aktsiat hinnaga ~59–61 penni), mis toetab nõudlust, kuid ei selgita üksi tänast ~5% tõusu. Aktsia kaupleb aasta madalaima taseme lähedal ja väikese käibega, seega võib liikumine olla tehniline – usaldus põhjuse osas madal.",
-      "sources": [
-        {
-          "title": "GlobalData – Transaction in Own Shares (Investegate, 24.09.2026)",
-          "url": "https://www.investegate.co.uk/announcement/rns/globaldata--data/transaction-in-own-shares/9787905"
-        }
-      ],
-      "at": "2026-10-12T11:08:24Z"
     }
   ]
 }
