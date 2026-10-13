@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "updated": "2026-10-13T15:09:09Z",
+  "updated": "2026-10-13T17:07:30Z",
   "items": [
     {
       "fmp": "YOU.L",
@@ -48,7 +48,7 @@
       "fmp": "VSURE.ST",
       "sym": "vsure-se",
       "name": "Verisure Plc",
-      "pct": 8.76,
+      "pct": 8.35,
       "short": "Tänast ettevõttepõhist uudist ega analüütiku muudatust ei leidnud",
       "text": "Verisure kohta ma tänasest päevast ühtegi börsiteadet, analüütiku soovituse muutust ega muud ettevõttepõhist uudist ei leidnud. Viimased avalikud teated olid 8. oktoobril ja puudutasid IPO-järgsete aktsiatasude väljaandmist, mis tõusu ei seleta. Aktsia on viimastel kuudel olnud surve all (septembris langetasid mitu panka sihthinda) ning täna ronis ta umbes 8,9 euroni. Tõusu põhjus jääb kinnitamata.",
       "sources": [
@@ -59,6 +59,25 @@
         {
           "title": "Verisure plc: analüütikute soovitused (MarketScreener)",
           "url": "https://www.marketscreener.com/quote/stock/VERISURE-PLC-196294215/news-broker-research/"
+        }
+      ],
+      "at": "2026-10-13T15:09:09Z"
+    },
+    {
+      "fmp": "DOV.MI",
+      "sym": "dov-mil",
+      "name": "doValue S.p.A.",
+      "pct": -6.94,
+      "short": "Tänast uudist ei leidnud; langus jätkub pärast 8.10 kärbitud 2026. a prognoosi",
+      "text": "doValue kohta ma tänasest päevast uut ettevõttepõhist uudist ei leidnud. 8. oktoobril langetas ettevõte koos uue 2027–2029 strateegiaga 2026. aasta EBITDA prognoosi umbes 300 mln eurolt 270–290 mln eurole, sest sissenõudmised ja uued mandaadid Itaalias jäid nõrgemaks. Pärast seda on aktsia nädalaga kaotanud ligi 8% ja aasta algusest üle 40%. Tänane langus sobib selle trendi jätkuga, kuid otsest tänast põhjust ei ole kinnitatud.",
+      "sources": [
+        {
+          "title": "Dovalue taglia le stime del 2026 e presenta il nuovo piano (MilanoFinanza, 8.10.2026)",
+          "url": "https://www.milanofinanza.it/news/dovalue-il-futuro-oltre-gli-npl-il-nuovo-piano-punta-sui-recuperi-digitali-con-ebitda-fino-a-350-milioni-202610080831012604"
+        },
+        {
+          "title": "doValue – notizie e quotazioni (Teleborsa)",
+          "url": "https://www.teleborsa.it/azioni/dovalue-dov-it0005610958-SVQwMDA1NjEwOTU4"
         }
       ],
       "at": "2026-10-13T15:09:09Z"
@@ -86,7 +105,7 @@
       "fmp": "BUR.L",
       "sym": "bur-lon",
       "name": "Burford Capital Limited",
-      "pct": -6.13,
+      "pct": -5.98,
       "short": "Tänast ettevõttepõhist uudist ei leidnud; taustaks YPF-kohtuasja kaotus",
       "text": "Burford Capitali kohta ei leidnud ma tänasest päevast ühtegi börsiteadet ega analüütiku muudatust, mis Londonis umbes 6% langust seletaks. Taustaks: märtsis tühistas USA apellatsioonikohus Argentina vastu saadud 16,1 mld dollari suuruse YPF-otsuse, mille järel aktsia kukkus ligi poole võrra ja ettevõte teatas suurest mitterahalisest allahindlusest. Aktsia on 52 nädala madalaima taseme lähedal ja kauplemismaht on väike. Tänase languse põhjus jääb kinnitamata.",
       "sources": [
@@ -97,25 +116,6 @@
         {
           "title": "Burford Capital news (Benzinga)",
           "url": "https://www.benzinga.com/quote/BUR/news"
-        }
-      ],
-      "at": "2026-10-13T15:09:09Z"
-    },
-    {
-      "fmp": "DOV.MI",
-      "sym": "dov-mil",
-      "name": "doValue S.p.A.",
-      "pct": -5.88,
-      "short": "Tänast uudist ei leidnud; langus jätkub pärast 8.10 kärbitud 2026. a prognoosi",
-      "text": "doValue kohta ma tänasest päevast uut ettevõttepõhist uudist ei leidnud. 8. oktoobril langetas ettevõte koos uue 2027–2029 strateegiaga 2026. aasta EBITDA prognoosi umbes 300 mln eurolt 270–290 mln eurole, sest sissenõudmised ja uued mandaadid Itaalias jäid nõrgemaks. Pärast seda on aktsia nädalaga kaotanud ligi 8% ja aasta algusest üle 40%. Tänane langus sobib selle trendi jätkuga, kuid otsest tänast põhjust ei ole kinnitatud.",
-      "sources": [
-        {
-          "title": "Dovalue taglia le stime del 2026 e presenta il nuovo piano (MilanoFinanza, 8.10.2026)",
-          "url": "https://www.milanofinanza.it/news/dovalue-il-futuro-oltre-gli-npl-il-nuovo-piano-punta-sui-recuperi-digitali-con-ebitda-fino-a-350-milioni-202610080831012604"
-        },
-        {
-          "title": "doValue – notizie e quotazioni (Teleborsa)",
-          "url": "https://www.teleborsa.it/azioni/dovalue-dov-it0005610958-SVQwMDA1NjEwOTU4"
         }
       ],
       "at": "2026-10-13T15:09:09Z"
@@ -153,6 +153,25 @@
         }
       ],
       "at": "2026-10-13T11:08:32Z"
+    },
+    {
+      "fmp": "ADN1.DE",
+      "sym": "adn1-etr",
+      "name": "adesso SE",
+      "pct": 5.2,
+      "short": "Tänast ettevõttepõhist uudist ega analüütiku muudatust ei leidnud",
+      "text": "Adesso aktie tõusis täna Xetras umbes 5% 66,80 euroni (eelmise päeva sulgemishind 63,50 eurot). Tänast börsiteadet, tellimusuudist ega analüütiku reitingumuudatust ma ei leidnud; viimane analüütikute uudis on Berenbergi 25. septembri ostusoovitus 128-eurose sihthinnaga ja järgmised tulemused tulevad 11. novembril. Põhjus jääb seega selgusetuks ning aktsia on endiselt 52 nädala tipust (100,60 eurot) tublisti madalamal.",
+      "sources": [
+        {
+          "title": "Berenberg keeps EUR 128 target for adesso stock (ad-hoc-news, 13.10.2026)",
+          "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/berenberg-keeps-eur-128-target-for-adesso-stock/70306708"
+        },
+        {
+          "title": "adesso SE – uudised (finanznachrichten.de)",
+          "url": "https://www.finanznachrichten.de/nachrichten-aktien/adesso-se.htm"
+        }
+      ],
+      "at": "2026-10-13T17:07:30Z"
     },
     {
       "fmp": "0268.HK",
