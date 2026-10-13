@@ -1,6 +1,6 @@
 {
   "date": "2026-10-13",
-  "updated": "2026-10-13T13:08:17Z",
+  "updated": "2026-10-13T15:09:09Z",
   "items": [
     {
       "fmp": "YOU.L",
@@ -45,6 +45,25 @@
       "at": "2026-10-13T09:07:34Z"
     },
     {
+      "fmp": "VSURE.ST",
+      "sym": "vsure-se",
+      "name": "Verisure Plc",
+      "pct": 8.76,
+      "short": "Tänast ettevõttepõhist uudist ega analüütiku muudatust ei leidnud",
+      "text": "Verisure kohta ma tänasest päevast ühtegi börsiteadet, analüütiku soovituse muutust ega muud ettevõttepõhist uudist ei leidnud. Viimased avalikud teated olid 8. oktoobril ja puudutasid IPO-järgsete aktsiatasude väljaandmist, mis tõusu ei seleta. Aktsia on viimastel kuudel olnud surve all (septembris langetasid mitu panka sihthinda) ning täna ronis ta umbes 8,9 euroni. Tõusu põhjus jääb kinnitamata.",
+      "sources": [
+        {
+          "title": "Verisure: Issuance of shares in connection with vesting of IPO transition awards (MFN, 8.10.2026)",
+          "url": "https://mfn.se/all/a/verisure/issuance-of-shares-in-connection-with-vesting-of-previously-announced-verisure-plc-ipo-transition-awards-db02d667"
+        },
+        {
+          "title": "Verisure plc: analüütikute soovitused (MarketScreener)",
+          "url": "https://www.marketscreener.com/quote/stock/VERISURE-PLC-196294215/news-broker-research/"
+        }
+      ],
+      "at": "2026-10-13T15:09:09Z"
+    },
+    {
       "fmp": "GNC.L",
       "sym": "gnc-lon",
       "name": "Greencore Group Plc",
@@ -62,6 +81,44 @@
         }
       ],
       "at": "2026-10-13T07:19:10Z"
+    },
+    {
+      "fmp": "BUR.L",
+      "sym": "bur-lon",
+      "name": "Burford Capital Limited",
+      "pct": -6.13,
+      "short": "Tänast ettevõttepõhist uudist ei leidnud; taustaks YPF-kohtuasja kaotus",
+      "text": "Burford Capitali kohta ei leidnud ma tänasest päevast ühtegi börsiteadet ega analüütiku muudatust, mis Londonis umbes 6% langust seletaks. Taustaks: märtsis tühistas USA apellatsioonikohus Argentina vastu saadud 16,1 mld dollari suuruse YPF-otsuse, mille järel aktsia kukkus ligi poole võrra ja ettevõte teatas suurest mitterahalisest allahindlusest. Aktsia on 52 nädala madalaima taseme lähedal ja kauplemismaht on väike. Tänase languse põhjus jääb kinnitamata.",
+      "sources": [
+        {
+          "title": "Burford Capital Further Statement on YPF (30.03.2026)",
+          "url": "https://investors.burfordcapital.com/news/news-details/2026/Burford-Capital-Further-Statement-on-YPF/default.aspx"
+        },
+        {
+          "title": "Burford Capital news (Benzinga)",
+          "url": "https://www.benzinga.com/quote/BUR/news"
+        }
+      ],
+      "at": "2026-10-13T15:09:09Z"
+    },
+    {
+      "fmp": "DOV.MI",
+      "sym": "dov-mil",
+      "name": "doValue S.p.A.",
+      "pct": -5.88,
+      "short": "Tänast uudist ei leidnud; langus jätkub pärast 8.10 kärbitud 2026. a prognoosi",
+      "text": "doValue kohta ma tänasest päevast uut ettevõttepõhist uudist ei leidnud. 8. oktoobril langetas ettevõte koos uue 2027–2029 strateegiaga 2026. aasta EBITDA prognoosi umbes 300 mln eurolt 270–290 mln eurole, sest sissenõudmised ja uued mandaadid Itaalias jäid nõrgemaks. Pärast seda on aktsia nädalaga kaotanud ligi 8% ja aasta algusest üle 40%. Tänane langus sobib selle trendi jätkuga, kuid otsest tänast põhjust ei ole kinnitatud.",
+      "sources": [
+        {
+          "title": "Dovalue taglia le stime del 2026 e presenta il nuovo piano (MilanoFinanza, 8.10.2026)",
+          "url": "https://www.milanofinanza.it/news/dovalue-il-futuro-oltre-gli-npl-il-nuovo-piano-punta-sui-recuperi-digitali-con-ebitda-fino-a-350-milioni-202610080831012604"
+        },
+        {
+          "title": "doValue – notizie e quotazioni (Teleborsa)",
+          "url": "https://www.teleborsa.it/azioni/dovalue-dov-it0005610958-SVQwMDA1NjEwOTU4"
+        }
+      ],
+      "at": "2026-10-13T15:09:09Z"
     },
     {
       "fmp": "ENT.L",
