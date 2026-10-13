@@ -1,7 +1,45 @@
 {
   "date": "2026-10-13",
-  "updated": "2026-10-13T07:19:10Z",
+  "updated": "2026-10-13T09:07:34Z",
   "items": [
+    {
+      "fmp": "FYB.DE",
+      "sym": "fyb-etr",
+      "name": "Formycon AG",
+      "pct": 9.97,
+      "short": "FDA võttis Keytruda biosimilari FYB206 taotluse menetlusse; Zydus maksab vahemakse",
+      "text": "Formycon ja partner Zydus teatasid täna (13.10), et USA FDA võttis menetlusse Keytruda biosimilari FYB206 müügiloa taotluse – ettevõtete sõnul esimese avalikult teatatud Keytruda biosimilari taotlusena. Menetlusse võtmine käivitab Zyduselt vahemakse Formyconile (summat ei avaldatud) ja FDA otsust oodatakse 2027. aasta III kvartalis. Keytruda müük oli 2025. aastal 31,7 mld dollarit. Aktsia tõusis kohe pärast teadet, nii et seos on kindel.",
+      "sources": [
+        {
+          "title": "EQS-News: FDA nimmt FYB206 als erstes Keytruda-Biosimilar zur Prüfung an (finanzen.ch)",
+          "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-news-formycon-und-zydus-fda-nimmt-fyb206-als-erstes-oeffentlich-bekannt-gegebenes-keytruda-biosimilar-zur-pruefung-an-1036618804"
+        },
+        {
+          "title": "Formycon zieht am Dienstagvormittag deutlich an (finanzen.ch, 13.10.2026)",
+          "url": "https://www.finanzen.ch/nachrichten/aktien/formycon-aktie-kursbewegung-13-10-2026-1035064652"
+        }
+      ],
+      "at": "2026-10-13T09:07:34Z"
+    },
+    {
+      "fmp": "YOU.L",
+      "sym": "you-lon",
+      "name": "YouGov plc",
+      "pct": 6.68,
+      "short": "Aastatulemused prognoosi piires, 2027. a kasumi kasv 7–12%, 15 mln £ aktsiate tagasiost",
+      "text": "YouGov avaldas täna 31. juulil lõppenud majandusaasta tulemused: käive kasvas 2% 396,6 mln naelani, korrigeeritud ärikasum langes 11% 54,3 mln naelani, mis vastas ettevõtte prognoosile. 2027. majandusaastaks lubatakse korrigeeritud ärikasumit 58–61 mln naela (+7–12%), sest kulude kärpimise kava edeneb oodatust kiiremini. Dividendi asemel käivitati kuni 15 mln naela suurune aktsiate tagasiost. Aktsia tõusis kohe pärast teadet, seega on seos kindel.",
+      "sources": [
+        {
+          "title": "YouGov shares jump on profit growth guidance for fiscal 2027 (Investing.com)",
+          "url": "https://www.investing.com/news/earnings/yougov-shares-jump-on-profit-growth-guidance-for-fiscal-2027-4945724"
+        },
+        {
+          "title": "YouGov launches £15m share buyback in place of dividend (Investing.com)",
+          "url": "https://www.investing.com/news/company-news/yougov-launches-15m-share-buyback-in-place-of-dividend-93CH-4945502"
+        }
+      ],
+      "at": "2026-10-13T09:07:34Z"
+    },
     {
       "fmp": "GNC.L",
       "sym": "gnc-lon",
@@ -25,7 +63,7 @@
       "fmp": "0268.HK",
       "sym": "268-hkg",
       "name": "Kingdee International Software Group Co., Ltd.",
-      "pct": 5.68,
+      "pct": 5.18,
       "short": "Tugevad III kv näitajad: püsitulu ARR +19%, uus ARR +47%, AI-lepingud kasvavad",
       "text": "Kingdee teatas 12. oktoobril, et tellimuste aastane püsitulu (ARR) oli 30. septembri seisuga umbes 4,60 mld jüaani (+19,3% aastaga) ja III kvartali uus ARR kasvas umbes 46,9%. Kasvu vedas ettevõtete nõudlus AI-toodete järele. Üheksa kuu AI-toodete lepingute maht oli 1,002 mld jüaani. Aktsia tõusis juba eile üle 4%, täna veel umbes 6%. Hiina meedia seob tõusu otseselt selle teatega, seega on seos kindel.",
       "sources": [
