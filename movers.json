@@ -1,5 +1,44 @@
 {
   "date": "2026-10-13",
-  "updated": "2026-10-13T05:06:50Z",
-  "items": []
+  "updated": "2026-10-13T07:19:10Z",
+  "items": [
+    {
+      "fmp": "GNC.L",
+      "sym": "gnc-lon",
+      "name": "Greencore Group Plc",
+      "pct": 6.48,
+      "short": "Tõus langeb kokku tänase IV kv ja 2026. majandusaasta äriülevaatega",
+      "text": "Greencore pidi täna (13.10) avaldama IV kvartali ja kogu 2026. majandusaasta äriülevaate. Tõus tuli börsipäeva alguses, nii et ilmselt reageeris turg just sellele, kuid ülevaate sisu ja numbreid ma usaldusväärsest allikast kinnitada ei saanud. Juulis tõstis ettevõte aasta korrigeeritud ärikasumi prognoosi 234–242 mln naelale (konsensus oli 224 mln) ja ütles, et IV kvartal algas hästi. Seos ülevaatega on tõenäoline, kuid põhjust ei ole kinnitatud.",
+      "sources": [
+        {
+          "title": "Greencore: Q4 & FY26 Trading Update scheduled for 13 October 2026 (Kalkine Media)",
+          "url": "https://kalkinemedia.com/uk/news/announcements/greencore-group-plc-gnc-announces-q4-and-full-year-fy26-trading-update-for-13-october-2026"
+        },
+        {
+          "title": "Greencore Q3 update, guidance raised (Halifax/Sharecast)",
+          "url": "https://www.investments.halifax.co.uk/research-centre/news-centre/article/?id=23095674&type=bsm"
+        }
+      ],
+      "at": "2026-10-13T07:19:10Z"
+    },
+    {
+      "fmp": "0268.HK",
+      "sym": "268-hkg",
+      "name": "Kingdee International Software Group Co., Ltd.",
+      "pct": 5.68,
+      "short": "Tugevad III kv näitajad: püsitulu ARR +19%, uus ARR +47%, AI-lepingud kasvavad",
+      "text": "Kingdee teatas 12. oktoobril, et tellimuste aastane püsitulu (ARR) oli 30. septembri seisuga umbes 4,60 mld jüaani (+19,3% aastaga) ja III kvartali uus ARR kasvas umbes 46,9%. Kasvu vedas ettevõtete nõudlus AI-toodete järele. Üheksa kuu AI-toodete lepingute maht oli 1,002 mld jüaani. Aktsia tõusis juba eile üle 4%, täna veel umbes 6%. Hiina meedia seob tõusu otseselt selle teatega, seega on seos kindel.",
+      "sources": [
+        {
+          "title": "港股异动：金蝶国际涨超6% (Investing.com China, 13.10.2026)",
+          "url": "https://cn.investing.com/news/stock-market-news/article-3605166"
+        },
+        {
+          "title": "港股异动：金蝶国际涨超4% (Sohu, 12.10.2026)",
+          "url": "https://www.sohu.com/a/1086737279_639898"
+        }
+      ],
+      "at": "2026-10-13T07:19:10Z"
+    }
+  ]
 }
