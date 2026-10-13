@@ -1,12 +1,12 @@
 {
   "date": "2026-10-13",
-  "updated": "2026-10-13T09:07:34Z",
+  "updated": "2026-10-13T11:08:32Z",
   "items": [
     {
       "fmp": "FYB.DE",
       "sym": "fyb-etr",
       "name": "Formycon AG",
-      "pct": 9.97,
+      "pct": 12.54,
       "short": "FDA võttis Keytruda biosimilari FYB206 taotluse menetlusse; Zydus maksab vahemakse",
       "text": "Formycon ja partner Zydus teatasid täna (13.10), et USA FDA võttis menetlusse Keytruda biosimilari FYB206 müügiloa taotluse – ettevõtete sõnul esimese avalikult teatatud Keytruda biosimilari taotlusena. Menetlusse võtmine käivitab Zyduselt vahemakse Formyconile (summat ei avaldatud) ja FDA otsust oodatakse 2027. aasta III kvartalis. Keytruda müük oli 2025. aastal 31,7 mld dollarit. Aktsia tõusis kohe pärast teadet, nii et seos on kindel.",
       "sources": [
@@ -25,20 +25,24 @@
       "fmp": "YOU.L",
       "sym": "you-lon",
       "name": "YouGov plc",
-      "pct": 6.68,
-      "short": "Aastatulemused prognoosi piires, 2027. a kasumi kasv 7–12%, 15 mln £ aktsiate tagasiost",
-      "text": "YouGov avaldas täna 31. juulil lõppenud majandusaasta tulemused: käive kasvas 2% 396,6 mln naelani, korrigeeritud ärikasum langes 11% 54,3 mln naelani, mis vastas ettevõtte prognoosile. 2027. majandusaastaks lubatakse korrigeeritud ärikasumit 58–61 mln naela (+7–12%), sest kulude kärpimise kava edeneb oodatust kiiremini. Dividendi asemel käivitati kuni 15 mln naela suurune aktsiate tagasiost. Aktsia tõusis kohe pärast teadet, seega on seos kindel.",
+      "pct": 11.73,
+      "short": "Aastatulemused prognoosi piires, 2027. a kasumi kasv 7–12%, 15 mln £ tagasiost",
+      "text": "YouGov avaldas täna 31. juulil lõppenud majandusaasta tulemused: käive kasvas 2% 396,6 mln naelani, korrigeeritud ärikasum langes 11% 54,3 mln naelani, mis vastas ettevõtte prognoosile, ning II poolaasta kasum oli veidi eelmise aasta tasemest kõrgem. 2027. majandusaastaks lubatakse korrigeeritud ärikasumit 58–61 mln naela (+7–12%) ja juhtkonna sõnul on 49% järgmise aasta käibest juba lepingutega kaetud; dividendi asemel käivitati kuni 15 mln naela suurune aktsiate tagasiost. Aktsia tõusis kohe pärast teadet ja tõus laienes päeva jooksul ligi 12%-ni, seega on seos tulemustega kindel.",
       "sources": [
         {
           "title": "YouGov shares jump on profit growth guidance for fiscal 2027 (Investing.com)",
           "url": "https://www.investing.com/news/earnings/yougov-shares-jump-on-profit-growth-guidance-for-fiscal-2027-4945724"
         },
         {
+          "title": "Earnings call transcript: YouGov rises on H2 2026 AI growth and buyback (Investing.com)",
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-yougov-rises-on-h2-2026-ai-growth-and-buyback-93CH-4946041"
+        },
+        {
           "title": "YouGov launches £15m share buyback in place of dividend (Investing.com)",
           "url": "https://www.investing.com/news/company-news/yougov-launches-15m-share-buyback-in-place-of-dividend-93CH-4945502"
         }
       ],
-      "at": "2026-10-13T09:07:34Z"
+      "at": "2026-10-13T11:08:32Z"
     },
     {
       "fmp": "GNC.L",
@@ -58,6 +62,21 @@
         }
       ],
       "at": "2026-10-13T07:19:10Z"
+    },
+    {
+      "fmp": "BONEX.ST",
+      "sym": "bonex-se",
+      "name": "BONESUPPORT HOLDING AB",
+      "pct": 5.44,
+      "short": "Tänast ettevõttepõhist uudist ei leidnud; käib 100 mln kr aktsiate tagasiost",
+      "text": "Bonesupporti kohta ei leidnud ma tänasest päevast ühtegi ettevõttepõhist uudist, analüütiku soovituse muutust ega börsiteadet, mis tõusu seletaks. Taustaks: ettevõte ostab 1. septembrist 30. oktoobrini tagasi kuni 100 mln Rootsi krooni eest aktsiaid ja ostis 5.–9. oktoobril 60 000 aktsiat keskmiselt ~230 krooniga. Tagasiost on aga kestnud septembrist ega seleta tänast hüpet, nii et tõusu põhjus jääb kinnitamata.",
+      "sources": [
+        {
+          "title": "Buy-back of ordinary shares in BONESUPPORT HOLDING AB October 5-9, 2026 (TradingView)",
+          "url": "https://tradingview.com/news/modular_finance:77e538a14f555:0-buy-back-of-ordinary-shares-in-bonesupport-holding-ab-october-5-9-2026-week-41"
+        }
+      ],
+      "at": "2026-10-13T11:08:32Z"
     },
     {
       "fmp": "0268.HK",
