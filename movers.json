@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated": "2026-10-14T13:08:03Z",
+  "updated": "2026-10-14T15:14:57Z",
   "items": [
     {
       "fmp": "ASB.AX",
@@ -29,7 +29,7 @@
       "fmp": "EVT.DE",
       "sym": "evt-etr",
       "name": "Evotec SE",
-      "pct": 8.02,
+      "pct": 7.53,
       "short": "III kv eelnumbrid ületasid ootusi, aastaprognoos kinnitati; RBC kordas „outperform“",
       "text": "Evotec avaldas täna III kvartali eelnumbrid: käive ja EBITDA paranesid eelmise kvartaliga võrreldes ning olid analüütikute keskmisest ootusest selgelt paremad. Juulis kärbitud aastaprognoos kinnitati. RBC jättis kehtima „outperform“ soovituse ja 10-eurose hinnasihi, kuid märkis, et ootuste ületamine tuleneb osaliselt hinnangute ajastusest. Eile langes aktsia 13 aasta madalaimale tasemele (2,406 €), mis võimendas tänast tagasipõrget; seos uudisega on kindel.",
       "sources": [
@@ -64,10 +64,93 @@
       "at": "2026-10-14T05:09:06Z"
     },
     {
+      "fmp": "VST",
+      "sym": "vst",
+      "name": "Vistra Corp.",
+      "pct": -5.71,
+      "short": "Tänast ettevõttepõhist uudist ei leitud; USA turg nõrgem pärast kiiret inflatsiooni",
+      "text": "Tänaseid Vistrat puudutavaid uudiseid (tulemused, soovitused, regulatsioon) ei leitud. Turg tervikuna oli nõrgem: septembri USA tarbijahinnaindeks tõusis aastaga 3,7% (oodati 3,6%) ja see tõi taas päevakorda Föderaalreservi intressitõstu, S&P 500 futuurid olid enne avamist −0,3%. Aktsia on viimastel nädalatel kõikunud tugevalt, nt langes 8. oktoobril pärast ralli ligi 6%. Seos tänase langusega on ebakindel.",
+      "sources": [
+        {
+          "title": "Stock Market Today: Stocks Head Lower as Hot Inflation Puts Another Fed Rate Hike Back in Play (Yahoo Finance, 14.10.2026)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-stocks-head-132743645.html"
+        },
+        {
+          "title": "Why is Vistra stock sliding today? (Investing.com, 08.10.2026)",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-vistra-stock-sliding-today-93CH-4939614"
+        }
+      ],
+      "at": "2026-10-14T15:14:57Z"
+    },
+    {
+      "fmp": "SHLS",
+      "sym": "shls",
+      "name": "Shoals Technologies Group, Inc. Class A",
+      "pct": -5.38,
+      "short": "Tänast ettevõttepõhist uudist ei leitud; väikeaktsiad nõrgad pärast kiiret inflatsiooni",
+      "text": "Shoalsi kohta tänaseid uudiseid ei leitud – viimane ettevõtte teade on 26. augustist (patendivaidluse võit Voltage'i vastu). Turul tervikuna oli meeleolu nõrk: USA septembri inflatsioon (3,7% aastas) ületas ootusi ja Russell 2000 futuurid olid enne avamist −1,1%. Langes ka teisi päikeseenergia sektori aktsiaid portfellis (Nextpower, SOLV Energy), kuid sektori ühist põhjust allikad ei kinnita. Seos on ebakindel.",
+      "sources": [
+        {
+          "title": "Stock Market Today: Stocks Head Lower as Hot Inflation Puts Another Fed Rate Hike Back in Play (Yahoo Finance, 14.10.2026)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-stocks-head-132743645.html"
+        },
+        {
+          "title": "Shoals Technologies Group (SHLS) Stock News (StockTitan)",
+          "url": "https://www.stocktitan.net/news/SHLS/"
+        }
+      ],
+      "at": "2026-10-14T15:14:57Z"
+    },
+    {
+      "fmp": "ALGT",
+      "sym": "algt",
+      "name": "Allegiant Travel Company",
+      "pct": -5.36,
+      "short": "Tänast ettevõttepõhist uudist ei leitud; USA turg nõrgem pärast kiiret inflatsiooni",
+      "text": "Allegianti kohta tänaseid uudiseid (liiklusnumbrid, prognoos, soovitused) ei leitud. Turg tervikuna oli nõrgem, sest USA septembri inflatsioon (3,7% aastas, oodati 3,6%) tõi taas päevakorda intressitõstu ning väiksemate ettevõtete Russell 2000 futuurid olid enne avamist −1,1%. Põhjus jääb selgusetuks; seos turu üldise meeleoluga on ebakindel.",
+      "sources": [
+        {
+          "title": "Stock Market Today: Stocks Head Lower as Hot Inflation Puts Another Fed Rate Hike Back in Play (Yahoo Finance, 14.10.2026)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-stocks-head-132743645.html"
+        }
+      ],
+      "at": "2026-10-14T15:14:57Z"
+    },
+    {
+      "fmp": "ADOC.PA",
+      "sym": "adoc-par",
+      "name": "Adocia SA",
+      "pct": 5.35,
+      "short": "Tänast ettevõttepõhist uudist ei leitud; põhjus jääb selgusetuks",
+      "text": "Adocia kohta tänaseid teateid ega uudiseid ei leitud; viimased uudised on septembri lõpust (25.09 poolaasta tulemused: kahjum 8,6 mln eurot, raha jätkub 2027. aasta algusesse). Aktsia on madalal tasemel (2,13 €, 52 nädala põhi 2,01 €) ja väikese kauplemismahuga, mistõttu võivad suured päevased kõikumised tekkida ka ilma uudiseta. Põhjus jääb selgusetuks.",
+      "sources": [
+        {
+          "title": "Actualités ADOCIA (Idéal Investisseur)",
+          "url": "https://www.ideal-investisseur.fr/actualite-bourse/adocia/FR0011184241"
+        }
+      ],
+      "at": "2026-10-14T15:14:57Z"
+    },
+    {
+      "fmp": "MWH",
+      "sym": "mwh",
+      "name": "SOLV Energy Inc Class A",
+      "pct": -5.32,
+      "short": "Tänast ettevõttepõhist uudist ei leitud; USA turg nõrgem pärast kiiret inflatsiooni",
+      "text": "SOLV Energy kohta tänaseid uudiseid ei leitud. Turg tervikuna oli nõrgem: USA septembri inflatsioon (3,7% aastas) ületas ootusi ja tõi taas päevakorda intressitõstu, väikeaktsiate Russell 2000 futuurid olid enne avamist −1,1%. Samal päeval langesid ka teised päikeseenergia aktsiad portfellis (Shoals, Nextpower), kuid ühist sektoripõhjust allikad ei kinnita. Seos on ebakindel.",
+      "sources": [
+        {
+          "title": "Stock Market Today: Stocks Head Lower as Hot Inflation Puts Another Fed Rate Hike Back in Play (Yahoo Finance, 14.10.2026)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-stocks-head-132743645.html"
+        }
+      ],
+      "at": "2026-10-14T15:14:57Z"
+    },
+    {
       "fmp": "PEN.OL",
       "sym": "pen-no",
       "name": "Panoro Energy ASA",
-      "pct": 5.25,
+      "pct": 5.1,
       "short": "Tänast ettevõttepõhist uudist ei leitud; põhjus jääb selgusetuks",
       "text": "Panoro Energy aktsia tõusis täna Oslo börsil umbes 5%, kuid ettevõtte tänaseid börsiteateid ega muid tänaseid ettevõttepõhiseid uudiseid (tulemused, tehingud, analüütikute soovitused) otsingutest ei leitud. Ka FMP uudisvoog ei sisaldanud tänaseid uudiseid. Sektori- või naftahinna tausta kohta tänaseid kinnitavaid allikaid ei leitud, seega jääb liikumise põhjus lahtiseks.",
       "sources": [
