@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated": "2026-10-14T15:14:57Z",
+  "updated": "2026-10-14T17:07:54Z",
   "items": [
     {
       "fmp": "ASB.AX",
@@ -26,10 +26,44 @@
       "at": "2026-10-14T05:09:06Z"
     },
     {
+      "fmp": "ALGT",
+      "sym": "algt",
+      "name": "Allegiant Travel Company",
+      "pct": -9.35,
+      "short": "Ettevõttepõhist uudist ei leitud; kallis nafta ja kiire inflatsioon survestasid lennufirmasid",
+      "text": "Allegianti kohta tänaseid uudiseid (liiklusnumbrid, prognoos, soovitused) ei leitud. USA septembri inflatsioon (3,7% aastas, oodati 3,6%) tõi taas päevakorda intressitõstu ja Brenti nafta püsis ligi 106 dollari juures; S&P 500 langes 0,94%. Samal päeval langes ka American Airlines 4,5%, mida seostati kõrgete kütusekuludega. Seos sektori kütusemurega on usutav, kuid Allegianti üle 9% langust see täielikult ei selgita.",
+      "sources": [
+        {
+          "title": "Why is US Stock Market Down Today? … Hot US CPI Inflation Fuels Fed Rate-Hike Bets & Oil Hovers Near $106 (Sunday Guardian, 14.10.2026)",
+          "url": "https://sundayguardianlive.com/business/why-is-us-stock-market-down-today-dow-jones-falls-017-sp-500-drops-094-nasdaq-slumps-130-as-hot-us-cpi-inflation-fuels-fed-rate-hike-bets-oil-hovers-near-106-check-what-investors-should-305763/"
+        },
+        {
+          "title": "American Airlines Slides Amid Elevated Industry Fuel Cost Pressures (JKN, 15.10.2026)",
+          "url": "https://news.jkn.co.kr/editions/english/post/1023515"
+        }
+      ],
+      "at": "2026-10-14T17:07:54Z"
+    },
+    {
+      "fmp": "ADOC.PA",
+      "sym": "adoc-par",
+      "name": "Adocia SA",
+      "pct": 7.43,
+      "short": "Tänast ettevõttepõhist uudist ei leitud; põhjus jääb selgusetuks",
+      "text": "Adocia kohta tänaseid teateid ega uudiseid ei leitud; viimased uudised on septembri lõpust (25.09 poolaasta tulemused: kahjum 8,6 mln eurot, raha jätkub 2027. aasta algusesse). Aktsia on madalal tasemel (2,13 €, 52 nädala põhi 2,01 €) ja väikese kauplemismahuga, mistõttu võivad suured päevased kõikumised tekkida ka ilma uudiseta. Põhjus jääb selgusetuks.",
+      "sources": [
+        {
+          "title": "Actualités ADOCIA (Idéal Investisseur)",
+          "url": "https://www.ideal-investisseur.fr/actualite-bourse/adocia/FR0011184241"
+        }
+      ],
+      "at": "2026-10-14T15:14:57Z"
+    },
+    {
       "fmp": "EVT.DE",
       "sym": "evt-etr",
       "name": "Evotec SE",
-      "pct": 7.53,
+      "pct": 6.71,
       "short": "III kv eelnumbrid ületasid ootusi, aastaprognoos kinnitati; RBC kordas „outperform“",
       "text": "Evotec avaldas täna III kvartali eelnumbrid: käive ja EBITDA paranesid eelmise kvartaliga võrreldes ning olid analüütikute keskmisest ootusest selgelt paremad. Juulis kärbitud aastaprognoos kinnitati. RBC jättis kehtima „outperform“ soovituse ja 10-eurose hinnasihi, kuid märkis, et ootuste ületamine tuleneb osaliselt hinnangute ajastusest. Eile langes aktsia 13 aasta madalaimale tasemele (2,406 €), mis võimendas tänast tagasipõrget; seos uudisega on kindel.",
       "sources": [
@@ -43,6 +77,59 @@
         }
       ],
       "at": "2026-10-14T09:07:32Z"
+    },
+    {
+      "fmp": "VST",
+      "sym": "vst",
+      "name": "Vistra Corp.",
+      "pct": -6.11,
+      "short": "Tänast ettevõttepõhist uudist ei leitud; USA turg nõrgem pärast kiiret inflatsiooni",
+      "text": "Tänaseid Vistrat puudutavaid uudiseid (tulemused, soovitused, regulatsioon) ei leitud. Turg tervikuna oli nõrgem: septembri USA tarbijahinnaindeks tõusis aastaga 3,7% (oodati 3,6%) ja see tõi taas päevakorda Föderaalreservi intressitõstu, S&P 500 futuurid olid enne avamist −0,3%. Aktsia on viimastel nädalatel kõikunud tugevalt, nt langes 8. oktoobril pärast ralli ligi 6%. Seos tänase langusega on ebakindel.",
+      "sources": [
+        {
+          "title": "Stock Market Today: Stocks Head Lower as Hot Inflation Puts Another Fed Rate Hike Back in Play (Yahoo Finance, 14.10.2026)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-stocks-head-132743645.html"
+        },
+        {
+          "title": "Why is Vistra stock sliding today? (Investing.com, 08.10.2026)",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-vistra-stock-sliding-today-93CH-4939614"
+        }
+      ],
+      "at": "2026-10-14T15:14:57Z"
+    },
+    {
+      "fmp": "SHLS",
+      "sym": "shls",
+      "name": "Shoals Technologies Group, Inc. Class A",
+      "pct": -5.9,
+      "short": "Tänast ettevõttepõhist uudist ei leitud; väikeaktsiad nõrgad pärast kiiret inflatsiooni",
+      "text": "Shoalsi kohta tänaseid uudiseid ei leitud – viimane ettevõtte teade on 26. augustist (patendivaidluse võit Voltage'i vastu). Turul tervikuna oli meeleolu nõrk: USA septembri inflatsioon (3,7% aastas) ületas ootusi ja Russell 2000 futuurid olid enne avamist −1,1%. Langes ka teisi päikeseenergia sektori aktsiaid portfellis (Nextpower, SOLV Energy), kuid sektori ühist põhjust allikad ei kinnita. Seos on ebakindel.",
+      "sources": [
+        {
+          "title": "Stock Market Today: Stocks Head Lower as Hot Inflation Puts Another Fed Rate Hike Back in Play (Yahoo Finance, 14.10.2026)",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-stocks-head-132743645.html"
+        },
+        {
+          "title": "Shoals Technologies Group (SHLS) Stock News (StockTitan)",
+          "url": "https://www.stocktitan.net/news/SHLS/"
+        }
+      ],
+      "at": "2026-10-14T15:14:57Z"
+    },
+    {
+      "fmp": "ECG",
+      "sym": "ecg",
+      "name": "Everus Construction Group, Inc.",
+      "pct": -5.88,
+      "short": "Tänast ettevõttepõhist uudist ei leitud; USA turg nõrgem pärast kiiret inflatsiooni",
+      "text": "Everuse kohta tänaseid uudiseid (tulemused, lepingud, soovitused) ei leitud. Turg tervikuna oli nõrgem: USA septembri inflatsioon (3,7% aastas) ületas ootusi, tööstusaktsiad olid nõrgemate seas ja S&P 500 langes 0,94%. Samal päeval langes ka portfelli teine ehitusettevõte Granite Construction ligi 5%, kuid ühist sektoripõhjust allikad ei kinnita. Seos on ebakindel.",
+      "sources": [
+        {
+          "title": "Why is US Stock Market Down Today? … Hot US CPI Inflation Fuels Fed Rate-Hike Bets & Oil Hovers Near $106 (Sunday Guardian, 14.10.2026)",
+          "url": "https://sundayguardianlive.com/business/why-is-us-stock-market-down-today-dow-jones-falls-017-sp-500-drops-094-nasdaq-slumps-130-as-hot-us-cpi-inflation-fuels-fed-rate-hike-bets-oil-hovers-near-106-check-what-investors-should-305763/"
+        }
+      ],
+      "at": "2026-10-14T17:07:54Z"
     },
     {
       "fmp": "9896.HK",
@@ -64,74 +151,6 @@
       "at": "2026-10-14T05:09:06Z"
     },
     {
-      "fmp": "VST",
-      "sym": "vst",
-      "name": "Vistra Corp.",
-      "pct": -5.71,
-      "short": "Tänast ettevõttepõhist uudist ei leitud; USA turg nõrgem pärast kiiret inflatsiooni",
-      "text": "Tänaseid Vistrat puudutavaid uudiseid (tulemused, soovitused, regulatsioon) ei leitud. Turg tervikuna oli nõrgem: septembri USA tarbijahinnaindeks tõusis aastaga 3,7% (oodati 3,6%) ja see tõi taas päevakorda Föderaalreservi intressitõstu, S&P 500 futuurid olid enne avamist −0,3%. Aktsia on viimastel nädalatel kõikunud tugevalt, nt langes 8. oktoobril pärast ralli ligi 6%. Seos tänase langusega on ebakindel.",
-      "sources": [
-        {
-          "title": "Stock Market Today: Stocks Head Lower as Hot Inflation Puts Another Fed Rate Hike Back in Play (Yahoo Finance, 14.10.2026)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-stocks-head-132743645.html"
-        },
-        {
-          "title": "Why is Vistra stock sliding today? (Investing.com, 08.10.2026)",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-vistra-stock-sliding-today-93CH-4939614"
-        }
-      ],
-      "at": "2026-10-14T15:14:57Z"
-    },
-    {
-      "fmp": "SHLS",
-      "sym": "shls",
-      "name": "Shoals Technologies Group, Inc. Class A",
-      "pct": -5.38,
-      "short": "Tänast ettevõttepõhist uudist ei leitud; väikeaktsiad nõrgad pärast kiiret inflatsiooni",
-      "text": "Shoalsi kohta tänaseid uudiseid ei leitud – viimane ettevõtte teade on 26. augustist (patendivaidluse võit Voltage'i vastu). Turul tervikuna oli meeleolu nõrk: USA septembri inflatsioon (3,7% aastas) ületas ootusi ja Russell 2000 futuurid olid enne avamist −1,1%. Langes ka teisi päikeseenergia sektori aktsiaid portfellis (Nextpower, SOLV Energy), kuid sektori ühist põhjust allikad ei kinnita. Seos on ebakindel.",
-      "sources": [
-        {
-          "title": "Stock Market Today: Stocks Head Lower as Hot Inflation Puts Another Fed Rate Hike Back in Play (Yahoo Finance, 14.10.2026)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-stocks-head-132743645.html"
-        },
-        {
-          "title": "Shoals Technologies Group (SHLS) Stock News (StockTitan)",
-          "url": "https://www.stocktitan.net/news/SHLS/"
-        }
-      ],
-      "at": "2026-10-14T15:14:57Z"
-    },
-    {
-      "fmp": "ALGT",
-      "sym": "algt",
-      "name": "Allegiant Travel Company",
-      "pct": -5.36,
-      "short": "Tänast ettevõttepõhist uudist ei leitud; USA turg nõrgem pärast kiiret inflatsiooni",
-      "text": "Allegianti kohta tänaseid uudiseid (liiklusnumbrid, prognoos, soovitused) ei leitud. Turg tervikuna oli nõrgem, sest USA septembri inflatsioon (3,7% aastas, oodati 3,6%) tõi taas päevakorda intressitõstu ning väiksemate ettevõtete Russell 2000 futuurid olid enne avamist −1,1%. Põhjus jääb selgusetuks; seos turu üldise meeleoluga on ebakindel.",
-      "sources": [
-        {
-          "title": "Stock Market Today: Stocks Head Lower as Hot Inflation Puts Another Fed Rate Hike Back in Play (Yahoo Finance, 14.10.2026)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-stocks-head-132743645.html"
-        }
-      ],
-      "at": "2026-10-14T15:14:57Z"
-    },
-    {
-      "fmp": "ADOC.PA",
-      "sym": "adoc-par",
-      "name": "Adocia SA",
-      "pct": 5.35,
-      "short": "Tänast ettevõttepõhist uudist ei leitud; põhjus jääb selgusetuks",
-      "text": "Adocia kohta tänaseid teateid ega uudiseid ei leitud; viimased uudised on septembri lõpust (25.09 poolaasta tulemused: kahjum 8,6 mln eurot, raha jätkub 2027. aasta algusesse). Aktsia on madalal tasemel (2,13 €, 52 nädala põhi 2,01 €) ja väikese kauplemismahuga, mistõttu võivad suured päevased kõikumised tekkida ka ilma uudiseta. Põhjus jääb selgusetuks.",
-      "sources": [
-        {
-          "title": "Actualités ADOCIA (Idéal Investisseur)",
-          "url": "https://www.ideal-investisseur.fr/actualite-bourse/adocia/FR0011184241"
-        }
-      ],
-      "at": "2026-10-14T15:14:57Z"
-    },
-    {
       "fmp": "MWH",
       "sym": "mwh",
       "name": "SOLV Energy Inc Class A",
@@ -145,6 +164,21 @@
         }
       ],
       "at": "2026-10-14T15:14:57Z"
+    },
+    {
+      "fmp": "BOOT",
+      "sym": "boot",
+      "name": "Boot Barn Holdings, Inc.",
+      "pct": -5.26,
+      "short": "Tänast ettevõttepõhist uudist ei leitud; USA turg nõrgem pärast kiiret inflatsiooni",
+      "text": "Boot Barni kohta tänaseid uudiseid (müüginumbrid, soovituste muutused) ei leitud; tänased Zacksi artiklid olid üldised analüüsid. Turg tervikuna oli nõrgem, sest USA septembri inflatsioon (3,7% aastas, bensiin +7,1%) ületas ootusi ja tõi päevakorda intressitõstu. Põhjus jääb selgusetuks; seos turu üldise meeleoluga on ebakindel.",
+      "sources": [
+        {
+          "title": "Why is US Stock Market Down Today? … Hot US CPI Inflation Fuels Fed Rate-Hike Bets & Oil Hovers Near $106 (Sunday Guardian, 14.10.2026)",
+          "url": "https://sundayguardianlive.com/business/why-is-us-stock-market-down-today-dow-jones-falls-017-sp-500-drops-094-nasdaq-slumps-130-as-hot-us-cpi-inflation-fuels-fed-rate-hike-bets-oil-hovers-near-106-check-what-investors-should-305763/"
+        }
+      ],
+      "at": "2026-10-14T17:07:54Z"
     },
     {
       "fmp": "PEN.OL",
