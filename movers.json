@@ -1,196 +1,48 @@
 {
-  "date": "2026-10-13",
-  "updated": "2026-10-13T17:07:30Z",
+  "date": "2026-10-14",
+  "updated": "2026-10-14T05:09:06Z",
   "items": [
     {
-      "fmp": "YOU.L",
-      "sym": "you-lon",
-      "name": "YouGov plc",
-      "pct": 15.22,
-      "short": "Aastatulemused prognoosi piires, 2027. a kasumi kasv 7–12%, 15 mln £ tagasiost",
-      "text": "YouGov avaldas täna 31. juulil lõppenud majandusaasta tulemused: käive kasvas 2% 396,6 mln naelani, korrigeeritud ärikasum langes 11% 54,3 mln naelani, mis vastas ettevõtte prognoosile, ning II poolaasta kasum oli veidi eelmise aasta tasemest kõrgem. 2027. majandusaastaks lubatakse korrigeeritud ärikasumit 58–61 mln naela (+7–12%) ja juhtkonna sõnul on 49% järgmise aasta käibest juba lepingutega kaetud; dividendi asemel käivitati kuni 15 mln naela suurune aktsiate tagasiost. Aktsia tõusis kohe pärast teadet ja tõus laienes päeva jooksul umbes 15%-ni (päeva tipp 319 penni on ühtlasi 52 nädala kõrgeim); uut põhjust peale tulemuste ma ei leidnud, seega on seos tulemustega kindel.",
+      "fmp": "ASB.AX",
+      "sym": "asb-au",
+      "name": "Austal Limited",
+      "pct": 10.93,
+      "short": "Pikendas Hanwhale USA üksuse ostu due diligence perioodi; konkureeriv pakkumine laual",
+      "text": "Austal teatas täna (14.10), et pikendab Hanwha Groupi due diligence perioodi, et Hanwha jõuaks teha Austal USA kohta siduva pakkumise; pikenduse pikkust allikad ei maininud. Hanwha esialgne pakkumine augustis oli kuni 1,2 mld dollarit, septembris pakkus Wildcat Infrastructure USA äri eest kuni 1,35 mld dollarit. Reutersi andmetel tõusis aktsia päevasiseselt kuni 11,5% 4,18 Austraalia dollarini, mis on suurim tõus alates 11. augustist. Seos tänase teatega on kindel.",
       "sources": [
         {
-          "title": "YouGov shares jump on profit growth guidance for fiscal 2027 (Investing.com)",
-          "url": "https://www.investing.com/news/earnings/yougov-shares-jump-on-profit-growth-guidance-for-fiscal-2027-4945724"
+          "title": "Austal shares jump as Hanwha gets more time to bid for US unit (Reuters via TradingView)",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N460098:0-austal-shares-jump-as-hanwha-gets-more-time-to-bid-for-us-unit/"
         },
         {
-          "title": "Earnings call transcript: YouGov rises on H2 2026 AI growth and buyback (Investing.com)",
-          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-yougov-rises-on-h2-2026-ai-growth-and-buyback-93CH-4946041"
+          "title": "Austal shares jump as Hanwha gets more time to bid for US unit (pressnewsagency.org)",
+          "url": "https://pressnewsagency.org/austal-shares-jump-as-hanwha-gets-more-time-to-bid-for-us-unit/"
         },
         {
-          "title": "YouGov launches £15m share buyback in place of dividend (Investing.com)",
-          "url": "https://www.investing.com/news/company-news/yougov-launches-15m-share-buyback-in-place-of-dividend-93CH-4945502"
+          "title": "Austal shares jump 10% on Hanwha takeover due diligence extension (Capital Brief)",
+          "url": "https://www.capitalbrief.com/briefing/austal-shares-jump-10-on-hanwha-takeover-due-diligence-extension-23dd1ade-89b3-400d-90bb-f0e54adda59d/"
         }
       ],
-      "at": "2026-10-13T13:08:17Z"
+      "at": "2026-10-14T05:09:06Z"
     },
     {
-      "fmp": "FYB.DE",
-      "sym": "fyb-etr",
-      "name": "Formycon AG",
-      "pct": 10.23,
-      "short": "FDA võttis Keytruda biosimilari FYB206 taotluse menetlusse; Zydus maksab vahemakse",
-      "text": "Formycon ja partner Zydus teatasid täna (13.10), et USA FDA võttis menetlusse Keytruda biosimilari FYB206 müügiloa taotluse – ettevõtete sõnul esimese avalikult teatatud Keytruda biosimilari taotlusena. Menetlusse võtmine käivitab Zyduselt vahemakse Formyconile (summat ei avaldatud) ja FDA otsust oodatakse 2027. aasta III kvartalis. Keytruda müük oli 2025. aastal 31,7 mld dollarit. Aktsia tõusis kohe pärast teadet, nii et seos on kindel.",
+      "fmp": "9896.HK",
+      "sym": "9896-hkg",
+      "name": "MINISO Group Holding Ltd.",
+      "pct": 5.63,
+      "short": "Tugevad III kv käibenäitajad: Hiina GMV +25–30%, USA +20%; maaklerid kordavad ostusoovitust",
+      "text": "MINISO III kvartali tegevusandmete järgi kasvas Mandri-Hiina kaubakäive (GMV) aastaga 25–30% ja USA oma umbes 20%; septembris kiirenes USA kasv üle 30% ning võrreldavate poodide müük muutus seal positiivseks. CICC hinnangul kandub tugevus üle IV kvartali hooaega ja Everbright Securities jättis täna ostusoovituse kehtima (hinnanguline P/E 2026. a kasumi järgi umbes 7). Hiina finantsmeedia seob tänase tõusu otseselt nende numbritega, seega on seos üsna kindel.",
       "sources": [
         {
-          "title": "EQS-News: FDA nimmt FYB206 als erstes Keytruda-Biosimilar zur Prüfung an (finanzen.ch)",
-          "url": "https://www.finanzen.ch/nachrichten/aktien/eqs-news-formycon-und-zydus-fda-nimmt-fyb206-als-erstes-oeffentlich-bekannt-gegebenes-keytruda-biosimilar-zur-pruefung-an-1036618804"
+          "title": "港股异动：名创优品涨超4% (Investing.com China, 14.10.2026)",
+          "url": "https://cn.investing.com/news/stock-market-news/article-3607245"
         },
         {
-          "title": "Formycon zieht am Dienstagvormittag deutlich an (finanzen.ch, 13.10.2026)",
-          "url": "https://www.finanzen.ch/nachrichten/aktien/formycon-aktie-kursbewegung-13-10-2026-1035064652"
+          "title": "光大证券：维持名创优品(09896)“买入”评级 (Investing.com China, 14.10.2026)",
+          "url": "https://cn.investing.com/news/stock-market-news/article-3607372"
         }
       ],
-      "at": "2026-10-13T09:07:34Z"
-    },
-    {
-      "fmp": "VSURE.ST",
-      "sym": "vsure-se",
-      "name": "Verisure Plc",
-      "pct": 8.35,
-      "short": "Tänast ettevõttepõhist uudist ega analüütiku muudatust ei leidnud",
-      "text": "Verisure kohta ma tänasest päevast ühtegi börsiteadet, analüütiku soovituse muutust ega muud ettevõttepõhist uudist ei leidnud. Viimased avalikud teated olid 8. oktoobril ja puudutasid IPO-järgsete aktsiatasude väljaandmist, mis tõusu ei seleta. Aktsia on viimastel kuudel olnud surve all (septembris langetasid mitu panka sihthinda) ning täna ronis ta umbes 8,9 euroni. Tõusu põhjus jääb kinnitamata.",
-      "sources": [
-        {
-          "title": "Verisure: Issuance of shares in connection with vesting of IPO transition awards (MFN, 8.10.2026)",
-          "url": "https://mfn.se/all/a/verisure/issuance-of-shares-in-connection-with-vesting-of-previously-announced-verisure-plc-ipo-transition-awards-db02d667"
-        },
-        {
-          "title": "Verisure plc: analüütikute soovitused (MarketScreener)",
-          "url": "https://www.marketscreener.com/quote/stock/VERISURE-PLC-196294215/news-broker-research/"
-        }
-      ],
-      "at": "2026-10-13T15:09:09Z"
-    },
-    {
-      "fmp": "DOV.MI",
-      "sym": "dov-mil",
-      "name": "doValue S.p.A.",
-      "pct": -6.94,
-      "short": "Tänast uudist ei leidnud; langus jätkub pärast 8.10 kärbitud 2026. a prognoosi",
-      "text": "doValue kohta ma tänasest päevast uut ettevõttepõhist uudist ei leidnud. 8. oktoobril langetas ettevõte koos uue 2027–2029 strateegiaga 2026. aasta EBITDA prognoosi umbes 300 mln eurolt 270–290 mln eurole, sest sissenõudmised ja uued mandaadid Itaalias jäid nõrgemaks. Pärast seda on aktsia nädalaga kaotanud ligi 8% ja aasta algusest üle 40%. Tänane langus sobib selle trendi jätkuga, kuid otsest tänast põhjust ei ole kinnitatud.",
-      "sources": [
-        {
-          "title": "Dovalue taglia le stime del 2026 e presenta il nuovo piano (MilanoFinanza, 8.10.2026)",
-          "url": "https://www.milanofinanza.it/news/dovalue-il-futuro-oltre-gli-npl-il-nuovo-piano-punta-sui-recuperi-digitali-con-ebitda-fino-a-350-milioni-202610080831012604"
-        },
-        {
-          "title": "doValue – notizie e quotazioni (Teleborsa)",
-          "url": "https://www.teleborsa.it/azioni/dovalue-dov-it0005610958-SVQwMDA1NjEwOTU4"
-        }
-      ],
-      "at": "2026-10-13T15:09:09Z"
-    },
-    {
-      "fmp": "GNC.L",
-      "sym": "gnc-lon",
-      "name": "Greencore Group Plc",
-      "pct": 6.48,
-      "short": "Tõus langeb kokku tänase IV kv ja 2026. majandusaasta äriülevaatega",
-      "text": "Greencore pidi täna (13.10) avaldama IV kvartali ja kogu 2026. majandusaasta äriülevaate. Tõus tuli börsipäeva alguses, nii et ilmselt reageeris turg just sellele, kuid ülevaate sisu ja numbreid ma usaldusväärsest allikast kinnitada ei saanud. Juulis tõstis ettevõte aasta korrigeeritud ärikasumi prognoosi 234–242 mln naelale (konsensus oli 224 mln) ja ütles, et IV kvartal algas hästi. Seos ülevaatega on tõenäoline, kuid põhjust ei ole kinnitatud.",
-      "sources": [
-        {
-          "title": "Greencore: Q4 & FY26 Trading Update scheduled for 13 October 2026 (Kalkine Media)",
-          "url": "https://kalkinemedia.com/uk/news/announcements/greencore-group-plc-gnc-announces-q4-and-full-year-fy26-trading-update-for-13-october-2026"
-        },
-        {
-          "title": "Greencore Q3 update, guidance raised (Halifax/Sharecast)",
-          "url": "https://www.investments.halifax.co.uk/research-centre/news-centre/article/?id=23095674&type=bsm"
-        }
-      ],
-      "at": "2026-10-13T07:19:10Z"
-    },
-    {
-      "fmp": "BUR.L",
-      "sym": "bur-lon",
-      "name": "Burford Capital Limited",
-      "pct": -5.98,
-      "short": "Tänast ettevõttepõhist uudist ei leidnud; taustaks YPF-kohtuasja kaotus",
-      "text": "Burford Capitali kohta ei leidnud ma tänasest päevast ühtegi börsiteadet ega analüütiku muudatust, mis Londonis umbes 6% langust seletaks. Taustaks: märtsis tühistas USA apellatsioonikohus Argentina vastu saadud 16,1 mld dollari suuruse YPF-otsuse, mille järel aktsia kukkus ligi poole võrra ja ettevõte teatas suurest mitterahalisest allahindlusest. Aktsia on 52 nädala madalaima taseme lähedal ja kauplemismaht on väike. Tänase languse põhjus jääb kinnitamata.",
-      "sources": [
-        {
-          "title": "Burford Capital Further Statement on YPF (30.03.2026)",
-          "url": "https://investors.burfordcapital.com/news/news-details/2026/Burford-Capital-Further-Statement-on-YPF/default.aspx"
-        },
-        {
-          "title": "Burford Capital news (Benzinga)",
-          "url": "https://www.benzinga.com/quote/BUR/news"
-        }
-      ],
-      "at": "2026-10-13T15:09:09Z"
-    },
-    {
-      "fmp": "ENT.L",
-      "sym": "ent-lon",
-      "name": "Entain PLC",
-      "pct": 5.59,
-      "short": "USA ühisettevõte BetMGM: III kv käive +7%, EBITDA üle kahe korra suurem",
-      "text": "Entaini ja MGM Resortsi USA ühisettevõte BetMGM avaldas täna (13.10) III kvartali tulemused: käive kasvas 7% 710 mln dollarini ja korrigeeritud EBITDA 112% 86 mln dollarini. Aasta prognoos jäeti alles (käive ja EBITDA vahemiku 2,9–3,1 mld ning 300–350 mln dollari alumises otsas) ning pikemas plaanis kinnitati eesmärki jõuda 500 mln dollari EBITDA-ni. Uudisteagentuuri sõnul tõusis Entaini aktsia pärast BetMGM-i teadet; muud tänast ettevõttepõhist uudist ma ei leidnud, seega on seos üsna kindel.",
-      "sources": [
-        {
-          "title": "BetMGM Q3 revenue rises, maintains annual outlook (13.10.2026)",
-          "url": "https://1027wbow.com/2026/10/13/betmgm-q3-revenue-rises-maintains-annual-outlook/"
-        },
-        {
-          "title": "BetMGM reports Q3 net revenue of $710 million, up 7% YoY (Investing.com)",
-          "url": "https://www.investing.com/news/company-news/betmgm-reports-q3-net-revenue-of-710-million-up-7-yoy-93CH-4946270"
-        }
-      ],
-      "at": "2026-10-13T13:08:17Z"
-    },
-    {
-      "fmp": "BONEX.ST",
-      "sym": "bonex-se",
-      "name": "BONESUPPORT HOLDING AB",
-      "pct": 5.44,
-      "short": "Tänast ettevõttepõhist uudist ei leidnud; käib 100 mln kr aktsiate tagasiost",
-      "text": "Bonesupporti kohta ei leidnud ma tänasest päevast ühtegi ettevõttepõhist uudist, analüütiku soovituse muutust ega börsiteadet, mis tõusu seletaks. Taustaks: ettevõte ostab 1. septembrist 30. oktoobrini tagasi kuni 100 mln Rootsi krooni eest aktsiaid ja ostis 5.–9. oktoobril 60 000 aktsiat keskmiselt ~230 krooniga. Tagasiost on aga kestnud septembrist ega seleta tänast hüpet, nii et tõusu põhjus jääb kinnitamata.",
-      "sources": [
-        {
-          "title": "Buy-back of ordinary shares in BONESUPPORT HOLDING AB October 5-9, 2026 (TradingView)",
-          "url": "https://tradingview.com/news/modular_finance:77e538a14f555:0-buy-back-of-ordinary-shares-in-bonesupport-holding-ab-october-5-9-2026-week-41"
-        }
-      ],
-      "at": "2026-10-13T11:08:32Z"
-    },
-    {
-      "fmp": "ADN1.DE",
-      "sym": "adn1-etr",
-      "name": "adesso SE",
-      "pct": 5.2,
-      "short": "Tänast ettevõttepõhist uudist ega analüütiku muudatust ei leidnud",
-      "text": "Adesso aktie tõusis täna Xetras umbes 5% 66,80 euroni (eelmise päeva sulgemishind 63,50 eurot). Tänast börsiteadet, tellimusuudist ega analüütiku reitingumuudatust ma ei leidnud; viimane analüütikute uudis on Berenbergi 25. septembri ostusoovitus 128-eurose sihthinnaga ja järgmised tulemused tulevad 11. novembril. Põhjus jääb seega selgusetuks ning aktsia on endiselt 52 nädala tipust (100,60 eurot) tublisti madalamal.",
-      "sources": [
-        {
-          "title": "Berenberg keeps EUR 128 target for adesso stock (ad-hoc-news, 13.10.2026)",
-          "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/berenberg-keeps-eur-128-target-for-adesso-stock/70306708"
-        },
-        {
-          "title": "adesso SE – uudised (finanznachrichten.de)",
-          "url": "https://www.finanznachrichten.de/nachrichten-aktien/adesso-se.htm"
-        }
-      ],
-      "at": "2026-10-13T17:07:30Z"
-    },
-    {
-      "fmp": "0268.HK",
-      "sym": "268-hkg",
-      "name": "Kingdee International Software Group Co., Ltd.",
-      "pct": 5.18,
-      "short": "Tugevad III kv näitajad: püsitulu ARR +19%, uus ARR +47%, AI-lepingud kasvavad",
-      "text": "Kingdee teatas 12. oktoobril, et tellimuste aastane püsitulu (ARR) oli 30. septembri seisuga umbes 4,60 mld jüaani (+19,3% aastaga) ja III kvartali uus ARR kasvas umbes 46,9%. Kasvu vedas ettevõtete nõudlus AI-toodete järele. Üheksa kuu AI-toodete lepingute maht oli 1,002 mld jüaani. Aktsia tõusis juba eile üle 4%, täna veel umbes 6%. Hiina meedia seob tõusu otseselt selle teatega, seega on seos kindel.",
-      "sources": [
-        {
-          "title": "港股异动：金蝶国际涨超6% (Investing.com China, 13.10.2026)",
-          "url": "https://cn.investing.com/news/stock-market-news/article-3605166"
-        },
-        {
-          "title": "港股异动：金蝶国际涨超4% (Sohu, 12.10.2026)",
-          "url": "https://www.sohu.com/a/1086737279_639898"
-        }
-      ],
-      "at": "2026-10-13T07:19:10Z"
+      "at": "2026-10-14T05:09:06Z"
     }
   ]
 }
