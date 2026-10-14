@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated": "2026-10-14T11:07:01Z",
+  "updated": "2026-10-14T13:08:03Z",
   "items": [
     {
       "fmp": "ASB.AX",
@@ -29,7 +29,7 @@
       "fmp": "EVT.DE",
       "sym": "evt-etr",
       "name": "Evotec SE",
-      "pct": 7.28,
+      "pct": 8.02,
       "short": "III kv eelnumbrid ületasid ootusi, aastaprognoos kinnitati; RBC kordas „outperform“",
       "text": "Evotec avaldas täna III kvartali eelnumbrid: käive ja EBITDA paranesid eelmise kvartaliga võrreldes ning olid analüütikute keskmisest ootusest selgelt paremad. Juulis kärbitud aastaprognoos kinnitati. RBC jättis kehtima „outperform“ soovituse ja 10-eurose hinnasihi, kuid märkis, et ootuste ületamine tuleneb osaliselt hinnangute ajastusest. Eile langes aktsia 13 aasta madalaimale tasemele (2,406 €), mis võimendas tänast tagasipõrget; seos uudisega on kindel.",
       "sources": [
@@ -64,10 +64,29 @@
       "at": "2026-10-14T05:09:06Z"
     },
     {
+      "fmp": "PEN.OL",
+      "sym": "pen-no",
+      "name": "Panoro Energy ASA",
+      "pct": 5.25,
+      "short": "Tänast ettevõttepõhist uudist ei leitud; põhjus jääb selgusetuks",
+      "text": "Panoro Energy aktsia tõusis täna Oslo börsil umbes 5%, kuid ettevõtte tänaseid börsiteateid ega muid tänaseid ettevõttepõhiseid uudiseid (tulemused, tehingud, analüütikute soovitused) otsingutest ei leitud. Ka FMP uudisvoog ei sisaldanud tänaseid uudiseid. Sektori- või naftahinna tausta kohta tänaseid kinnitavaid allikaid ei leitud, seega jääb liikumise põhjus lahtiseks.",
+      "sources": [
+        {
+          "title": "Panoro Energy ASA – pressiteated (Cision)",
+          "url": "https://news.cision.com/panoro-energy-asa"
+        },
+        {
+          "title": "Panoro Energy (PEN) – aktsiakurss ja uudised (Nordnet)",
+          "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl"
+        }
+      ],
+      "at": "2026-10-14T13:08:03Z"
+    },
+    {
       "fmp": "CTPNV.AS",
       "sym": "ctpnv-ams",
       "name": "CTP N.V.",
-      "pct": 5.69,
+      "pct": 4.72,
       "short": "Käivitas 12-kuulise 100 mln euro suuruse aktsiate tagasiostuprogrammi",
       "text": "CTP teatas täna 100 miljoni euro suuruse aktsiate tagasiostuprogrammi käivitamisest, mis kestab 12 kuud. Juhatuse sõnul ei kajasta praegune aktsiahind ettevõtte kasvuväljavaadet ega sisemist väärtust. Hollandi finantsmeedia seob tagasiostu varasema hinnasurvega ja aktsia oli juba hommikul üle 4% plussis. Seos tänase teatega on kindel; muid ettevõttepõhiseid uudiseid allikad ei maininud.",
       "sources": [
