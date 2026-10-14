@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated": "2026-10-14T09:07:32Z",
+  "updated": "2026-10-14T11:07:01Z",
   "items": [
     {
       "fmp": "ASB.AX",
@@ -29,7 +29,7 @@
       "fmp": "EVT.DE",
       "sym": "evt-etr",
       "name": "Evotec SE",
-      "pct": 7.12,
+      "pct": 7.28,
       "short": "III kv eelnumbrid ületasid ootusi, aastaprognoos kinnitati; RBC kordas „outperform“",
       "text": "Evotec avaldas täna III kvartali eelnumbrid: käive ja EBITDA paranesid eelmise kvartaliga võrreldes ning olid analüütikute keskmisest ootusest selgelt paremad. Juulis kärbitud aastaprognoos kinnitati. RBC jättis kehtima „outperform“ soovituse ja 10-eurose hinnasihi, kuid märkis, et ootuste ületamine tuleneb osaliselt hinnangute ajastusest. Eile langes aktsia 13 aasta madalaimale tasemele (2,406 €), mis võimendas tänast tagasipõrget; seos uudisega on kindel.",
       "sources": [
@@ -40,25 +40,6 @@
         {
           "title": "RBC stuft Evotec auf 'Outperform' (wallstreet-online.de)",
           "url": "https://www.wallstreet-online.de/nachricht/21522736-rbc-stuft-evotec-outperform"
-        }
-      ],
-      "at": "2026-10-14T09:07:32Z"
-    },
-    {
-      "fmp": "CTPNV.AS",
-      "sym": "ctpnv-ams",
-      "name": "CTP N.V.",
-      "pct": 6.18,
-      "short": "Käivitas 12-kuulise 100 mln euro suuruse aktsiate tagasiostuprogrammi",
-      "text": "CTP teatas täna 100 miljoni euro suuruse aktsiate tagasiostuprogrammi käivitamisest, mis kestab 12 kuud. Juhatuse sõnul ei kajasta praegune aktsiahind ettevõtte kasvuväljavaadet ega sisemist väärtust. Hollandi finantsmeedia seob tagasiostu varasema hinnasurvega ja aktsia oli juba hommikul üle 4% plussis. Seos tänase teatega on kindel; muid ettevõttepõhiseid uudiseid allikad ei maininud.",
-      "sources": [
-        {
-          "title": "CTP start aandeleninkoop van 100 miljoen euro (The Asset)",
-          "url": "https://theasset.nl/sectoren/vastgoed/ctp-start-aandeleninkoop-van-100-miljoen-euro/"
-        },
-        {
-          "title": "Beursblik: koersdruk zet CTP aan tot aandeleninkoop (De Aandeelhouder)",
-          "url": "https://www.deaandeelhouder.nl/nieuws/2026/10/14/beursblik-koersdruk-zet-ctp-aan-tot-aandeleninkoop/"
         }
       ],
       "at": "2026-10-14T09:07:32Z"
@@ -81,6 +62,25 @@
         }
       ],
       "at": "2026-10-14T05:09:06Z"
+    },
+    {
+      "fmp": "CTPNV.AS",
+      "sym": "ctpnv-ams",
+      "name": "CTP N.V.",
+      "pct": 5.69,
+      "short": "Käivitas 12-kuulise 100 mln euro suuruse aktsiate tagasiostuprogrammi",
+      "text": "CTP teatas täna 100 miljoni euro suuruse aktsiate tagasiostuprogrammi käivitamisest, mis kestab 12 kuud. Juhatuse sõnul ei kajasta praegune aktsiahind ettevõtte kasvuväljavaadet ega sisemist väärtust. Hollandi finantsmeedia seob tagasiostu varasema hinnasurvega ja aktsia oli juba hommikul üle 4% plussis. Seos tänase teatega on kindel; muid ettevõttepõhiseid uudiseid allikad ei maininud.",
+      "sources": [
+        {
+          "title": "CTP start aandeleninkoop van 100 miljoen euro (The Asset)",
+          "url": "https://theasset.nl/sectoren/vastgoed/ctp-start-aandeleninkoop-van-100-miljoen-euro/"
+        },
+        {
+          "title": "Beursblik: koersdruk zet CTP aan tot aandeleninkoop (De Aandeelhouder)",
+          "url": "https://www.deaandeelhouder.nl/nieuws/2026/10/14/beursblik-koersdruk-zet-ctp-aan-tot-aandeleninkoop/"
+        }
+      ],
+      "at": "2026-10-14T09:07:32Z"
     }
   ]
 }
