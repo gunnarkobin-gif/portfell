@@ -1,6 +1,6 @@
 {
   "date": "2026-10-14",
-  "updated": "2026-10-14T07:06:52Z",
+  "updated": "2026-10-14T09:07:32Z",
   "items": [
     {
       "fmp": "ASB.AX",
@@ -26,10 +26,48 @@
       "at": "2026-10-14T05:09:06Z"
     },
     {
+      "fmp": "EVT.DE",
+      "sym": "evt-etr",
+      "name": "Evotec SE",
+      "pct": 7.12,
+      "short": "III kv eelnumbrid ületasid ootusi, aastaprognoos kinnitati; RBC kordas „outperform“",
+      "text": "Evotec avaldas täna III kvartali eelnumbrid: käive ja EBITDA paranesid eelmise kvartaliga võrreldes ning olid analüütikute keskmisest ootusest selgelt paremad. Juulis kärbitud aastaprognoos kinnitati. RBC jättis kehtima „outperform“ soovituse ja 10-eurose hinnasihi, kuid märkis, et ootuste ületamine tuleneb osaliselt hinnangute ajastusest. Eile langes aktsia 13 aasta madalaimale tasemele (2,406 €), mis võimendas tänast tagasipõrget; seos uudisega on kindel.",
+      "sources": [
+        {
+          "title": "AKTIE IM FOKUS: Evotec mit Quartalszahlen auf Erholungskurs nach 13-Jahres-Tief (boerse.de)",
+          "url": "https://www.boerse.de/nachrichten/AKTIE-IM-FOKUS-Evotec-mit-Quartalszahlen-auf-Erholungskurs-nach-13-Jahres-Tief/38669411"
+        },
+        {
+          "title": "RBC stuft Evotec auf 'Outperform' (wallstreet-online.de)",
+          "url": "https://www.wallstreet-online.de/nachricht/21522736-rbc-stuft-evotec-outperform"
+        }
+      ],
+      "at": "2026-10-14T09:07:32Z"
+    },
+    {
+      "fmp": "CTPNV.AS",
+      "sym": "ctpnv-ams",
+      "name": "CTP N.V.",
+      "pct": 6.18,
+      "short": "Käivitas 12-kuulise 100 mln euro suuruse aktsiate tagasiostuprogrammi",
+      "text": "CTP teatas täna 100 miljoni euro suuruse aktsiate tagasiostuprogrammi käivitamisest, mis kestab 12 kuud. Juhatuse sõnul ei kajasta praegune aktsiahind ettevõtte kasvuväljavaadet ega sisemist väärtust. Hollandi finantsmeedia seob tagasiostu varasema hinnasurvega ja aktsia oli juba hommikul üle 4% plussis. Seos tänase teatega on kindel; muid ettevõttepõhiseid uudiseid allikad ei maininud.",
+      "sources": [
+        {
+          "title": "CTP start aandeleninkoop van 100 miljoen euro (The Asset)",
+          "url": "https://theasset.nl/sectoren/vastgoed/ctp-start-aandeleninkoop-van-100-miljoen-euro/"
+        },
+        {
+          "title": "Beursblik: koersdruk zet CTP aan tot aandeleninkoop (De Aandeelhouder)",
+          "url": "https://www.deaandeelhouder.nl/nieuws/2026/10/14/beursblik-koersdruk-zet-ctp-aan-tot-aandeleninkoop/"
+        }
+      ],
+      "at": "2026-10-14T09:07:32Z"
+    },
+    {
       "fmp": "9896.HK",
       "sym": "9896-hkg",
       "name": "MINISO Group Holding Ltd.",
-      "pct": 6.35,
+      "pct": 5.83,
       "short": "Tugevad III kv käibenäitajad: Hiina GMV +25–30%, USA +20%; maaklerid kordavad ostusoovitust",
       "text": "MINISO III kvartali tegevusandmete järgi kasvas Mandri-Hiina kaubakäive (GMV) aastaga 25–30% ja USA oma umbes 20%; septembris kiirenes USA kasv üle 30% ning võrreldavate poodide müük muutus seal positiivseks. CICC hinnangul kandub tugevus üle IV kvartali hooaega ja Everbright Securities jättis täna ostusoovituse kehtima (hinnanguline P/E 2026. a kasumi järgi umbes 7). Hiina finantsmeedia seob tänase tõusu otseselt nende numbritega, seega on seos üsna kindel.",
       "sources": [
