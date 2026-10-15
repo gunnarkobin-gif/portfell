@@ -1,12 +1,12 @@
 {
   "date": "2026-10-15",
-  "updated": "2026-10-15T05:08:48Z",
+  "updated": "2026-10-15T07:13:27Z",
   "items": [
     {
       "fmp": "9698.HK",
       "sym": "9698-hk",
       "name": "GDS Holdings Ltd.",
-      "pct": -16.98,
+      "pct": -16.7,
       "short": "USA tehnoloogia- ja andmekeskuste müük: GDS-i ADR kukkus öösel ~12%",
       "text": "Ettevõttespetsiifilist uudist tänaseks ei leidnud. Eile õhtul langes Nasdaq 1,88% pärast oodatust kõrgemat USA septembri inflatsiooni (3,7%), AI-infra ja andmekeskuste aktsiad said tugeva löögi (CoreWeave −15%, 21Vianet −14%) ning GDS-i USA ADR kukkus umbes 12%. Hongkongi aktsia järgis seda ADR-i liikumist, samal ajal langes Hang Seng Tech lõunaks 2,9%. Seos USA öise müügiga on tugev, aga tänase languse suurus ületab ADR-i omast.",
       "sources": [
@@ -22,12 +22,27 @@
       "at": "2026-10-15T05:08:48Z"
     },
     {
-      "fmp": "2600.HK",
-      "sym": "2600-hk",
-      "name": "Aluminum Corporation of China Limited Class H",
-      "pct": -6.66,
-      "short": "Metalliaktsiate müük: USA inflatsioon tõstis Fedi intressitõstu ootust",
-      "text": "Chalco kohta ettevõttespetsiifilist uudist ei leidnud. Zhitong Finance'i hommikuse ülevaate järgi langesid Hongkongis värviliste metallide aktsiad (MMG −6%, CMOC −4,9%, Chalco hommikul −3,4%), sest oodatust kõrgem USA põhiinflatsioon tõstis panuseid Fedi oktoobrikuisele intressitõstule ning dollar ja võlakirjatulusused tõusid. Kogu turg oli samuti nõrk (Hang Seng lõunaks −1,5%). Seos sektori müügiga on tõenäoline, kuid päeva lõpu langus on suurem kui allikas kirjeldas.",
+      "fmp": "THG.L",
+      "sym": "thg-lon",
+      "name": "THG Plc",
+      "pct": 9.38,
+      "short": "Q3 kauplemisteade: EBITDA prognoos tõstetud, esimest korda positiivne rahavoog",
+      "text": "THG avaldas täna III kvartali kauplemisteate: grupi käive kasvas püsivas valuutas 1,5% 408,8 mln naelani ning põhibrändide ja -turgude käive 6,1%. Nutrition kasvas 5,3% (Myproteini brändimahud +36,2%), Beauty langes 0,6%. Ettevõte tõstis 2026. aasta korrigeeritud EBITDA ootust 103 mln naelani, mis on üle turu konsensuse, ning ootab esimest korda pärast börsile tulekut positiivset vaba rahavoogu (25–35 mln naela). Seos hinnatõusuga on tugev – tõus tuli teate päeval.",
+      "sources": [
+        {
+          "title": "THG lifts profit outlook as Nutrition surges and cash flow turns positive (TipRanks)",
+          "url": "https://www.tipranks.com/news/company-announcements/thg-lifts-profit-outlook-as-nutrition-surges-and-cash-flow-turns-positive"
+        }
+      ],
+      "at": "2026-10-15T07:13:27Z"
+    },
+    {
+      "fmp": "1378.HK",
+      "sym": "1378-hk",
+      "name": "China Hongqiao Group Ltd.",
+      "pct": -7.22,
+      "short": "Alumiiniumi- ja metallisektori müük USA inflatsiooniuudise järel",
+      "text": "Hongqiao kohta tänast ettevõttespetsiifilist uudist ei leidnud. Hongkongi metalliaktsiad langesid laialt, sest oodatust kõrgem USA inflatsioon tõstis Fedi intressitõstu ootust ning tugevdas dollarit; konkurent Chalco langes samal ajal üle 6%. Seos sektori liikumisega on tõenäoline, kuid allikas Hongqiaod nimeliselt ei maini.",
       "sources": [
         {
           "title": "港股异动: 有色股走低，美国通胀超预期 (智通财经 via Investing.com)",
@@ -44,7 +59,7 @@
       "fmp": "ASB.AX",
       "sym": "asb-au",
       "name": "Austal Limited",
-      "pct": -6.3,
+      "pct": -6.78,
       "short": "Tänast uudist ei leitud; eilne 10% tõus Hanwha uudise peale sulab",
       "text": "Tänast ettevõttespetsiifilist teadet ei leidnud. Eile tõusis aktsia 10,1% 4,13 Austraalia dollarini, kui Hanwha sai Austal USA ostupakkumise siduvaks muutmiseks lisaaega; täna kaupleb aktsia 3,87 juures ehk loovutab suure osa sellest tõusust. Põhjus on tõenäoliselt kasumivõtt, aga seda ükski allikas otseselt ei kinnita, seega on usaldus madal.",
       "sources": [
@@ -56,29 +71,10 @@
       "at": "2026-10-15T05:08:48Z"
     },
     {
-      "fmp": "1378.HK",
-      "sym": "1378-hk",
-      "name": "China Hongqiao Group Ltd.",
-      "pct": -5.74,
-      "short": "Alumiiniumi- ja metallisektori müük USA inflatsiooniuudise järel",
-      "text": "Hongqiao kohta tänast ettevõttespetsiifilist uudist ei leidnud. Hongkongi metalliaktsiad langesid laialt, sest oodatust kõrgem USA inflatsioon tõstis Fedi intressitõstu ootust ning tugevdas dollarit; konkurent Chalco langes samal ajal üle 6%. Seos sektori liikumisega on tõenäoline, kuid allikas Hongqiaod nimeliselt ei maini.",
-      "sources": [
-        {
-          "title": "港股异动: 有色股走低，美国通胀超预期 (智通财经 via Investing.com)",
-          "url": "https://cn.investing.com/news/stock-market-news/article-3609521"
-        },
-        {
-          "title": "Hang Seng Index falls below 24,000 mark by noon (The Standard)",
-          "url": "https://www.thestandard.com.hk/finance/article/345545/Hang-Seng-Index-falls-below-24000-mark-by-noon"
-        }
-      ],
-      "at": "2026-10-15T05:08:48Z"
-    },
-    {
       "fmp": "2590.HK",
       "sym": "2590-hk",
       "name": "Beijing Geekplus Technology Co., Ltd. Class H",
-      "pct": -5.72,
+      "pct": -6.5,
       "short": "Uudist ei leitud; Hongkongi tehnoloogiaaktsiate laiem müük",
       "text": "Geekplusi kohta tänast ettevõttespetsiifilist uudist ei leidnud. Hongkongi turg langes USA eilse tehnoloogiamüügi järel: Hang Seng oli lõunaks −1,5% ja Hang Seng Tech −2,9%. Aktsia on sel nädalal ka ise tagasi ostnud, mis langust pole peatanud. Seos on vaid turukonteksti tasemel.",
       "sources": [
@@ -94,10 +90,48 @@
       "at": "2026-10-15T05:08:48Z"
     },
     {
+      "fmp": "2600.HK",
+      "sym": "2600-hk",
+      "name": "Aluminum Corporation of China Limited Class H",
+      "pct": -6.4,
+      "short": "Metalliaktsiate müük: USA inflatsioon tõstis Fedi intressitõstu ootust",
+      "text": "Chalco kohta ettevõttespetsiifilist uudist ei leidnud. Zhitong Finance'i hommikuse ülevaate järgi langesid Hongkongis värviliste metallide aktsiad (MMG −6%, CMOC −4,9%, Chalco hommikul −3,4%), sest oodatust kõrgem USA põhiinflatsioon tõstis panuseid Fedi oktoobrikuisele intressitõstule ning dollar ja võlakirjatulusused tõusid. Kogu turg oli samuti nõrk (Hang Seng lõunaks −1,5%). Seos sektori müügiga on tõenäoline, kuid päeva lõpu langus on suurem kui allikas kirjeldas.",
+      "sources": [
+        {
+          "title": "港股异动: 有色股走低，美国通胀超预期 (智通财经 via Investing.com)",
+          "url": "https://cn.investing.com/news/stock-market-news/article-3609521"
+        },
+        {
+          "title": "Hang Seng Index falls below 24,000 mark by noon (The Standard)",
+          "url": "https://www.thestandard.com.hk/finance/article/345545/Hang-Seng-Index-falls-below-24000-mark-by-noon"
+        }
+      ],
+      "at": "2026-10-15T05:08:48Z"
+    },
+    {
+      "fmp": "2788.HK",
+      "sym": "2788-hk",
+      "name": "Chuangxin Industries Holdings Limited",
+      "pct": -5.93,
+      "short": "Uudist ei leitud; Hongkongi alumiiniumiaktsiate laiem müük",
+      "text": "Chuangxin Industriesi kohta tänast ettevõttespetsiifilist uudist ei leidnud. Samal päeval langesid ka teised Hongkongi alumiiniumitootjad (Chalco −6,4%, Hongqiao −7,2%); Zhitong Finance'i hommikuse ülevaate järgi müüdi värviliste metallide aktsiaid, sest oodatust kõrgem USA inflatsioon tõstis Fedi intressitõstu ootust. Allikas Chuangxinit nimeliselt ei maini, seega on seos sektori liikumisega tõenäoline, kuid kaudne.",
+      "sources": [
+        {
+          "title": "港股异动: 有色股走低，美国通胀超预期 (智通财经 via Investing.com)",
+          "url": "https://cn.investing.com/news/stock-market-news/article-3609521"
+        },
+        {
+          "title": "Hang Seng Index falls below 24,000 mark by noon (The Standard)",
+          "url": "https://www.thestandard.com.hk/finance/article/345545/Hang-Seng-Index-falls-below-24000-mark-by-noon"
+        }
+      ],
+      "at": "2026-10-15T07:13:27Z"
+    },
+    {
       "fmp": "1357.HK",
       "sym": "1357-hk",
       "name": "Meitu, Inc",
-      "pct": -5.35,
+      "pct": -5.89,
       "short": "Uudist ei leitud; Hongkongi tehnoloogiaaktsiate laiem müük",
       "text": "Meitu kohta tänast ettevõttespetsiifilist uudist ei leidnud. Hongkongi tehnoloogiaaktsiad langesid USA eilse tehnoloogiamüügi ja inflatsiooniuudise järel (Hang Seng Tech lõunaks −2,9%, Alibaba ligi −5%). Seos on vaid turukonteksti tasemel.",
       "sources": [
