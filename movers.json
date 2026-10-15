@@ -1,222 +1,135 @@
 {
-  "date": "2026-10-14",
-  "updated": "2026-10-14T17:07:54Z",
+  "date": "2026-10-15",
+  "updated": "2026-10-15T05:08:48Z",
   "items": [
+    {
+      "fmp": "9698.HK",
+      "sym": "9698-hk",
+      "name": "GDS Holdings Ltd.",
+      "pct": -16.98,
+      "short": "USA tehnoloogia- ja andmekeskuste müük: GDS-i ADR kukkus öösel ~12%",
+      "text": "Ettevõttespetsiifilist uudist tänaseks ei leidnud. Eile õhtul langes Nasdaq 1,88% pärast oodatust kõrgemat USA septembri inflatsiooni (3,7%), AI-infra ja andmekeskuste aktsiad said tugeva löögi (CoreWeave −15%, 21Vianet −14%) ning GDS-i USA ADR kukkus umbes 12%. Hongkongi aktsia järgis seda ADR-i liikumist, samal ajal langes Hang Seng Tech lõunaks 2,9%. Seos USA öise müügiga on tugev, aga tänase languse suurus ületab ADR-i omast.",
+      "sources": [
+        {
+          "title": "美股科技股大跳水… 万国数据跌12% (21经济网)",
+          "url": "https://www.21jingji.com/article/20261015/herald/303061daaa3c840c16176a4b2db8425c.html"
+        },
+        {
+          "title": "Hang Seng Index falls below 24,000 mark by noon (The Standard)",
+          "url": "https://www.thestandard.com.hk/finance/article/345545/Hang-Seng-Index-falls-below-24000-mark-by-noon"
+        }
+      ],
+      "at": "2026-10-15T05:08:48Z"
+    },
+    {
+      "fmp": "2600.HK",
+      "sym": "2600-hk",
+      "name": "Aluminum Corporation of China Limited Class H",
+      "pct": -6.66,
+      "short": "Metalliaktsiate müük: USA inflatsioon tõstis Fedi intressitõstu ootust",
+      "text": "Chalco kohta ettevõttespetsiifilist uudist ei leidnud. Zhitong Finance'i hommikuse ülevaate järgi langesid Hongkongis värviliste metallide aktsiad (MMG −6%, CMOC −4,9%, Chalco hommikul −3,4%), sest oodatust kõrgem USA põhiinflatsioon tõstis panuseid Fedi oktoobrikuisele intressitõstule ning dollar ja võlakirjatulusused tõusid. Kogu turg oli samuti nõrk (Hang Seng lõunaks −1,5%). Seos sektori müügiga on tõenäoline, kuid päeva lõpu langus on suurem kui allikas kirjeldas.",
+      "sources": [
+        {
+          "title": "港股异动: 有色股走低，美国通胀超预期 (智通财经 via Investing.com)",
+          "url": "https://cn.investing.com/news/stock-market-news/article-3609521"
+        },
+        {
+          "title": "Hang Seng Index falls below 24,000 mark by noon (The Standard)",
+          "url": "https://www.thestandard.com.hk/finance/article/345545/Hang-Seng-Index-falls-below-24000-mark-by-noon"
+        }
+      ],
+      "at": "2026-10-15T05:08:48Z"
+    },
     {
       "fmp": "ASB.AX",
       "sym": "asb-au",
       "name": "Austal Limited",
-      "pct": 10.13,
-      "short": "Pikendas Hanwhale USA üksuse ostu due diligence perioodi; konkureeriv pakkumine laual",
-      "text": "Austal teatas täna (14.10), et pikendab Hanwha Groupi due diligence perioodi, et Hanwha jõuaks teha Austal USA kohta siduva pakkumise; pikenduse pikkust allikad ei maininud. Hanwha esialgne pakkumine augustis oli kuni 1,2 mld dollarit, septembris pakkus Wildcat Infrastructure USA äri eest kuni 1,35 mld dollarit. Reutersi andmetel tõusis aktsia päevasiseselt kuni 11,5% 4,18 Austraalia dollarini, mis on suurim tõus alates 11. augustist. Seos tänase teatega on kindel.",
+      "pct": -6.3,
+      "short": "Tänast uudist ei leitud; eilne 10% tõus Hanwha uudise peale sulab",
+      "text": "Tänast ettevõttespetsiifilist teadet ei leidnud. Eile tõusis aktsia 10,1% 4,13 Austraalia dollarini, kui Hanwha sai Austal USA ostupakkumise siduvaks muutmiseks lisaaega; täna kaupleb aktsia 3,87 juures ehk loovutab suure osa sellest tõusust. Põhjus on tõenäoliselt kasumivõtt, aga seda ükski allikas otseselt ei kinnita, seega on usaldus madal.",
       "sources": [
         {
-          "title": "Austal shares jump as Hanwha gets more time to bid for US unit (Reuters via TradingView)",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_L4N460098:0-austal-shares-jump-as-hanwha-gets-more-time-to-bid-for-us-unit/"
+          "title": "Evening Wrap: ASX 200 snaps three-day win streak (Market Index, 14.10)",
+          "url": "https://www.marketindex.com.au/news/evening-wrap-asx-200-snaps-three-day-win-streak-as-banks-slide-glencore"
+        }
+      ],
+      "at": "2026-10-15T05:08:48Z"
+    },
+    {
+      "fmp": "1378.HK",
+      "sym": "1378-hk",
+      "name": "China Hongqiao Group Ltd.",
+      "pct": -5.74,
+      "short": "Alumiiniumi- ja metallisektori müük USA inflatsiooniuudise järel",
+      "text": "Hongqiao kohta tänast ettevõttespetsiifilist uudist ei leidnud. Hongkongi metalliaktsiad langesid laialt, sest oodatust kõrgem USA inflatsioon tõstis Fedi intressitõstu ootust ning tugevdas dollarit; konkurent Chalco langes samal ajal üle 6%. Seos sektori liikumisega on tõenäoline, kuid allikas Hongqiaod nimeliselt ei maini.",
+      "sources": [
+        {
+          "title": "港股异动: 有色股走低，美国通胀超预期 (智通财经 via Investing.com)",
+          "url": "https://cn.investing.com/news/stock-market-news/article-3609521"
         },
         {
-          "title": "Austal shares jump as Hanwha gets more time to bid for US unit (pressnewsagency.org)",
-          "url": "https://pressnewsagency.org/austal-shares-jump-as-hanwha-gets-more-time-to-bid-for-us-unit/"
+          "title": "Hang Seng Index falls below 24,000 mark by noon (The Standard)",
+          "url": "https://www.thestandard.com.hk/finance/article/345545/Hang-Seng-Index-falls-below-24000-mark-by-noon"
+        }
+      ],
+      "at": "2026-10-15T05:08:48Z"
+    },
+    {
+      "fmp": "2590.HK",
+      "sym": "2590-hk",
+      "name": "Beijing Geekplus Technology Co., Ltd. Class H",
+      "pct": -5.72,
+      "short": "Uudist ei leitud; Hongkongi tehnoloogiaaktsiate laiem müük",
+      "text": "Geekplusi kohta tänast ettevõttespetsiifilist uudist ei leidnud. Hongkongi turg langes USA eilse tehnoloogiamüügi järel: Hang Seng oli lõunaks −1,5% ja Hang Seng Tech −2,9%. Aktsia on sel nädalal ka ise tagasi ostnud, mis langust pole peatanud. Seos on vaid turukonteksti tasemel.",
+      "sources": [
+        {
+          "title": "Hang Seng Index falls below 24,000 mark by noon (The Standard)",
+          "url": "https://www.thestandard.com.hk/finance/article/345545/Hang-Seng-Index-falls-below-24000-mark-by-noon"
         },
         {
-          "title": "Austal shares jump 10% on Hanwha takeover due diligence extension (Capital Brief)",
-          "url": "https://www.capitalbrief.com/briefing/austal-shares-jump-10-on-hanwha-takeover-due-diligence-extension-23dd1ade-89b3-400d-90bb-f0e54adda59d/"
+          "title": "Hang Seng opens lower as tech drops and leveraged chip trackers sink (Dimsum Daily)",
+          "url": "https://www.dimsumdaily.hk/hang-seng-index-opens-lower-as-tech-drops-and-leveraged-chip-trackers-sink/"
         }
       ],
-      "at": "2026-10-14T05:09:06Z"
+      "at": "2026-10-15T05:08:48Z"
     },
     {
-      "fmp": "ALGT",
-      "sym": "algt",
-      "name": "Allegiant Travel Company",
-      "pct": -9.35,
-      "short": "Ettevõttepõhist uudist ei leitud; kallis nafta ja kiire inflatsioon survestasid lennufirmasid",
-      "text": "Allegianti kohta tänaseid uudiseid (liiklusnumbrid, prognoos, soovitused) ei leitud. USA septembri inflatsioon (3,7% aastas, oodati 3,6%) tõi taas päevakorda intressitõstu ja Brenti nafta püsis ligi 106 dollari juures; S&P 500 langes 0,94%. Samal päeval langes ka American Airlines 4,5%, mida seostati kõrgete kütusekuludega. Seos sektori kütusemurega on usutav, kuid Allegianti üle 9% langust see täielikult ei selgita.",
+      "fmp": "1357.HK",
+      "sym": "1357-hk",
+      "name": "Meitu, Inc",
+      "pct": -5.35,
+      "short": "Uudist ei leitud; Hongkongi tehnoloogiaaktsiate laiem müük",
+      "text": "Meitu kohta tänast ettevõttespetsiifilist uudist ei leidnud. Hongkongi tehnoloogiaaktsiad langesid USA eilse tehnoloogiamüügi ja inflatsiooniuudise järel (Hang Seng Tech lõunaks −2,9%, Alibaba ligi −5%). Seos on vaid turukonteksti tasemel.",
       "sources": [
         {
-          "title": "Why is US Stock Market Down Today? … Hot US CPI Inflation Fuels Fed Rate-Hike Bets & Oil Hovers Near $106 (Sunday Guardian, 14.10.2026)",
-          "url": "https://sundayguardianlive.com/business/why-is-us-stock-market-down-today-dow-jones-falls-017-sp-500-drops-094-nasdaq-slumps-130-as-hot-us-cpi-inflation-fuels-fed-rate-hike-bets-oil-hovers-near-106-check-what-investors-should-305763/"
+          "title": "Hang Seng Index falls below 24,000 mark by noon (The Standard)",
+          "url": "https://www.thestandard.com.hk/finance/article/345545/Hang-Seng-Index-falls-below-24000-mark-by-noon"
         },
         {
-          "title": "American Airlines Slides Amid Elevated Industry Fuel Cost Pressures (JKN, 15.10.2026)",
-          "url": "https://news.jkn.co.kr/editions/english/post/1023515"
+          "title": "Hang Seng opens lower as tech drops and leveraged chip trackers sink (Dimsum Daily)",
+          "url": "https://www.dimsumdaily.hk/hang-seng-index-opens-lower-as-tech-drops-and-leveraged-chip-trackers-sink/"
         }
       ],
-      "at": "2026-10-14T17:07:54Z"
+      "at": "2026-10-15T05:08:48Z"
     },
     {
-      "fmp": "ADOC.PA",
-      "sym": "adoc-par",
-      "name": "Adocia SA",
-      "pct": 7.43,
-      "short": "Tänast ettevõttepõhist uudist ei leitud; põhjus jääb selgusetuks",
-      "text": "Adocia kohta tänaseid teateid ega uudiseid ei leitud; viimased uudised on septembri lõpust (25.09 poolaasta tulemused: kahjum 8,6 mln eurot, raha jätkub 2027. aasta algusesse). Aktsia on madalal tasemel (2,13 €, 52 nädala põhi 2,01 €) ja väikese kauplemismahuga, mistõttu võivad suured päevased kõikumised tekkida ka ilma uudiseta. Põhjus jääb selgusetuks.",
+      "fmp": "9699.HK",
+      "sym": "9699-hkg",
+      "name": "Hangzhou SF Intra-city Industrial Co., Ltd. Class H",
+      "pct": -5.33,
+      "short": "Uudist ei leitud; Hongkongi turu laiem langus",
+      "text": "SF Intra-city kohta tänast ettevõttespetsiifilist uudist ei leidnud; ettevõte ostis eile tagasi 384 400 aktsiat 3,25 mln HK dollari eest, mis pole hinnaliikumise põhjus. Hongkongi turg tervikuna langes (Hang Seng lõunaks −1,5%). Seos on vaid turukonteksti tasemel, usaldus madal.",
       "sources": [
         {
-          "title": "Actualités ADOCIA (Idéal Investisseur)",
-          "url": "https://www.ideal-investisseur.fr/actualite-bourse/adocia/FR0011184241"
-        }
-      ],
-      "at": "2026-10-14T15:14:57Z"
-    },
-    {
-      "fmp": "EVT.DE",
-      "sym": "evt-etr",
-      "name": "Evotec SE",
-      "pct": 6.71,
-      "short": "III kv eelnumbrid ületasid ootusi, aastaprognoos kinnitati; RBC kordas „outperform“",
-      "text": "Evotec avaldas täna III kvartali eelnumbrid: käive ja EBITDA paranesid eelmise kvartaliga võrreldes ning olid analüütikute keskmisest ootusest selgelt paremad. Juulis kärbitud aastaprognoos kinnitati. RBC jättis kehtima „outperform“ soovituse ja 10-eurose hinnasihi, kuid märkis, et ootuste ületamine tuleneb osaliselt hinnangute ajastusest. Eile langes aktsia 13 aasta madalaimale tasemele (2,406 €), mis võimendas tänast tagasipõrget; seos uudisega on kindel.",
-      "sources": [
-        {
-          "title": "AKTIE IM FOKUS: Evotec mit Quartalszahlen auf Erholungskurs nach 13-Jahres-Tief (boerse.de)",
-          "url": "https://www.boerse.de/nachrichten/AKTIE-IM-FOKUS-Evotec-mit-Quartalszahlen-auf-Erholungskurs-nach-13-Jahres-Tief/38669411"
+          "title": "顺丰同城(09699)10月14日斥资325.08万港元回购38.44万股 (Futu)",
+          "url": "https://news.futunn.com/post/1001123872/sf-intra-city-09699-repurchased-384400-shares-for-hk-3"
         },
         {
-          "title": "RBC stuft Evotec auf 'Outperform' (wallstreet-online.de)",
-          "url": "https://www.wallstreet-online.de/nachricht/21522736-rbc-stuft-evotec-outperform"
+          "title": "Hang Seng Index falls below 24,000 mark by noon (The Standard)",
+          "url": "https://www.thestandard.com.hk/finance/article/345545/Hang-Seng-Index-falls-below-24000-mark-by-noon"
         }
       ],
-      "at": "2026-10-14T09:07:32Z"
-    },
-    {
-      "fmp": "VST",
-      "sym": "vst",
-      "name": "Vistra Corp.",
-      "pct": -6.11,
-      "short": "Tänast ettevõttepõhist uudist ei leitud; USA turg nõrgem pärast kiiret inflatsiooni",
-      "text": "Tänaseid Vistrat puudutavaid uudiseid (tulemused, soovitused, regulatsioon) ei leitud. Turg tervikuna oli nõrgem: septembri USA tarbijahinnaindeks tõusis aastaga 3,7% (oodati 3,6%) ja see tõi taas päevakorda Föderaalreservi intressitõstu, S&P 500 futuurid olid enne avamist −0,3%. Aktsia on viimastel nädalatel kõikunud tugevalt, nt langes 8. oktoobril pärast ralli ligi 6%. Seos tänase langusega on ebakindel.",
-      "sources": [
-        {
-          "title": "Stock Market Today: Stocks Head Lower as Hot Inflation Puts Another Fed Rate Hike Back in Play (Yahoo Finance, 14.10.2026)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-stocks-head-132743645.html"
-        },
-        {
-          "title": "Why is Vistra stock sliding today? (Investing.com, 08.10.2026)",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-vistra-stock-sliding-today-93CH-4939614"
-        }
-      ],
-      "at": "2026-10-14T15:14:57Z"
-    },
-    {
-      "fmp": "SHLS",
-      "sym": "shls",
-      "name": "Shoals Technologies Group, Inc. Class A",
-      "pct": -5.9,
-      "short": "Tänast ettevõttepõhist uudist ei leitud; väikeaktsiad nõrgad pärast kiiret inflatsiooni",
-      "text": "Shoalsi kohta tänaseid uudiseid ei leitud – viimane ettevõtte teade on 26. augustist (patendivaidluse võit Voltage'i vastu). Turul tervikuna oli meeleolu nõrk: USA septembri inflatsioon (3,7% aastas) ületas ootusi ja Russell 2000 futuurid olid enne avamist −1,1%. Langes ka teisi päikeseenergia sektori aktsiaid portfellis (Nextpower, SOLV Energy), kuid sektori ühist põhjust allikad ei kinnita. Seos on ebakindel.",
-      "sources": [
-        {
-          "title": "Stock Market Today: Stocks Head Lower as Hot Inflation Puts Another Fed Rate Hike Back in Play (Yahoo Finance, 14.10.2026)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-stocks-head-132743645.html"
-        },
-        {
-          "title": "Shoals Technologies Group (SHLS) Stock News (StockTitan)",
-          "url": "https://www.stocktitan.net/news/SHLS/"
-        }
-      ],
-      "at": "2026-10-14T15:14:57Z"
-    },
-    {
-      "fmp": "ECG",
-      "sym": "ecg",
-      "name": "Everus Construction Group, Inc.",
-      "pct": -5.88,
-      "short": "Tänast ettevõttepõhist uudist ei leitud; USA turg nõrgem pärast kiiret inflatsiooni",
-      "text": "Everuse kohta tänaseid uudiseid (tulemused, lepingud, soovitused) ei leitud. Turg tervikuna oli nõrgem: USA septembri inflatsioon (3,7% aastas) ületas ootusi, tööstusaktsiad olid nõrgemate seas ja S&P 500 langes 0,94%. Samal päeval langes ka portfelli teine ehitusettevõte Granite Construction ligi 5%, kuid ühist sektoripõhjust allikad ei kinnita. Seos on ebakindel.",
-      "sources": [
-        {
-          "title": "Why is US Stock Market Down Today? … Hot US CPI Inflation Fuels Fed Rate-Hike Bets & Oil Hovers Near $106 (Sunday Guardian, 14.10.2026)",
-          "url": "https://sundayguardianlive.com/business/why-is-us-stock-market-down-today-dow-jones-falls-017-sp-500-drops-094-nasdaq-slumps-130-as-hot-us-cpi-inflation-fuels-fed-rate-hike-bets-oil-hovers-near-106-check-what-investors-should-305763/"
-        }
-      ],
-      "at": "2026-10-14T17:07:54Z"
-    },
-    {
-      "fmp": "9896.HK",
-      "sym": "9896-hkg",
-      "name": "MINISO Group Holding Ltd.",
-      "pct": 5.83,
-      "short": "Tugevad III kv käibenäitajad: Hiina GMV +25–30%, USA +20%; maaklerid kordavad ostusoovitust",
-      "text": "MINISO III kvartali tegevusandmete järgi kasvas Mandri-Hiina kaubakäive (GMV) aastaga 25–30% ja USA oma umbes 20%; septembris kiirenes USA kasv üle 30% ning võrreldavate poodide müük muutus seal positiivseks. CICC hinnangul kandub tugevus üle IV kvartali hooaega ja Everbright Securities jättis täna ostusoovituse kehtima (hinnanguline P/E 2026. a kasumi järgi umbes 7). Hiina finantsmeedia seob tänase tõusu otseselt nende numbritega, seega on seos üsna kindel.",
-      "sources": [
-        {
-          "title": "港股异动：名创优品涨超4% (Investing.com China, 14.10.2026)",
-          "url": "https://cn.investing.com/news/stock-market-news/article-3607245"
-        },
-        {
-          "title": "光大证券：维持名创优品(09896)“买入”评级 (Investing.com China, 14.10.2026)",
-          "url": "https://cn.investing.com/news/stock-market-news/article-3607372"
-        }
-      ],
-      "at": "2026-10-14T05:09:06Z"
-    },
-    {
-      "fmp": "MWH",
-      "sym": "mwh",
-      "name": "SOLV Energy Inc Class A",
-      "pct": -5.32,
-      "short": "Tänast ettevõttepõhist uudist ei leitud; USA turg nõrgem pärast kiiret inflatsiooni",
-      "text": "SOLV Energy kohta tänaseid uudiseid ei leitud. Turg tervikuna oli nõrgem: USA septembri inflatsioon (3,7% aastas) ületas ootusi ja tõi taas päevakorda intressitõstu, väikeaktsiate Russell 2000 futuurid olid enne avamist −1,1%. Samal päeval langesid ka teised päikeseenergia aktsiad portfellis (Shoals, Nextpower), kuid ühist sektoripõhjust allikad ei kinnita. Seos on ebakindel.",
-      "sources": [
-        {
-          "title": "Stock Market Today: Stocks Head Lower as Hot Inflation Puts Another Fed Rate Hike Back in Play (Yahoo Finance, 14.10.2026)",
-          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-stocks-head-132743645.html"
-        }
-      ],
-      "at": "2026-10-14T15:14:57Z"
-    },
-    {
-      "fmp": "BOOT",
-      "sym": "boot",
-      "name": "Boot Barn Holdings, Inc.",
-      "pct": -5.26,
-      "short": "Tänast ettevõttepõhist uudist ei leitud; USA turg nõrgem pärast kiiret inflatsiooni",
-      "text": "Boot Barni kohta tänaseid uudiseid (müüginumbrid, soovituste muutused) ei leitud; tänased Zacksi artiklid olid üldised analüüsid. Turg tervikuna oli nõrgem, sest USA septembri inflatsioon (3,7% aastas, bensiin +7,1%) ületas ootusi ja tõi päevakorda intressitõstu. Põhjus jääb selgusetuks; seos turu üldise meeleoluga on ebakindel.",
-      "sources": [
-        {
-          "title": "Why is US Stock Market Down Today? … Hot US CPI Inflation Fuels Fed Rate-Hike Bets & Oil Hovers Near $106 (Sunday Guardian, 14.10.2026)",
-          "url": "https://sundayguardianlive.com/business/why-is-us-stock-market-down-today-dow-jones-falls-017-sp-500-drops-094-nasdaq-slumps-130-as-hot-us-cpi-inflation-fuels-fed-rate-hike-bets-oil-hovers-near-106-check-what-investors-should-305763/"
-        }
-      ],
-      "at": "2026-10-14T17:07:54Z"
-    },
-    {
-      "fmp": "PEN.OL",
-      "sym": "pen-no",
-      "name": "Panoro Energy ASA",
-      "pct": 5.1,
-      "short": "Tänast ettevõttepõhist uudist ei leitud; põhjus jääb selgusetuks",
-      "text": "Panoro Energy aktsia tõusis täna Oslo börsil umbes 5%, kuid ettevõtte tänaseid börsiteateid ega muid tänaseid ettevõttepõhiseid uudiseid (tulemused, tehingud, analüütikute soovitused) otsingutest ei leitud. Ka FMP uudisvoog ei sisaldanud tänaseid uudiseid. Sektori- või naftahinna tausta kohta tänaseid kinnitavaid allikaid ei leitud, seega jääb liikumise põhjus lahtiseks.",
-      "sources": [
-        {
-          "title": "Panoro Energy ASA – pressiteated (Cision)",
-          "url": "https://news.cision.com/panoro-energy-asa"
-        },
-        {
-          "title": "Panoro Energy (PEN) – aktsiakurss ja uudised (Nordnet)",
-          "url": "https://www.nordnet.no/aksjer/kurser/panoro-energy-pen-xosl"
-        }
-      ],
-      "at": "2026-10-14T13:08:03Z"
-    },
-    {
-      "fmp": "CTPNV.AS",
-      "sym": "ctpnv-ams",
-      "name": "CTP N.V.",
-      "pct": 4.72,
-      "short": "Käivitas 12-kuulise 100 mln euro suuruse aktsiate tagasiostuprogrammi",
-      "text": "CTP teatas täna 100 miljoni euro suuruse aktsiate tagasiostuprogrammi käivitamisest, mis kestab 12 kuud. Juhatuse sõnul ei kajasta praegune aktsiahind ettevõtte kasvuväljavaadet ega sisemist väärtust. Hollandi finantsmeedia seob tagasiostu varasema hinnasurvega ja aktsia oli juba hommikul üle 4% plussis. Seos tänase teatega on kindel; muid ettevõttepõhiseid uudiseid allikad ei maininud.",
-      "sources": [
-        {
-          "title": "CTP start aandeleninkoop van 100 miljoen euro (The Asset)",
-          "url": "https://theasset.nl/sectoren/vastgoed/ctp-start-aandeleninkoop-van-100-miljoen-euro/"
-        },
-        {
-          "title": "Beursblik: koersdruk zet CTP aan tot aandeleninkoop (De Aandeelhouder)",
-          "url": "https://www.deaandeelhouder.nl/nieuws/2026/10/14/beursblik-koersdruk-zet-ctp-aan-tot-aandeleninkoop/"
-        }
-      ],
-      "at": "2026-10-14T09:07:32Z"
+      "at": "2026-10-15T05:08:48Z"
     }
   ]
 }
