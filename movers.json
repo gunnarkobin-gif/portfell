@@ -1,7 +1,22 @@
 {
   "date": "2026-10-15",
-  "updated": "2026-10-15T15:09:39Z",
+  "updated": "2026-10-15T17:07:49Z",
   "items": [
+    {
+      "fmp": "ADOC.PA",
+      "sym": "adoc-par",
+      "name": "Adocia SA",
+      "pct": 18.43,
+      "short": "Tänast teadet ikka ei leitud; tõus laienes ~16%-ni",
+      "text": "Adocia kohta ei leidnud ka pärastlõunal ühtegi tänast börsiteadet ega uudist; viimane teade oli 9. oktoobri rutiinne aktsiate arvu avaldus ja järgmine (III kv käive) tuleb 29. oktoobril. Aktsia tõusis kella 18 paiku 15,6% 2,51 euroni, kuid see järgneb ligi 20% langusele 25. septembril, kui poolaasta aruanne (raha 9,7 mln eurot 30. juuni seisuga) tekitas muret rahastuse pärast. Väike ja volatiilne aktsia võib liikuda ka ilma uudiseta; tänase tõusu põhjust ei saa kinnitada.",
+      "sources": [
+        {
+          "title": "Actualités ADOCIA (Boursorama)",
+          "url": "https://www.boursorama.com/cours/actualites/1rPADOC/"
+        }
+      ],
+      "at": "2026-10-15T15:09:39Z"
+    },
     {
       "fmp": "THG.L",
       "sym": "thg-lon",
@@ -41,25 +56,10 @@
       "at": "2026-10-15T05:08:48Z"
     },
     {
-      "fmp": "ADOC.PA",
-      "sym": "adoc-par",
-      "name": "Adocia SA",
-      "pct": 15.58,
-      "short": "Tänast teadet ikka ei leitud; tõus laienes ~16%-ni",
-      "text": "Adocia kohta ei leidnud ka pärastlõunal ühtegi tänast börsiteadet ega uudist; viimane teade oli 9. oktoobri rutiinne aktsiate arvu avaldus ja järgmine (III kv käive) tuleb 29. oktoobril. Aktsia tõusis kella 18 paiku 15,6% 2,51 euroni, kuid see järgneb ligi 20% langusele 25. septembril, kui poolaasta aruanne (raha 9,7 mln eurot 30. juuni seisuga) tekitas muret rahastuse pärast. Väike ja volatiilne aktsia võib liikuda ka ilma uudiseta; tänase tõusu põhjust ei saa kinnitada.",
-      "sources": [
-        {
-          "title": "Actualités ADOCIA (Boursorama)",
-          "url": "https://www.boursorama.com/cours/actualites/1rPADOC/"
-        }
-      ],
-      "at": "2026-10-15T15:09:39Z"
-    },
-    {
       "fmp": "BFF.MI",
       "sym": "bff-mil",
       "name": "BFF Bank SpA",
-      "pct": 9.42,
+      "pct": 9.13,
       "short": "Tänast ettevõtte uudist ei leitud; tõus nõrga Milano turu taustal",
       "text": "BFF Banki kohta tänast ettevõttespetsiifilist uudist ei leidnud. Teleborsa loetles BFF-i päeva tõusjate hulgas keskmise suurusega aktsiate seas, samal ajal kui FTSE MIB langes ligi 0,5%. Aktsia on aasta jooksul tugevalt langenud ning kukkus 1. oktoobril pärast nõuete müügilepingut; tänane tõus võib olla osaline tagasipõrge, kuid ükski allikas seda otseselt ei kinnita. Usaldus põhjuse osas on madal.",
       "sources": [
@@ -75,20 +75,20 @@
       "at": "2026-10-15T09:09:18Z"
     },
     {
-      "fmp": "XPS.L",
-      "sym": "xps-lon",
-      "name": "XPS Pensions Group Plc",
-      "pct": 8.06,
-      "short": "Poolaasta kauplemisteade: käive +12%, aasta tulemus veidi üle ootuste",
-      "text": "XPS avaldas täna kauplemisteate 30. septembril lõppenud poolaasta kohta: käive kasvas 12% (orgaaniliselt 11%), nõustamine +14%, administreerimine +10% ja SIPP-äri +7%. Juhatus kinnitas, et terve aasta tulemus tuleb ootustest veidi parem. Teade tuli samal päeval, seega on seos hinnatõusuga tugev. Täielikud poolaasta tulemused avaldatakse 19. novembril.",
+      "fmp": "HUBN.SW",
+      "sym": "hubn-ch",
+      "name": "Huber + Suhner AG",
+      "pct": -7.9,
+      "short": "Ettevõtte uudist ei leitud; UBS ja Research Partners langetasid hinnasihti",
+      "text": "Huber+Suhneri kohta tänast ettevõtte teadet ei leidnud. Analüütikutest langetas UBS hinnasihti 320-lt 300 frangile ja Research Partners 221-lt 216 frangile, mõlemad jätsid aga soovituse „osta“ ja sihid on praegusest hinnast (~163 CHF) tunduvalt kõrgemal. Need muudatused üksi ei selgita üle 6% langust täielikult, seega on põhjuse usaldus madal.",
       "sources": [
         {
-          "title": "XPS Pensions reports 12% revenue growth in first half (Investing.com)",
-          "url": "https://ca.investing.com/news/stock-market-news/xps-pensions-reports-12-revenue-growth-in-first-half-93CH-4881927"
+          "title": "Börsen-Ticker: SMI baut Kursgewinne aus – Neue Kursziele und Ratings (cash.ch)",
+          "url": "https://cash.ch/news/top-news/borsen-ticker-smi-baut-kursgewinne-aus-neue-kursziele-und-ratings-fur-schweizer-aktien-abb-und-vat-knicken-ein-nestle-und-zurich-insurance-gefragt-docmorris-mit-kurssprung-976807"
         },
         {
-          "title": "XPS Pensions Group schedules half-year trading update and results (TipRanks)",
-          "url": "https://www.tipranks.com/news/company-announcements/xps-pensions-group-schedules-half-year-trading-update-and-results"
+          "title": "Aktienanalyst preist SMI-Leader von 2025 neuerdings zum Kauf an (cash.ch)",
+          "url": "https://www.cash.ch/insider-briefing/aktienanalyst-preist-smi-leader-von-2025-neuerdings-zum-kauf-an-976826"
         }
       ],
       "at": "2026-10-15T09:09:18Z"
@@ -113,6 +113,59 @@
       "at": "2026-10-15T15:09:39Z"
     },
     {
+      "fmp": "XPS.L",
+      "sym": "xps-lon",
+      "name": "XPS Pensions Group Plc",
+      "pct": 7.74,
+      "short": "Poolaasta kauplemisteade: käive +12%, aasta tulemus veidi üle ootuste",
+      "text": "XPS avaldas täna kauplemisteate 30. septembril lõppenud poolaasta kohta: käive kasvas 12% (orgaaniliselt 11%), nõustamine +14%, administreerimine +10% ja SIPP-äri +7%. Juhatus kinnitas, et terve aasta tulemus tuleb ootustest veidi parem. Teade tuli samal päeval, seega on seos hinnatõusuga tugev. Täielikud poolaasta tulemused avaldatakse 19. novembril.",
+      "sources": [
+        {
+          "title": "XPS Pensions reports 12% revenue growth in first half (Investing.com)",
+          "url": "https://ca.investing.com/news/stock-market-news/xps-pensions-reports-12-revenue-growth-in-first-half-93CH-4881927"
+        },
+        {
+          "title": "XPS Pensions Group schedules half-year trading update and results (TipRanks)",
+          "url": "https://www.tipranks.com/news/company-announcements/xps-pensions-group-schedules-half-year-trading-update-and-results"
+        }
+      ],
+      "at": "2026-10-15T09:09:18Z"
+    },
+    {
+      "fmp": "RVLV",
+      "sym": "rvlv",
+      "name": "Revolve Group, Inc Class A",
+      "pct": 7.73,
+      "short": "Tänast ettevõtte uudist ei leitud",
+      "text": "Revolve kohta ei leidnud tänast börsiteadet, analüütiku hinnangumuutust ega muud uudist. Aktsia tõusis 7,2% 23,16 dollarini, samal ajal kui USA turg oli nõrk (Nasdaq hommikul −1,3%, Russell 2000 −1,9% oodatust kõrgema inflatsiooni järel). Tõusu põhjust ei saa olemasolevate allikate põhjal kinnitada.",
+      "sources": [
+        {
+          "title": "Stock Market Today (Oct. 15, 2026) (TheStreet)",
+          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-15-2026"
+        }
+      ],
+      "at": "2026-10-15T15:09:39Z"
+    },
+    {
+      "fmp": "G24.DE",
+      "sym": "g24-etr",
+      "name": "Scout24 SE",
+      "pct": 7.45,
+      "short": "Ettevõtte uudist ei leitud; Euroopa digi- ja andmeaktsiate tõus",
+      "text": "Scout24 kohta ei leidnud tänast ettevõtte teadet; ad-hoc-news märgib tõusu ilma põhjuseta ja viitab vaid Goldman Sachsi 9. oktoobri hinnasihi langetusele (108 → 101 eurot, ostusoovitus jäi). Aktsia tõusis 6,6% 78,65 euroni, pärast septembrikuist ~14% langust. Samal päeval tõusid Londonis ka teised AI-ohu pärast müüdud andme- ja digiaktsiad (Experian, RELX, LSEG), kui raha liikus USA tehnoloogiast välja; Scout24 puhul on see seos oletuslik. Järgmine aruanne tuleb 4. novembril.",
+      "sources": [
+        {
+          "title": "Goldman Sachs senkte Ziel auf 101 Euro: Scout24-Aktie legt 3,66 Prozent zu (ad-hoc-news)",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/goldman-sachs-senkte-ziel-auf-101-euro-scout24-aktie-legt-3-66-prozent-zu/70327982"
+        },
+        {
+          "title": "FTSE 100 gains as software stocks rally (UK Investor Magazine)",
+          "url": "https://ukinvestormagazine.co.uk/ftse-100-gains-as-software-stocks-rally/"
+        }
+      ],
+      "at": "2026-10-15T15:09:39Z"
+    },
+    {
       "fmp": "ENVIP.OL",
       "sym": "envi-ams",
       "name": "Envipco Holding N.V.",
@@ -132,38 +185,19 @@
       "at": "2026-10-15T11:09:31Z"
     },
     {
-      "fmp": "RVLV",
-      "sym": "rvlv",
-      "name": "Revolve Group, Inc Class A",
-      "pct": 7.23,
-      "short": "Tänast ettevõtte uudist ei leitud",
-      "text": "Revolve kohta ei leidnud tänast börsiteadet, analüütiku hinnangumuutust ega muud uudist. Aktsia tõusis 7,2% 23,16 dollarini, samal ajal kui USA turg oli nõrk (Nasdaq hommikul −1,3%, Russell 2000 −1,9% oodatust kõrgema inflatsiooni järel). Tõusu põhjust ei saa olemasolevate allikate põhjal kinnitada.",
+      "fmp": "NXR.L",
+      "sym": "nxr-lon",
+      "name": "Norcros plc",
+      "pct": 6.94,
+      "short": "I poolaasta teade: käive +19%, kasum kasvas, aasta ootus konsensuse tasemel",
+      "text": "Norcros avaldas täna hommikul I poolaasta kauplemisteate: käive kasvas umbes 220 mln naelani (+19%, võrreldavalt +1,5%) ja korrigeeritud ärikasum vähemalt 24,6 mln naelani (eelmisel aastal 21,9 mln). Juhatus ootab terve aasta korrigeeritud ärikasumit turu ootuste tasemel. Hommikul oli aktsia tõusnud 2,8% ja hiljem tõusis rohkem; seos teatega on tugev.",
       "sources": [
         {
-          "title": "Stock Market Today (Oct. 15, 2026) (TheStreet)",
-          "url": "https://www.thestreet.com/stock-market-today/stock-market-today-dow-jones-sp-500-nasdaq-updates-oct-15-2026"
+          "title": "Norcros Issues H1 Trading Update; FY Underlying Operating Profit To Be In Line With Market View (RTTNews)",
+          "url": "https://rttnews.com/3699255/norcros-issues-h1-trading-update-fy-underlying-operating-profit-to-be-in-line-with-market-view.aspx"
         }
       ],
-      "at": "2026-10-15T15:09:39Z"
-    },
-    {
-      "fmp": "HUBN.SW",
-      "sym": "hubn-ch",
-      "name": "Huber + Suhner AG",
-      "pct": -7.1,
-      "short": "Ettevõtte uudist ei leitud; UBS ja Research Partners langetasid hinnasihti",
-      "text": "Huber+Suhneri kohta tänast ettevõtte teadet ei leidnud. Analüütikutest langetas UBS hinnasihti 320-lt 300 frangile ja Research Partners 221-lt 216 frangile, mõlemad jätsid aga soovituse „osta“ ja sihid on praegusest hinnast (~163 CHF) tunduvalt kõrgemal. Need muudatused üksi ei selgita üle 6% langust täielikult, seega on põhjuse usaldus madal.",
-      "sources": [
-        {
-          "title": "Börsen-Ticker: SMI baut Kursgewinne aus – Neue Kursziele und Ratings (cash.ch)",
-          "url": "https://cash.ch/news/top-news/borsen-ticker-smi-baut-kursgewinne-aus-neue-kursziele-und-ratings-fur-schweizer-aktien-abb-und-vat-knicken-ein-nestle-und-zurich-insurance-gefragt-docmorris-mit-kurssprung-976807"
-        },
-        {
-          "title": "Aktienanalyst preist SMI-Leader von 2025 neuerdings zum Kauf an (cash.ch)",
-          "url": "https://www.cash.ch/insider-briefing/aktienanalyst-preist-smi-leader-von-2025-neuerdings-zum-kauf-an-976826"
-        }
-      ],
-      "at": "2026-10-15T09:09:18Z"
+      "at": "2026-10-15T11:09:31Z"
     },
     {
       "fmp": "ASB.AX",
@@ -179,21 +213,6 @@
         }
       ],
       "at": "2026-10-15T05:08:48Z"
-    },
-    {
-      "fmp": "VYX",
-      "sym": "vyx",
-      "name": "NCR Voyix Corporation",
-      "pct": 6.76,
-      "short": "Eilne Sbarro lepingu laiendus; tänast uut uudist ei leitud",
-      "text": "NCR Voyix teatas eile (14. okt) mitmeaastasest lepingust pitsaketiga Sbarro, kes võtab ligi 300 USA restoranis kasutusele Aloha Next kassasüsteemi ja Voyix Pay maksevõimaluse. Tänast uut teadet ei leidnud; aktsia tõusis 6,8% 7,35 dollarini. Seos eilse lepinguuudisega on võimalik, aga nõrk, sest leping on mahult väike ja allikad tänast tõusu sellega ei seo.",
-      "sources": [
-        {
-          "title": "Sbarro Expands Partnership with NCR Voyix (Business Wire)",
-          "url": "https://www.businesswire.com/news/home/20261014245392/en/Sbarro-Expands-Partnership-with-NCR-Voyix-to-Modernize-Restaurant-Operations-and-Streamline-Payments/"
-        }
-      ],
-      "at": "2026-10-15T15:09:39Z"
     },
     {
       "fmp": "1378.HK",
@@ -215,20 +234,31 @@
       "at": "2026-10-15T05:08:48Z"
     },
     {
-      "fmp": "G24.DE",
-      "sym": "g24-etr",
-      "name": "Scout24 SE",
-      "pct": 6.57,
-      "short": "Ettevõtte uudist ei leitud; Euroopa digi- ja andmeaktsiate tõus",
-      "text": "Scout24 kohta ei leidnud tänast ettevõtte teadet; ad-hoc-news märgib tõusu ilma põhjuseta ja viitab vaid Goldman Sachsi 9. oktoobri hinnasihi langetusele (108 → 101 eurot, ostusoovitus jäi). Aktsia tõusis 6,6% 78,65 euroni, pärast septembrikuist ~14% langust. Samal päeval tõusid Londonis ka teised AI-ohu pärast müüdud andme- ja digiaktsiad (Experian, RELX, LSEG), kui raha liikus USA tehnoloogiast välja; Scout24 puhul on see seos oletuslik. Järgmine aruanne tuleb 4. novembril.",
+      "fmp": "VYX",
+      "sym": "vyx",
+      "name": "NCR Voyix Corporation",
+      "pct": 6.54,
+      "short": "Eilne Sbarro lepingu laiendus; tänast uut uudist ei leitud",
+      "text": "NCR Voyix teatas eile (14. okt) mitmeaastasest lepingust pitsaketiga Sbarro, kes võtab ligi 300 USA restoranis kasutusele Aloha Next kassasüsteemi ja Voyix Pay maksevõimaluse. Tänast uut teadet ei leidnud; aktsia tõusis 6,8% 7,35 dollarini. Seos eilse lepinguuudisega on võimalik, aga nõrk, sest leping on mahult väike ja allikad tänast tõusu sellega ei seo.",
       "sources": [
         {
-          "title": "Goldman Sachs senkte Ziel auf 101 Euro: Scout24-Aktie legt 3,66 Prozent zu (ad-hoc-news)",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/goldman-sachs-senkte-ziel-auf-101-euro-scout24-aktie-legt-3-66-prozent-zu/70327982"
-        },
+          "title": "Sbarro Expands Partnership with NCR Voyix (Business Wire)",
+          "url": "https://www.businesswire.com/news/home/20261014245392/en/Sbarro-Expands-Partnership-with-NCR-Voyix-to-Modernize-Restaurant-Operations-and-Streamline-Payments/"
+        }
+      ],
+      "at": "2026-10-15T15:09:39Z"
+    },
+    {
+      "fmp": "BOOT",
+      "sym": "boot",
+      "name": "Boot Barn Holdings, Inc.",
+      "pct": 6.45,
+      "short": "Tagasipõrge pärast eilset −4% ja 52 nädala madalaimat taset",
+      "text": "Boot Barn langes eile 4% 112,86 dollarini ja jõudis päeva jooksul 52 nädala madalaimale tasemele 110,53 dollarit. Täna tõusis aktsia 5,3% 118,89 dollarini. Tänast ettevõtte uudist ei leidnud, seega tundub tegu olevat tagasipõrkega pärast müüki, aga allikad seda otse ei kinnita.",
+      "sources": [
         {
-          "title": "FTSE 100 gains as software stocks rally (UK Investor Magazine)",
-          "url": "https://ukinvestormagazine.co.uk/ftse-100-gains-as-software-stocks-rally/"
+          "title": "Is Boot Barn (BOOT) a Bargain After 4.0% Drop? (GuruFocus)",
+          "url": "https://www.gurufocus.com/news/9124429/is-boot-barn-holdings-inc-boot-a-bargain-after-40-drop-gf-value-says-undervalued"
         }
       ],
       "at": "2026-10-15T15:09:39Z"
@@ -253,6 +283,21 @@
       "at": "2026-10-15T05:08:48Z"
     },
     {
+      "fmp": "ALLT",
+      "sym": "allt",
+      "name": "Allot Ltd.",
+      "pct": 6.05,
+      "short": "Tänast uudist ei leitud; jätkab esmaspäevast tõusu üle 200 p keskmise",
+      "text": "Allot kohta ei leidnud tänast börsiteadet ega analüütiku hinnangumuutust. Aktsia tõusis 5,5% 9,07 dollarini ja jätkab esmaspäeval alanud tõusu, kui hind murdis üle 200 päeva libiseva keskmise (~7,7 dollarit). Allikad ei nimeta liikumisele konkreetset põhjust.",
+      "sources": [
+        {
+          "title": "Allot share price breaks above 200 day moving average (Daily Political)",
+          "url": "https://dailypolitical.com/2026/10/14/allot-nasdaqallt-share-price-breaks-above-200-day-moving-average-should-you-sell.html"
+        }
+      ],
+      "at": "2026-10-15T15:09:39Z"
+    },
+    {
       "fmp": "2590.HK",
       "sym": "2590-hk",
       "name": "Beijing Geekplus Technology Co., Ltd. Class H",
@@ -272,25 +317,10 @@
       "at": "2026-10-15T05:08:48Z"
     },
     {
-      "fmp": "NXR.L",
-      "sym": "nxr-lon",
-      "name": "Norcros plc",
-      "pct": 5.9,
-      "short": "I poolaasta teade: käive +19%, kasum kasvas, aasta ootus konsensuse tasemel",
-      "text": "Norcros avaldas täna hommikul I poolaasta kauplemisteate: käive kasvas umbes 220 mln naelani (+19%, võrreldavalt +1,5%) ja korrigeeritud ärikasum vähemalt 24,6 mln naelani (eelmisel aastal 21,9 mln). Juhatus ootab terve aasta korrigeeritud ärikasumit turu ootuste tasemel. Hommikul oli aktsia tõusnud 2,8% ja hiljem tõusis rohkem; seos teatega on tugev.",
-      "sources": [
-        {
-          "title": "Norcros Issues H1 Trading Update; FY Underlying Operating Profit To Be In Line With Market View (RTTNews)",
-          "url": "https://rttnews.com/3699255/norcros-issues-h1-trading-update-fy-underlying-operating-profit-to-be-in-line-with-market-view.aspx"
-        }
-      ],
-      "at": "2026-10-15T11:09:31Z"
-    },
-    {
       "fmp": "EXPN.L",
       "sym": "expn-lon",
       "name": "Experian PLC",
-      "pct": 5.86,
+      "pct": 5.9,
       "short": "FTSE 100 parim: AI-ohu pärast müüdud andmeaktsiate tagasipõrge",
       "text": "Experian oli täna FTSE 100 suurim tõusja; samal ajal tõusid ka RELX ja LSEG. UK Investor Magazine seob seda USA tehnoloogiaaktsiate müügiga pärast oodatust kõrgemat inflatsiooni (3,7%): raha liikus Londoni andme- ja tarkvaraettevõtetesse, mille aktsiad olid varem AI-konkurentsi hirmus langenud. Ettevõttespetsiifilist uudist ei leitud. Seos sektori liikumisega on mõõdukalt tugev.",
       "sources": [
@@ -340,36 +370,6 @@
       "at": "2026-10-15T05:08:48Z"
     },
     {
-      "fmp": "ALLT",
-      "sym": "allt",
-      "name": "Allot Ltd.",
-      "pct": 5.47,
-      "short": "Tänast uudist ei leitud; jätkab esmaspäevast tõusu üle 200 p keskmise",
-      "text": "Allot kohta ei leidnud tänast börsiteadet ega analüütiku hinnangumuutust. Aktsia tõusis 5,5% 9,07 dollarini ja jätkab esmaspäeval alanud tõusu, kui hind murdis üle 200 päeva libiseva keskmise (~7,7 dollarit). Allikad ei nimeta liikumisele konkreetset põhjust.",
-      "sources": [
-        {
-          "title": "Allot share price breaks above 200 day moving average (Daily Political)",
-          "url": "https://dailypolitical.com/2026/10/14/allot-nasdaqallt-share-price-breaks-above-200-day-moving-average-should-you-sell.html"
-        }
-      ],
-      "at": "2026-10-15T15:09:39Z"
-    },
-    {
-      "fmp": "BOOT",
-      "sym": "boot",
-      "name": "Boot Barn Holdings, Inc.",
-      "pct": 5.34,
-      "short": "Tagasipõrge pärast eilset −4% ja 52 nädala madalaimat taset",
-      "text": "Boot Barn langes eile 4% 112,86 dollarini ja jõudis päeva jooksul 52 nädala madalaimale tasemele 110,53 dollarit. Täna tõusis aktsia 5,3% 118,89 dollarini. Tänast ettevõtte uudist ei leidnud, seega tundub tegu olevat tagasipõrkega pärast müüki, aga allikad seda otse ei kinnita.",
-      "sources": [
-        {
-          "title": "Is Boot Barn (BOOT) a Bargain After 4.0% Drop? (GuruFocus)",
-          "url": "https://www.gurufocus.com/news/9124429/is-boot-barn-holdings-inc-boot-a-bargain-after-40-drop-gf-value-says-undervalued"
-        }
-      ],
-      "at": "2026-10-15T15:09:39Z"
-    },
-    {
       "fmp": "JST.DE",
       "sym": "jst-etr",
       "name": "JOST Werke SE",
@@ -406,6 +406,25 @@
         }
       ],
       "at": "2026-10-15T05:08:48Z"
+    },
+    {
+      "fmp": "KTB",
+      "sym": "ktb",
+      "name": "Kontoor Brands, Inc.",
+      "pct": 5.22,
+      "short": "Tänast uudist ei leitud; kolmapäeval tõstis Jefferies soovituse ostuks (siht 89 $)",
+      "text": "Tänast ettevõttepõhist uudist Kontoor Brandsi kohta ei leitud. Kolmapäeval, 14. oktoobril tõstis Jefferies soovituse „hoia“ pealt „osta“ peale ja hinnasihi 82 dollarilt 89 dollarile, põhjendades seda Lee brändi müügi järel keskendumisega Wranglerile ja kiirema kasvu väljavaatega. Võimalik, et tänane tõus jätkab selle soovituse mõju, kuid tänased allikad seda ei kinnita, seega on seos nõrk.",
+      "sources": [
+        {
+          "title": "Jefferies upgrades Kontoor Brands stock rating on growth potential (Investing.com)",
+          "url": "https://www.investing.com/news/analyst-ratings/jefferies-upgrades-kontoor-brands-stock-rating-on-growth-potential-93CH-4948241"
+        },
+        {
+          "title": "Kontoor Brands is bound to bounce back, Jefferies says (CNBC)",
+          "url": "https://www.cnbc.com/2026/10/14/kontoor-brands-jefferies-denim-growth.html"
+        }
+      ],
+      "at": "2026-10-15T17:07:49Z"
     },
     {
       "fmp": "2788.HK",
