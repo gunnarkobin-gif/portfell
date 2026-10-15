@@ -1,12 +1,12 @@
 {
   "date": "2026-10-15",
-  "updated": "2026-10-15T11:09:31Z",
+  "updated": "2026-10-15T13:07:46Z",
   "items": [
     {
       "fmp": "THG.L",
       "sym": "thg-lon",
       "name": "THG Plc",
-      "pct": 17.51,
+      "pct": 17.22,
       "short": "Q3 teade: EBITDA prognoos konsensusest kõrgemale, esimest korda positiivne rahavoog",
       "text": "THG avaldas täna III kvartali kauplemisteate: grupi käive kasvas püsivas valuutas 1,5% 408,8 mln naelani, põhibrändide ja -turgude käive 6,1% ning Nutrition 5,3% (Myproteini brändimahud +36,2%). Ettevõte tõstis 2026. aasta korrigeeritud EBITDA ootust 103 mln naelani, üle turu konsensuse, ja ootab esimest korda pärast börsile tulekut positiivset vaba rahavoogu (25–35 mln naela). Hommikune tõus (~13%) laienes päeva jooksul ligi 17%-ni. Seos teatega on tugev.",
       "sources": [
@@ -41,42 +41,80 @@
       "at": "2026-10-15T05:08:48Z"
     },
     {
-      "fmp": "CICN.SW",
-      "sym": "cicn-ch",
-      "name": "Cicor Technologies",
-      "pct": -7.24,
-      "short": "Q3 käive jäi alla analüütikute ootuste komponentide puuduse tõttu",
-      "text": "Cicor avaldas täna enne turu avanemist III kvartali ülevaate: käive kasvas 6,7% 170,8 mln frangini (orgaaniliselt 4,6%), kuid jäi analüütikute ootustest selgelt alla, sest trükkplaatide ja mälukiipide puudus lükkas käibe kajastamist edasi. Tellimused kasvasid 10,7% 193,2 mln frangini (book-to-bill 1,13) ning 2026. aasta prognoos (käive 700–750 mln, korr. EBITDA 70–80 mln CHF) jäi kehtima. Seos hinnalangusega on tugev – turg keskendus käibe puudujäägile.",
+      "fmp": "ADOC.PA",
+      "sym": "adoc-par",
+      "name": "Adocia SA",
+      "pct": 11.43,
+      "short": "Tänast ettevõtte teadet ei leitud; tõus laienes pärastlõunal ~11%-ni",
+      "text": "Adocia kohta ei leidnud ka pärastlõunal ühtegi tänast börsiteadet ega uudist; viimane teade oli 9. oktoobri rutiinne aktsiate arvu avaldus ja järgmine (III kv käive) tuleb 29. oktoobril. Aktsia tõusis kella 15 paiku 11,4% 2,42 euroni, kuid see järgneb ligi 20% langusele 25. septembril, kui poolaasta aruanne (raha 9,7 mln eurot 30. juuni seisuga) tekitas muret rahastuse pärast. Väike ja volatiilne aktsia võib liikuda ka ilma uudiseta; tänase tõusu põhjust ei saa kinnitada.",
       "sources": [
         {
-          "title": "Dlaczego akcje Cicor Technologies dziś spadają? (Investing.com)",
-          "url": "https://pl.investing.com/news/stock-market-news/dlaczego-akcje-cicor-technologies-dzis-spadaja-93CH-1602361"
+          "title": "Actualités ADOCIA (Boursorama)",
+          "url": "https://www.boursorama.com/cours/actualites/1rPADOC/"
         },
         {
-          "title": "Cicor Technologies: Q3 Sales Up 6.7%; Backlog Signals Q4 Acceleration (wallstreet-online)",
-          "url": "https://www.wallstreet-online.de/nachricht/21527491-cicor-technologies-q3-sales-up-6-7-backlog-signals-q4-acceleration"
+          "title": "Adocia dévoile son calendrier de publications financières pour 2026 (Idéal Investisseur)",
+          "url": "https://www.ideal-investisseur.fr/actions-b/adocia-dvoile-son-calendrier-de-publications-financires-pour-2026/11016.html"
+        }
+      ],
+      "at": "2026-10-15T13:07:46Z"
+    },
+    {
+      "fmp": "XPS.L",
+      "sym": "xps-lon",
+      "name": "XPS Pensions Group Plc",
+      "pct": 8.39,
+      "short": "Poolaasta kauplemisteade: käive +12%, aasta tulemus veidi üle ootuste",
+      "text": "XPS avaldas täna kauplemisteate 30. septembril lõppenud poolaasta kohta: käive kasvas 12% (orgaaniliselt 11%), nõustamine +14%, administreerimine +10% ja SIPP-äri +7%. Juhatus kinnitas, et terve aasta tulemus tuleb ootustest veidi parem. Teade tuli samal päeval, seega on seos hinnatõusuga tugev. Täielikud poolaasta tulemused avaldatakse 19. novembril.",
+      "sources": [
+        {
+          "title": "XPS Pensions reports 12% revenue growth in first half (Investing.com)",
+          "url": "https://ca.investing.com/news/stock-market-news/xps-pensions-reports-12-revenue-growth-in-first-half-93CH-4881927"
+        },
+        {
+          "title": "XPS Pensions Group schedules half-year trading update and results (TipRanks)",
+          "url": "https://www.tipranks.com/news/company-announcements/xps-pensions-group-schedules-half-year-trading-update-and-results"
         }
       ],
       "at": "2026-10-15T09:09:18Z"
     },
     {
-      "fmp": "HUBN.SW",
-      "sym": "hubn-ch",
-      "name": "Huber + Suhner AG",
-      "pct": -6.87,
-      "short": "Ettevõtte uudist ei leitud; UBS ja Research Partners langetasid hinnasihti",
-      "text": "Huber+Suhneri kohta tänast ettevõtte teadet ei leidnud. Analüütikutest langetas UBS hinnasihti 320-lt 300 frangile ja Research Partners 221-lt 216 frangile, mõlemad jätsid aga soovituse „osta“ ja sihid on praegusest hinnast (~163 CHF) tunduvalt kõrgemal. Need muudatused üksi ei selgita üle 6% langust täielikult, seega on põhjuse usaldus madal.",
+      "fmp": "BFF.MI",
+      "sym": "bff-mil",
+      "name": "BFF Bank SpA",
+      "pct": 7.21,
+      "short": "Tänast ettevõtte uudist ei leitud; tõus nõrga Milano turu taustal",
+      "text": "BFF Banki kohta tänast ettevõttespetsiifilist uudist ei leidnud. Teleborsa loetles BFF-i päeva tõusjate hulgas keskmise suurusega aktsiate seas, samal ajal kui FTSE MIB langes ligi 0,5%. Aktsia on aasta jooksul tugevalt langenud ning kukkus 1. oktoobril pärast nõuete müügilepingut; tänane tõus võib olla osaline tagasipõrge, kuid ükski allikas seda otseselt ei kinnita. Usaldus põhjuse osas on madal.",
       "sources": [
         {
-          "title": "Börsen-Ticker: SMI baut Kursgewinne aus – Neue Kursziele und Ratings (cash.ch)",
-          "url": "https://cash.ch/news/top-news/borsen-ticker-smi-baut-kursgewinne-aus-neue-kursziele-und-ratings-fur-schweizer-aktien-abb-und-vat-knicken-ein-nestle-und-zurich-insurance-gefragt-docmorris-mit-kurssprung-976807"
+          "title": "Prevalgono le vendite a Piazza Affari e tra le altre Borse europee (Teleborsa)",
+          "url": "https://www.teleborsa.it/News/2026/10/15/prevalgono-le-vendite-a-piazza-affari-e-tra-le-altre-borse-europee-55.html"
         },
         {
-          "title": "Aktienanalyst preist SMI-Leader von 2025 neuerdings zum Kauf an (cash.ch)",
-          "url": "https://www.cash.ch/insider-briefing/aktienanalyst-preist-smi-leader-von-2025-neuerdings-zum-kauf-an-976826"
+          "title": "BFF Bank crolla in coda alle midcap all'indomani accordo cessione crediti (Borsa Italiana)",
+          "url": "https://www.borsaitaliana.it/borsa/notizie/teleborsa/finanza/bff-bank-crolla-in-coda-alle-midcap-all-indomani-accordo-cessione-crediti-213_2026-10-01_TLB.html?lang=it"
         }
       ],
       "at": "2026-10-15T09:09:18Z"
+    },
+    {
+      "fmp": "ENVIP.OL",
+      "sym": "envi-ams",
+      "name": "Envipco Holding N.V.",
+      "pct": -6.86,
+      "short": "Tänast ettevõtte uudist ei leitud; viimane teade oli 28. septembril",
+      "text": "Tänaseks ei leidnud Envipco kohta ühtegi ettevõttespetsiifilist uudist ega börsiteadet; viimane teade oli 28. septembril (taaraautomaatide tarneleping Briti jaemüüjaga). Aktsia on juba pikemat aega languses pärast II kvartali käibe ootustest kehvemat tulemust. Tänase languse põhjust ei saa ühegi allikaga kinnitada.",
+      "sources": [
+        {
+          "title": "Envipco Aktien News (finanznachrichten.de)",
+          "url": "https://www.finanznachrichten.de/nachrichten-aktien/envipco-holding-nv.htm"
+        },
+        {
+          "title": "Earnings call transcript: Envipco shares fall on Q2 2026 revenue miss (Investing.com)",
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-envipco-shares-fall-on-q2-2026-revenue-miss-93CH-4853783"
+        }
+      ],
+      "at": "2026-10-15T11:09:31Z"
     },
     {
       "fmp": "ASB.AX",
@@ -113,38 +151,23 @@
       "at": "2026-10-15T05:08:48Z"
     },
     {
-      "fmp": "XPS.L",
-      "sym": "xps-lon",
-      "name": "XPS Pensions Group Plc",
-      "pct": 6.45,
-      "short": "Poolaasta kauplemisteade: käive +12%, aasta tulemus veidi üle ootuste",
-      "text": "XPS avaldas täna kauplemisteate 30. septembril lõppenud poolaasta kohta: käive kasvas 12% (orgaaniliselt 11%), nõustamine +14%, administreerimine +10% ja SIPP-äri +7%. Juhatus kinnitas, et terve aasta tulemus tuleb ootustest veidi parem. Teade tuli samal päeval, seega on seos hinnatõusuga tugev. Täielikud poolaasta tulemused avaldatakse 19. novembril.",
+      "fmp": "HUBN.SW",
+      "sym": "hubn-ch",
+      "name": "Huber + Suhner AG",
+      "pct": -6.3,
+      "short": "Ettevõtte uudist ei leitud; UBS ja Research Partners langetasid hinnasihti",
+      "text": "Huber+Suhneri kohta tänast ettevõtte teadet ei leidnud. Analüütikutest langetas UBS hinnasihti 320-lt 300 frangile ja Research Partners 221-lt 216 frangile, mõlemad jätsid aga soovituse „osta“ ja sihid on praegusest hinnast (~163 CHF) tunduvalt kõrgemal. Need muudatused üksi ei selgita üle 6% langust täielikult, seega on põhjuse usaldus madal.",
       "sources": [
         {
-          "title": "XPS Pensions reports 12% revenue growth in first half (Investing.com)",
-          "url": "https://ca.investing.com/news/stock-market-news/xps-pensions-reports-12-revenue-growth-in-first-half-93CH-4881927"
+          "title": "Börsen-Ticker: SMI baut Kursgewinne aus – Neue Kursziele und Ratings (cash.ch)",
+          "url": "https://cash.ch/news/top-news/borsen-ticker-smi-baut-kursgewinne-aus-neue-kursziele-und-ratings-fur-schweizer-aktien-abb-und-vat-knicken-ein-nestle-und-zurich-insurance-gefragt-docmorris-mit-kurssprung-976807"
         },
         {
-          "title": "XPS Pensions Group schedules half-year trading update and results (TipRanks)",
-          "url": "https://www.tipranks.com/news/company-announcements/xps-pensions-group-schedules-half-year-trading-update-and-results"
+          "title": "Aktienanalyst preist SMI-Leader von 2025 neuerdings zum Kauf an (cash.ch)",
+          "url": "https://www.cash.ch/insider-briefing/aktienanalyst-preist-smi-leader-von-2025-neuerdings-zum-kauf-an-976826"
         }
       ],
       "at": "2026-10-15T09:09:18Z"
-    },
-    {
-      "fmp": "ADOC.PA",
-      "sym": "adoc-par",
-      "name": "Adocia SA",
-      "pct": 6.45,
-      "short": "Tänast ettevõtte teadet ei leitud; väike likviidne biotehnoloogia aktsia",
-      "text": "Tänaseks ei leidnud Adocia kohta ühtegi ettevõttespetsiifilist uudist ega börsiteadet. Ettevõtte finantskalendri järgi on järgmine avalikustamine (III kvartali käive) alles 29. oktoobril. Aktsia hind on umbes 2,3 eurot ja käive väike, nii et 6% liikumine võib tulla ka ilma uudiseta; põhjust ei saa kinnitada.",
-      "sources": [
-        {
-          "title": "Adocia dévoile son calendrier de publications financières pour 2026 (Idéal Investisseur)",
-          "url": "https://www.ideal-investisseur.fr/actions-b/adocia-dvoile-son-calendrier-de-publications-financires-pour-2026/11016.html"
-        }
-      ],
-      "at": "2026-10-15T11:09:31Z"
     },
     {
       "fmp": "2600.HK",
@@ -166,25 +189,6 @@
       "at": "2026-10-15T05:08:48Z"
     },
     {
-      "fmp": "BFF.MI",
-      "sym": "bff-mil",
-      "name": "BFF Bank SpA",
-      "pct": 6.25,
-      "short": "Tänast ettevõtte uudist ei leitud; tõus nõrga Milano turu taustal",
-      "text": "BFF Banki kohta tänast ettevõttespetsiifilist uudist ei leidnud. Teleborsa loetles BFF-i päeva tõusjate hulgas keskmise suurusega aktsiate seas, samal ajal kui FTSE MIB langes ligi 0,5%. Aktsia on aasta jooksul tugevalt langenud ning kukkus 1. oktoobril pärast nõuete müügilepingut; tänane tõus võib olla osaline tagasipõrge, kuid ükski allikas seda otseselt ei kinnita. Usaldus põhjuse osas on madal.",
-      "sources": [
-        {
-          "title": "Prevalgono le vendite a Piazza Affari e tra le altre Borse europee (Teleborsa)",
-          "url": "https://www.teleborsa.it/News/2026/10/15/prevalgono-le-vendite-a-piazza-affari-e-tra-le-altre-borse-europee-55.html"
-        },
-        {
-          "title": "BFF Bank crolla in coda alle midcap all'indomani accordo cessione crediti (Borsa Italiana)",
-          "url": "https://www.borsaitaliana.it/borsa/notizie/teleborsa/finanza/bff-bank-crolla-in-coda-alle-midcap-all-indomani-accordo-cessione-crediti-213_2026-10-01_TLB.html?lang=it"
-        }
-      ],
-      "at": "2026-10-15T09:09:18Z"
-    },
-    {
       "fmp": "2590.HK",
       "sym": "2590-hk",
       "name": "Beijing Geekplus Technology Co., Ltd. Class H",
@@ -204,6 +208,25 @@
       "at": "2026-10-15T05:08:48Z"
     },
     {
+      "fmp": "CICN.SW",
+      "sym": "cicn-ch",
+      "name": "Cicor Technologies",
+      "pct": -5.82,
+      "short": "Q3 käive jäi alla analüütikute ootuste komponentide puuduse tõttu",
+      "text": "Cicor avaldas täna enne turu avanemist III kvartali ülevaate: käive kasvas 6,7% 170,8 mln frangini (orgaaniliselt 4,6%), kuid jäi analüütikute ootustest selgelt alla, sest trükkplaatide ja mälukiipide puudus lükkas käibe kajastamist edasi. Tellimused kasvasid 10,7% 193,2 mln frangini (book-to-bill 1,13) ning 2026. aasta prognoos (käive 700–750 mln, korr. EBITDA 70–80 mln CHF) jäi kehtima. Seos hinnalangusega on tugev – turg keskendus käibe puudujäägile.",
+      "sources": [
+        {
+          "title": "Dlaczego akcje Cicor Technologies dziś spadają? (Investing.com)",
+          "url": "https://pl.investing.com/news/stock-market-news/dlaczego-akcje-cicor-technologies-dzis-spadaja-93CH-1602361"
+        },
+        {
+          "title": "Cicor Technologies: Q3 Sales Up 6.7%; Backlog Signals Q4 Acceleration (wallstreet-online)",
+          "url": "https://www.wallstreet-online.de/nachricht/21527491-cicor-technologies-q3-sales-up-6-7-backlog-signals-q4-acceleration"
+        }
+      ],
+      "at": "2026-10-15T09:09:18Z"
+    },
+    {
       "fmp": "1357.HK",
       "sym": "1357-hk",
       "name": "Meitu, Inc",
@@ -221,21 +244,6 @@
         }
       ],
       "at": "2026-10-15T05:08:48Z"
-    },
-    {
-      "fmp": "NXR.L",
-      "sym": "nxr-lon",
-      "name": "Norcros plc",
-      "pct": 5.56,
-      "short": "I poolaasta teade: käive +19%, kasum kasvas, aasta ootus konsensuse tasemel",
-      "text": "Norcros avaldas täna hommikul I poolaasta kauplemisteate: käive kasvas umbes 220 mln naelani (+19%, võrreldavalt +1,5%) ja korrigeeritud ärikasum vähemalt 24,6 mln naelani (eelmisel aastal 21,9 mln). Juhatus ootab terve aasta korrigeeritud ärikasumit turu ootuste tasemel. Hommikul oli aktsia tõusnud 2,8% ja hiljem tõusis rohkem; seos teatega on tugev.",
-      "sources": [
-        {
-          "title": "Norcros Issues H1 Trading Update; FY Underlying Operating Profit To Be In Line With Market View (RTTNews)",
-          "url": "https://rttnews.com/3699255/norcros-issues-h1-trading-update-fy-underlying-operating-profit-to-be-in-line-with-market-view.aspx"
-        }
-      ],
-      "at": "2026-10-15T11:09:31Z"
     },
     {
       "fmp": "JST.DE",
@@ -276,6 +284,21 @@
       "at": "2026-10-15T05:08:48Z"
     },
     {
+      "fmp": "NXR.L",
+      "sym": "nxr-lon",
+      "name": "Norcros plc",
+      "pct": 5.21,
+      "short": "I poolaasta teade: käive +19%, kasum kasvas, aasta ootus konsensuse tasemel",
+      "text": "Norcros avaldas täna hommikul I poolaasta kauplemisteate: käive kasvas umbes 220 mln naelani (+19%, võrreldavalt +1,5%) ja korrigeeritud ärikasum vähemalt 24,6 mln naelani (eelmisel aastal 21,9 mln). Juhatus ootab terve aasta korrigeeritud ärikasumit turu ootuste tasemel. Hommikul oli aktsia tõusnud 2,8% ja hiljem tõusis rohkem; seos teatega on tugev.",
+      "sources": [
+        {
+          "title": "Norcros Issues H1 Trading Update; FY Underlying Operating Profit To Be In Line With Market View (RTTNews)",
+          "url": "https://rttnews.com/3699255/norcros-issues-h1-trading-update-fy-underlying-operating-profit-to-be-in-line-with-market-view.aspx"
+        }
+      ],
+      "at": "2026-10-15T11:09:31Z"
+    },
+    {
       "fmp": "2788.HK",
       "sym": "2788-hk",
       "name": "Chuangxin Industries Holdings Limited",
@@ -293,25 +316,6 @@
         }
       ],
       "at": "2026-10-15T07:13:27Z"
-    },
-    {
-      "fmp": "ENVIP.OL",
-      "sym": "envi-ams",
-      "name": "Envipco Holding N.V.",
-      "pct": -5.17,
-      "short": "Tänast ettevõtte uudist ei leitud; viimane teade oli 28. septembril",
-      "text": "Tänaseks ei leidnud Envipco kohta ühtegi ettevõttespetsiifilist uudist ega börsiteadet; viimane teade oli 28. septembril (taaraautomaatide tarneleping Briti jaemüüjaga). Aktsia on juba pikemat aega languses pärast II kvartali käibe ootustest kehvemat tulemust. Tänase languse põhjust ei saa ühegi allikaga kinnitada.",
-      "sources": [
-        {
-          "title": "Envipco Aktien News (finanznachrichten.de)",
-          "url": "https://www.finanznachrichten.de/nachrichten-aktien/envipco-holding-nv.htm"
-        },
-        {
-          "title": "Earnings call transcript: Envipco shares fall on Q2 2026 revenue miss (Investing.com)",
-          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-envipco-shares-fall-on-q2-2026-revenue-miss-93CH-4853783"
-        }
-      ],
-      "at": "2026-10-15T11:09:31Z"
     },
     {
       "fmp": "HLMA.L",
