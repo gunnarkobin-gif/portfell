@@ -1,52 +1,37 @@
 {
   "date": "2026-10-15",
-  "updated": "2026-10-15T07:13:27Z",
+  "updated": "2026-10-15T09:09:18Z",
   "items": [
+    {
+      "fmp": "THG.L",
+      "sym": "thg-lon",
+      "name": "THG Plc",
+      "pct": 16.57,
+      "short": "Q3 teade: EBITDA prognoos konsensusest kõrgemale, esimest korda positiivne rahavoog",
+      "text": "THG avaldas täna III kvartali kauplemisteate: grupi käive kasvas püsivas valuutas 1,5% 408,8 mln naelani, põhibrändide ja -turgude käive 6,1% ning Nutrition 5,3% (Myproteini brändimahud +36,2%). Ettevõte tõstis 2026. aasta korrigeeritud EBITDA ootust 103 mln naelani, üle turu konsensuse, ja ootab esimest korda pärast börsile tulekut positiivset vaba rahavoogu (25–35 mln naela). Hommikune tõus (~13%) laienes päeva jooksul ligi 17%-ni. Seos teatega on tugev.",
+      "sources": [
+        {
+          "title": "THG lifts profit outlook as Nutrition surges and cash flow turns positive (TipRanks)",
+          "url": "https://www.tipranks.com/news/company-announcements/thg-lifts-profit-outlook-as-nutrition-surges-and-cash-flow-turns-positive"
+        },
+        {
+          "title": "THG shares jump 13% on raised profit outlook (Investing.com)",
+          "url": "https://uk.investing.com/news/stock-market-news/thg-shares-jump-13-on-raised-profit-outlook-93CH-4911410"
+        }
+      ],
+      "at": "2026-10-15T09:09:18Z"
+    },
     {
       "fmp": "9698.HK",
       "sym": "9698-hk",
       "name": "GDS Holdings Ltd.",
-      "pct": -16.7,
+      "pct": -15.74,
       "short": "USA tehnoloogia- ja andmekeskuste müük: GDS-i ADR kukkus öösel ~12%",
       "text": "Ettevõttespetsiifilist uudist tänaseks ei leidnud. Eile õhtul langes Nasdaq 1,88% pärast oodatust kõrgemat USA septembri inflatsiooni (3,7%), AI-infra ja andmekeskuste aktsiad said tugeva löögi (CoreWeave −15%, 21Vianet −14%) ning GDS-i USA ADR kukkus umbes 12%. Hongkongi aktsia järgis seda ADR-i liikumist, samal ajal langes Hang Seng Tech lõunaks 2,9%. Seos USA öise müügiga on tugev, aga tänase languse suurus ületab ADR-i omast.",
       "sources": [
         {
           "title": "美股科技股大跳水… 万国数据跌12% (21经济网)",
           "url": "https://www.21jingji.com/article/20261015/herald/303061daaa3c840c16176a4b2db8425c.html"
-        },
-        {
-          "title": "Hang Seng Index falls below 24,000 mark by noon (The Standard)",
-          "url": "https://www.thestandard.com.hk/finance/article/345545/Hang-Seng-Index-falls-below-24000-mark-by-noon"
-        }
-      ],
-      "at": "2026-10-15T05:08:48Z"
-    },
-    {
-      "fmp": "THG.L",
-      "sym": "thg-lon",
-      "name": "THG Plc",
-      "pct": 9.38,
-      "short": "Q3 kauplemisteade: EBITDA prognoos tõstetud, esimest korda positiivne rahavoog",
-      "text": "THG avaldas täna III kvartali kauplemisteate: grupi käive kasvas püsivas valuutas 1,5% 408,8 mln naelani ning põhibrändide ja -turgude käive 6,1%. Nutrition kasvas 5,3% (Myproteini brändimahud +36,2%), Beauty langes 0,6%. Ettevõte tõstis 2026. aasta korrigeeritud EBITDA ootust 103 mln naelani, mis on üle turu konsensuse, ning ootab esimest korda pärast börsile tulekut positiivset vaba rahavoogu (25–35 mln naela). Seos hinnatõusuga on tugev – tõus tuli teate päeval.",
-      "sources": [
-        {
-          "title": "THG lifts profit outlook as Nutrition surges and cash flow turns positive (TipRanks)",
-          "url": "https://www.tipranks.com/news/company-announcements/thg-lifts-profit-outlook-as-nutrition-surges-and-cash-flow-turns-positive"
-        }
-      ],
-      "at": "2026-10-15T07:13:27Z"
-    },
-    {
-      "fmp": "1378.HK",
-      "sym": "1378-hk",
-      "name": "China Hongqiao Group Ltd.",
-      "pct": -7.22,
-      "short": "Alumiiniumi- ja metallisektori müük USA inflatsiooniuudise järel",
-      "text": "Hongqiao kohta tänast ettevõttespetsiifilist uudist ei leidnud. Hongkongi metalliaktsiad langesid laialt, sest oodatust kõrgem USA inflatsioon tõstis Fedi intressitõstu ootust ning tugevdas dollarit; konkurent Chalco langes samal ajal üle 6%. Seos sektori liikumisega on tõenäoline, kuid allikas Hongqiaod nimeliselt ei maini.",
-      "sources": [
-        {
-          "title": "港股异动: 有色股走低，美国通胀超预期 (智通财经 via Investing.com)",
-          "url": "https://cn.investing.com/news/stock-market-news/article-3609521"
         },
         {
           "title": "Hang Seng Index falls below 24,000 mark by noon (The Standard)",
@@ -71,29 +56,67 @@
       "at": "2026-10-15T05:08:48Z"
     },
     {
-      "fmp": "2590.HK",
-      "sym": "2590-hk",
-      "name": "Beijing Geekplus Technology Co., Ltd. Class H",
-      "pct": -6.5,
-      "short": "Uudist ei leitud; Hongkongi tehnoloogiaaktsiate laiem müük",
-      "text": "Geekplusi kohta tänast ettevõttespetsiifilist uudist ei leidnud. Hongkongi turg langes USA eilse tehnoloogiamüügi järel: Hang Seng oli lõunaks −1,5% ja Hang Seng Tech −2,9%. Aktsia on sel nädalal ka ise tagasi ostnud, mis langust pole peatanud. Seos on vaid turukonteksti tasemel.",
+      "fmp": "XPS.L",
+      "sym": "xps-lon",
+      "name": "XPS Pensions Group Plc",
+      "pct": 6.77,
+      "short": "Poolaasta kauplemisteade: käive +12%, aasta tulemus veidi üle ootuste",
+      "text": "XPS avaldas täna kauplemisteate 30. septembril lõppenud poolaasta kohta: käive kasvas 12% (orgaaniliselt 11%), nõustamine +14%, administreerimine +10% ja SIPP-äri +7%. Juhatus kinnitas, et terve aasta tulemus tuleb ootustest veidi parem. Teade tuli samal päeval, seega on seos hinnatõusuga tugev. Täielikud poolaasta tulemused avaldatakse 19. novembril.",
       "sources": [
+        {
+          "title": "XPS Pensions reports 12% revenue growth in first half (Investing.com)",
+          "url": "https://ca.investing.com/news/stock-market-news/xps-pensions-reports-12-revenue-growth-in-first-half-93CH-4881927"
+        },
+        {
+          "title": "XPS Pensions Group schedules half-year trading update and results (TipRanks)",
+          "url": "https://www.tipranks.com/news/company-announcements/xps-pensions-group-schedules-half-year-trading-update-and-results"
+        }
+      ],
+      "at": "2026-10-15T09:09:18Z"
+    },
+    {
+      "fmp": "1378.HK",
+      "sym": "1378-hk",
+      "name": "China Hongqiao Group Ltd.",
+      "pct": -6.65,
+      "short": "Alumiiniumi- ja metallisektori müük USA inflatsiooniuudise järel",
+      "text": "Hongqiao kohta tänast ettevõttespetsiifilist uudist ei leidnud. Hongkongi metalliaktsiad langesid laialt, sest oodatust kõrgem USA inflatsioon tõstis Fedi intressitõstu ootust ning tugevdas dollarit; konkurent Chalco langes samal ajal üle 6%. Seos sektori liikumisega on tõenäoline, kuid allikas Hongqiaod nimeliselt ei maini.",
+      "sources": [
+        {
+          "title": "港股异动: 有色股走低，美国通胀超预期 (智通财经 via Investing.com)",
+          "url": "https://cn.investing.com/news/stock-market-news/article-3609521"
+        },
         {
           "title": "Hang Seng Index falls below 24,000 mark by noon (The Standard)",
           "url": "https://www.thestandard.com.hk/finance/article/345545/Hang-Seng-Index-falls-below-24000-mark-by-noon"
-        },
-        {
-          "title": "Hang Seng opens lower as tech drops and leveraged chip trackers sink (Dimsum Daily)",
-          "url": "https://www.dimsumdaily.hk/hang-seng-index-opens-lower-as-tech-drops-and-leveraged-chip-trackers-sink/"
         }
       ],
       "at": "2026-10-15T05:08:48Z"
     },
     {
+      "fmp": "HUBN.SW",
+      "sym": "hubn-ch",
+      "name": "Huber + Suhner AG",
+      "pct": -6.41,
+      "short": "Ettevõtte uudist ei leitud; UBS ja Research Partners langetasid hinnasihti",
+      "text": "Huber+Suhneri kohta tänast ettevõtte teadet ei leidnud. Analüütikutest langetas UBS hinnasihti 320-lt 300 frangile ja Research Partners 221-lt 216 frangile, mõlemad jätsid aga soovituse „osta“ ja sihid on praegusest hinnast (~163 CHF) tunduvalt kõrgemal. Need muudatused üksi ei selgita üle 6% langust täielikult, seega on põhjuse usaldus madal.",
+      "sources": [
+        {
+          "title": "Börsen-Ticker: SMI baut Kursgewinne aus – Neue Kursziele und Ratings (cash.ch)",
+          "url": "https://cash.ch/news/top-news/borsen-ticker-smi-baut-kursgewinne-aus-neue-kursziele-und-ratings-fur-schweizer-aktien-abb-und-vat-knicken-ein-nestle-und-zurich-insurance-gefragt-docmorris-mit-kurssprung-976807"
+        },
+        {
+          "title": "Aktienanalyst preist SMI-Leader von 2025 neuerdings zum Kauf an (cash.ch)",
+          "url": "https://www.cash.ch/insider-briefing/aktienanalyst-preist-smi-leader-von-2025-neuerdings-zum-kauf-an-976826"
+        }
+      ],
+      "at": "2026-10-15T09:09:18Z"
+    },
+    {
       "fmp": "2600.HK",
       "sym": "2600-hk",
       "name": "Aluminum Corporation of China Limited Class H",
-      "pct": -6.4,
+      "pct": -6.27,
       "short": "Metalliaktsiate müük: USA inflatsioon tõstis Fedi intressitõstu ootust",
       "text": "Chalco kohta ettevõttespetsiifilist uudist ei leidnud. Zhitong Finance'i hommikuse ülevaate järgi langesid Hongkongis värviliste metallide aktsiad (MMG −6%, CMOC −4,9%, Chalco hommikul −3,4%), sest oodatust kõrgem USA põhiinflatsioon tõstis panuseid Fedi oktoobrikuisele intressitõstule ning dollar ja võlakirjatulusused tõusid. Kogu turg oli samuti nõrk (Hang Seng lõunaks −1,5%). Seos sektori müügiga on tõenäoline, kuid päeva lõpu langus on suurem kui allikas kirjeldas.",
       "sources": [
@@ -109,29 +132,48 @@
       "at": "2026-10-15T05:08:48Z"
     },
     {
-      "fmp": "2788.HK",
-      "sym": "2788-hk",
-      "name": "Chuangxin Industries Holdings Limited",
-      "pct": -5.93,
-      "short": "Uudist ei leitud; Hongkongi alumiiniumiaktsiate laiem müük",
-      "text": "Chuangxin Industriesi kohta tänast ettevõttespetsiifilist uudist ei leidnud. Samal päeval langesid ka teised Hongkongi alumiiniumitootjad (Chalco −6,4%, Hongqiao −7,2%); Zhitong Finance'i hommikuse ülevaate järgi müüdi värviliste metallide aktsiaid, sest oodatust kõrgem USA inflatsioon tõstis Fedi intressitõstu ootust. Allikas Chuangxinit nimeliselt ei maini, seega on seos sektori liikumisega tõenäoline, kuid kaudne.",
+      "fmp": "BFF.MI",
+      "sym": "bff-mil",
+      "name": "BFF Bank SpA",
+      "pct": 6.25,
+      "short": "Tänast ettevõtte uudist ei leitud; tõus nõrga Milano turu taustal",
+      "text": "BFF Banki kohta tänast ettevõttespetsiifilist uudist ei leidnud. Teleborsa loetles BFF-i päeva tõusjate hulgas keskmise suurusega aktsiate seas, samal ajal kui FTSE MIB langes ligi 0,5%. Aktsia on aasta jooksul tugevalt langenud ning kukkus 1. oktoobril pärast nõuete müügilepingut; tänane tõus võib olla osaline tagasipõrge, kuid ükski allikas seda otseselt ei kinnita. Usaldus põhjuse osas on madal.",
       "sources": [
         {
-          "title": "港股异动: 有色股走低，美国通胀超预期 (智通财经 via Investing.com)",
-          "url": "https://cn.investing.com/news/stock-market-news/article-3609521"
+          "title": "Prevalgono le vendite a Piazza Affari e tra le altre Borse europee (Teleborsa)",
+          "url": "https://www.teleborsa.it/News/2026/10/15/prevalgono-le-vendite-a-piazza-affari-e-tra-le-altre-borse-europee-55.html"
         },
+        {
+          "title": "BFF Bank crolla in coda alle midcap all'indomani accordo cessione crediti (Borsa Italiana)",
+          "url": "https://www.borsaitaliana.it/borsa/notizie/teleborsa/finanza/bff-bank-crolla-in-coda-alle-midcap-all-indomani-accordo-cessione-crediti-213_2026-10-01_TLB.html?lang=it"
+        }
+      ],
+      "at": "2026-10-15T09:09:18Z"
+    },
+    {
+      "fmp": "2590.HK",
+      "sym": "2590-hk",
+      "name": "Beijing Geekplus Technology Co., Ltd. Class H",
+      "pct": -6.03,
+      "short": "Uudist ei leitud; Hongkongi tehnoloogiaaktsiate laiem müük",
+      "text": "Geekplusi kohta tänast ettevõttespetsiifilist uudist ei leidnud. Hongkongi turg langes USA eilse tehnoloogiamüügi järel: Hang Seng oli lõunaks −1,5% ja Hang Seng Tech −2,9%. Aktsia on sel nädalal ka ise tagasi ostnud, mis langust pole peatanud. Seos on vaid turukonteksti tasemel.",
+      "sources": [
         {
           "title": "Hang Seng Index falls below 24,000 mark by noon (The Standard)",
           "url": "https://www.thestandard.com.hk/finance/article/345545/Hang-Seng-Index-falls-below-24000-mark-by-noon"
+        },
+        {
+          "title": "Hang Seng opens lower as tech drops and leveraged chip trackers sink (Dimsum Daily)",
+          "url": "https://www.dimsumdaily.hk/hang-seng-index-opens-lower-as-tech-drops-and-leveraged-chip-trackers-sink/"
         }
       ],
-      "at": "2026-10-15T07:13:27Z"
+      "at": "2026-10-15T05:08:48Z"
     },
     {
       "fmp": "1357.HK",
       "sym": "1357-hk",
       "name": "Meitu, Inc",
-      "pct": -5.89,
+      "pct": -5.62,
       "short": "Uudist ei leitud; Hongkongi tehnoloogiaaktsiate laiem müük",
       "text": "Meitu kohta tänast ettevõttespetsiifilist uudist ei leidnud. Hongkongi tehnoloogiaaktsiad langesid USA eilse tehnoloogiamüügi ja inflatsiooniuudise järel (Hang Seng Tech lõunaks −2,9%, Alibaba ligi −5%). Seos on vaid turukonteksti tasemel.",
       "sources": [
@@ -150,7 +192,7 @@
       "fmp": "9699.HK",
       "sym": "9699-hkg",
       "name": "Hangzhou SF Intra-city Industrial Co., Ltd. Class H",
-      "pct": -5.33,
+      "pct": -5.27,
       "short": "Uudist ei leitud; Hongkongi turu laiem langus",
       "text": "SF Intra-city kohta tänast ettevõttespetsiifilist uudist ei leidnud; ettevõte ostis eile tagasi 384 400 aktsiat 3,25 mln HK dollari eest, mis pole hinnaliikumise põhjus. Hongkongi turg tervikuna langes (Hang Seng lõunaks −1,5%). Seos on vaid turukonteksti tasemel, usaldus madal.",
       "sources": [
@@ -164,6 +206,44 @@
         }
       ],
       "at": "2026-10-15T05:08:48Z"
+    },
+    {
+      "fmp": "2788.HK",
+      "sym": "2788-hk",
+      "name": "Chuangxin Industries Holdings Limited",
+      "pct": -5.21,
+      "short": "Uudist ei leitud; Hongkongi alumiiniumiaktsiate laiem müük",
+      "text": "Chuangxin Industriesi kohta tänast ettevõttespetsiifilist uudist ei leidnud. Samal päeval langesid ka teised Hongkongi alumiiniumitootjad (Chalco −6,4%, Hongqiao −7,2%); Zhitong Finance'i hommikuse ülevaate järgi müüdi värviliste metallide aktsiaid, sest oodatust kõrgem USA inflatsioon tõstis Fedi intressitõstu ootust. Allikas Chuangxinit nimeliselt ei maini, seega on seos sektori liikumisega tõenäoline, kuid kaudne.",
+      "sources": [
+        {
+          "title": "港股异动: 有色股走低，美国通胀超预期 (智通财经 via Investing.com)",
+          "url": "https://cn.investing.com/news/stock-market-news/article-3609521"
+        },
+        {
+          "title": "Hang Seng Index falls below 24,000 mark by noon (The Standard)",
+          "url": "https://www.thestandard.com.hk/finance/article/345545/Hang-Seng-Index-falls-below-24000-mark-by-noon"
+        }
+      ],
+      "at": "2026-10-15T07:13:27Z"
+    },
+    {
+      "fmp": "CICN.SW",
+      "sym": "cicn-ch",
+      "name": "Cicor Technologies",
+      "pct": -5.11,
+      "short": "Q3 käive jäi alla analüütikute ootuste komponentide puuduse tõttu",
+      "text": "Cicor avaldas täna enne turu avanemist III kvartali ülevaate: käive kasvas 6,7% 170,8 mln frangini (orgaaniliselt 4,6%), kuid jäi analüütikute ootustest selgelt alla, sest trükkplaatide ja mälukiipide puudus lükkas käibe kajastamist edasi. Tellimused kasvasid 10,7% 193,2 mln frangini (book-to-bill 1,13) ning 2026. aasta prognoos (käive 700–750 mln, korr. EBITDA 70–80 mln CHF) jäi kehtima. Seos hinnalangusega on tugev – turg keskendus käibe puudujäägile.",
+      "sources": [
+        {
+          "title": "Dlaczego akcje Cicor Technologies dziś spadają? (Investing.com)",
+          "url": "https://pl.investing.com/news/stock-market-news/dlaczego-akcje-cicor-technologies-dzis-spadaja-93CH-1602361"
+        },
+        {
+          "title": "Cicor Technologies: Q3 Sales Up 6.7%; Backlog Signals Q4 Acceleration (wallstreet-online)",
+          "url": "https://www.wallstreet-online.de/nachricht/21527491-cicor-technologies-q3-sales-up-6-7-backlog-signals-q4-acceleration"
+        }
+      ],
+      "at": "2026-10-15T09:09:18Z"
     }
   ]
 }
