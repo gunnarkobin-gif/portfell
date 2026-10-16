@@ -1,7 +1,41 @@
 {
   "date": "2026-10-16",
-  "updated": "2026-10-16T07:07:23Z",
+  "updated": "2026-10-16T09:08:10Z",
   "items": [
+    {
+      "fmp": "ADOC.PA",
+      "sym": "adoc-par",
+      "name": "Adocia SA",
+      "pct": -8.56,
+      "short": "Tänast ettevõtte uudist ei leitud; Q3 käive tuleb 29. oktoobril",
+      "text": "Adocia kohta ei leitud tänaseid uudiseid ega börsiteateid; viimane teade puudutas aktsiate ja hääleõiguste arvu 30. septembri seisuga. Järgmine ametlik sündmus on III kvartali käibe avaldamine 29. oktoobril. Väikese turuväärtusega (~47 mln €) biotehnoloogia-aktsia kõigub sageli ka ilma uudisteta, seega languse põhjus jääb teadmata.",
+      "sources": [
+        {
+          "title": "ADOCIA – Boursorama",
+          "url": "https://www.boursorama.com/cours/1rPADOC/"
+        },
+        {
+          "title": "Number of Shares and Voting Rights of ADOCIA as of September 30, 2026",
+          "url": "https://www.streetinsider.com/Business+Wire/Number+of+Shares+and+Voting+Rights+of+ADOCIA+as+of+September+30,+2026/27170479.html"
+        }
+      ],
+      "at": "2026-10-16T09:08:10Z"
+    },
+    {
+      "fmp": "HYQ.DE",
+      "sym": "hyq-etr",
+      "name": "Hypoport SE",
+      "pct": 7.86,
+      "short": "Q3 tehingumahud: Europace +1% (19,0 mld €), kõrvaläridel kasv",
+      "text": "Hypoport avaldas III kvartali ja 9 kuu tehingumahud: Europace'i kinnisvaralaenude maht kasvas 1% 19,04 mld euroni, 9 kuuga 57,34 mld € (ligikaudu eelmise aasta tasemel). Kasvasid ka tarbimislaenud (+10%), Finmas (+13%), Genopace (+7%) ja hindamisäri VALUE (+16%), Bausparen langes 15%. Börse Expressi hinnangul pidas Europace nõrgal turul hästi vastu; seos tänase tõusuga on tõenäoline, kuid allikas ei kommenteeri otseselt tänast hinnaliikumist. Täielik kvartaliaruanne tuleb 9. novembril.",
+      "sources": [
+        {
+          "title": "Hypoport Aktie: Europace trotzt schwachem Markt (Börse Express)",
+          "url": "https://www.boerse-express.com/news/articles/hypoport-aktie-europace-trotzt-schwachem-markt-953491"
+        }
+      ],
+      "at": "2026-10-16T09:08:10Z"
+    },
     {
       "fmp": "XRO.AX",
       "sym": "xro-aus",
@@ -16,6 +50,36 @@
         }
       ],
       "at": "2026-10-16T05:08:15Z"
+    },
+    {
+      "fmp": "FRVIA.PA",
+      "sym": "frvia-par",
+      "name": "Forvia SE",
+      "pct": 5.41,
+      "short": "Tänast ettevõtte uudist ei leitud; Q3 käive tuleb 2. novembril",
+      "text": "Forvia kohta ei leitud tänaseid ettevõttespetsiifilisi uudiseid. Viimased teadaolevad positiivsed uudised (India ühisettevõte Anand Groupiga ja Jefferiesi positiivne analüüs) on 7. oktoobrist, mil aktsia tõusis ligi 7%. III kvartali käive avaldatakse 2. novembril; tänase tõusu põhjus jääb ilma allikata teadmata.",
+      "sources": [
+        {
+          "title": "Why is Forvia stock rallying today? (Investing.com, 7.10.2026)",
+          "url": "https://uk.investing.com/news/stock-market-news/why-is-forvia-stock-rallying-today-93CH-4898469"
+        }
+      ],
+      "at": "2026-10-16T09:08:10Z"
+    },
+    {
+      "fmp": "RDC.DE",
+      "sym": "rdc-etr",
+      "name": "Redcare Pharmacy N.V.",
+      "pct": 5.18,
+      "short": "Tõus enne 29.10 Q3 aruannet; konkreetset tänast uudist pole",
+      "text": "Ad-hoc-news märgib tänast tõusu (~4% 76,30 euroni) enne III kvartali aruannet 29. oktoobril, kuid ei nimeta konkreetset põhjust. Taustaks: 28. septembril tõsteti 2026. aasta käibekasvu prognoosi 16–18%-ni, 14. oktoobril nimetati uueks tegevjuhiks Peter Schmid von Linstow ja Berenberg tõstis 7. oktoobril hinnasihti 94-lt 102 eurole. Otsest tänast käivitajat ei leitud, seega seos on ebakindel.",
+      "sources": [
+        {
+          "title": "Redcare-Pharmacy-Aktie legt 4,09 Prozent zu vor Quartalszahlen (ad-hoc-news)",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/redcare-pharmacy-aktie-legt-4-09-prozent-zu-vor-quartalszahlen/70337905"
+        }
+      ],
+      "at": "2026-10-16T09:08:10Z"
     }
   ]
 }
