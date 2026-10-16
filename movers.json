@@ -1,12 +1,46 @@
 {
   "date": "2026-10-16",
-  "updated": "2026-10-16T09:08:10Z",
+  "updated": "2026-10-16T11:07:55Z",
   "items": [
+    {
+      "fmp": "HYQ.DE",
+      "sym": "hyq-etr",
+      "name": "Hypoport SE",
+      "pct": 9.71,
+      "short": "Q3 tehingumahud: Europace +1% (19,0 mld €), kõrvaläridel kasv",
+      "text": "Hypoport avaldas III kvartali ja 9 kuu tehingumahud: Europace'i kinnisvaralaenude maht kasvas 1% 19,04 mld euroni, 9 kuuga 57,34 mld € (ligikaudu eelmise aasta tasemel). Kasvasid ka tarbimislaenud (+10%), Finmas (+13%), Genopace (+7%) ja hindamisäri VALUE (+16%), Bausparen langes 15%. Börse Expressi hinnangul pidas Europace nõrgal turul hästi vastu; seos tänase tõusuga on tõenäoline, kuid allikas ei kommenteeri otseselt tänast hinnaliikumist. Täielik kvartaliaruanne tuleb 9. novembril.",
+      "sources": [
+        {
+          "title": "Hypoport Aktie: Europace trotzt schwachem Markt (Börse Express)",
+          "url": "https://www.boerse-express.com/news/articles/hypoport-aktie-europace-trotzt-schwachem-markt-953491"
+        }
+      ],
+      "at": "2026-10-16T09:08:10Z"
+    },
+    {
+      "fmp": "THG.L",
+      "sym": "thg-lon",
+      "name": "THG Plc",
+      "pct": 7.75,
+      "short": "Tõus jätkub pärast eilset kasumiprognoosi tõstmist; tänast uut uudist pole",
+      "text": "THG tõstis neljapäeval (15.10) III kvartali ülevaates aasta korrigeeritud EBITDA prognoosi 103 mln naelale (konsensus ~101,7 mln) ning ootab 25–35 mln naela vaba rahavoogu; aktsia tõusis eile ~13–16%. Kvartali käive kasvas 0,9% 408,8 mln naelale, Myproteini toitumisäri +5,3% ja vadakuvalgu hind on langenud ~20%. Tänaseks eraldi uut uudist ei leitud, seega on tänane tõus tõenäoliselt eilse prognoositõstmise järelliikumine, kuid otsest allikat tänase liikumise kohta pole.",
+      "sources": [
+        {
+          "title": "Why is THG stock surging today? (Investing.com, 15.10.2026)",
+          "url": "https://ng.investing.com/news/stock-market-news/why-is-thg-stock-surging-today-93CH-2737507"
+        },
+        {
+          "title": "THG shares jump 13% on raised profit outlook (Investing.com)",
+          "url": "https://www.investing.com/news/stock-market-news/thg-shares-jump-13-on-raised-profit-outlook-93CH-4950718"
+        }
+      ],
+      "at": "2026-10-16T11:07:55Z"
+    },
     {
       "fmp": "ADOC.PA",
       "sym": "adoc-par",
       "name": "Adocia SA",
-      "pct": -8.56,
+      "pct": -7.39,
       "short": "Tänast ettevõtte uudist ei leitud; Q3 käive tuleb 29. oktoobril",
       "text": "Adocia kohta ei leitud tänaseid uudiseid ega börsiteateid; viimane teade puudutas aktsiate ja hääleõiguste arvu 30. septembri seisuga. Järgmine ametlik sündmus on III kvartali käibe avaldamine 29. oktoobril. Väikese turuväärtusega (~47 mln €) biotehnoloogia-aktsia kõigub sageli ka ilma uudisteta, seega languse põhjus jääb teadmata.",
       "sources": [
@@ -17,21 +51,6 @@
         {
           "title": "Number of Shares and Voting Rights of ADOCIA as of September 30, 2026",
           "url": "https://www.streetinsider.com/Business+Wire/Number+of+Shares+and+Voting+Rights+of+ADOCIA+as+of+September+30,+2026/27170479.html"
-        }
-      ],
-      "at": "2026-10-16T09:08:10Z"
-    },
-    {
-      "fmp": "HYQ.DE",
-      "sym": "hyq-etr",
-      "name": "Hypoport SE",
-      "pct": 7.86,
-      "short": "Q3 tehingumahud: Europace +1% (19,0 mld €), kõrvaläridel kasv",
-      "text": "Hypoport avaldas III kvartali ja 9 kuu tehingumahud: Europace'i kinnisvaralaenude maht kasvas 1% 19,04 mld euroni, 9 kuuga 57,34 mld € (ligikaudu eelmise aasta tasemel). Kasvasid ka tarbimislaenud (+10%), Finmas (+13%), Genopace (+7%) ja hindamisäri VALUE (+16%), Bausparen langes 15%. Börse Expressi hinnangul pidas Europace nõrgal turul hästi vastu; seos tänase tõusuga on tõenäoline, kuid allikas ei kommenteeri otseselt tänast hinnaliikumist. Täielik kvartaliaruanne tuleb 9. novembril.",
-      "sources": [
-        {
-          "title": "Hypoport Aktie: Europace trotzt schwachem Markt (Börse Express)",
-          "url": "https://www.boerse-express.com/news/articles/hypoport-aktie-europace-trotzt-schwachem-markt-953491"
         }
       ],
       "at": "2026-10-16T09:08:10Z"
@@ -55,7 +74,7 @@
       "fmp": "FRVIA.PA",
       "sym": "frvia-par",
       "name": "Forvia SE",
-      "pct": 5.41,
+      "pct": 6.73,
       "short": "Tänast ettevõtte uudist ei leitud; Q3 käive tuleb 2. novembril",
       "text": "Forvia kohta ei leitud tänaseid ettevõttespetsiifilisi uudiseid. Viimased teadaolevad positiivsed uudised (India ühisettevõte Anand Groupiga ja Jefferiesi positiivne analüüs) on 7. oktoobrist, mil aktsia tõusis ligi 7%. III kvartali käive avaldatakse 2. novembril; tänase tõusu põhjus jääb ilma allikata teadmata.",
       "sources": [
@@ -70,7 +89,7 @@
       "fmp": "RDC.DE",
       "sym": "rdc-etr",
       "name": "Redcare Pharmacy N.V.",
-      "pct": 5.18,
+      "pct": 6.07,
       "short": "Tõus enne 29.10 Q3 aruannet; konkreetset tänast uudist pole",
       "text": "Ad-hoc-news märgib tänast tõusu (~4% 76,30 euroni) enne III kvartali aruannet 29. oktoobril, kuid ei nimeta konkreetset põhjust. Taustaks: 28. septembril tõsteti 2026. aasta käibekasvu prognoosi 16–18%-ni, 14. oktoobril nimetati uueks tegevjuhiks Peter Schmid von Linstow ja Berenberg tõstis 7. oktoobril hinnasihti 94-lt 102 eurole. Otsest tänast käivitajat ei leitud, seega seos on ebakindel.",
       "sources": [
@@ -80,6 +99,21 @@
         }
       ],
       "at": "2026-10-16T09:08:10Z"
+    },
+    {
+      "fmp": "RHM.DE",
+      "sym": "rhm-etr",
+      "name": "Rheinmetall AG",
+      "pct": 5.01,
+      "short": "Kaitseaktsiate ralli jätkub; Rheinmetall DAX-i suurim tõusja",
+      "text": "dpa-AFX-i järgi tõusis Rheinmetall täna ~5% umbes 1077 euroni ja oli DAX-i suurim tõusja; 8. oktoobri põhjast on aktsia tõusnud umbes viiendiku. Sektorit toetab Morgan Stanley nädala alguse hinnang, et Saksa eelarvest tulevad kaitsetellimused aasta lõpuni kasvavad, mis võib tuua hooajalise ralli ja kinnitada 2027. aasta eesmärke; tõusid ka Hensoldt (~+7%), Renk (~+5%) ja OHB (~+11%). Ettevõttespetsiifilist uudist ei leitud – tegu on sektori liikumisega, seos on üsna kindel.",
+      "sources": [
+        {
+          "title": "AKTIEN IM FOKUS: Anleger greifen bei Rüstungsaktien weiter zu (dpa-AFX/finanznachrichten.de)",
+          "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69856334-aktien-im-fokus-anleger-greifen-bei-ruestungsaktien-weiter-zu-016.htm"
+        }
+      ],
+      "at": "2026-10-16T11:07:55Z"
     }
   ]
 }
