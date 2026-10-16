@@ -1,12 +1,12 @@
 {
   "date": "2026-10-16",
-  "updated": "2026-10-16T11:07:55Z",
+  "updated": "2026-10-16T13:10:49Z",
   "items": [
     {
       "fmp": "HYQ.DE",
       "sym": "hyq-etr",
       "name": "Hypoport SE",
-      "pct": 9.71,
+      "pct": 9.3,
       "short": "Q3 tehingumahud: Europace +1% (19,0 mld €), kõrvaläridel kasv",
       "text": "Hypoport avaldas III kvartali ja 9 kuu tehingumahud: Europace'i kinnisvaralaenude maht kasvas 1% 19,04 mld euroni, 9 kuuga 57,34 mld € (ligikaudu eelmise aasta tasemel). Kasvasid ka tarbimislaenud (+10%), Finmas (+13%), Genopace (+7%) ja hindamisäri VALUE (+16%), Bausparen langes 15%. Börse Expressi hinnangul pidas Europace nõrgal turul hästi vastu; seos tänase tõusuga on tõenäoline, kuid allikas ei kommenteeri otseselt tänast hinnaliikumist. Täielik kvartaliaruanne tuleb 9. novembril.",
       "sources": [
@@ -21,7 +21,7 @@
       "fmp": "THG.L",
       "sym": "thg-lon",
       "name": "THG Plc",
-      "pct": 7.75,
+      "pct": 8.12,
       "short": "Tõus jätkub pärast eilset kasumiprognoosi tõstmist; tänast uut uudist pole",
       "text": "THG tõstis neljapäeval (15.10) III kvartali ülevaates aasta korrigeeritud EBITDA prognoosi 103 mln naelale (konsensus ~101,7 mln) ning ootab 25–35 mln naela vaba rahavoogu; aktsia tõusis eile ~13–16%. Kvartali käive kasvas 0,9% 408,8 mln naelale, Myproteini toitumisäri +5,3% ja vadakuvalgu hind on langenud ~20%. Tänaseks eraldi uut uudist ei leitud, seega on tänane tõus tõenäoliselt eilse prognoositõstmise järelliikumine, kuid otsest allikat tänase liikumise kohta pole.",
       "sources": [
@@ -40,7 +40,7 @@
       "fmp": "ADOC.PA",
       "sym": "adoc-par",
       "name": "Adocia SA",
-      "pct": -7.39,
+      "pct": -7.86,
       "short": "Tänast ettevõtte uudist ei leitud; Q3 käive tuleb 29. oktoobril",
       "text": "Adocia kohta ei leitud tänaseid uudiseid ega börsiteateid; viimane teade puudutas aktsiate ja hääleõiguste arvu 30. septembri seisuga. Järgmine ametlik sündmus on III kvartali käibe avaldamine 29. oktoobril. Väikese turuväärtusega (~47 mln €) biotehnoloogia-aktsia kõigub sageli ka ilma uudisteta, seega languse põhjus jääb teadmata.",
       "sources": [
@@ -104,7 +104,7 @@
       "fmp": "RHM.DE",
       "sym": "rhm-etr",
       "name": "Rheinmetall AG",
-      "pct": 5.01,
+      "pct": 6.41,
       "short": "Kaitseaktsiate ralli jätkub; Rheinmetall DAX-i suurim tõusja",
       "text": "dpa-AFX-i järgi tõusis Rheinmetall täna ~5% umbes 1077 euroni ja oli DAX-i suurim tõusja; 8. oktoobri põhjast on aktsia tõusnud umbes viiendiku. Sektorit toetab Morgan Stanley nädala alguse hinnang, et Saksa eelarvest tulevad kaitsetellimused aasta lõpuni kasvavad, mis võib tuua hooajalise ralli ja kinnitada 2027. aasta eesmärke; tõusid ka Hensoldt (~+7%), Renk (~+5%) ja OHB (~+11%). Ettevõttespetsiifilist uudist ei leitud – tegu on sektori liikumisega, seos on üsna kindel.",
       "sources": [
