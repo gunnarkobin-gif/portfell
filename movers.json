@@ -1,12 +1,46 @@
 {
   "date": "2026-10-19",
-  "updated": "2026-10-19T13:08:21Z",
+  "updated": "2026-10-19T15:08:17Z",
   "items": [
+    {
+      "fmp": "NYXH",
+      "sym": "nyxh-be",
+      "name": "Nyxoah SA",
+      "pct": -14.6,
+      "short": "Kärpis 2026. aasta käibeprognoosi 36–40 mln € pealt 33–35 mln €-le",
+      "text": "Nyxoah avaldas täna esialgsed III kvartali tulemused: käive umbes 9,2 mln € (+19% kvartaliga, USA +29% 6,7 mln €-ni), kuid langetas 2026. aasta käibeprognoosi 36–40 mln € pealt 33–35 mln €-le. Juht Liam Kelly sõnul kulgeb USA müügi kasv aeglasemalt, sarnaselt uute tehnoloogiate ajaloolisele tempole. Raha oli septembri lõpus umbes 77 mln €. Seos hinnalangusega on tugev – prognoosi kärbe on päeva peamine uudis.",
+      "sources": [
+        {
+          "title": "Nyxoah lowers 2026 revenue guidance to €33M-€35M – StockTitan",
+          "url": "https://www.stocktitan.net/news/NYXH/nyxoah-announces-preliminary-results-for-the-third-quarter-of-2026-glusbann43ew.html"
+        },
+        {
+          "title": "Nyxoah Announces Preliminary Results for Q3 2026 – GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/10/19/3383354/0/en/nyxoah-announces-preliminary-results-for-the-third-quarter-of-2026-and-adjusts-revenue-guidance-for-2026.html"
+        }
+      ],
+      "at": "2026-10-19T15:08:17Z"
+    },
+    {
+      "fmp": "BUR.L",
+      "sym": "bur-lon",
+      "name": "Burford Capital Limited",
+      "pct": -8.11,
+      "short": "Londonis järelejõudmine reedesele NYSE langusele (−8,8%); uut ettevõtteuudist ei leitud",
+      "text": "Burfordi aktsia langes Londonis esmaspäeva hommikul −6,9% (225 p). Sama aktsia kukkus reedel New Yorgis pärast Londoni sulgemist −8,8% 3,00 dollarini, mis on uus 52 nädala madalaim tase, nii et Londoni hind suures osas järgib seda liikumist. Tänast ettevõttepõhist uudist (tulemused, kohtuotsus vms) ei leitud; aktsia on juba nädalaid langenud ning MarketBeat märkis 15. oktoobril uut aastamadalaimat ilma konkreetse põhjuseta, viidates nõrgale augustikuu kvartalitulemusele (EPS 0,01 $ vs ootus 0,08 $). Seos konkreetse põhjusega on seega nõrk – tegu on pigem jätkuva müügisurvega.",
+      "sources": [
+        {
+          "title": "Burford Capital (NYSE:BUR) Reaches New 12-Month Low – MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/price-burford-capital-nyse-bur-reaches-new-12-month-low-time-to-sell-2026-10-15/"
+        }
+      ],
+      "at": "2026-10-19T07:14:31Z"
+    },
     {
       "fmp": "BFF.MI",
       "sym": "bff-mil",
       "name": "BFF Bank SpA",
-      "pct": -7.23,
+      "pct": -7.41,
       "short": "Itaalia pankade üldine müük, Milano börs Euroopa nõrgim; ettevõtteuudist ei leitud",
       "text": "BFF Bank langes Milanos esmaspäeval ligi −7% 2,11 euroni ning oli keskmise kapitalisatsiooniga ettevõtete indeksi suurim langeja. Milano börs oli päeva keskel Euroopa nõrgim (FTSE MIB umbes −1,4%), sest pangad ja autotootjad olid surve all: UniCredit, Banco BPM ja Intesa langesid 2–3%. Tänast BFF-i kohta käivat uudist (tulemused, Itaalia Panga kontrolli tulemus vms) ei leitud; aktsia on aasta algusest kukkunud üle 75% raamatupidamisprobleemide ja Itaalia Panga kontrolli tõttu. Seos on seega nõrk – tõenäoliselt võimendas sektori langust aktsia kõrge volatiilsus.",
       "sources": [
@@ -22,19 +56,27 @@
       "at": "2026-10-19T11:08:07Z"
     },
     {
-      "fmp": "BUR.L",
-      "sym": "bur-lon",
-      "name": "Burford Capital Limited",
-      "pct": -7.86,
-      "short": "Londonis järelejõudmine reedesele NYSE langusele (−8,8%); uut ettevõtteuudist ei leitud",
-      "text": "Burfordi aktsia langes Londonis esmaspäeva hommikul −6,9% (225 p). Sama aktsia kukkus reedel New Yorgis pärast Londoni sulgemist −8,8% 3,00 dollarini, mis on uus 52 nädala madalaim tase, nii et Londoni hind suures osas järgib seda liikumist. Tänast ettevõttepõhist uudist (tulemused, kohtuotsus vms) ei leitud; aktsia on juba nädalaid langenud ning MarketBeat märkis 15. oktoobril uut aastamadalaimat ilma konkreetse põhjuseta, viidates nõrgale augustikuu kvartalitulemusele (EPS 0,01 $ vs ootus 0,08 $). Seos konkreetse põhjusega on seega nõrk – tegu on pigem jätkuva müügisurvega.",
+      "fmp": "AMZN",
+      "sym": "amzn",
+      "name": "Amazon.com, Inc.",
+      "pct": 5.19,
+      "short": "Morgan Stanley nimetas Amazoni lemmikvalikuks, hinnasiht 335 → 350 $",
+      "text": "Amazoni aktsia tõusis esmaspäeval umbes 5% pärast seda, kui Morgan Stanley nimetas selle oma lemmikvalikuks (top pick) ja tõstis hinnasihti 335 dollarilt 350 dollarile (Overweight), viidates kasvuvõimalustele tehisintellektis, AWS-i pilveteenustes ja automatiseeritud logistikas. Samal päeval teatati ka Amazoni osalusest X-energy ja AEP väikeste tuumareaktorite projektis Indianas ning Amazoni AI-kiipide laiemast tarkvaratoest. Seos on üsna tugev – mitu tänast allikat seovad tõusu otseselt Morgan Stanley soovitusega; tulemused avaldatakse 29. oktoobril.",
       "sources": [
         {
-          "title": "Burford Capital (NYSE:BUR) Reaches New 12-Month Low – MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/price-burford-capital-nyse-bur-reaches-new-12-month-low-time-to-sell-2026-10-15/"
+          "title": "Amazon Stock Edges Higher Monday: What's Going On? – Benzinga",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62437798/amazon-stock-edges-higher-monday-whats-going-on"
+        },
+        {
+          "title": "Amazon stock rises as this analyst sees 40% upside – Invezz",
+          "url": "https://invezz.com/news/2026/10/19/amazon-stock-rises-as-this-analyst-sees-40-upside/"
+        },
+        {
+          "title": "X-energy, Amazon, American Electric Power Partner to Bring SMR Project to Indiana – GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/10/19/3383439/0/en/x-energy-amazon-american-electric-power-partner-to-bring-smr-project-to-indiana.html"
         }
       ],
-      "at": "2026-10-19T07:14:31Z"
+      "at": "2026-10-19T15:08:17Z"
     }
   ]
 }
