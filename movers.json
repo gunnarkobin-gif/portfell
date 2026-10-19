@@ -1,5 +1,21 @@
 {
   "date": "2026-10-19",
-  "updated": "2026-10-19T05:07:15Z",
-  "items": []
+  "updated": "2026-10-19T07:14:31Z",
+  "items": [
+    {
+      "fmp": "BUR.L",
+      "sym": "bur-lon",
+      "name": "Burford Capital Limited",
+      "pct": -6.87,
+      "short": "Londonis järelejõudmine reedesele NYSE langusele (−8,8%); uut ettevõtteuudist ei leitud",
+      "text": "Burfordi aktsia langes Londonis esmaspäeva hommikul −6,9% (225 p). Sama aktsia kukkus reedel New Yorgis pärast Londoni sulgemist −8,8% 3,00 dollarini, mis on uus 52 nädala madalaim tase, nii et Londoni hind suures osas järgib seda liikumist. Tänast ettevõttepõhist uudist (tulemused, kohtuotsus vms) ei leitud; aktsia on juba nädalaid langenud ning MarketBeat märkis 15. oktoobril uut aastamadalaimat ilma konkreetse põhjuseta, viidates nõrgale augustikuu kvartalitulemusele (EPS 0,01 $ vs ootus 0,08 $). Seos konkreetse põhjusega on seega nõrk – tegu on pigem jätkuva müügisurvega.",
+      "sources": [
+        {
+          "title": "Burford Capital (NYSE:BUR) Reaches New 12-Month Low – MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/price-burford-capital-nyse-bur-reaches-new-12-month-low-time-to-sell-2026-10-15/"
+        }
+      ],
+      "at": "2026-10-19T07:14:31Z"
+    }
+  ]
 }
