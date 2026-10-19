@@ -1,7 +1,26 @@
 {
   "date": "2026-10-19",
-  "updated": "2026-10-19T09:08:10Z",
+  "updated": "2026-10-19T11:08:07Z",
   "items": [
+    {
+      "fmp": "BFF.MI",
+      "sym": "bff-mil",
+      "name": "BFF Bank SpA",
+      "pct": -7.05,
+      "short": "Itaalia pankade üldine müük, Milano börs Euroopa nõrgim; ettevõtteuudist ei leitud",
+      "text": "BFF Bank langes Milanos esmaspäeval ligi −7% 2,11 euroni ning oli keskmise kapitalisatsiooniga ettevõtete indeksi suurim langeja. Milano börs oli päeva keskel Euroopa nõrgim (FTSE MIB umbes −1,4%), sest pangad ja autotootjad olid surve all: UniCredit, Banco BPM ja Intesa langesid 2–3%. Tänast BFF-i kohta käivat uudist (tulemused, Itaalia Panga kontrolli tulemus vms) ei leitud; aktsia on aasta algusest kukkunud üle 75% raamatupidamisprobleemide ja Itaalia Panga kontrolli tõttu. Seos on seega nõrk – tõenäoliselt võimendas sektori langust aktsia kõrge volatiilsus.",
+      "sources": [
+        {
+          "title": "Piazza Affari maglia nera in Europa zavorrata da banche e automotive – Teleborsa",
+          "url": "https://www.teleborsa.it/News/2026/10/19/piazza-affari-maglia-nera-in-europa-zavorrata-da-banche-e-automotive-93.html"
+        },
+        {
+          "title": "Europee in calo, Stellantis frena il MIB a 49.100 – MarketScreener",
+          "url": "https://it.marketscreener.com/notizie/europee-in-calo-stellantis-frena-il-mib-a-49-100-ce785cdbd889fe2c"
+        }
+      ],
+      "at": "2026-10-19T11:08:07Z"
+    },
     {
       "fmp": "BUR.L",
       "sym": "bur-lon",
