@@ -1,12 +1,12 @@
 {
   "date": "2026-10-19",
-  "updated": "2026-10-19T15:08:17Z",
+  "updated": "2026-10-19T17:07:45Z",
   "items": [
     {
       "fmp": "NYXH",
       "sym": "nyxh-be",
       "name": "Nyxoah SA",
-      "pct": -14.6,
+      "pct": -16.22,
       "short": "Kärpis 2026. aasta käibeprognoosi 36–40 mln € pealt 33–35 mln €-le",
       "text": "Nyxoah avaldas täna esialgsed III kvartali tulemused: käive umbes 9,2 mln € (+19% kvartaliga, USA +29% 6,7 mln €-ni), kuid langetas 2026. aasta käibeprognoosi 36–40 mln € pealt 33–35 mln €-le. Juht Liam Kelly sõnul kulgeb USA müügi kasv aeglasemalt, sarnaselt uute tehnoloogiate ajaloolisele tempole. Raha oli septembri lõpus umbes 77 mln €. Seos hinnalangusega on tugev – prognoosi kärbe on päeva peamine uudis.",
       "sources": [
@@ -22,10 +22,29 @@
       "at": "2026-10-19T15:08:17Z"
     },
     {
+      "fmp": "XERS",
+      "sym": "xers",
+      "name": "Xeris Biopharma Holdings, Inc.",
+      "pct": 9.49,
+      "short": "Tõusis 52 nädala tippu (11,38 $); tänast ettevõtteuudist ei leitud",
+      "text": "Xerise aktsia tõusis esmaspäeval kuni 11,38 dollarini, mis on uus 52 nädala kõrgeim tase (eelmine sulgemine 10,31 $). Tänast konkreetset uudist (tulemused, ravimi heakskiit vms) ei leitud; Investing.com seostab tõusu üldise positiivse meeleoluga ning aktsia on kuue kuuga tõusnud umbes 62%. Taustaks on Barclaysi hinnasihi tõstmine 14 dollarile (6. oktoober) ja Oppenheimeri Outperform-soovitus (siht 18 $). Seos konkreetse põhjusega on nõrk – tegu paistab olla jätkuva tõusutrendiga.",
+      "sources": [
+        {
+          "title": "Xeris Biopharma stock hits 52-week high at 11.38 USD – Investing.com",
+          "url": "https://www.investing.com/news/company-news/xeris-biopharma-stock-hits-52week-high-at-1138-usd-93CH-4958072"
+        },
+        {
+          "title": "Xeris Biopharma (NASDAQ:XERS) Stock Jumps 6.8% – MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/price-xeris-biopharma-nasdaq-xers-stock-jumps-68-heres-what-happened-2026-10-19/"
+        }
+      ],
+      "at": "2026-10-19T17:07:45Z"
+    },
+    {
       "fmp": "BUR.L",
       "sym": "bur-lon",
       "name": "Burford Capital Limited",
-      "pct": -8.11,
+      "pct": -7.7,
       "short": "Londonis järelejõudmine reedesele NYSE langusele (−8,8%); uut ettevõtteuudist ei leitud",
       "text": "Burfordi aktsia langes Londonis esmaspäeva hommikul −6,9% (225 p). Sama aktsia kukkus reedel New Yorgis pärast Londoni sulgemist −8,8% 3,00 dollarini, mis on uus 52 nädala madalaim tase, nii et Londoni hind suures osas järgib seda liikumist. Tänast ettevõttepõhist uudist (tulemused, kohtuotsus vms) ei leitud; aktsia on juba nädalaid langenud ning MarketBeat märkis 15. oktoobril uut aastamadalaimat ilma konkreetse põhjuseta, viidates nõrgale augustikuu kvartalitulemusele (EPS 0,01 $ vs ootus 0,08 $). Seos konkreetse põhjusega on seega nõrk – tegu on pigem jätkuva müügisurvega.",
       "sources": [
@@ -54,6 +73,44 @@
         }
       ],
       "at": "2026-10-19T11:08:07Z"
+    },
+    {
+      "fmp": "RBA.TO",
+      "sym": "rba-ca",
+      "name": "RB Global, Inc.",
+      "pct": -6.83,
+      "short": "Langes ilma tänase ettevõtteuudiseta; turul suur müügioptsioonide ost",
+      "text": "RB Globali aktsia langes Torontos umbes −6,8% ja New Yorgis umbes −5,6% (79,60 dollarini), jäädes alla 50 ja 200 päeva keskmise. Tänast ettevõttepõhist uudist (tulemused, juhtkonna muudatus vms) ei leitud; MarketBeat märkis samal päeval tavapärasest suuremat müügioptsioonide (put) ostu. Taustaks on Barclaysi hinnasihi kärbe 121 dollarilt 110-le 6. oktoobril. Seos konkreetse põhjusega on nõrk.",
+      "sources": [
+        {
+          "title": "RB Global (NYSE:RBA) Stock Falls 5.6% – MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/price-rb-global-nyse-rba-stock-falls-56-should-you-sell-2026-10-19/"
+        },
+        {
+          "title": "Traders Buy High Volume of Put Options on RB Global – MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/options-traders-buy-high-volume-of-put-options-on-rb-global-nyse-rba-2026-10-19/"
+        }
+      ],
+      "at": "2026-10-19T17:07:45Z"
+    },
+    {
+      "fmp": "AMRC",
+      "sym": "amrc",
+      "name": "Ameresco, Inc. Class A",
+      "pct": -5.23,
+      "short": "Langes uue aastamadalaima lähedale; tänast ettevõtteuudist ei leitud",
+      "text": "Ameresco aktsia langes esmaspäeval umbes −5% 18,48 dollarini, mis on 52 nädala madalaima taseme lähedal, ning kauples väikese käibega. Tänast ettevõttepõhist uudist ei leitud; taustaks on Zacksi reitingu langetamine „strong sell“ peale 12. oktoobril ja aktsia pikem langustrend (alla 50 ja 200 päeva keskmise). Seos konkreetse põhjusega on nõrk.",
+      "sources": [
+        {
+          "title": "Ameresco (NYSE:AMRC) Stock Price Down 4.7% – MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/price-ameresco-nyse-amrc-stock-price-down-47-time-to-sell-2026-10-19/"
+        },
+        {
+          "title": "Why Ameresco, Inc.'s (AMRC) Stock Is Down 5.53% – AAII",
+          "url": "https://www.aaii.com/investingideas/article/550297-why-ameresco-inc8217s-amrc-stock-is-down-553"
+        }
+      ],
+      "at": "2026-10-19T17:07:45Z"
     },
     {
       "fmp": "AMZN",
