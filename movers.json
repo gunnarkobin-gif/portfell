@@ -1,27 +1,31 @@
 {
   "date": "2026-10-20",
-  "updated": "2026-10-20T07:08:21Z",
+  "updated": "2026-10-20T09:08:24Z",
   "items": [
     {
       "fmp": "GEN.L",
       "sym": "gen-lon",
       "name": "Genuit Group PLC",
-      "pct": -9.53,
+      "pct": -15.19,
       "short": "Kasumihoiatus: aasta ärikasum ~84 mln £, alla ootuste (91–96 mln £)",
-      "text": "Genuit avaldas teisipäeval kauplemisülevaate ja langetas aasta prognoosi: korrigeeritud ärikasumiks oodatakse umbes 84 mln naela, analüütikute konsensus oli 91–96 mln naela. Üheksa kuu käive oli 464,5 mln naela (+3,5%, kuid võrreldaval baasil −4,3%); Climate-divisjoni võrreldav käive langes −7,2% nõrkade küttemahtude ja sooja sügisilma tõttu, Water-divisjonil −3,3% nõrga äri- ja taristuehituse tõttu. Ettevõte viitas ka makrokeskkonnale ja oodatavatele intressitõusudele. Seos aktsia ligi −9,5% langusega on tugev – tegu on selge kasumihoiatusega.",
+      "text": "Genuit avaldas teisipäeval kauplemisülevaate ja langetas aasta prognoosi: korrigeeritud ärikasumiks oodatakse umbes 84 mln naela, analüütikute konsensus oli 91–96 mln naela. Üheksa kuu käive oli 464,5 mln naela (+3,5%, võrreldaval baasil −4,3%); Climate-divisjonis langes võrreldav käive −7,2%, sest soe sügis lükkas edasimüüjate Adey-toodete varude soetamist edasi, ja Nu-Heati mahte pärsivad oodatavad intressitõusud. Juht Joe Vorih ootab keerulise keskkonna jätkumist ka uude aastasse. Seos aktsia ligi −15% langusega on tugev – tegu on selge kasumihoiatusega ja langus süvenes päeva jooksul.",
       "sources": [
         {
-          "title": "Genuit Group lowers profit outlook on warm weather impact – Investing.com",
-          "url": "https://www.investing.com/news/company-news/genuit-group-lowers-profit-outlook-on-warm-weather-impact-93CH-4958896"
+          "title": "Genuit sinks 16% as warm weather hits heating, annual profit seen below consensus – Investing.com",
+          "url": "https://www.investing.com/news/earnings/genuit-sinks-16-as-warm-weather-hits-heating-annual-profit-seen-below-consensus-4959064"
+        },
+        {
+          "title": "Genuit warns FY profit will miss market expectations, shares tumble – Sharecast",
+          "url": "https://www.sharecast.com/news/news-and-announcements/ftse-250-genuit-climate-water-ventilation-profit-downgrade--23889731.html"
         }
       ],
-      "at": "2026-10-20T07:08:21Z"
+      "at": "2026-10-20T09:08:24Z"
     },
     {
       "fmp": "2590.HK",
       "sym": "2590-hk",
       "name": "Beijing Geekplus Technology Co., Ltd. Class H",
-      "pct": 8.63,
+      "pct": 7.89,
       "short": "Robootikaaktsiate ralli Hongkongis; ettevõtteuudist ei leitud",
       "text": "Geekplusi aktsia tõusis Hongkongis hommikupoolikul umbes 5,9% 6,44 HK dollarini. Tänast ettevõttepõhist uudist ei leitud, kuid robootika- ja humanoidrobotite aktsiad tõusid samal päeval laiemalt vastu turu langust (nt 五一视界 +23,6%, 兆威机电 +14%, 优必选 +7%), pärast tugevat päeva A-aktsiatel ja enne 23.–25. oktoobril Shanghais toimuvat kehastatud tehisintellekti (embodied AI) messi. Seos on mõõdukas – tõenäoliselt liikus aktsia koos sektoriga; aktsia on aasta tipust (33,5 HK$) endiselt kaugel all.",
       "sources": [
@@ -40,7 +44,7 @@
       "fmp": "9698.HK",
       "sym": "9698-hk",
       "name": "GDS Holdings Ltd.",
-      "pct": -7.42,
+      "pct": -7.26,
       "short": "Tehnoloogiaaktsiate müük Hongkongis; tänast ettevõtteuudist ei leitud",
       "text": "GDS-i aktsia langes Hongkongis hommikupoolikul −7,9% 22,84 HK dollarini (päeva madalaim 21,28), mis on uus aasta madalaim tase. Tänast ettevõttepõhist uudist (tulemused, tehing vms) ei leitud. Turg oli tervikuna nõrk: Hang Seng Tech langes lõunaks −1,21% ning avamisel viidati Goldman Sachsi andmetele, et riskifondid vähendavad tehnoloogiaaktsiate osakaalu kiireimas tempos vähemalt kümne aasta jooksul. Lisaks langes GDS-i ADR New Yorgis esmaspäeval pärast Hongkongi sulgemist −2,6% 22,47 dollarini (aasta madalaim), nii et osa langusest on järelejõudmine. Seos konkreetse põhjusega on nõrk.",
       "sources": [
@@ -51,6 +55,21 @@
         {
           "title": "港股开盘：恒指跌0.81%、科指跌1.28% – FX168",
           "url": "https://www.fx168news.com/article/1104744"
+        }
+      ],
+      "at": "2026-10-20T05:09:36Z"
+    },
+    {
+      "fmp": "2145.HK",
+      "sym": "2145-hk",
+      "name": "Shanghai Chicmax Cosmetics Co., Ltd. Class H",
+      "pct": 6.45,
+      "short": "Tõusis väikese käibega; tänast ettevõtteuudist ei leitud",
+      "text": "Chicmaxi aktsia tõusis Hongkongis hommikupoolikul umbes 6% 23,36 HK dollarini, kuid käive oli väike (ligi 0,67 mln aktsiat). Tänast ettevõttepõhist uudist (tulemused, soovitused vms) ei leitud ja laiem turg oli samal ajal languses. Taustaks on ettevõtte järjepidev aktsiate tagasiost – oktoobri alguses osteti tagasi seitse päeva järjest kokku umbes 36 mln HK dollari eest. Seos konkreetse põhjusega on nõrk; aktsia on aastaga kukkunud ligi 99 HK dollarilt ja kaupleb aasta madalaima lähedal.",
+      "sources": [
+        {
+          "title": "上美股份(02145.HK)连续7日回购 – 21财经",
+          "url": "https://m.21jingji.com/article/20261008/herald/e4123f6515f1aacc8ac944819fa4d515.html"
         }
       ],
       "at": "2026-10-20T05:09:36Z"
@@ -98,19 +117,38 @@
       "at": "2026-10-20T05:09:36Z"
     },
     {
-      "fmp": "2145.HK",
-      "sym": "2145-hk",
-      "name": "Shanghai Chicmax Cosmetics Co., Ltd. Class H",
-      "pct": 5.64,
-      "short": "Tõusis väikese käibega; tänast ettevõtteuudist ei leitud",
-      "text": "Chicmaxi aktsia tõusis Hongkongis hommikupoolikul umbes 6% 23,36 HK dollarini, kuid käive oli väike (ligi 0,67 mln aktsiat). Tänast ettevõttepõhist uudist (tulemused, soovitused vms) ei leitud ja laiem turg oli samal ajal languses. Taustaks on ettevõtte järjepidev aktsiate tagasiost – oktoobri alguses osteti tagasi seitse päeva järjest kokku umbes 36 mln HK dollari eest. Seos konkreetse põhjusega on nõrk; aktsia on aastaga kukkunud ligi 99 HK dollarilt ja kaupleb aasta madalaima lähedal.",
+      "fmp": "MUM.DE",
+      "sym": "mum-etr",
+      "name": "Mensch und Maschine Software SE",
+      "pct": -5.75,
+      "short": "III kv aruanne: 9 kuu kasum −3,7%, prognoosi alumine pool tõenäolisem",
+      "text": "Mensch und Maschine avaldas täna 9 kuu tulemused: käive kasvas 6,9% 189,3 mln euroni, kuid puhaskasum langes 3,7% 23,4 mln euroni ja EPS oli 1,42 eurot (aasta varem 1,45). Tarkvarasegment kasvas (EBIT +18%), kuid Digitalisierungi segmendi EBIT langes 38% Autodeski äri surve tõttu. Ettevõte kinnitas 2026. aasta EPS-i vahemikku 2,11–2,26 eurot, kuid ütles, et realistlikum on vahemiku alumine pool. Seos langusega on mõõdukas kuni tugev – aktsia langes kohe pärast aruande avaldamist.",
       "sources": [
         {
-          "title": "上美股份(02145.HK)连续7日回购 – 21财经",
-          "url": "https://m.21jingji.com/article/20261008/herald/e4123f6515f1aacc8ac944819fa4d515.html"
+          "title": "Mensch und Maschine Aktie: Software wächst, Autodesk belastet Neunmonatsgewinn – goldesel.de",
+          "url": "https://goldesel.de/aktien/news/mensch-und-maschine-aktie-software-wachst-autodesk-belastet-neunmonatsgewinn"
+        },
+        {
+          "title": "EQS-News: Mensch und Maschine Software SE stellt Q3-Bericht 2026 vor – boerse.de",
+          "url": "https://www.boerse.de/nachrichten/EQS-News-Mensch-und-Maschine-Software-SE-stellt-Q3-Bericht-2026-vor/38678908"
         }
       ],
-      "at": "2026-10-20T05:09:36Z"
+      "at": "2026-10-20T09:08:24Z"
+    },
+    {
+      "fmp": "DOV.MI",
+      "sym": "dov-mil",
+      "name": "doValue S.p.A.",
+      "pct": 5.27,
+      "short": "Nõukogu kiitis heaks 10 mln € aktsiate tagasiostu (~3% kapitalist)",
+      "text": "doValue aktsia tõusis Milanos umbes 5% 1,52 euroni, kuigi FTSE MIB oli languses. Milano Finanza teatel kiitis ettevõtte nõukogu heaks 10 mln euro suuruse aktsiate tagasiostu (umbes 3% aktsiakapitalist), mis algab enne aasta lõppu ega välista dividendi 2027. aastal. Seos tõusuga on tõenäoline, kuigi allikas ei seosta neid otsesõnu; aktsia on aasta jooksul ligi poole väärtusest kaotanud.",
+      "sources": [
+        {
+          "title": "Borse oggi in diretta, 20 ottobre 2026 – Milano Finanza",
+          "url": "https://www.milanofinanza.it/news/borse-oggi-diretta-20-ottobre-2026-chiusura-apertura-europee-borsa-milano-ftse-mib-piazza-affari-202610200832176017"
+        }
+      ],
+      "at": "2026-10-20T09:08:24Z"
     }
   ]
 }
