@@ -1,139 +1,101 @@
 {
-  "date": "2026-10-19",
-  "updated": "2026-10-19T17:07:45Z",
+  "date": "2026-10-20",
+  "updated": "2026-10-20T05:09:36Z",
   "items": [
     {
-      "fmp": "NYXH",
-      "sym": "nyxh-be",
-      "name": "Nyxoah SA",
-      "pct": -16.22,
-      "short": "Kärpis 2026. aasta käibeprognoosi 36–40 mln € pealt 33–35 mln €-le",
-      "text": "Nyxoah avaldas täna esialgsed III kvartali tulemused: käive umbes 9,2 mln € (+19% kvartaliga, USA +29% 6,7 mln €-ni), kuid langetas 2026. aasta käibeprognoosi 36–40 mln € pealt 33–35 mln €-le. Juht Liam Kelly sõnul kulgeb USA müügi kasv aeglasemalt, sarnaselt uute tehnoloogiate ajaloolisele tempole. Raha oli septembri lõpus umbes 77 mln €. Seos hinnalangusega on tugev – prognoosi kärbe on päeva peamine uudis.",
+      "fmp": "9698.HK",
+      "sym": "9698-hk",
+      "name": "GDS Holdings Ltd.",
+      "pct": -7.9,
+      "short": "Tehnoloogiaaktsiate müük Hongkongis; tänast ettevõtteuudist ei leitud",
+      "text": "GDS-i aktsia langes Hongkongis hommikupoolikul −7,9% 22,84 HK dollarini (päeva madalaim 21,28), mis on uus aasta madalaim tase. Tänast ettevõttepõhist uudist (tulemused, tehing vms) ei leitud. Turg oli tervikuna nõrk: Hang Seng Tech langes lõunaks −1,21% ning avamisel viidati Goldman Sachsi andmetele, et riskifondid vähendavad tehnoloogiaaktsiate osakaalu kiireimas tempos vähemalt kümne aasta jooksul. Lisaks langes GDS-i ADR New Yorgis esmaspäeval pärast Hongkongi sulgemist −2,6% 22,47 dollarini (aasta madalaim), nii et osa langusest on järelejõudmine. Seos konkreetse põhjusega on nõrk.",
       "sources": [
         {
-          "title": "Nyxoah lowers 2026 revenue guidance to €33M-€35M – StockTitan",
-          "url": "https://www.stocktitan.net/news/NYXH/nyxoah-announces-preliminary-results-for-the-third-quarter-of-2026-glusbann43ew.html"
+          "title": "恒生科技指数下跌1.21%｜港股午评 – 21财经",
+          "url": "https://m.21jingji.com/article/20261020/herald/268004891c81ede8a6089c85c76606a1.html"
         },
         {
-          "title": "Nyxoah Announces Preliminary Results for Q3 2026 – GlobeNewswire",
-          "url": "https://www.globenewswire.com/news-release/2026/10/19/3383354/0/en/nyxoah-announces-preliminary-results-for-the-third-quarter-of-2026-and-adjusts-revenue-guidance-for-2026.html"
+          "title": "港股开盘：恒指跌0.81%、科指跌1.28% – FX168",
+          "url": "https://www.fx168news.com/article/1104744"
         }
       ],
-      "at": "2026-10-19T15:08:17Z"
+      "at": "2026-10-20T05:09:36Z"
     },
     {
-      "fmp": "XERS",
-      "sym": "xers",
-      "name": "Xeris Biopharma Holdings, Inc.",
-      "pct": 9.49,
-      "short": "Tõusis 52 nädala tippu (11,38 $); tänast ettevõtteuudist ei leitud",
-      "text": "Xerise aktsia tõusis esmaspäeval kuni 11,38 dollarini, mis on uus 52 nädala kõrgeim tase (eelmine sulgemine 10,31 $). Tänast konkreetset uudist (tulemused, ravimi heakskiit vms) ei leitud; Investing.com seostab tõusu üldise positiivse meeleoluga ning aktsia on kuue kuuga tõusnud umbes 62%. Taustaks on Barclaysi hinnasihi tõstmine 14 dollarile (6. oktoober) ja Oppenheimeri Outperform-soovitus (siht 18 $). Seos konkreetse põhjusega on nõrk – tegu paistab olla jätkuva tõusutrendiga.",
+      "fmp": "2145.HK",
+      "sym": "2145-hk",
+      "name": "Shanghai Chicmax Cosmetics Co., Ltd. Class H",
+      "pct": 6.18,
+      "short": "Tõusis väikese käibega; tänast ettevõtteuudist ei leitud",
+      "text": "Chicmaxi aktsia tõusis Hongkongis hommikupoolikul umbes 6% 23,36 HK dollarini, kuid käive oli väike (ligi 0,67 mln aktsiat). Tänast ettevõttepõhist uudist (tulemused, soovitused vms) ei leitud ja laiem turg oli samal ajal languses. Taustaks on ettevõtte järjepidev aktsiate tagasiost – oktoobri alguses osteti tagasi seitse päeva järjest kokku umbes 36 mln HK dollari eest. Seos konkreetse põhjusega on nõrk; aktsia on aastaga kukkunud ligi 99 dollarilt ja kaupleb aasta madalaima lähedal.",
       "sources": [
         {
-          "title": "Xeris Biopharma stock hits 52-week high at 11.38 USD – Investing.com",
-          "url": "https://www.investing.com/news/company-news/xeris-biopharma-stock-hits-52week-high-at-1138-usd-93CH-4958072"
-        },
-        {
-          "title": "Xeris Biopharma (NASDAQ:XERS) Stock Jumps 6.8% – MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/price-xeris-biopharma-nasdaq-xers-stock-jumps-68-heres-what-happened-2026-10-19/"
+          "title": "上美股份(02145.HK)连续7日回购 – 21财经",
+          "url": "https://m.21jingji.com/article/20261008/herald/e4123f6515f1aacc8ac944819fa4d515.html"
         }
       ],
-      "at": "2026-10-19T17:07:45Z"
+      "at": "2026-10-20T05:09:36Z"
     },
     {
-      "fmp": "BUR.L",
-      "sym": "bur-lon",
-      "name": "Burford Capital Limited",
-      "pct": -7.7,
-      "short": "Londonis järelejõudmine reedesele NYSE langusele (−8,8%); uut ettevõtteuudist ei leitud",
-      "text": "Burfordi aktsia langes Londonis esmaspäeva hommikul −6,9% (225 p). Sama aktsia kukkus reedel New Yorgis pärast Londoni sulgemist −8,8% 3,00 dollarini, mis on uus 52 nädala madalaim tase, nii et Londoni hind suures osas järgib seda liikumist. Tänast ettevõttepõhist uudist (tulemused, kohtuotsus vms) ei leitud; aktsia on juba nädalaid langenud ning MarketBeat märkis 15. oktoobril uut aastamadalaimat ilma konkreetse põhjuseta, viidates nõrgale augustikuu kvartalitulemusele (EPS 0,01 $ vs ootus 0,08 $). Seos konkreetse põhjusega on seega nõrk – tegu on pigem jätkuva müügisurvega.",
+      "fmp": "ASB.AX",
+      "sym": "asb-au",
+      "name": "Austal Limited",
+      "pct": 6.14,
+      "short": "Ülevõtuspekulatsioon: Hanwha ja Wildcat konkureerivad Austal USA pärast",
+      "text": "Austali aktsia tõusis Sydney börsil teisipäeval kuni 7,6% (päeva vahemik 3,99–4,27 A$), kuigi ASX 200 langes −0,7%. IBTimesi tänase artikli järgi toetab tõusu ootus, et Austal USA pärast võib tekkida pakkumissõda: Hanwha on teinud ettepaneku osta USA äri ja tal on lubatud teha due diligence, samuti on Austal kinnitanud läbirääkimisi USA investori Wildcat Infrastructure'iga. Need pakkumised on siiski teada juba septembrist (Wildcati pakkumine 1,25–1,35 mld USD vs Hanwha 1,05–1,2 mld USD) ja tänast uut börsiteadet ei leitud. Seos on mõõdukas – tegu on pigem spekulatsiooni jätkumisega pärast eelmise nädala ligi 10% langust.",
       "sources": [
         {
-          "title": "Burford Capital (NYSE:BUR) Reaches New 12-Month Low – MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/price-burford-capital-nyse-bur-reaches-new-12-month-low-time-to-sell-2026-10-15/"
+          "title": "Austal Shares Surge 7.6% Amid Bidding Interest in Its US Business – IBTimes AU",
+          "url": "https://ibtimes.com.au/austal-shares-rise-potential-interest-austal-usa-1877020"
+        },
+        {
+          "title": "ASX 200 Live Today – Tuesday, 20th October – Market Index",
+          "url": "https://marketindex.com.au/news/asx-200-live-today-tuesday-20th-october"
+        },
+        {
+          "title": "US suitor Wildcat Infrastructure lobs $1.9 billion offer for Austal – The Nightly",
+          "url": "https://thenightly.com.au/business/us-suitor-wildcat-infrastructure-lobs-19-billion-offer-for-austal-trumping-bid-from-south-koreas-hanwha-c-22844632"
         }
       ],
-      "at": "2026-10-19T07:14:31Z"
+      "at": "2026-10-20T05:09:36Z"
     },
     {
-      "fmp": "BFF.MI",
-      "sym": "bff-mil",
-      "name": "BFF Bank SpA",
-      "pct": -7.41,
-      "short": "Itaalia pankade üldine müük, Milano börs Euroopa nõrgim; ettevõtteuudist ei leitud",
-      "text": "BFF Bank langes Milanos esmaspäeval ligi −7% 2,11 euroni ning oli keskmise kapitalisatsiooniga ettevõtete indeksi suurim langeja. Milano börs oli päeva keskel Euroopa nõrgim (FTSE MIB umbes −1,4%), sest pangad ja autotootjad olid surve all: UniCredit, Banco BPM ja Intesa langesid 2–3%. Tänast BFF-i kohta käivat uudist (tulemused, Itaalia Panga kontrolli tulemus vms) ei leitud; aktsia on aasta algusest kukkunud üle 75% raamatupidamisprobleemide ja Itaalia Panga kontrolli tõttu. Seos on seega nõrk – tõenäoliselt võimendas sektori langust aktsia kõrge volatiilsus.",
+      "fmp": "0268.HK",
+      "sym": "268-hkg",
+      "name": "Kingdee International Software Group Co., Ltd.",
+      "pct": 6.09,
+      "short": "Tõusis nõrgal turul; tänast uudist ei leitud, taustaks tugev III kv ARR",
+      "text": "Kingdee aktsia tõusis Hongkongis hommikupoolikul +6,09% 8,88 HK dollarini ja oli üks väheseid tõusjaid tehnoloogiasektoris, samal ajal kui Hang Seng Tech langes −1,21%. Tänast ettevõttepõhist uudist ei leitud. Taustaks on 13. oktoobril avaldatud III kvartali andmed: tellimuste ARR umbes 4,6 mld jüaani (+19,3% aastaga) ja uue ARR-i kasv +47%, mida ettevõte seostab AI-toodete nõudlusega; Morgan Stanley kinnitas seejärel Overweight-soovitust hinnasihiga 11,4 HK dollarit. Seos tänase tõusuga on nõrk – tegu paistab olevat jätkuv ostuhuvi.",
       "sources": [
         {
-          "title": "Piazza Affari maglia nera in Europa zavorrata da banche e automotive – Teleborsa",
-          "url": "https://www.teleborsa.it/News/2026/10/19/piazza-affari-maglia-nera-in-europa-zavorrata-da-banche-e-automotive-93.html"
+          "title": "恒生科技指数下跌1.21%｜港股午评 – 21财经",
+          "url": "https://m.21jingji.com/article/20261020/herald/268004891c81ede8a6089c85c76606a1.html"
         },
         {
-          "title": "Europee in calo, Stellantis frena il MIB a 49.100 – MarketScreener",
-          "url": "https://it.marketscreener.com/notizie/europee-in-calo-stellantis-frena-il-mib-a-49-100-ce785cdbd889fe2c"
+          "title": "大摩：维持金蝶国际“增持”评级 目标价11.4港元 – 网易",
+          "url": "https://www.163.com/dy/article/L94S4MFR0519QIKK.html"
         }
       ],
-      "at": "2026-10-19T11:08:07Z"
+      "at": "2026-10-20T05:09:36Z"
     },
     {
-      "fmp": "RBA.TO",
-      "sym": "rba-ca",
-      "name": "RB Global, Inc.",
-      "pct": -6.83,
-      "short": "Langes ilma tänase ettevõtteuudiseta; turul suur müügioptsioonide ost",
-      "text": "RB Globali aktsia langes Torontos umbes −6,8% ja New Yorgis umbes −5,6% (79,60 dollarini), jäädes alla 50 ja 200 päeva keskmise. Tänast ettevõttepõhist uudist (tulemused, juhtkonna muudatus vms) ei leitud; MarketBeat märkis samal päeval tavapärasest suuremat müügioptsioonide (put) ostu. Taustaks on Barclaysi hinnasihi kärbe 121 dollarilt 110-le 6. oktoobril. Seos konkreetse põhjusega on nõrk.",
+      "fmp": "2590.HK",
+      "sym": "2590-hk",
+      "name": "Beijing Geekplus Technology Co., Ltd. Class H",
+      "pct": 5.92,
+      "short": "Robootikaaktsiate ralli Hongkongis; ettevõtteuudist ei leitud",
+      "text": "Geekplusi aktsia tõusis Hongkongis hommikupoolikul umbes 5,9% 6,44 HK dollarini. Tänast ettevõttepõhist uudist ei leitud, kuid robootika- ja humanoidrobotite aktsiad tõusid samal päeval laiemalt vastu turu langust (nt 五一视界 +23,6%, 兆威机电 +14%, 优必选 +7%), pärast tugevat päeva A-aktsiatel ja enne 23.–25. oktoobril Shanghais toimuvat kehastatud tehisintellekti (embodied AI) messi. Seos on mõõdukas – tõenäoliselt liikus aktsia koos sektoriga; aktsia on aasta tipust (33,5 HK$) endiselt kaugel all.",
       "sources": [
         {
-          "title": "RB Global (NYSE:RBA) Stock Falls 5.6% – MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/price-rb-global-nyse-rba-stock-falls-56-should-you-sell-2026-10-19/"
+          "title": "新浪概念股热点小时报 2026年10月20日12时 – 新浪",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908rpue.html"
         },
         {
-          "title": "Traders Buy High Volume of Put Options on RB Global – MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/options-traders-buy-high-volume-of-put-options-on-rb-global-nyse-rba-2026-10-19/"
+          "title": "港股速报 2026-10-20 – 每日经济新闻",
+          "url": "https://www.nbd.com.cn/articles/2026-10-20/4609208.html"
         }
       ],
-      "at": "2026-10-19T17:07:45Z"
-    },
-    {
-      "fmp": "AMRC",
-      "sym": "amrc",
-      "name": "Ameresco, Inc. Class A",
-      "pct": -5.23,
-      "short": "Langes uue aastamadalaima lähedale; tänast ettevõtteuudist ei leitud",
-      "text": "Ameresco aktsia langes esmaspäeval umbes −5% 18,48 dollarini, mis on 52 nädala madalaima taseme lähedal, ning kauples väikese käibega. Tänast ettevõttepõhist uudist ei leitud; taustaks on Zacksi reitingu langetamine „strong sell“ peale 12. oktoobril ja aktsia pikem langustrend (alla 50 ja 200 päeva keskmise). Seos konkreetse põhjusega on nõrk.",
-      "sources": [
-        {
-          "title": "Ameresco (NYSE:AMRC) Stock Price Down 4.7% – MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/price-ameresco-nyse-amrc-stock-price-down-47-time-to-sell-2026-10-19/"
-        },
-        {
-          "title": "Why Ameresco, Inc.'s (AMRC) Stock Is Down 5.53% – AAII",
-          "url": "https://www.aaii.com/investingideas/article/550297-why-ameresco-inc8217s-amrc-stock-is-down-553"
-        }
-      ],
-      "at": "2026-10-19T17:07:45Z"
-    },
-    {
-      "fmp": "AMZN",
-      "sym": "amzn",
-      "name": "Amazon.com, Inc.",
-      "pct": 5.19,
-      "short": "Morgan Stanley nimetas Amazoni lemmikvalikuks, hinnasiht 335 → 350 $",
-      "text": "Amazoni aktsia tõusis esmaspäeval umbes 5% pärast seda, kui Morgan Stanley nimetas selle oma lemmikvalikuks (top pick) ja tõstis hinnasihti 335 dollarilt 350 dollarile (Overweight), viidates kasvuvõimalustele tehisintellektis, AWS-i pilveteenustes ja automatiseeritud logistikas. Samal päeval teatati ka Amazoni osalusest X-energy ja AEP väikeste tuumareaktorite projektis Indianas ning Amazoni AI-kiipide laiemast tarkvaratoest. Seos on üsna tugev – mitu tänast allikat seovad tõusu otseselt Morgan Stanley soovitusega; tulemused avaldatakse 29. oktoobril.",
-      "sources": [
-        {
-          "title": "Amazon Stock Edges Higher Monday: What's Going On? – Benzinga",
-          "url": "https://www.benzinga.com/trading-ideas/movers/26/10/62437798/amazon-stock-edges-higher-monday-whats-going-on"
-        },
-        {
-          "title": "Amazon stock rises as this analyst sees 40% upside – Invezz",
-          "url": "https://invezz.com/news/2026/10/19/amazon-stock-rises-as-this-analyst-sees-40-upside/"
-        },
-        {
-          "title": "X-energy, Amazon, American Electric Power Partner to Bring SMR Project to Indiana – GlobeNewswire",
-          "url": "https://www.globenewswire.com/news-release/2026/10/19/3383439/0/en/x-energy-amazon-american-electric-power-partner-to-bring-smr-project-to-indiana.html"
-        }
-      ],
-      "at": "2026-10-19T15:08:17Z"
+      "at": "2026-10-20T05:09:36Z"
     }
   ]
 }
