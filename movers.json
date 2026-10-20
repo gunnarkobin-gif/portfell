@@ -1,12 +1,12 @@
 {
   "date": "2026-10-20",
-  "updated": "2026-10-20T15:13:49Z",
+  "updated": "2026-10-20T17:07:47Z",
   "items": [
     {
       "fmp": "GEN.L",
       "sym": "gen-lon",
       "name": "Genuit Group PLC",
-      "pct": -11.33,
+      "pct": -11.6,
       "short": "Kasumihoiatus: aasta ärikasum ~84 mln £, alla ootuste (91–96 mln £)",
       "text": "Genuit avaldas teisipäeval kauplemisülevaate ja langetas aasta prognoosi: korrigeeritud ärikasumiks oodatakse umbes 84 mln naela, analüütikute konsensus oli 91–96 mln naela. Üheksa kuu käive oli 464,5 mln naela (+3,5%, võrreldaval baasil −4,3%); Climate-divisjonis langes võrreldav käive −7,2%, sest soe sügis lükkas edasimüüjate Adey-toodete varude soetamist edasi, ja Nu-Heati mahte pärsivad oodatavad intressitõusud. Juht Joe Vorih ootab keerulise keskkonna jätkumist ka uude aastasse. Seos aktsia ligi −15% langusega on tugev – tegu on selge kasumihoiatusega ja langus süvenes päeva jooksul.",
       "sources": [
@@ -39,6 +39,25 @@
         }
       ],
       "at": "2026-10-20T05:09:36Z"
+    },
+    {
+      "fmp": "ADOC.PA",
+      "sym": "adoc-par",
+      "name": "Adocia SA",
+      "pct": 7.66,
+      "short": "Kaasas 7 mln € rahastuse; raha jätkub nüüd 2028. aasta I kvartalini",
+      "text": "Adocia teatas täna umbes 7 mln euro suurusest rahastusest: 3 mln eurot aktsiaemissiooniga (1,48 mln uut aktsiat hinnaga 2,042 eurot, 9,5% allahindlusega) ja 4 mln eurot Vester Finance'i aktsionärilaenu suurendamisega. Emissioonis osalesid kõik juhatuse ja nõukogu liikmed, sh juht Olivier Soula. Koos kulukärbetega pikeneb rahavaru varasemalt 2027. aasta II kvartali algusest 2028. aasta I kvartalini (BC Lispro Hiina heakskiidu 20 mln dollari maksega isegi 2029. aastani). Seos tõusuga on tõenäoline – rahastamisrisk vähenes, kuigi aktsia kaupleb nüüd emissioonihinnast kõrgemal.",
+      "sources": [
+        {
+          "title": "ADOCIA Announces a €7 Million Financing and the Extension of Its Cash Runway to 2028 – Yahoo Finance",
+          "url": "https://finance.yahoo.com/healthcare/articles/adocia-announces-7-million-financing-063000307.html"
+        },
+        {
+          "title": "Adocia étend sa visibilité financière jusqu'au premier trimestre 2028 – Boursorama",
+          "url": "https://www.boursorama.com/bourse/actualites/adocia-etend-sa-visibilite-financiere-jusqu-au-premier-trimestre-2028-d443fc234807a9c974f338bc0b163e2c"
+        }
+      ],
+      "at": "2026-10-20T15:13:49Z"
     },
     {
       "fmp": "THG.L",
@@ -79,20 +98,20 @@
       "at": "2026-10-20T05:09:36Z"
     },
     {
-      "fmp": "ADOC.PA",
-      "sym": "adoc-par",
-      "name": "Adocia SA",
-      "pct": 7.04,
-      "short": "Kaasas 7 mln € rahastuse; raha jätkub nüüd 2028. aasta I kvartalini",
-      "text": "Adocia teatas täna umbes 7 mln euro suurusest rahastusest: 3 mln eurot aktsiaemissiooniga (1,48 mln uut aktsiat hinnaga 2,042 eurot, 9,5% allahindlusega) ja 4 mln eurot Vester Finance'i aktsionärilaenu suurendamisega. Emissioonis osalesid kõik juhatuse ja nõukogu liikmed, sh juht Olivier Soula. Koos kulukärbetega pikeneb rahavaru varasemalt 2027. aasta II kvartali algusest 2028. aasta I kvartalini (BC Lispro Hiina heakskiidu 20 mln dollari maksega isegi 2029. aastani). Seos tõusuga on tõenäoline – rahastamisrisk vähenes, kuigi aktsia kaupleb nüüd emissioonihinnast kõrgemal.",
+      "fmp": "UCB.BR",
+      "sym": "ucb-be",
+      "name": "UCB S.A.",
+      "pct": 6.73,
+      "short": "Tõusis ilma konkreetse tänase uudiseta; tervishoiuaktsiad olid tugevad",
+      "text": "UCB aktsia tõusis Brüsselis umbes 6,5% 218,5 euroni (päeva tipp 219,8). Tänast ettevõttepõhist uudist ei leitud – ad-hoc-news'i tänane ülevaade mainib vaid 16. oktoobri FDA heakskiitu ZILBRYSQ-i uuele ravimvormile ja BIMZELX-i tugevat I poolaasta müüki (1,52 mld eurot). Samal päeval olid ravimiaktsiad ka USA-s tugevad (nt Eli Lilly ligi +4%). Seos konkreetse põhjusega on nõrk.",
       "sources": [
         {
-          "title": "ADOCIA Announces a €7 Million Financing and the Extension of Its Cash Runway to 2028 – Yahoo Finance",
-          "url": "https://finance.yahoo.com/healthcare/articles/adocia-announces-7-million-financing-063000307.html"
+          "title": "UCB-Aktie liegt bei 212,75 Euro und 3,68 Prozent höher – ad-hoc-news.de",
+          "url": "https://ad-hoc-news.de/boerse/news/corporate-news/ucb-aktie-die-ucb-aktie-liegt-bei-212-75-euro-und-3-68-prozent-hoeher/70374034"
         },
         {
-          "title": "Adocia étend sa visibilité financière jusqu'au premier trimestre 2028 – Boursorama",
-          "url": "https://www.boursorama.com/bourse/actualites/adocia-etend-sa-visibilite-financiere-jusqu-au-premier-trimestre-2028-d443fc234807a9c974f338bc0b163e2c"
+          "title": "US Stock Market Today LIVE, 20. oktoober 2026 – Sunday Guardian",
+          "url": "https://sundayguardianlive.com/business/us-stock-market-today-live-dow-jones-climbs-400-points-sp-500-rises-036-nasdaq-edges-higher-as-ai-stocks-slide-oil-surge-nvidia-earnings-fed-rate-hike-check-what-investors-should-know-309123/"
         }
       ],
       "at": "2026-10-20T15:13:49Z"
@@ -117,20 +136,16 @@
       "at": "2026-10-20T15:13:49Z"
     },
     {
-      "fmp": "UCB.BR",
-      "sym": "ucb-be",
-      "name": "UCB S.A.",
-      "pct": 6.48,
-      "short": "Tõusis ilma konkreetse tänase uudiseta; tervishoiuaktsiad olid tugevad",
-      "text": "UCB aktsia tõusis Brüsselis umbes 6,5% 218,5 euroni (päeva tipp 219,8). Tänast ettevõttepõhist uudist ei leitud – ad-hoc-news'i tänane ülevaade mainib vaid 16. oktoobri FDA heakskiitu ZILBRYSQ-i uuele ravimvormile ja BIMZELX-i tugevat I poolaasta müüki (1,52 mld eurot). Samal päeval olid ravimiaktsiad ka USA-s tugevad (nt Eli Lilly ligi +4%). Seos konkreetse põhjusega on nõrk.",
+      "fmp": "QTWO",
+      "sym": "qtwo",
+      "name": "Q2 Holdings, Inc.",
+      "pct": 6.7,
+      "short": "Tänast ettevõtteuudist ei leitud; III kv tulemused tulevad 28. oktoobril",
+      "text": "Q2 aktsia tõusis New Yorgis päevasisest umbes 6% 65,92 dollarini, mis on aasta tipu (76,24) suunas liikumine. Tänast ettevõttepõhist uudist ega soovituse muutust ei leitud; viimased teated (14. oktoober) puudutasid III kvartali tulemuste avaldamist 28. oktoobril ja pettusteraportit. Seos konkreetse põhjusega on nõrk – võimalik, et tegu on positsioneerimisega enne tulemusi.",
       "sources": [
         {
-          "title": "UCB-Aktie liegt bei 212,75 Euro und 3,68 Prozent höher – ad-hoc-news.de",
-          "url": "https://ad-hoc-news.de/boerse/news/corporate-news/ucb-aktie-die-ucb-aktie-liegt-bei-212-75-euro-und-3-68-prozent-hoeher/70374034"
-        },
-        {
-          "title": "US Stock Market Today LIVE, 20. oktoober 2026 – Sunday Guardian",
-          "url": "https://sundayguardianlive.com/business/us-stock-market-today-live-dow-jones-climbs-400-points-sp-500-rises-036-nasdaq-edges-higher-as-ai-stocks-slide-oil-surge-nvidia-earnings-fed-rate-hike-check-what-investors-should-know-309123/"
+          "title": "Q2 Holdings (QTWO) Stock News & Updates – StockTitan",
+          "url": "https://www.stocktitan.net/news/QTWO/"
         }
       ],
       "at": "2026-10-20T15:13:49Z"
@@ -149,25 +164,6 @@
         }
       ],
       "at": "2026-10-20T05:09:36Z"
-    },
-    {
-      "fmp": "MUM.DE",
-      "sym": "mum-etr",
-      "name": "Mensch und Maschine Software SE",
-      "pct": -6.31,
-      "short": "III kv aruanne: 9 kuu kasum −3,7%, prognoosi alumine pool tõenäolisem",
-      "text": "Mensch und Maschine avaldas täna 9 kuu tulemused: käive kasvas 6,9% 189,3 mln euroni, kuid puhaskasum langes 3,7% 23,4 mln euroni ja EPS oli 1,42 eurot (aasta varem 1,45). Tarkvarasegment kasvas (EBIT +18%), kuid Digitalisierungi segmendi EBIT langes 38% Autodeski äri surve tõttu. Ettevõte kinnitas 2026. aasta EPS-i vahemikku 2,11–2,26 eurot, kuid ütles, et realistlikum on vahemiku alumine pool. Seos langusega on mõõdukas kuni tugev – aktsia langes kohe pärast aruande avaldamist.",
-      "sources": [
-        {
-          "title": "Mensch und Maschine Aktie: Software wächst, Autodesk belastet Neunmonatsgewinn – goldesel.de",
-          "url": "https://goldesel.de/aktien/news/mensch-und-maschine-aktie-software-wachst-autodesk-belastet-neunmonatsgewinn"
-        },
-        {
-          "title": "EQS-News: Mensch und Maschine Software SE stellt Q3-Bericht 2026 vor – boerse.de",
-          "url": "https://www.boerse.de/nachrichten/EQS-News-Mensch-und-Maschine-Software-SE-stellt-Q3-Bericht-2026-vor/38678908"
-        }
-      ],
-      "at": "2026-10-20T09:08:24Z"
     },
     {
       "fmp": "ASB.AX",
@@ -212,40 +208,6 @@
       "at": "2026-10-20T05:09:36Z"
     },
     {
-      "fmp": "QTWO",
-      "sym": "qtwo",
-      "name": "Q2 Holdings, Inc.",
-      "pct": 5.95,
-      "short": "Tänast ettevõtteuudist ei leitud; III kv tulemused tulevad 28. oktoobril",
-      "text": "Q2 aktsia tõusis New Yorgis päevasisest umbes 6% 65,92 dollarini, mis on aasta tipu (76,24) suunas liikumine. Tänast ettevõttepõhist uudist ega soovituse muutust ei leitud; viimased teated (14. oktoober) puudutasid III kvartali tulemuste avaldamist 28. oktoobril ja pettusteraportit. Seos konkreetse põhjusega on nõrk – võimalik, et tegu on positsioneerimisega enne tulemusi.",
-      "sources": [
-        {
-          "title": "Q2 Holdings (QTWO) Stock News & Updates – StockTitan",
-          "url": "https://www.stocktitan.net/news/QTWO/"
-        }
-      ],
-      "at": "2026-10-20T15:13:49Z"
-    },
-    {
-      "fmp": "TRN.L",
-      "sym": "trn-lon",
-      "name": "Trainline Plc",
-      "pct": 5.9,
-      "short": "Tänast põhjust ei leitud; JPMorgani osalus langes alla 5% teavituspiiri",
-      "text": "Trainline'i aktsia tõusis Londonis umbes 5,9% 229,8 pennini (päeva tipp). Täna avaldati vaid teade, et JPMorgani osalus (varem 5,06%, suures osas finantsinstrumentide kaudu) langes 15. oktoobril alla teavituspiiri; see ei selgita tõusu otseselt. Taustaks on 9. oktoobri ORR-i ettepanek tagada sõltumatutele piletimüüjatele õiglane ligipääs GBR-i kõrval ja käimasolev 100 mln naela tagasiost; I poolaasta tulemused tulevad 4. novembril. Seos konkreetse põhjusega on nõrk.",
-      "sources": [
-        {
-          "title": "REG – Trainline PLC: JPMorgan Chase & Co – Holding(s) in Company – TradingView",
-          "url": "https://www.tradingview.com/news/reuters.com,2026-10-20:newsml_RST6916Za:0-reg-trainline-plc-jpmorgan-chase-co-holding-s-in-company/"
-        },
-        {
-          "title": "Trainline Shares Rise 3.5% Following ORR Consultation on Rail Ticket Retailing Rules – Yahoo Finance UK",
-          "url": "https://uk.finance.yahoo.com/news/trainline-shares-rise-3-5-084611277.html"
-        }
-      ],
-      "at": "2026-10-20T15:13:49Z"
-    },
-    {
       "fmp": "ELIX.L",
       "sym": "elix-lon",
       "name": "Elixirr International Plc",
@@ -265,10 +227,25 @@
       "at": "2026-10-20T13:10:20Z"
     },
     {
+      "fmp": "DOV.MI",
+      "sym": "dov-mil",
+      "name": "doValue S.p.A.",
+      "pct": 5.61,
+      "short": "Nõukogu kiitis heaks 10 mln € aktsiate tagasiostu (~3% kapitalist)",
+      "text": "doValue aktsia tõusis Milanos umbes 5% 1,52 euroni, kuigi FTSE MIB oli languses. Milano Finanza teatel kiitis ettevõtte nõukogu heaks 10 mln euro suuruse aktsiate tagasiostu (umbes 3% aktsiakapitalist), mis algab enne aasta lõppu ega välista dividendi 2027. aastal. Seos tõusuga on tõenäoline, kuigi allikas ei seosta neid otsesõnu; aktsia on aasta jooksul ligi poole väärtusest kaotanud.",
+      "sources": [
+        {
+          "title": "Borse oggi in diretta, 20 ottobre 2026 – Milano Finanza",
+          "url": "https://www.milanofinanza.it/news/borse-oggi-diretta-20-ottobre-2026-chiusura-apertura-europee-borsa-milano-ftse-mib-piazza-affari-202610200832176017"
+        }
+      ],
+      "at": "2026-10-20T09:08:24Z"
+    },
+    {
       "fmp": "BUR.L",
       "sym": "bur-lon",
       "name": "Burford Capital Limited",
-      "pct": 5.74,
+      "pct": 5.47,
       "short": "Tänast ettevõtteuudist ei leitud; aktsia põrkab aasta madalaimalt",
       "text": "Burfordi aktsia tõusis Londonis umbes 5,7% 235,8 pennini, olles endiselt aasta madalaima (215,6) lähedal ja aasta tipust (848,5) kaugel. Täna avaldati vaid BlackRocki osaluse teade (kogu osalus 6,37%-lt 6,34%-le), mis tõusu ei selgita. Viimane suur uudis oli 28. septembri Taction v. Apple patendivaidluse 5,7 mld dollari vandekohtuotsus, millest Burford hindas oma osaks ligikaudu 1,4 mld dollarit. Seos konkreetse põhjusega on nõrk.",
       "sources": [
@@ -284,16 +261,35 @@
       "at": "2026-10-20T15:13:49Z"
     },
     {
-      "fmp": "DOV.MI",
-      "sym": "dov-mil",
-      "name": "doValue S.p.A.",
-      "pct": 5.61,
-      "short": "Nõukogu kiitis heaks 10 mln € aktsiate tagasiostu (~3% kapitalist)",
-      "text": "doValue aktsia tõusis Milanos umbes 5% 1,52 euroni, kuigi FTSE MIB oli languses. Milano Finanza teatel kiitis ettevõtte nõukogu heaks 10 mln euro suuruse aktsiate tagasiostu (umbes 3% aktsiakapitalist), mis algab enne aasta lõppu ega välista dividendi 2027. aastal. Seos tõusuga on tõenäoline, kuigi allikas ei seosta neid otsesõnu; aktsia on aasta jooksul ligi poole väärtusest kaotanud.",
+      "fmp": "VYX",
+      "sym": "vyx",
+      "name": "NCR Voyix Corporation",
+      "pct": 5.34,
+      "short": "Tänast ettevõtteuudist ei leitud; jätkab eelmise nädala järsku tõusu",
+      "text": "NCR Voyixi aktsia tõusis New Yorgis päevasisest umbes 5,3% 8,19 dollarini (päeva tipp). Tänast ettevõttepõhist uudist (tulemused, prognoos, soovituse muutus) ei leitud. Aktsia tõusis juba 15. oktoobril ilma selge põhjuseta 9,2% ning viimased analüütikutoimingud olid pigem ettevaatlikud (Goldman Sachs langetas hinnasihti 8 dollarini, neutraalne soovitus). Seos konkreetse põhjusega on nõrk.",
       "sources": [
         {
-          "title": "Borse oggi in diretta, 20 ottobre 2026 – Milano Finanza",
-          "url": "https://www.milanofinanza.it/news/borse-oggi-diretta-20-ottobre-2026-chiusura-apertura-europee-borsa-milano-ftse-mib-piazza-affari-202610200832176017"
+          "title": "NCR Voyix (NYSE:VYX) Stock Jumps 9.2% – Here's What Happened – MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/price-ncr-voyix-nyse-vyx-stock-jumps-92-heres-what-happened-2026-10-15/"
+        }
+      ],
+      "at": "2026-10-20T17:07:47Z"
+    },
+    {
+      "fmp": "MUM.DE",
+      "sym": "mum-etr",
+      "name": "Mensch und Maschine Software SE",
+      "pct": -5.33,
+      "short": "III kv aruanne: 9 kuu kasum −3,7%, prognoosi alumine pool tõenäolisem",
+      "text": "Mensch und Maschine avaldas täna 9 kuu tulemused: käive kasvas 6,9% 189,3 mln euroni, kuid puhaskasum langes 3,7% 23,4 mln euroni ja EPS oli 1,42 eurot (aasta varem 1,45). Tarkvarasegment kasvas (EBIT +18%), kuid Digitalisierungi segmendi EBIT langes 38% Autodeski äri surve tõttu. Ettevõte kinnitas 2026. aasta EPS-i vahemikku 2,11–2,26 eurot, kuid ütles, et realistlikum on vahemiku alumine pool. Seos langusega on mõõdukas kuni tugev – aktsia langes kohe pärast aruande avaldamist.",
+      "sources": [
+        {
+          "title": "Mensch und Maschine Aktie: Software wächst, Autodesk belastet Neunmonatsgewinn – goldesel.de",
+          "url": "https://goldesel.de/aktien/news/mensch-und-maschine-aktie-software-wachst-autodesk-belastet-neunmonatsgewinn"
+        },
+        {
+          "title": "EQS-News: Mensch und Maschine Software SE stellt Q3-Bericht 2026 vor – boerse.de",
+          "url": "https://www.boerse.de/nachrichten/EQS-News-Mensch-und-Maschine-Software-SE-stellt-Q3-Bericht-2026-vor/38678908"
         }
       ],
       "at": "2026-10-20T09:08:24Z"
@@ -316,6 +312,40 @@
         }
       ],
       "at": "2026-10-20T15:13:49Z"
+    },
+    {
+      "fmp": "TRN.L",
+      "sym": "trn-lon",
+      "name": "Trainline Plc",
+      "pct": 5.16,
+      "short": "Tänast põhjust ei leitud; JPMorgani osalus langes alla 5% teavituspiiri",
+      "text": "Trainline'i aktsia tõusis Londonis umbes 5,9% 229,8 pennini (päeva tipp). Täna avaldati vaid teade, et JPMorgani osalus (varem 5,06%, suures osas finantsinstrumentide kaudu) langes 15. oktoobril alla teavituspiiri; see ei selgita tõusu otseselt. Taustaks on 9. oktoobri ORR-i ettepanek tagada sõltumatutele piletimüüjatele õiglane ligipääs GBR-i kõrval ja käimasolev 100 mln naela tagasiost; I poolaasta tulemused tulevad 4. novembril. Seos konkreetse põhjusega on nõrk.",
+      "sources": [
+        {
+          "title": "REG – Trainline PLC: JPMorgan Chase & Co – Holding(s) in Company – TradingView",
+          "url": "https://www.tradingview.com/news/reuters.com,2026-10-20:newsml_RST6916Za:0-reg-trainline-plc-jpmorgan-chase-co-holding-s-in-company/"
+        },
+        {
+          "title": "Trainline Shares Rise 3.5% Following ORR Consultation on Rail Ticket Retailing Rules – Yahoo Finance UK",
+          "url": "https://uk.finance.yahoo.com/news/trainline-shares-rise-3-5-084611277.html"
+        }
+      ],
+      "at": "2026-10-20T15:13:49Z"
+    },
+    {
+      "fmp": "MWH",
+      "sym": "mwh",
+      "name": "SOLV Energy Inc Class A",
+      "pct": -5.15,
+      "short": "Langes uue aasta madalaimani; tänast ettevõtteuudist ei leitud",
+      "text": "SOLV Energy aktsia langes New Yorgis päevasisest umbes 5,1% 22,62 dollarini; päeva madalaim 22,55 dollarit on ühtlasi uus aasta madalaim (tipp 48,40). Tänast ettevõttepõhist uudist (tulemused, tehing, soovituse muutus) ei leitud. Taustaks on aktsia pikem langus ja suurosaniku American Securities'i varasemad osaluse müügid (mai lõpus 36-dollarine järelemissioon, pärast mida jäi fondile umbes 68% aktsiatest), kuid tänase liikumisega neid otseselt seostada ei saa. Seos konkreetse põhjusega on nõrk.",
+      "sources": [
+        {
+          "title": "SOLV Energy falls as PE sponsor reduces stake – Stockopedia (Reuters)",
+          "url": "https://www.stockopedia.com/share-prices/solv-energy-NSQ:MWH/news/solv-energy-falls-as-pe-sponsor-reduces-stake-019e73aa-993e-7067-bf42-8cc9f1c29bf3/"
+        }
+      ],
+      "at": "2026-10-20T17:07:47Z"
     },
     {
       "fmp": "CHWY",
