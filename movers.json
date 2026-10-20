@@ -1,12 +1,46 @@
 {
   "date": "2026-10-20",
-  "updated": "2026-10-20T05:09:36Z",
+  "updated": "2026-10-20T07:08:21Z",
   "items": [
+    {
+      "fmp": "GEN.L",
+      "sym": "gen-lon",
+      "name": "Genuit Group PLC",
+      "pct": -9.53,
+      "short": "Kasumihoiatus: aasta ärikasum ~84 mln £, alla ootuste (91–96 mln £)",
+      "text": "Genuit avaldas teisipäeval kauplemisülevaate ja langetas aasta prognoosi: korrigeeritud ärikasumiks oodatakse umbes 84 mln naela, analüütikute konsensus oli 91–96 mln naela. Üheksa kuu käive oli 464,5 mln naela (+3,5%, kuid võrreldaval baasil −4,3%); Climate-divisjoni võrreldav käive langes −7,2% nõrkade küttemahtude ja sooja sügisilma tõttu, Water-divisjonil −3,3% nõrga äri- ja taristuehituse tõttu. Ettevõte viitas ka makrokeskkonnale ja oodatavatele intressitõusudele. Seos aktsia ligi −9,5% langusega on tugev – tegu on selge kasumihoiatusega.",
+      "sources": [
+        {
+          "title": "Genuit Group lowers profit outlook on warm weather impact – Investing.com",
+          "url": "https://www.investing.com/news/company-news/genuit-group-lowers-profit-outlook-on-warm-weather-impact-93CH-4958896"
+        }
+      ],
+      "at": "2026-10-20T07:08:21Z"
+    },
+    {
+      "fmp": "2590.HK",
+      "sym": "2590-hk",
+      "name": "Beijing Geekplus Technology Co., Ltd. Class H",
+      "pct": 8.63,
+      "short": "Robootikaaktsiate ralli Hongkongis; ettevõtteuudist ei leitud",
+      "text": "Geekplusi aktsia tõusis Hongkongis hommikupoolikul umbes 5,9% 6,44 HK dollarini. Tänast ettevõttepõhist uudist ei leitud, kuid robootika- ja humanoidrobotite aktsiad tõusid samal päeval laiemalt vastu turu langust (nt 五一视界 +23,6%, 兆威机电 +14%, 优必选 +7%), pärast tugevat päeva A-aktsiatel ja enne 23.–25. oktoobril Shanghais toimuvat kehastatud tehisintellekti (embodied AI) messi. Seos on mõõdukas – tõenäoliselt liikus aktsia koos sektoriga; aktsia on aasta tipust (33,5 HK$) endiselt kaugel all.",
+      "sources": [
+        {
+          "title": "新浪概念股热点小时报 2026年10月20日12时 – 新浪",
+          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908rpue.html"
+        },
+        {
+          "title": "港股速报 2026-10-20 – 每日经济新闻",
+          "url": "https://www.nbd.com.cn/articles/2026-10-20/4609208.html"
+        }
+      ],
+      "at": "2026-10-20T05:09:36Z"
+    },
     {
       "fmp": "9698.HK",
       "sym": "9698-hk",
       "name": "GDS Holdings Ltd.",
-      "pct": -7.9,
+      "pct": -7.42,
       "short": "Tehnoloogiaaktsiate müük Hongkongis; tänast ettevõtteuudist ei leitud",
       "text": "GDS-i aktsia langes Hongkongis hommikupoolikul −7,9% 22,84 HK dollarini (päeva madalaim 21,28), mis on uus aasta madalaim tase. Tänast ettevõttepõhist uudist (tulemused, tehing vms) ei leitud. Turg oli tervikuna nõrk: Hang Seng Tech langes lõunaks −1,21% ning avamisel viidati Goldman Sachsi andmetele, et riskifondid vähendavad tehnoloogiaaktsiate osakaalu kiireimas tempos vähemalt kümne aasta jooksul. Lisaks langes GDS-i ADR New Yorgis esmaspäeval pärast Hongkongi sulgemist −2,6% 22,47 dollarini (aasta madalaim), nii et osa langusest on järelejõudmine. Seos konkreetse põhjusega on nõrk.",
       "sources": [
@@ -17,21 +51,6 @@
         {
           "title": "港股开盘：恒指跌0.81%、科指跌1.28% – FX168",
           "url": "https://www.fx168news.com/article/1104744"
-        }
-      ],
-      "at": "2026-10-20T05:09:36Z"
-    },
-    {
-      "fmp": "2145.HK",
-      "sym": "2145-hk",
-      "name": "Shanghai Chicmax Cosmetics Co., Ltd. Class H",
-      "pct": 6.18,
-      "short": "Tõusis väikese käibega; tänast ettevõtteuudist ei leitud",
-      "text": "Chicmaxi aktsia tõusis Hongkongis hommikupoolikul umbes 6% 23,36 HK dollarini, kuid käive oli väike (ligi 0,67 mln aktsiat). Tänast ettevõttepõhist uudist (tulemused, soovitused vms) ei leitud ja laiem turg oli samal ajal languses. Taustaks on ettevõtte järjepidev aktsiate tagasiost – oktoobri alguses osteti tagasi seitse päeva järjest kokku umbes 36 mln HK dollari eest. Seos konkreetse põhjusega on nõrk; aktsia on aastaga kukkunud ligi 99 HK dollarilt ja kaupleb aasta madalaima lähedal.",
-      "sources": [
-        {
-          "title": "上美股份(02145.HK)连续7日回购 – 21财经",
-          "url": "https://m.21jingji.com/article/20261008/herald/e4123f6515f1aacc8ac944819fa4d515.html"
         }
       ],
       "at": "2026-10-20T05:09:36Z"
@@ -79,20 +98,16 @@
       "at": "2026-10-20T05:09:36Z"
     },
     {
-      "fmp": "2590.HK",
-      "sym": "2590-hk",
-      "name": "Beijing Geekplus Technology Co., Ltd. Class H",
-      "pct": 5.92,
-      "short": "Robootikaaktsiate ralli Hongkongis; ettevõtteuudist ei leitud",
-      "text": "Geekplusi aktsia tõusis Hongkongis hommikupoolikul umbes 5,9% 6,44 HK dollarini. Tänast ettevõttepõhist uudist ei leitud, kuid robootika- ja humanoidrobotite aktsiad tõusid samal päeval laiemalt vastu turu langust (nt 五一视界 +23,6%, 兆威机电 +14%, 优必选 +7%), pärast tugevat päeva A-aktsiatel ja enne 23.–25. oktoobril Shanghais toimuvat kehastatud tehisintellekti (embodied AI) messi. Seos on mõõdukas – tõenäoliselt liikus aktsia koos sektoriga; aktsia on aasta tipust (33,5 HK$) endiselt kaugel all.",
+      "fmp": "2145.HK",
+      "sym": "2145-hk",
+      "name": "Shanghai Chicmax Cosmetics Co., Ltd. Class H",
+      "pct": 5.64,
+      "short": "Tõusis väikese käibega; tänast ettevõtteuudist ei leitud",
+      "text": "Chicmaxi aktsia tõusis Hongkongis hommikupoolikul umbes 6% 23,36 HK dollarini, kuid käive oli väike (ligi 0,67 mln aktsiat). Tänast ettevõttepõhist uudist (tulemused, soovitused vms) ei leitud ja laiem turg oli samal ajal languses. Taustaks on ettevõtte järjepidev aktsiate tagasiost – oktoobri alguses osteti tagasi seitse päeva järjest kokku umbes 36 mln HK dollari eest. Seos konkreetse põhjusega on nõrk; aktsia on aastaga kukkunud ligi 99 HK dollarilt ja kaupleb aasta madalaima lähedal.",
       "sources": [
         {
-          "title": "新浪概念股热点小时报 2026年10月20日12时 – 新浪",
-          "url": "https://k.sina.com.cn/article_7857201856_1d45362c001908rpue.html"
-        },
-        {
-          "title": "港股速报 2026-10-20 – 每日经济新闻",
-          "url": "https://www.nbd.com.cn/articles/2026-10-20/4609208.html"
+          "title": "上美股份(02145.HK)连续7日回购 – 21财经",
+          "url": "https://m.21jingji.com/article/20261008/herald/e4123f6515f1aacc8ac944819fa4d515.html"
         }
       ],
       "at": "2026-10-20T05:09:36Z"
