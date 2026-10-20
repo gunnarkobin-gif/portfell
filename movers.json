@@ -1,12 +1,12 @@
 {
   "date": "2026-10-20",
-  "updated": "2026-10-20T11:09:28Z",
+  "updated": "2026-10-20T13:10:20Z",
   "items": [
     {
       "fmp": "GEN.L",
       "sym": "gen-lon",
       "name": "Genuit Group PLC",
-      "pct": -14.5,
+      "pct": -11.67,
       "short": "Kasumihoiatus: aasta ärikasum ~84 mln £, alla ootuste (91–96 mln £)",
       "text": "Genuit avaldas teisipäeval kauplemisülevaate ja langetas aasta prognoosi: korrigeeritud ärikasumiks oodatakse umbes 84 mln naela, analüütikute konsensus oli 91–96 mln naela. Üheksa kuu käive oli 464,5 mln naela (+3,5%, võrreldaval baasil −4,3%); Climate-divisjonis langes võrreldav käive −7,2%, sest soe sügis lükkas edasimüüjate Adey-toodete varude soetamist edasi, ja Nu-Heati mahte pärsivad oodatavad intressitõusud. Juht Joe Vorih ootab keerulise keskkonna jätkumist ka uude aastasse. Seos aktsia ligi −15% langusega on tugev – tegu on selge kasumihoiatusega ja langus süvenes päeva jooksul.",
       "sources": [
@@ -41,6 +41,25 @@
       "at": "2026-10-20T05:09:36Z"
     },
     {
+      "fmp": "THG.L",
+      "sym": "thg-lon",
+      "name": "THG Plc",
+      "pct": -7.56,
+      "short": "Tagasilangus pärast eelmise nädala ~13% tõusu; tänast ettevõtteuudist ei leitud",
+      "text": "THG aktsia langes Londonis umbes 5% 35,08 pennini. Tänast ettevõttepõhist uudist (börsiteade, soovituse muutus vms) ei leitud. Taustaks on 15. oktoobri III kvartali ülevaade, kus THG tõstis aasta korrigeeritud EBITDA prognoosi 103 mln naelani ja aktsia tõusis päevaga ligi 13%; samuti oli Londoni turg täna nõrk. Seos konkreetse põhjusega on nõrk – tõenäoliselt on tegu kasumivõtmisega pärast järsku tõusu.",
+      "sources": [
+        {
+          "title": "THG shares jump 13% on raised profit outlook – Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/thg-shares-jump-13-on-raised-profit-outlook-93CH-4950718"
+        },
+        {
+          "title": "MARKETS LIVE: Industrials and miners drag London lower as defensives rise – Yahoo Finance UK",
+          "url": "https://uk.finance.yahoo.com/news/markets-live-london-set-extend-060500174.html"
+        }
+      ],
+      "at": "2026-10-20T11:09:28Z"
+    },
+    {
       "fmp": "9698.HK",
       "sym": "9698-hk",
       "name": "GDS Holdings Ltd.",
@@ -73,6 +92,25 @@
         }
       ],
       "at": "2026-10-20T05:09:36Z"
+    },
+    {
+      "fmp": "MUM.DE",
+      "sym": "mum-etr",
+      "name": "Mensch und Maschine Software SE",
+      "pct": -6.31,
+      "short": "III kv aruanne: 9 kuu kasum −3,7%, prognoosi alumine pool tõenäolisem",
+      "text": "Mensch und Maschine avaldas täna 9 kuu tulemused: käive kasvas 6,9% 189,3 mln euroni, kuid puhaskasum langes 3,7% 23,4 mln euroni ja EPS oli 1,42 eurot (aasta varem 1,45). Tarkvarasegment kasvas (EBIT +18%), kuid Digitalisierungi segmendi EBIT langes 38% Autodeski äri surve tõttu. Ettevõte kinnitas 2026. aasta EPS-i vahemikku 2,11–2,26 eurot, kuid ütles, et realistlikum on vahemiku alumine pool. Seos langusega on mõõdukas kuni tugev – aktsia langes kohe pärast aruande avaldamist.",
+      "sources": [
+        {
+          "title": "Mensch und Maschine Aktie: Software wächst, Autodesk belastet Neunmonatsgewinn – goldesel.de",
+          "url": "https://goldesel.de/aktien/news/mensch-und-maschine-aktie-software-wachst-autodesk-belastet-neunmonatsgewinn"
+        },
+        {
+          "title": "EQS-News: Mensch und Maschine Software SE stellt Q3-Bericht 2026 vor – boerse.de",
+          "url": "https://www.boerse.de/nachrichten/EQS-News-Mensch-und-Maschine-Software-SE-stellt-Q3-Bericht-2026-vor/38678908"
+        }
+      ],
+      "at": "2026-10-20T09:08:24Z"
     },
     {
       "fmp": "ASB.AX",
@@ -117,23 +155,23 @@
       "at": "2026-10-20T05:09:36Z"
     },
     {
-      "fmp": "MUM.DE",
-      "sym": "mum-etr",
-      "name": "Mensch und Maschine Software SE",
-      "pct": -5.89,
-      "short": "III kv aruanne: 9 kuu kasum −3,7%, prognoosi alumine pool tõenäolisem",
-      "text": "Mensch und Maschine avaldas täna 9 kuu tulemused: käive kasvas 6,9% 189,3 mln euroni, kuid puhaskasum langes 3,7% 23,4 mln euroni ja EPS oli 1,42 eurot (aasta varem 1,45). Tarkvarasegment kasvas (EBIT +18%), kuid Digitalisierungi segmendi EBIT langes 38% Autodeski äri surve tõttu. Ettevõte kinnitas 2026. aasta EPS-i vahemikku 2,11–2,26 eurot, kuid ütles, et realistlikum on vahemiku alumine pool. Seos langusega on mõõdukas kuni tugev – aktsia langes kohe pärast aruande avaldamist.",
+      "fmp": "ELIX.L",
+      "sym": "elix-lon",
+      "name": "Elixirr International Plc",
+      "pct": -5.74,
+      "short": "Langus nõrgal Londoni turul; tänast ettevõtteuudist ei leitud",
+      "text": "Elixirri aktsia langes Londonis umbes 5,7% ligikaudu 481 pennini (päeva vahemik 480–518), mis on aasta madalaima (461) lähedal. Tänast ettevõttepõhist uudist (börsiteade, tulemused, soovituse muutus) ei leitud; viimane suurem teade oli varasem 2026. aasta I poolaasta tulemuste avaldamine, kus AI-teenuste tulu kasvas ettevõtte sõnul 185%. Seos konkreetse põhjusega on nõrk – tegu võib olla väikese käibega aktsia müügisurvega laiemalt nõrgal turul.",
       "sources": [
         {
-          "title": "Mensch und Maschine Aktie: Software wächst, Autodesk belastet Neunmonatsgewinn – goldesel.de",
-          "url": "https://goldesel.de/aktien/news/mensch-und-maschine-aktie-software-wachst-autodesk-belastet-neunmonatsgewinn"
+          "title": "Elixirr H1 2026 slides: AI revenue surges 185%, valuation gap persists – Investing.com",
+          "url": "https://www.investing.com/news/company-news/elixirr-h1-2026-slides-ai-revenue-surges-185-valuation-gap-persists-93CH-4914285"
         },
         {
-          "title": "EQS-News: Mensch und Maschine Software SE stellt Q3-Bericht 2026 vor – boerse.de",
-          "url": "https://www.boerse.de/nachrichten/EQS-News-Mensch-und-Maschine-Software-SE-stellt-Q3-Bericht-2026-vor/38678908"
+          "title": "Elixirr International plc company page – London Stock Exchange",
+          "url": "https://www.londonstockexchange.com/stock/ELIX/elixirr-international-plc/company-page"
         }
       ],
-      "at": "2026-10-20T09:08:24Z"
+      "at": "2026-10-20T13:10:20Z"
     },
     {
       "fmp": "DOV.MI",
@@ -149,25 +187,6 @@
         }
       ],
       "at": "2026-10-20T09:08:24Z"
-    },
-    {
-      "fmp": "THG.L",
-      "sym": "thg-lon",
-      "name": "THG Plc",
-      "pct": -5.24,
-      "short": "Tagasilangus pärast eelmise nädala ~13% tõusu; tänast ettevõtteuudist ei leitud",
-      "text": "THG aktsia langes Londonis umbes 5% 35,08 pennini. Tänast ettevõttepõhist uudist (börsiteade, soovituse muutus vms) ei leitud. Taustaks on 15. oktoobri III kvartali ülevaade, kus THG tõstis aasta korrigeeritud EBITDA prognoosi 103 mln naelani ja aktsia tõusis päevaga ligi 13%; samuti oli Londoni turg täna nõrk. Seos konkreetse põhjusega on nõrk – tõenäoliselt on tegu kasumivõtmisega pärast järsku tõusu.",
-      "sources": [
-        {
-          "title": "THG shares jump 13% on raised profit outlook – Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/thg-shares-jump-13-on-raised-profit-outlook-93CH-4950718"
-        },
-        {
-          "title": "MARKETS LIVE: Industrials and miners drag London lower as defensives rise – Yahoo Finance UK",
-          "url": "https://uk.finance.yahoo.com/news/markets-live-london-set-extend-060500174.html"
-        }
-      ],
-      "at": "2026-10-20T11:09:28Z"
     }
   ]
 }
