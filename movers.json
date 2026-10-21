@@ -1,12 +1,12 @@
 {
   "date": "2026-10-21",
-  "updated": "2026-10-21T15:10:22Z",
+  "updated": "2026-10-21T17:07:17Z",
   "items": [
     {
       "fmp": "EL.PA",
       "sym": "el-par",
       "name": "EssilorLuxottica SA",
-      "pct": 15.58,
+      "pct": 15.48,
       "short": "III kvartali käive 7,49 mld eurot ületas ootusi tänu tugevale prillinõudlusele",
       "text": "EssilorLuxottica III kvartali käive kasvas 9,0% (püsivaluutas 7,2%) 7,49 mld euroni, analüütikud ootasid 7,36 mld. Peamine kasvuallikas oli tavapärane prilliäri; nutiprillide ja Nuance Audio müük kasvas 20% 486 mln euroni, kuid kasv aeglustus II kvartali ligi 100%-lt. Reutersi andmetel leevendas tulemus muret tehisintellektiga prillide konkurentsi pärast – aktsia oli aastaga peaaegu poole võrra langenud. Seos tulemustega on tugev, kuigi Bernstein hoiatab jätkuva konkurentsiohu eest.",
       "sources": [
@@ -48,7 +48,7 @@
       "fmp": "DYVOX.ST",
       "sym": "dyvox-se",
       "name": "Dynavox Group AB",
-      "pct": -11.87,
+      "pct": -12.16,
       "short": "Langes III kvartali järel: kasum kasvas, kuid müügikasv jäi alla 20% sihi ja USA hüvitised venivad",
       "text": "Dynavox avaldas täna III kvartali aruande: müük kasvas 13% 684 mln kroonini (valuutamõjuta 15%) ja ärikasum peaaegu kahekordistus 119 mln kroonini (marginaal 17,4%). Investing.com seostab hommikust ligi 16% langust eelkõige investorite murega USA Medicaidi ja tervisekindlustuse hüvitiste viivituste pärast; juhtkonna sõnul on tegu halduslike viivitustega, mitte nõudluse langusega. Lisaks langes brutomarginaal veidi ja Prantsusmaa oli nõrk, samas kui kasv jääb endiselt alla ettevõtte 20% sihi. Seos aruandega on tugev; päeva jooksul on langus taandunud umbes 12%-le.",
       "sources": [
@@ -71,7 +71,7 @@
       "fmp": "DOV.MI",
       "sym": "dov-mil",
       "name": "doValue S.p.A.",
-      "pct": 9.2,
+      "pct": 9.33,
       "short": "Milano börsi üks päeva suurimaid tõusjaid; tänast ettevõtteuudist ei leitud",
       "text": "Reutersi tänase Milano börsi ülevaate järgi oli doValue päeva tugevamate tõusjate seas (keskpäeval umbes +5%), kuid põhjust artikkel ei nimeta. Tänast ettevõttespetsiifilist uudist ei leitud. Eile käivitas ettevõte kuni 10 mln euro suuruse aktsiate tagasiostu ja aktsia tõusis siis ligi 5% pärast langust madalaimale tasemele alates 2025. aprillist; tänane tõus võib olla selle põrke jätk, kuid allikad seda ei kinnita, seega on seos nõrk.",
       "sources": [
@@ -102,6 +102,44 @@
       "at": "2026-10-21T05:07:24Z"
     },
     {
+      "fmp": "THG.L",
+      "sym": "thg-lon",
+      "name": "THG Plc",
+      "pct": 7.79,
+      "short": "Tänast uudist ei leitud; põrge pärast eilset 8% langust, eelmisel nädalal tõsteti prognoosi",
+      "text": "THG kohta ei leidnud tänasest päevast ettevõttespetsiifilist uudist. Eile oli aktsia FTSE 250 suuremate langejate seas (−8,4% 33,9 penni peale), samuti põhjuseta; tänane tõus võib olla sellest taastumine. 15.–16. oktoobril tõusis aktsia järsult pärast seda, kui ettevõte tõstis aasta korrigeeritud EBITDA prognoosi 103 mln naelani tänu Myproteini kasvule. Seos tänase liikumisega on nõrk – konkreetset põhjust allikad ei nimeta.",
+      "sources": [
+        {
+          "title": "FTSE 250 movers: Ocado surges; Genuit slumps – Sharecast (20.10.2026)",
+          "url": "https://www.sharecast.com/amp/news/risers-and-fallers/ftse-250-movers-ocado-surges-genuit-slumps--23891398.html"
+        },
+        {
+          "title": "THG shares jump 13% on raised profit outlook – Investing.com (15.10.2026)",
+          "url": "https://www.investing.com/news/stock-market-news/thg-shares-jump-13-on-raised-profit-outlook-93CH-4950718"
+        }
+      ],
+      "at": "2026-10-21T13:15:27Z"
+    },
+    {
+      "fmp": "ADN1.DE",
+      "sym": "adn1-etr",
+      "name": "adesso SE",
+      "pct": 6.75,
+      "short": "Tänast uudist ei leitud; tõusutrend jätkub pärast PKV-Verbandi raamlepingut",
+      "text": "adesso kohta ei leidnud tänasest päevast ettevõttespetsiifilist uudist. 17. oktoobril teatati, et ettevõte sai Saksa erakindlustajate liidult PKV-Verband mitmeaastase raamlepingu teenuse VSDM 2.0 arendamiseks ja haldamiseks (esialgu viieks aastaks). Aktsia on olnud tõusutrendis alates 7. oktoobrist ja tõusnud kuu ajaga ligi veerandi; järgmine katalüsaator on III kvartali aruanne 11. novembril. Seos tänase tõusuga on nõrk – allikad konkreetset põhjust ei nimeta.",
+      "sources": [
+        {
+          "title": "Adesso Aktie: PKV-Verband vergibt VSDM-Auftrag – Börse Express (17.10.2026)",
+          "url": "https://www.boerse-express.com/news/articles/adesso-aktie-pkv-verband-vergibt-vsdm-auftrag-953987"
+        },
+        {
+          "title": "Adesso-Aktie mit neuem 6-Monats-Hoch – boerse.de (15.10.2026)",
+          "url": "https://www.boerse.de/nachrichten/Adesso-Aktie-mit-neuem-6-Monats-Hoch/38670134"
+        }
+      ],
+      "at": "2026-10-21T13:15:27Z"
+    },
+    {
       "fmp": "VU.PA",
       "sym": "vu-par",
       "name": "VusionGroup S.A.",
@@ -125,42 +163,38 @@
       "at": "2026-10-21T15:10:22Z"
     },
     {
-      "fmp": "THG.L",
-      "sym": "thg-lon",
-      "name": "THG Plc",
-      "pct": 5.91,
-      "short": "Tänast uudist ei leitud; põrge pärast eilset 8% langust, eelmisel nädalal tõsteti prognoosi",
-      "text": "THG kohta ei leidnud tänasest päevast ettevõttespetsiifilist uudist. Eile oli aktsia FTSE 250 suuremate langejate seas (−8,4% 33,9 penni peale), samuti põhjuseta; tänane tõus võib olla sellest taastumine. 15.–16. oktoobril tõusis aktsia järsult pärast seda, kui ettevõte tõstis aasta korrigeeritud EBITDA prognoosi 103 mln naelani tänu Myproteini kasvule. Seos tänase liikumisega on nõrk – konkreetset põhjust allikad ei nimeta.",
+      "fmp": "HYQ.DE",
+      "sym": "hyq-etr",
+      "name": "Hypoport SE",
+      "pct": 6.45,
+      "short": "Tänast ettevõtteuudist ei leitud; tõus enne 9. novembri vahearuannet",
+      "text": "Hypoporti kohta ei leidnud tänasest päevast ettevõttespetsiifilist uudist; ad-hoc-news märgib keskpäevast ~2,9% tõusu, kuid ei nimeta konkreetset põhjust. Taustaks toob see 15. oktoobril avaldatud III kvartali tegevusnäitajad (Europace'i tehingumaht +1% 19,04 mld euroni, Finmas +14%, Genopace +8%), Berenbergi ostusoovituse (sihthind 185 eurot) ja käimasoleva kuni 10 mln eurose aktsiate tagasiostu. Päeva lõpuks tõusis aktsia Xetras umbes 6,5% 85 euroni; järgmine katalüsaator on vahearuanne 9. novembril. Seos tänase tõusuga on nõrk – allikad konkreetset põhjust ei nimeta.",
       "sources": [
         {
-          "title": "FTSE 250 movers: Ocado surges; Genuit slumps – Sharecast (20.10.2026)",
-          "url": "https://www.sharecast.com/amp/news/risers-and-fallers/ftse-250-movers-ocado-surges-genuit-slumps--23891398.html"
+          "title": "Hypoport-Aktie legt 2,88 Prozent zu vor der Zwischenmitteilung – ad-hoc-news (21.10.2026)",
+          "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/hypoport-aktie-legt-2-88-prozent-zu-vor-der-zwischenmitteilung/70383380"
         },
         {
-          "title": "THG shares jump 13% on raised profit outlook – Investing.com (15.10.2026)",
-          "url": "https://www.investing.com/news/stock-market-news/thg-shares-jump-13-on-raised-profit-outlook-93CH-4950718"
+          "title": "Hypoport mit leichtem Zuwachs bei Baufinanzierung im 3Q – finanznachrichten.de (15.10.2026)",
+          "url": "https://www.finanznachrichten.de/nachrichten-2026-10/69843295-hypoport-mit-leichtem-zuwachs-bei-baufinanzierung-im-3q-015.htm"
         }
       ],
-      "at": "2026-10-21T13:15:27Z"
+      "at": "2026-10-21T17:07:17Z"
     },
     {
-      "fmp": "ADN1.DE",
-      "sym": "adn1-etr",
-      "name": "adesso SE",
-      "pct": 5.75,
-      "short": "Tänast uudist ei leitud; tõusutrend jätkub pärast PKV-Verbandi raamlepingut",
-      "text": "adesso kohta ei leidnud tänasest päevast ettevõttespetsiifilist uudist. 17. oktoobril teatati, et ettevõte sai Saksa erakindlustajate liidult PKV-Verband mitmeaastase raamlepingu teenuse VSDM 2.0 arendamiseks ja haldamiseks (esialgu viieks aastaks). Aktsia on olnud tõusutrendis alates 7. oktoobrist ja tõusnud kuu ajaga ligi veerandi; järgmine katalüsaator on III kvartali aruanne 11. novembril. Seos tänase tõusuga on nõrk – allikad konkreetset põhjust ei nimeta.",
+      "fmp": "SRC.L",
+      "sym": "src-lon",
+      "name": "SigmaRoc Plc",
+      "pct": -5.81,
+      "short": "Langes III kvartali ülevaate järel: kasv tagasihoidlik, IV kvartalilt muutust ei oodata",
+      "text": "SigmaRoc avaldas täna III kvartali ülevaate: üheksa kuu käive kasvas 2,5% 795 mln naelani ja korrigeeritud EBITDA 7,5% 207,3 mln naelani (marginaal 26,1%). Aasta prognoos jäi muutmata, kuid juht ütles, et IV kvartalis suurt muutust ei oodata ning mõned piirkonnad ja elamuehitus on endiselt nõrgad; samal ajal teatati 110 mln eurose Leedu ettevõtte AB Dolomitas ostust. Aktsia langes pärast teadet 119 pennini. Langus on ajaliselt seotud ülevaatega, kuid ükski allikas ei nimeta konkreetset põhjust, seega on seos mõõdukas.",
       "sources": [
         {
-          "title": "Adesso Aktie: PKV-Verband vergibt VSDM-Auftrag – Börse Express (17.10.2026)",
-          "url": "https://www.boerse-express.com/news/articles/adesso-aktie-pkv-verband-vergibt-vsdm-auftrag-953987"
-        },
-        {
-          "title": "Adesso-Aktie mit neuem 6-Monats-Hoch – boerse.de (15.10.2026)",
-          "url": "https://www.boerse.de/nachrichten/Adesso-Aktie-mit-neuem-6-Monats-Hoch/38670134"
+          "title": "SigmaRoc: third quarter boost and earnings accretive acquisition – SQC Research (21.10.2026)",
+          "url": "https://www.sqcresearch.com/post/sigmaroc-third-quarter-boost-and-earnings-accretive-acquisition-shares-undervalued-at-119p"
         }
       ],
-      "at": "2026-10-21T13:15:27Z"
+      "at": "2026-10-21T09:09:05Z"
     },
     {
       "fmp": "YMM",
@@ -176,21 +210,6 @@
         }
       ],
       "at": "2026-10-21T15:10:22Z"
-    },
-    {
-      "fmp": "SRC.L",
-      "sym": "src-lon",
-      "name": "SigmaRoc Plc",
-      "pct": -5.16,
-      "short": "Langes III kvartali ülevaate järel: kasv tagasihoidlik, IV kvartalilt muutust ei oodata",
-      "text": "SigmaRoc avaldas täna III kvartali ülevaate: üheksa kuu käive kasvas 2,5% 795 mln naelani ja korrigeeritud EBITDA 7,5% 207,3 mln naelani (marginaal 26,1%). Aasta prognoos jäi muutmata, kuid juht ütles, et IV kvartalis suurt muutust ei oodata ning mõned piirkonnad ja elamuehitus on endiselt nõrgad; samal ajal teatati 110 mln eurose Leedu ettevõtte AB Dolomitas ostust. Aktsia langes pärast teadet 119 pennini. Langus on ajaliselt seotud ülevaatega, kuid ükski allikas ei nimeta konkreetset põhjust, seega on seos mõõdukas.",
-      "sources": [
-        {
-          "title": "SigmaRoc: third quarter boost and earnings accretive acquisition – SQC Research (21.10.2026)",
-          "url": "https://www.sqcresearch.com/post/sigmaroc-third-quarter-boost-and-earnings-accretive-acquisition-shares-undervalued-at-119p"
-        }
-      ],
-      "at": "2026-10-21T09:09:05Z"
     },
     {
       "fmp": "XRO.AX",
