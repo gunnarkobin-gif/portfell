@@ -1,12 +1,12 @@
 {
   "date": "2026-10-21",
-  "updated": "2026-10-21T13:15:27Z",
+  "updated": "2026-10-21T15:10:22Z",
   "items": [
     {
       "fmp": "EL.PA",
       "sym": "el-par",
       "name": "EssilorLuxottica SA",
-      "pct": 15.02,
+      "pct": 15.58,
       "short": "III kvartali käive 7,49 mld eurot ületas ootusi tänu tugevale prillinõudlusele",
       "text": "EssilorLuxottica III kvartali käive kasvas 9,0% (püsivaluutas 7,2%) 7,49 mld euroni, analüütikud ootasid 7,36 mld. Peamine kasvuallikas oli tavapärane prilliäri; nutiprillide ja Nuance Audio müük kasvas 20% 486 mln euroni, kuid kasv aeglustus II kvartali ligi 100%-lt. Reutersi andmetel leevendas tulemus muret tehisintellektiga prillide konkurentsi pärast – aktsia oli aastaga peaaegu poole võrra langenud. Seos tulemustega on tugev, kuigi Bernstein hoiatab jätkuva konkurentsiohu eest.",
       "sources": [
@@ -22,33 +22,10 @@
       "at": "2026-10-21T09:09:05Z"
     },
     {
-      "fmp": "DYVOX.ST",
-      "sym": "dyvox-se",
-      "name": "Dynavox Group AB",
-      "pct": -15.27,
-      "short": "Langes pärast III kvartali aruannet: kasum kasvas, kuid müügikasv jäi 20% eesmärgist alla",
-      "text": "Dynavox avaldas täna III kvartali aruande: müük kasvas 13% 685 mln kroonini (valuutamõjuta 15%) ja ärikasum tõusis 64 mln-lt 119 mln kroonini (marginaal 17,4%). Ettevõte nimetas peamise vastutuulena USA Medicaidi hüvitiste keerukamat haldust ja pikemaid tähtaegu ning hoiatas ka edaspidiste raskemate perioodide eest. Kasv jääb jätkuvalt alla ettevõtte 20% sihi ja aktsia on tugevalt lühikeseks müüdud (septembris 9,7%). Seos aruandega on tõenäoline, kuid ühtegi allikat, mis languse põhjust või analüütikute ootusi otse kirjeldaks, ei leidnud.",
-      "sources": [
-        {
-          "title": "Dynavox Group Interim Report third quarter 2026 – Inderes",
-          "url": "https://www.inderes.fi/en/releases/dynavox-group-interim-report-third-quarter-2026"
-        },
-        {
-          "title": "Dynavox ökade rörelseresultatet rejält – Börsvärlden",
-          "url": "https://borsvarlden.com/artiklar/dynavox-okade-rorelseresultatet-rejalt"
-        },
-        {
-          "title": "Hårdblankade Dynavox Group – Placera (03.09.2026)",
-          "url": "https://www.placera.se/nyheter/hardblankade-dynavox-group-da-saljer-vi-tio-ganger-sa-manga-produkter-2026-09-03"
-        }
-      ],
-      "at": "2026-10-21T07:13:11Z"
-    },
-    {
       "fmp": "DSV.CO",
       "sym": "dsv-dk",
       "name": "DSV A/S",
-      "pct": 12.83,
+      "pct": 15.12,
       "short": "III kvartali käive ületas ootusi, uus tagasiost ja juhi aktsiaost – parim päev aastast 2008",
       "text": "DSV III kvartali käive kasvas 80,7 mld Taani kroonini (ootus 74,7 mld) ja korrigeeritud puhaskasum 4,07 mld kroonini (ootus 3,85 mld), kuigi korrigeeritud ärikasum 6,61 mld jäi ootusest napilt alla. Aasta ärikasumi prognoos kitsendati 24–25 mld kroonile, käivitati esimene tagasiostuprogramm pärast Schenkeri ostu (kuni 1,5 mld krooni) ning tegevjuht Jens H. Lund ostis aktsiaid 25 mln krooni eest. Kristeligt Dagbladi andmetel on aktsia teel parimale börsipäevale alates 2008. aastast pärast pikka langust veebruari ~1900 kroonilt. Seos tulemuste ja tagasiostuga on tugev; Road-divisjoni kasum siiski langes.",
       "sources": [
@@ -68,19 +45,46 @@
       "at": "2026-10-21T11:12:11Z"
     },
     {
-      "fmp": "VU.PA",
-      "sym": "vu-par",
-      "name": "VusionGroup S.A.",
-      "pct": 11.66,
-      "short": "III kvartali müük kasvas 24%, tellimused rekordilised ja aasta prognoos kinnitati",
-      "text": "VusionGroup avaldas III kvartali müügi: IFRS-käive kasvas 24,4% 432,6 mln euroni ja korrigeeritud käive 25,2% 445 mln euroni (püsivaluutas ja tollimaksudeta +49%). Tellimused tõusid 10% 462 mln euroni, mis on ettevõtte ajaloo suurim III kvartal, ja aastane püsitulu (ARR) kasvas 82% 154 mln euroni; aasta prognoos jäi kehtima. Investing.com seostab tõusu otseselt tugeva kvartali ja kinnitatud prognoosiga, seega on seos tugev. Hommikune ligi 16% tõus on päeva jooksul taandunud umbes 11%-le; selle taandumise kohta eraldi uudist ei leidnud.",
+      "fmp": "DYVOX.ST",
+      "sym": "dyvox-se",
+      "name": "Dynavox Group AB",
+      "pct": -11.87,
+      "short": "Langes III kvartali järel: kasum kasvas, kuid müügikasv jäi alla 20% sihi ja USA hüvitised venivad",
+      "text": "Dynavox avaldas täna III kvartali aruande: müük kasvas 13% 684 mln kroonini (valuutamõjuta 15%) ja ärikasum peaaegu kahekordistus 119 mln kroonini (marginaal 17,4%). Investing.com seostab hommikust ligi 16% langust eelkõige investorite murega USA Medicaidi ja tervisekindlustuse hüvitiste viivituste pärast; juhtkonna sõnul on tegu halduslike viivitustega, mitte nõudluse langusega. Lisaks langes brutomarginaal veidi ja Prantsusmaa oli nõrk, samas kui kasv jääb endiselt alla ettevõtte 20% sihi. Seos aruandega on tugev; päeva jooksul on langus taandunud umbes 12%-le.",
       "sources": [
         {
-          "title": "VusionGroup shares jump 14% to 15-week high as Q3 sales surge – Investing.com",
-          "url": "https://www.investing.com/news/earnings/vusiongroup-shares-jump-14-to-15week-high-as-q3-sales-surge-4961812"
+          "title": "Dynavox Group: Aktie bricht nach Q3-Zahlen trotz operativem Gewinnsprung um 16 % ein – Investing.com",
+          "url": "https://de.investing.com/news/transcripts/dynavox-group-aktie-bricht-nach-q3zahlen-trotz-operativem-gewinnsprung-um-16--ein-93CH-3714051"
+        },
+        {
+          "title": "Dynavox Group Interim Report third quarter 2026 – Inderes",
+          "url": "https://www.inderes.fi/en/releases/dynavox-group-interim-report-third-quarter-2026"
+        },
+        {
+          "title": "Dynavox redovisar 119 miljoner kronor i resultat – Privata Affärer",
+          "url": "https://www.privataaffarer.se/placeringar/aktier/kraftigt-resultatlyft-for-dynavox/"
         }
       ],
-      "at": "2026-10-21T11:12:11Z"
+      "at": "2026-10-21T15:10:22Z"
+    },
+    {
+      "fmp": "DOV.MI",
+      "sym": "dov-mil",
+      "name": "doValue S.p.A.",
+      "pct": 9.2,
+      "short": "Milano börsi üks päeva suurimaid tõusjaid; tänast ettevõtteuudist ei leitud",
+      "text": "Reutersi tänase Milano börsi ülevaate järgi oli doValue päeva tugevamate tõusjate seas (keskpäeval umbes +5%), kuid põhjust artikkel ei nimeta. Tänast ettevõttespetsiifilist uudist ei leitud. Eile käivitas ettevõte kuni 10 mln euro suuruse aktsiate tagasiostu ja aktsia tõusis siis ligi 5% pärast langust madalaimale tasemele alates 2025. aprillist; tänane tõus võib olla selle põrke jätk, kuid allikad seda ei kinnita, seega on seos nõrk.",
+      "sources": [
+        {
+          "title": "Borsa Milano positiva al traino banche e oil, bene Dovalue – Reuters/Investing.com (21.10.2026)",
+          "url": "https://it.investing.com/news/stock-market-news/borsa-milano-positiva-al-traino-banche-e-oil-bene-dovalue-in-netto-calo-ferragamo-3598476"
+        },
+        {
+          "title": "Borsa Milano, DoValue in rally dopo avvio piano buyback – Reuters/Investing.com (20.10.2026)",
+          "url": "https://it.investing.com/news/stock-market-news/borsa-milano-dovalue-in-rally-dopo-avvio-piano-buyback-3595626"
+        }
+      ],
+      "at": "2026-10-21T13:15:27Z"
     },
     {
       "fmp": "SPZ.AX",
@@ -98,29 +102,86 @@
       "at": "2026-10-21T05:07:24Z"
     },
     {
-      "fmp": "DOV.MI",
-      "sym": "dov-mil",
-      "name": "doValue S.p.A.",
-      "pct": 8.93,
-      "short": "Milano börsi üks päeva suurimaid tõusjaid; tänast ettevõtteuudist ei leitud",
-      "text": "Reutersi tänase Milano börsi ülevaate järgi oli doValue päeva tugevamate tõusjate seas (keskpäeval umbes +5%), kuid põhjust artikkel ei nimeta. Tänast ettevõttespetsiifilist uudist ei leitud. Eile käivitas ettevõte kuni 10 mln euro suuruse aktsiate tagasiostu ja aktsia tõusis siis ligi 5% pärast langust madalaimale tasemele alates 2025. aprillist; tänane tõus võib olla selle põrke jätk, kuid allikad seda ei kinnita, seega on seos nõrk.",
+      "fmp": "VU.PA",
+      "sym": "vu-par",
+      "name": "VusionGroup S.A.",
+      "pct": 6.53,
+      "short": "Tugev III kvartal ja kinnitatud prognoos; hommikune ~16% tõus on taandunud ~6,5%-le",
+      "text": "VusionGroupi III kvartali IFRS-käive kasvas 24,4% 432,6 mln euroni, tellimused tõusid 10% 462 mln euroni (ajaloo suurim III kvartal) ning aasta prognoos kinnitati. Boursorama andmetel tõusis aktsia hommikul SBF 120 indeksi tipus ligi 15,6% just tugeva aruande tõttu. Päeva jooksul on tõus taandunud umbes 6,5%-le; selle taandumise põhjuse kohta uudist ei leidnud. Seos aruandega on tugev, taandumise põhjus jääb teadmata.",
       "sources": [
         {
-          "title": "Borsa Milano positiva al traino banche e oil, bene Dovalue – Reuters/Investing.com (21.10.2026)",
-          "url": "https://it.investing.com/news/stock-market-news/borsa-milano-positiva-al-traino-banche-e-oil-bene-dovalue-in-netto-calo-ferragamo-3598476"
+          "title": "Vusiongroup célébré par le marché, Carrefour s'effondre – Boursorama (21.10.2026)",
+          "url": "https://www.boursorama.com/bourse/actualites/vusiongroup-celebre-par-le-marche-carrefour-s-effondre-dans-un-contexte-francais-complique-50229af23c65e468e373e61aec2794cd"
         },
         {
-          "title": "Borsa Milano, DoValue in rally dopo avvio piano buyback – Reuters/Investing.com (20.10.2026)",
-          "url": "https://it.investing.com/news/stock-market-news/borsa-milano-dovalue-in-rally-dopo-avvio-piano-buyback-3595626"
+          "title": "VusionGroup shares jump 14% to 15-week high as Q3 sales surge – Investing.com",
+          "url": "https://www.investing.com/news/earnings/vusiongroup-shares-jump-14-to-15week-high-as-q3-sales-surge-4961812"
+        },
+        {
+          "title": "Vusion : croissance soutenue au troisième trimestre et objectifs annuels confirmés – Zonebourse",
+          "url": "https://www.zonebourse.com/actualite-bourse/vusion-croissance-soutenue-au-troisieme-trimestre-et-objectifs-annuels-confirmes-ce785cd8da8ff526"
+        }
+      ],
+      "at": "2026-10-21T15:10:22Z"
+    },
+    {
+      "fmp": "THG.L",
+      "sym": "thg-lon",
+      "name": "THG Plc",
+      "pct": 5.91,
+      "short": "Tänast uudist ei leitud; põrge pärast eilset 8% langust, eelmisel nädalal tõsteti prognoosi",
+      "text": "THG kohta ei leidnud tänasest päevast ettevõttespetsiifilist uudist. Eile oli aktsia FTSE 250 suuremate langejate seas (−8,4% 33,9 penni peale), samuti põhjuseta; tänane tõus võib olla sellest taastumine. 15.–16. oktoobril tõusis aktsia järsult pärast seda, kui ettevõte tõstis aasta korrigeeritud EBITDA prognoosi 103 mln naelani tänu Myproteini kasvule. Seos tänase liikumisega on nõrk – konkreetset põhjust allikad ei nimeta.",
+      "sources": [
+        {
+          "title": "FTSE 250 movers: Ocado surges; Genuit slumps – Sharecast (20.10.2026)",
+          "url": "https://www.sharecast.com/amp/news/risers-and-fallers/ftse-250-movers-ocado-surges-genuit-slumps--23891398.html"
+        },
+        {
+          "title": "THG shares jump 13% on raised profit outlook – Investing.com (15.10.2026)",
+          "url": "https://www.investing.com/news/stock-market-news/thg-shares-jump-13-on-raised-profit-outlook-93CH-4950718"
         }
       ],
       "at": "2026-10-21T13:15:27Z"
     },
     {
+      "fmp": "ADN1.DE",
+      "sym": "adn1-etr",
+      "name": "adesso SE",
+      "pct": 5.75,
+      "short": "Tänast uudist ei leitud; tõusutrend jätkub pärast PKV-Verbandi raamlepingut",
+      "text": "adesso kohta ei leidnud tänasest päevast ettevõttespetsiifilist uudist. 17. oktoobril teatati, et ettevõte sai Saksa erakindlustajate liidult PKV-Verband mitmeaastase raamlepingu teenuse VSDM 2.0 arendamiseks ja haldamiseks (esialgu viieks aastaks). Aktsia on olnud tõusutrendis alates 7. oktoobrist ja tõusnud kuu ajaga ligi veerandi; järgmine katalüsaator on III kvartali aruanne 11. novembril. Seos tänase tõusuga on nõrk – allikad konkreetset põhjust ei nimeta.",
+      "sources": [
+        {
+          "title": "Adesso Aktie: PKV-Verband vergibt VSDM-Auftrag – Börse Express (17.10.2026)",
+          "url": "https://www.boerse-express.com/news/articles/adesso-aktie-pkv-verband-vergibt-vsdm-auftrag-953987"
+        },
+        {
+          "title": "Adesso-Aktie mit neuem 6-Monats-Hoch – boerse.de (15.10.2026)",
+          "url": "https://www.boerse.de/nachrichten/Adesso-Aktie-mit-neuem-6-Monats-Hoch/38670134"
+        }
+      ],
+      "at": "2026-10-21T13:15:27Z"
+    },
+    {
+      "fmp": "YMM",
+      "sym": "ymm",
+      "name": "Full Truck Alliance Co. Ltd. Sponsored ADR",
+      "pct": -5.24,
+      "short": "Tänast ettevõttespetsiifilist uudist ei leitud",
+      "text": "Full Truck Alliance'i ADR langes New Yorgis umbes 5% 8,38 dollarini, kuid tänast ettevõttespetsiifilist uudist (tulemusi, analüütikute muudatusi ega tehinguid) ei leidnud ei uudisotsingust ega FMP uudisvoost. Ka allikat, mis seoks langust Hiina aktsiate või sektori üldise liikumisega, ei leidnud. Põhjus jääb seega teadmata.",
+      "sources": [
+        {
+          "title": "Full Truck Alliance (YMM) Stock Price & Overview – StockAnalysis",
+          "url": "https://stockanalysis.com/stocks/ymm/"
+        }
+      ],
+      "at": "2026-10-21T15:10:22Z"
+    },
+    {
       "fmp": "SRC.L",
       "sym": "src-lon",
       "name": "SigmaRoc Plc",
-      "pct": -5.0,
+      "pct": -5.16,
       "short": "Langes III kvartali ülevaate järel: kasv tagasihoidlik, IV kvartalilt muutust ei oodata",
       "text": "SigmaRoc avaldas täna III kvartali ülevaate: üheksa kuu käive kasvas 2,5% 795 mln naelani ja korrigeeritud EBITDA 7,5% 207,3 mln naelani (marginaal 26,1%). Aasta prognoos jäi muutmata, kuid juht ütles, et IV kvartalis suurt muutust ei oodata ning mõned piirkonnad ja elamuehitus on endiselt nõrgad; samal ajal teatati 110 mln eurose Leedu ettevõtte AB Dolomitas ostust. Aktsia langes pärast teadet 119 pennini. Langus on ajaliselt seotud ülevaatega, kuid ükski allikas ei nimeta konkreetset põhjust, seega on seos mõõdukas.",
       "sources": [
@@ -149,44 +210,6 @@
         }
       ],
       "at": "2026-10-21T07:13:11Z"
-    },
-    {
-      "fmp": "THG.L",
-      "sym": "thg-lon",
-      "name": "THG Plc",
-      "pct": 7.68,
-      "short": "Tänast uudist ei leitud; põrge pärast eilset 8% langust, eelmisel nädalal tõsteti prognoosi",
-      "text": "THG kohta ei leidnud tänasest päevast ettevõttespetsiifilist uudist. Eile oli aktsia FTSE 250 suuremate langejate seas (−8,4% 33,9 penni peale), samuti põhjuseta; tänane tõus võib olla sellest taastumine. 15.–16. oktoobril tõusis aktsia järsult pärast seda, kui ettevõte tõstis aasta korrigeeritud EBITDA prognoosi 103 mln naelani tänu Myproteini kasvule. Seos tänase liikumisega on nõrk – konkreetset põhjust allikad ei nimeta.",
-      "sources": [
-        {
-          "title": "FTSE 250 movers: Ocado surges; Genuit slumps – Sharecast (20.10.2026)",
-          "url": "https://www.sharecast.com/amp/news/risers-and-fallers/ftse-250-movers-ocado-surges-genuit-slumps--23891398.html"
-        },
-        {
-          "title": "THG shares jump 13% on raised profit outlook – Investing.com (15.10.2026)",
-          "url": "https://www.investing.com/news/stock-market-news/thg-shares-jump-13-on-raised-profit-outlook-93CH-4950718"
-        }
-      ],
-      "at": "2026-10-21T13:15:27Z"
-    },
-    {
-      "fmp": "ADN1.DE",
-      "sym": "adn1-etr",
-      "name": "adesso SE",
-      "pct": 5.03,
-      "short": "Tänast uudist ei leitud; tõusutrend jätkub pärast PKV-Verbandi raamlepingut",
-      "text": "adesso kohta ei leidnud tänasest päevast ettevõttespetsiifilist uudist. 17. oktoobril teatati, et ettevõte sai Saksa erakindlustajate liidult PKV-Verband mitmeaastase raamlepingu teenuse VSDM 2.0 arendamiseks ja haldamiseks (esialgu viieks aastaks). Aktsia on olnud tõusutrendis alates 7. oktoobrist ja tõusnud kuu ajaga ligi veerandi; järgmine katalüsaator on III kvartali aruanne 11. novembril. Seos tänase tõusuga on nõrk – allikad konkreetset põhjust ei nimeta.",
-      "sources": [
-        {
-          "title": "Adesso Aktie: PKV-Verband vergibt VSDM-Auftrag – Börse Express (17.10.2026)",
-          "url": "https://www.boerse-express.com/news/articles/adesso-aktie-pkv-verband-vergibt-vsdm-auftrag-953987"
-        },
-        {
-          "title": "Adesso-Aktie mit neuem 6-Monats-Hoch – boerse.de (15.10.2026)",
-          "url": "https://www.boerse.de/nachrichten/Adesso-Aktie-mit-neuem-6-Monats-Hoch/38670134"
-        }
-      ],
-      "at": "2026-10-21T13:15:27Z"
     }
   ]
 }
