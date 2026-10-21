@@ -1,12 +1,35 @@
 {
   "date": "2026-10-21",
-  "updated": "2026-10-21T05:07:24Z",
+  "updated": "2026-10-21T07:13:11Z",
   "items": [
+    {
+      "fmp": "DYVOX.ST",
+      "sym": "dyvox-se",
+      "name": "Dynavox Group AB",
+      "pct": -13.49,
+      "short": "Langes pärast III kvartali aruannet: kasum kasvas, kuid müügikasv jäi 20% eesmärgist alla",
+      "text": "Dynavox avaldas täna III kvartali aruande: müük kasvas 13% 685 mln kroonini (valuutamõjuta 15%) ja ärikasum tõusis 64 mln-lt 119 mln kroonini (marginaal 17,4%). Ettevõte nimetas peamise vastutuulena USA Medicaidi hüvitiste keerukamat haldust ja pikemaid tähtaegu ning hoiatas ka edaspidiste raskemate perioodide eest. Kasv jääb jätkuvalt alla ettevõtte 20% sihi ja aktsia on tugevalt lühikeseks müüdud (septembris 9,7%). Seos aruandega on tõenäoline, kuid ühtegi allikat, mis languse põhjust või analüütikute ootusi otse kirjeldaks, ei leidnud.",
+      "sources": [
+        {
+          "title": "Dynavox Group Interim Report third quarter 2026 – Inderes",
+          "url": "https://www.inderes.fi/en/releases/dynavox-group-interim-report-third-quarter-2026"
+        },
+        {
+          "title": "Dynavox ökade rörelseresultatet rejält – Börsvärlden",
+          "url": "https://borsvarlden.com/artiklar/dynavox-okade-rorelseresultatet-rejalt"
+        },
+        {
+          "title": "Hårdblankade Dynavox Group – Placera (03.09.2026)",
+          "url": "https://www.placera.se/nyheter/hardblankade-dynavox-group-da-saljer-vi-tio-ganger-sa-manga-produkter-2026-09-03"
+        }
+      ],
+      "at": "2026-10-21T07:13:11Z"
+    },
     {
       "fmp": "SPZ.AX",
       "sym": "spz-aus",
       "name": "Smart Parking Limited",
-      "pct": 6.64,
+      "pct": 7.81,
       "short": "Teatas, et Suurbritannia uus erasektori parkimiskoodeks ei mõjuta äri olulisel määral",
       "text": "Smart Parkingu aktsia tõusis Sydney börsil umbes 6,6% 0,68 Austraalia dollarini, kuigi ASX 200 oli kergelt miinuses (−0,07%). Ettevõte teatas täna, et ei oota olulist mõju Suurbritannia valitsuse uuest erasektori parkimise tegevusjuhendist, mis peaks jõustuma 21. detsembril 2026: maksimaalne parkimistrahv jääb 100 naelale (14 päeva jooksul tasudes 60 naela) ja 70-naelane võlasissenõudmise tasu säilib, lisanduvad vaid ooteajad ja kaebeõiguse täiendused, mida ettevõte suures osas juba järgib. Seos tõusuga on mõõdukas kuni tugev – teade vähendas regulatiivset ebakindlust, kuigi allikas ei seosta seda otsesõnu hinnaliikumisega.",
       "sources": [
@@ -16,6 +39,44 @@
         }
       ],
       "at": "2026-10-21T05:07:24Z"
+    },
+    {
+      "fmp": "DSV.CO",
+      "sym": "dsv-dk",
+      "name": "DSV A/S",
+      "pct": 7.58,
+      "short": "III kvartali tulemused, kitsendatud aastaprognoos ja uus 1,5 mld kroonine tagasiost",
+      "text": "DSV avaldas täna III kvartali tulemused: käive kasvas 80,7 mld Taani kroonini ja erakorraliste kirjeteta ärikasum 6,6 mld kroonini (+19,5%), vaba rahavoog peaaegu kahekordistus 6,4 mld-ni. Aasta ärikasumi prognoos kitsendati 24–25 mld kroonile ja käivitati esimene aktsiate tagasiostuprogramm (1,5 mld krooni) pärast Schenkeri ostu. Inderese andmetel jäi kinnisvaramüügita ärikasum (6,31 mld) ootustest napilt alla ja osa Schenkeri sünergiaid lükkub 2027. aastasse. Tõus on ilmselt seotud aruande ja tagasiostuga, kuid otsest hinnaliikumise selgitust allikates ei ole; aktsia oli enne seda 3 kuuga 28% langenud.",
+      "sources": [
+        {
+          "title": "DSV, 1175 – Interim Financial Report Q3 2026 (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/21/3385111/0/en/dsv-1175-interim-financial-report-q3-2026.html"
+        },
+        {
+          "title": "DSV initiates share buyback, but part of synergies pushed to 2027 – Inderes",
+          "url": "https://www.inderes.fi/en/analyst-comments/hca-red-flag-dsv-initiates-share-buyback-but-part-of-synergies-pushed-to-2027-ai"
+        }
+      ],
+      "at": "2026-10-21T07:13:11Z"
+    },
+    {
+      "fmp": "XRO.AX",
+      "sym": "xro-aus",
+      "name": "Xero Limited",
+      "pct": 5.02,
+      "short": "Ettevõttespetsiifilist uudist ei leitud; tõusis koos ASX-i tehnoloogiasektoriga",
+      "text": "Xero kohta tänast ettevõttespetsiifilist uudist ei leitud. ASX-i päevaülevaate järgi tõusid tehnoloogiaaktsiad ja Xero oli nende eesotsas (ülevaate ajal +3,8%, WiseTech +2,4%); eelmisel päeval tõusis USA-s ka konkurent Intuit 2,75%. Järgmine katalüsaator on poolaasta tulemused 12. novembril. Seos sektori tõusuga on usutav, kuid konkreetset põhjust allikad ei nimeta.",
+      "sources": [
+        {
+          "title": "ASX 200 Inches Higher at Finish – InstaForex (21.10.2026)",
+          "url": "https://www.instaforex.com/forex-news/3239280"
+        },
+        {
+          "title": "RBC keeps its AUD 96.00 target for Xero stock – ad-hoc-news (20.10.2026)",
+          "url": "https://ad-hoc-news.de/boerse/news/nebenwerte/rbc-keeps-its-aud-96-00-target-for-xero-stock/70378239"
+        }
+      ],
+      "at": "2026-10-21T07:13:11Z"
     }
   ]
 }
