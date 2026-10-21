@@ -1,12 +1,27 @@
 {
   "date": "2026-10-21",
-  "updated": "2026-10-21T07:13:11Z",
+  "updated": "2026-10-21T09:09:05Z",
   "items": [
+    {
+      "fmp": "VU.PA",
+      "sym": "vu-par",
+      "name": "VusionGroup S.A.",
+      "pct": 15.72,
+      "short": "III kvartali müük kasvas 24%, tellimused rekordilised ja aasta prognoos kinnitati",
+      "text": "VusionGroup avaldas III kvartali müügi: IFRS-käive kasvas 24,4% 432,6 mln euroni ja korrigeeritud käive 25,2% 445 mln euroni (püsivaluutas ja tollimaksudeta +49%). Tellimused tõusid 10% 462 mln euroni, mis on ettevõtte ajaloo suurim III kvartal; püsitulu kasvas üheksa kuuga 77% ja aastane püsitulu (ARR) 82% 154 mln euroni. Aasta prognoos (korrigeeritud käibe kasv 15–20%, EBITDA marginaal +100 baaspunkti) jäi kehtima ja 18. novembril toimub kapitaliturgude päev. Investing.com seostab tõusu otseselt tugeva kvartali ja kinnitatud prognoosiga, seega on seos tugev.",
+      "sources": [
+        {
+          "title": "VusionGroup shares jump 14% to 15-week high as Q3 sales surge – Investing.com",
+          "url": "https://www.investing.com/news/earnings/vusiongroup-shares-jump-14-to-15week-high-as-q3-sales-surge-4961812"
+        }
+      ],
+      "at": "2026-10-21T09:09:05Z"
+    },
     {
       "fmp": "DYVOX.ST",
       "sym": "dyvox-se",
       "name": "Dynavox Group AB",
-      "pct": -13.49,
+      "pct": -14.12,
       "short": "Langes pärast III kvartali aruannet: kasum kasvas, kuid müügikasv jäi 20% eesmärgist alla",
       "text": "Dynavox avaldas täna III kvartali aruande: müük kasvas 13% 685 mln kroonini (valuutamõjuta 15%) ja ärikasum tõusis 64 mln-lt 119 mln kroonini (marginaal 17,4%). Ettevõte nimetas peamise vastutuulena USA Medicaidi hüvitiste keerukamat haldust ja pikemaid tähtaegu ning hoiatas ka edaspidiste raskemate perioodide eest. Kasv jääb jätkuvalt alla ettevõtte 20% sihi ja aktsia on tugevalt lühikeseks müüdud (septembris 9,7%). Seos aruandega on tõenäoline, kuid ühtegi allikat, mis languse põhjust või analüütikute ootusi otse kirjeldaks, ei leidnud.",
       "sources": [
@@ -24,6 +39,25 @@
         }
       ],
       "at": "2026-10-21T07:13:11Z"
+    },
+    {
+      "fmp": "EL.PA",
+      "sym": "el-par",
+      "name": "EssilorLuxottica SA",
+      "pct": 14.09,
+      "short": "III kvartali käive 7,49 mld eurot ületas ootusi tänu tugevale prillinõudlusele",
+      "text": "EssilorLuxottica III kvartali käive kasvas 9,0% (püsivaluutas 7,2%) 7,49 mld euroni, analüütikud ootasid 7,36 mld. Peamine kasvuallikas oli tavapärane prilliäri; nutiprillide ja Nuance Audio müük kasvas 20% 486 mln euroni, kuid kasv aeglustus II kvartali ligi 100%-lt. Reutersi andmetel leevendas tulemus muret tehisintellektiga prillide konkurentsi pärast – aktsia oli aastaga peaaegu poole võrra langenud. Seos tulemustega on tugev, kuigi Bernstein hoiatab jätkuva konkurentsiohu eest.",
+      "sources": [
+        {
+          "title": "Ray-Ban maker's shares jump as strong eyewear sales temper AI glasses worries – Reuters/933thedrive",
+          "url": "https://www.933thedrive.com/2026/10/21/ray-ban-makers-shares-jump-as-strong-eyewear-sales-temper-ai-glasses-worries/"
+        },
+        {
+          "title": "EssilorLuxottica's shares rise after quarterly revenue beat – Global Banking & Finance",
+          "url": "https://www.globalbankingandfinance.com/essilorluxotticas-shares-rise-quarterly-revenue-beat/"
+        }
+      ],
+      "at": "2026-10-21T09:09:05Z"
     },
     {
       "fmp": "SPZ.AX",
@@ -44,7 +78,7 @@
       "fmp": "DSV.CO",
       "sym": "dsv-dk",
       "name": "DSV A/S",
-      "pct": 7.58,
+      "pct": 7.38,
       "short": "III kvartali tulemused, kitsendatud aastaprognoos ja uus 1,5 mld kroonine tagasiost",
       "text": "DSV avaldas täna III kvartali tulemused: käive kasvas 80,7 mld Taani kroonini ja erakorraliste kirjeteta ärikasum 6,6 mld kroonini (+19,5%), vaba rahavoog peaaegu kahekordistus 6,4 mld-ni. Aasta ärikasumi prognoos kitsendati 24–25 mld kroonile ja käivitati esimene aktsiate tagasiostuprogramm (1,5 mld krooni) pärast Schenkeri ostu. Inderese andmetel jäi kinnisvaramüügita ärikasum (6,31 mld) ootustest napilt alla ja osa Schenkeri sünergiaid lükkub 2027. aastasse. Tõus on ilmselt seotud aruande ja tagasiostuga, kuid otsest hinnaliikumise selgitust allikates ei ole; aktsia oli enne seda 3 kuuga 28% langenud.",
       "sources": [
@@ -58,6 +92,21 @@
         }
       ],
       "at": "2026-10-21T07:13:11Z"
+    },
+    {
+      "fmp": "SRC.L",
+      "sym": "src-lon",
+      "name": "SigmaRoc Plc",
+      "pct": -5.81,
+      "short": "Langes III kvartali ülevaate järel: kasv tagasihoidlik, IV kvartalilt muutust ei oodata",
+      "text": "SigmaRoc avaldas täna III kvartali ülevaate: üheksa kuu käive kasvas 2,5% 795 mln naelani ja korrigeeritud EBITDA 7,5% 207,3 mln naelani (marginaal 26,1%). Aasta prognoos jäi muutmata, kuid juht ütles, et IV kvartalis suurt muutust ei oodata ning mõned piirkonnad ja elamuehitus on endiselt nõrgad; samal ajal teatati 110 mln eurose Leedu ettevõtte AB Dolomitas ostust. Aktsia langes pärast teadet 119 pennini. Langus on ajaliselt seotud ülevaatega, kuid ükski allikas ei nimeta konkreetset põhjust, seega on seos mõõdukas.",
+      "sources": [
+        {
+          "title": "SigmaRoc: third quarter boost and earnings accretive acquisition – SQC Research (21.10.2026)",
+          "url": "https://www.sqcresearch.com/post/sigmaroc-third-quarter-boost-and-earnings-accretive-acquisition-shares-undervalued-at-119p"
+        }
+      ],
+      "at": "2026-10-21T09:09:05Z"
     },
     {
       "fmp": "XRO.AX",
