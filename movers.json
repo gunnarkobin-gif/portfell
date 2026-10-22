@@ -1,12 +1,46 @@
 {
   "date": "2026-10-22",
-  "updated": "2026-10-22T05:08:23Z",
+  "updated": "2026-10-22T07:09:40Z",
   "items": [
+    {
+      "fmp": "BONEX.ST",
+      "sym": "bonex-se",
+      "name": "BONESUPPORT HOLDING AB",
+      "pct": 12.83,
+      "short": "Tugev Q3: müük +39% (USA +40%), korrigeeritud ärikasum 139 mln SEK",
+      "text": "Bonesupport avaldas täna kell 8.00 kolmanda kvartali aruande: netomüük kasvas 294 mln kroonilt 408,8 mln kroonini ehk 39% (püsivas valuutas 38%) ja USA müük 40%. Ärikasum tõusis 65,4 mln kroonilt 123,4 mln kroonini, korrigeeritud ärikasum 139,3 mln kroonini (78,6). Teates väljavaate muutust ei mainita. Seos hinnatõusuga on väga tõenäoline, sest tõus algas kohe pärast aruande avaldamist; analüütikute ootustega võrdlust ma kontrollida ei saanud.",
+      "sources": [
+        {
+          "title": "BONESUPPORT HOLDING AB (publ) publishes Q3 2026 interim report – Inderes",
+          "url": "https://www.inderes.fi/en/releases/bonesupport-holding-ab-publ-publishes-q3-2026-interim-report"
+        }
+      ],
+      "at": "2026-10-22T07:09:40Z"
+    },
+    {
+      "fmp": "VSURE.ST",
+      "sym": "vsure-se",
+      "name": "Verisure Plc",
+      "pct": 12.1,
+      "short": "FT: CVC kaalub Verisure'i börsilt ülesostmist",
+      "text": "Financial Times teatas eile õhtul pärast börsi sulgemist, et erakapitalifirma CVC kaalub pakkumist Verisure'i börsilt ülesostmiseks, vähem kui aasta pärast IPO-d. Huvi on varajases faasis ja tehingu toimumine pole kindel; Verisure ja CVC keeldusid kommenteerimast. Aktie noteeriti 2025. aasta oktoobris hinnaga 13,25 eurot ja oli enne uudist langenud ligi 9,36 euroni; suurim omanik Hellman & Friedman omab umbes 44%. Tänane hüpe on väga tõenäoliselt selle ülevõtuspekulatsiooni tulemus.",
+      "sources": [
+        {
+          "title": "CVC explores deal to take Verisure private a year after IPO, FT reports – Reuters/MarketScreener",
+          "url": "https://www.marketscreener.com/news/cvc-explores-verisure-take-private-bid-a-year-after-listing-ft-reports-ce785cd9dd88f525"
+        },
+        {
+          "title": "FT: CVC överväger att köpa ut Verisure – EFN",
+          "url": "https://efn.se/ft-cvc-overvager-att-kopa-ut-verisure"
+        }
+      ],
+      "at": "2026-10-22T07:09:40Z"
+    },
     {
       "fmp": "9988.HK",
       "sym": "9988-hkg",
       "name": "Alibaba Group Holding Limited",
-      "pct": -5.93,
+      "pct": -6.46,
       "short": "Hongkongi tehnoloogiaaktsiate müügilaine; aktsia langes alla 100 HK$",
       "text": "Alibaba langes Hongkongis umbes 6% ja kukkus esimest korda üle kolme kuu alla 100 HK$, sest Hang Seng Techi indeks langes üle 4% kahe aasta madalaimale tasemele ning ka Tencent, JD ja NetEase olid tugevas miinuses. Kohalik meedia toob põhjustena välja mure tehisintellekti suurte investeeringute tasuvuse pärast, USA kõrged intressimäärad ja Hongkongi jõuva Mandri-Hiina raha (Southbound) kuuendat päeva järjest kestnud väljavoolu; Alibabat müüdi eelmisel päeval selle kanali kaudu 878 mln HK$ eest. Bloombergi pealkiri seostab langust ka Hiina piirangutega, kuid selle sisu ei õnnestunud kontrollida. Seos on tõenäoline, kuid tegemist on pigem sektori- ja turuülese langusega kui ettevõtte-spetsiifilise uudisega.",
       "sources": [
@@ -26,10 +60,67 @@
       "at": "2026-10-22T05:08:23Z"
     },
     {
+      "fmp": "DYVOX.ST",
+      "sym": "dyvox-se",
+      "name": "Dynavox Group AB",
+      "pct": -5.91,
+      "short": "Tänast uudist ei leitud; langus jätkub pärast eilset Q3-järgset kukkumist",
+      "text": "Dynavoxi kohta tänast uut uudist ega analüütiku muudatust ei leidnud. Eile avaldatud Q3 aruandes kasvas käive 13% 685 mln kroonini ja ärikasum peaaegu kahekordistus 119 mln kroonini, kuid aktsia kukkus päeva jooksul tugevalt; tähelepanu all olid USA Medicaidi maksete viivitused (Medicaid ja managed care moodustavad ~40% tulust), mis juhtkonna sõnul püsivad. Tõenäoliselt on tänane langus eilse müügisurve jätk, kuid seda ei saa allikate põhjal kindlalt väita.",
+      "sources": [
+        {
+          "title": "Earnings call transcript: Dynavox Group falls 16% after Q3 2026 results – Investing.com",
+          "url": "https://in.investing.com/news/stock-market-news/earnings-call-transcript-dynavox-group-falls-16-after-q3-2026-results-93CH-5644415"
+        },
+        {
+          "title": "Dynavox ökade rörelseresultatet rejält – Börsvärlden",
+          "url": "https://borsvarlden.com/artiklar/dynavox-okade-rorelseresultatet-rejalt"
+        }
+      ],
+      "at": "2026-10-22T07:09:40Z"
+    },
+    {
+      "fmp": "1357.HK",
+      "sym": "1357-hk",
+      "name": "Meitu, Inc",
+      "pct": -5.56,
+      "short": "Ettevõtte kohta tänast uudist ei leitud; Hongkongi tehnoloogiasektor müügis",
+      "text": "Meitu kohta ei leidnud tänasest päevast ettevõttespetsiifilist uudist ega börsiteadet. Samal ajal langes Hang Seng Techi indeks lõunaks umbes 4,6% kahe aasta madalaimale tasemele ja suured internetiaktsiad (Tencent, Alibaba) olid tugevas miinuses; põhjustena tuuakse välja mure tehisintellekti investeeringute tasuvuse pärast ja Mandri-Hiina raha väljavool. Langus näib olevat osa sektori müügilainest, kuid otsest seost Meituga allikad ei käsitle.",
+      "sources": [
+        {
+          "title": "港股午评：恒指跌破23000点、科指大跌4.64% – FX168",
+          "url": "https://www.fx168news.com/article/1106207"
+        },
+        {
+          "title": "港股互联网巨头崩了！腾讯2年新低，阿里跌破100港元 – Sina Finance",
+          "url": "https://finance.sina.com.cn/roll/2026-10-22/doc-iniwamir5899067.shtml"
+        }
+      ],
+      "at": "2026-10-22T07:09:40Z"
+    },
+    {
+      "fmp": "2590.HK",
+      "sym": "2590-hk",
+      "name": "Beijing Geekplus Technology Co., Ltd. Class H",
+      "pct": -5.48,
+      "short": "Ettevõtte kohta tänast uudist ei leitud; Hongkongi turg ja tehnoloogia languses",
+      "text": "Geekplusi kohta ei leidnud tänasest päevast ettevõttespetsiifilist uudist; viimastel päevadel on ettevõte ise aktsiaid tagasi ostnud (21. oktoobril 100 000 aktsiat ligikaudu 0,65 mln HK$ eest). Hang Seng indeks langes lõunaks 2,9% alla 23 000 punkti ja Hang Seng Tech umbes 4,6%, mida seostatakse USA intressiootuste ja tehnoloogiasektori müügiga. Konkreetne põhjus jääb selgusetuks – langus näib olevat osa laiemast turulangusest.",
+      "sources": [
+        {
+          "title": "极智嘉-W(02590)10月21日耗资约65.14万港元回购10万股 – Futu",
+          "url": "https://news.futunn.com/post/1001812787/geekplus-w-02590-repurchased-100000-shares-on-october-21-at"
+        },
+        {
+          "title": "港股午评：恒指跌破23000点、科指大跌4.64% – FX168",
+          "url": "https://www.fx168news.com/article/1106207"
+        }
+      ],
+      "at": "2026-10-22T07:09:40Z"
+    },
+    {
       "fmp": "2788.HK",
       "sym": "2788-hk",
       "name": "Chuangxin Industries Holdings Limited",
-      "pct": -5.44,
+      "pct": -5.15,
       "short": "Ettevõtte kohta tänast uudist ei leitud; Hongkongi turg langes ligi 3%",
       "text": "Chuangxin Industries kohta ei leidnud tänasest päevast ühtegi ettevõttespetsiifilist uudist ega börsiteadet. AASTOCKSi andmetel vahetas lõuna paiku omanikku plokitehinguna 927 000 aktsiat hinnaga 13,20 HK$, kui aktsia oli ligi 5,4% miinuses. Samal ajal langes Hang Seng indeks lõunaks 2,9% alla 23 000 punkti, mida analüütikud seostavad USA intressiootuste ja tehnoloogiasektori müügiga. Konkreetne põhjus jääb selgusetuks – langus näib olevat osa laiemast turulangusest.",
       "sources": [
