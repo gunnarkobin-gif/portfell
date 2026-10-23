@@ -1,12 +1,12 @@
 {
   "date": "2026-10-23",
-  "updated": "2026-10-23T07:18:07Z",
+  "updated": "2026-10-23T09:08:11Z",
   "items": [
     {
       "fmp": "ANOD-B.ST",
       "sym": "anod.b-se",
       "name": "Addnode Group AB Class B",
-      "pct": 12.54,
+      "pct": 12.37,
       "short": "Q3 EBITA 250 mln SEK, ~18% üle ootuste; marginaal 17,4%",
       "text": "Addnode avaldas täna 3. kvartali tulemused: käive kasvas ~10% 1438 mln kroonini (ootus 1434), orgaaniline kasv 3%. EBITA tõusis 149-lt 250 mln kroonini, mis ületas FactSeti konsensust (212) umbes 18%, ja EBITA-marginaal paranes 11,4%-lt 17,4%-le. Tugev kasumiüllatus on tõusu selge põhjus – seos on kindel.",
       "sources": [
@@ -21,13 +21,43 @@
       "fmp": "BHG.ST",
       "sym": "BHG-SE",
       "name": "BHG Group AB",
-      "pct": 11.88,
+      "pct": 8.38,
       "short": "Q3 käive ja korrigeeritud EBIT selgelt üle ootuste",
-      "text": "BHG avaldas täna 3. kvartali aruande: käive kasvas 11,7% 2901 mln kroonini (ootus ~2772), orgaaniline kasv 9,3% (ootus ~5,6%). Korrigeeritud EBIT tõusis 32% 122 mln kroonini (ootus 108), marginaal 4,2% (ootus 3,9%). Juht tõi välja kulukontrolli ja mastaabiefekti; tulemuse ootuste ületamine on tõusu selge põhjus.",
+      "text": "BHG avaldas täna 3. kvartali aruande: käive kasvas 11,7% 2901 mln kroonini (ootus ~2772), orgaaniline kasv 9,3% (ootus ~5,6%). Korrigeeritud EBIT tõusis 32% 122 mln kroonini (ootus 108), marginaal 4,2% (ootus 3,9%). Hommikul oli aktsia päeva tipus ligi +18%, hiljem tõus taandus umbes +8%-ni. Tulemuse ootuste ületamine on tõusu selge põhjus, kuid osa võidust on päeva jooksul realiseeritud.",
       "sources": [
         {
           "title": "BHG:s justerade rörelseresultat bättre än väntat (Placera)",
           "url": "https://www.placera.se/nyheter/bhg-s-justerade-rorelseresultat-battre-an-vantat-2026-10-23"
+        }
+      ],
+      "at": "2026-10-23T09:08:11Z"
+    },
+    {
+      "fmp": "2590.HK",
+      "sym": "2590-hk",
+      "name": "Beijing Geekplus Technology Co., Ltd. Class H",
+      "pct": 6.56,
+      "short": "Ettevõttepõhist uudist ei leitud; Hongkongi turg tõusis",
+      "text": "Tänaseid ettevõttepõhiseid uudiseid, mis tõusu selgitaksid, ei leitud. Hang Seng oli lõunaks +0,58% ja Hang Seng Tech +0,86% ehk turg tervikuna oli positiivne, kuid see ei seleta üksi 6,6% tõusu. Aktsia on aasta jooksul tugevalt langenud ja kaupleb aasta madala lähedal. Seos on nõrk – põhjus jääb ebaselgeks.",
+      "sources": [
+        {
+          "title": "港股午评：恒指涨0.58% 科指涨0.86% 汽车股走强 锂电池股回暖 (Sina, 23.10.2026)",
+          "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-23/doc-iniweqhw2046043.shtml"
+        }
+      ],
+      "at": "2026-10-23T07:18:07Z"
+    },
+    {
+      "fmp": "1357.HK",
+      "sym": "1357-hk",
+      "name": "Meitu, Inc",
+      "pct": 6.56,
+      "short": "Ettevõttepõhist uudist ei leitud; Hongkongi turg tõusis",
+      "text": "Tänaseid ettevõttepõhiseid uudiseid, mis tõusu selgitaksid, ei leitud. Hang Seng oli lõunaks +0,58% ja Hang Seng Tech +0,86% ehk turg tervikuna oli positiivne, kuid see ei seleta üksi 6,6% tõusu. Seos on nõrk – põhjus jääb ebaselgeks.",
+      "sources": [
+        {
+          "title": "港股午评：恒指涨0.58% 科指涨0.86% 汽车股走强 锂电池股回暖 (Sina, 23.10.2026)",
+          "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-23/doc-iniweqhw2046043.shtml"
         }
       ],
       "at": "2026-10-23T07:18:07Z"
@@ -52,42 +82,31 @@
       "at": "2026-10-23T07:18:07Z"
     },
     {
-      "fmp": "2590.HK",
-      "sym": "2590-hk",
-      "name": "Beijing Geekplus Technology Co., Ltd. Class H",
-      "pct": 5.82,
-      "short": "Ettevõttepõhist uudist ei leitud; Hongkongi turg tõusis",
-      "text": "Tänaseid ettevõttepõhiseid uudiseid, mis tõusu selgitaksid, ei leitud. Hang Seng oli lõunaks +0,58% ja Hang Seng Tech +0,86% ehk turg tervikuna oli positiivne, kuid see ei seleta üksi 5.8% tõusu. Aktsia on aasta jooksul tugevalt langenud ja kaupleb aasta madala lähedal. Seos on nõrk – põhjus jääb ebaselgeks.",
+      "fmp": "AOF.DE",
+      "sym": "aof-etr",
+      "name": "ATOSS Software SE",
+      "pct": -6.15,
+      "short": "Q3 kasum üle ootuste, kuid 2026 käive prognoosi alumises otsas",
+      "text": "ATOSS avaldas täna 3. kvartali tulemused: käive kasvas ~11% 52,6 mln euroni ja EBIT 23% 21,1 mln euroni (marginaal 40%), mis ületas analüütikute ootusi. Ettevõte tõstis 2026. aasta EBIT-marginaali sihi ~37%-le (varem vähemalt 34%), kuid ootab nüüd aasta käivet 210–215 mln euro vahemiku alumises otsas nõrga litsentsimüügi tõttu. Aktsia alustas tõusuga, kuid pöördus langusesse; tõenäoline põhjus on nõrgem käibeväljavaade, mis varjutas marginaali tõstmise – seos on mõõdukalt kindel.",
       "sources": [
         {
-          "title": "港股午评：恒指涨0.58% 科指涨0.86% 汽车股走强 锂电池股回暖 (Sina, 23.10.2026)",
-          "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-23/doc-iniweqhw2046043.shtml"
+          "title": "ATOSS Software überrascht mit Gewinnsprung und höherem Margenziel - Aktie fällt dennoch (finanzen.net)",
+          "url": "https://www.finanzen.net/nachricht/aktien/zahlen-praesentiert-aktie-mit-schwankungen-atoss-software-hebt-margenausblick-nach-starkem-quartal-an-16003325"
+        },
+        {
+          "title": "Atoss Software profitabler als erwartet - Hebt Margenprognose (boerse.de)",
+          "url": "https://www.boerse.de/nachrichten/Atoss-Software-profitabler-als-erwartet-Hebt-Margenprognose/38683513"
         }
       ],
-      "at": "2026-10-23T07:18:07Z"
+      "at": "2026-10-23T09:08:11Z"
     },
     {
       "fmp": "1378.HK",
       "sym": "1378-hk",
       "name": "China Hongqiao Group Ltd.",
-      "pct": 5.77,
+      "pct": 5.55,
       "short": "Ettevõttepõhist uudist ei leitud; Hongkongi turg tõusis",
-      "text": "Tänaseid ettevõttepõhiseid uudiseid, mis tõusu selgitaksid, ei leitud. Hang Seng oli lõunaks +0,58% ja Hang Seng Tech +0,86% ehk turg tervikuna oli positiivne, kuid see ei seleta üksi 5.8% tõusu. Seos on nõrk – põhjus jääb ebaselgeks.",
-      "sources": [
-        {
-          "title": "港股午评：恒指涨0.58% 科指涨0.86% 汽车股走强 锂电池股回暖 (Sina, 23.10.2026)",
-          "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-23/doc-iniweqhw2046043.shtml"
-        }
-      ],
-      "at": "2026-10-23T07:18:07Z"
-    },
-    {
-      "fmp": "1357.HK",
-      "sym": "1357-hk",
-      "name": "Meitu, Inc",
-      "pct": 5.25,
-      "short": "Ettevõttepõhist uudist ei leitud; Hongkongi turg tõusis",
-      "text": "Tänaseid ettevõttepõhiseid uudiseid, mis tõusu selgitaksid, ei leitud. Hang Seng oli lõunaks +0,58% ja Hang Seng Tech +0,86% ehk turg tervikuna oli positiivne, kuid see ei seleta üksi 5.2% tõusu. Seos on nõrk – põhjus jääb ebaselgeks.",
+      "text": "Tänaseid ettevõttepõhiseid uudiseid, mis tõusu selgitaksid, ei leitud. Hang Seng oli lõunaks +0,58% ja Hang Seng Tech +0,86% ehk turg tervikuna oli positiivne, kuid see ei seleta üksi 5,5% tõusu. Seos on nõrk – põhjus jääb ebaselgeks.",
       "sources": [
         {
           "title": "港股午评：恒指涨0.58% 科指涨0.86% 汽车股走强 锂电池股回暖 (Sina, 23.10.2026)",
