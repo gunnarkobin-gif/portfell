@@ -1,12 +1,12 @@
 {
   "date": "2026-10-23",
-  "updated": "2026-10-23T11:15:49Z",
+  "updated": "2026-10-23T13:08:17Z",
   "items": [
     {
       "fmp": "ANOD-B.ST",
       "sym": "anod.b-se",
       "name": "Addnode Group AB Class B",
-      "pct": 14.49,
+      "pct": 12.19,
       "short": "Q3 EBITA 250 mln SEK, ~18% üle ootuste; marginaal 17,4%",
       "text": "Addnode avaldas täna 3. kvartali tulemused: käive kasvas ~10% 1438 mln kroonini (ootus 1434), orgaaniline kasv 3%. EBITA tõusis 149-lt 250 mln kroonini, mis ületas FactSeti konsensust (212) umbes 18%, ja EBITA-marginaal paranes 11,4%-lt 17,4%-le. Tugev kasumiüllatus on tõusu selge põhjus – seos on kindel.",
       "sources": [
@@ -21,7 +21,7 @@
       "fmp": "BHG.ST",
       "sym": "BHG-SE",
       "name": "BHG Group AB",
-      "pct": 9.58,
+      "pct": 10.5,
       "short": "Q3 käive ja korrigeeritud EBIT selgelt üle ootuste",
       "text": "BHG avaldas täna 3. kvartali aruande: käive kasvas 11,7% 2901 mln kroonini (ootus ~2772), orgaaniline kasv 9,3% (ootus ~5,6%). Korrigeeritud EBIT tõusis 32% 122 mln kroonini (ootus 108), marginaal 4,2% (ootus 3,9%). Hommikul oli aktsia päeva tipus ligi +18%, hiljem tõus taandus umbes +8%-ni. Tulemuse ootuste ületamine on tõusu selge põhjus, kuid osa võidust on päeva jooksul realiseeritud.",
       "sources": [
@@ -33,29 +33,10 @@
       "at": "2026-10-23T09:08:11Z"
     },
     {
-      "fmp": "AOF.DE",
-      "sym": "aof-etr",
-      "name": "ATOSS Software SE",
-      "pct": -8.13,
-      "short": "Q3 kasum üle ootuste, kuid 2026 käive prognoosi alumises otsas",
-      "text": "ATOSS avaldas täna 3. kvartali tulemused: käive kasvas ~11% 52,6 mln euroni ja EBIT 23% 21,1 mln euroni (marginaal 40%), mis ületas analüütikute ootusi. Ettevõte tõstis 2026. aasta EBIT-marginaali sihi ~37%-le (varem vähemalt 34%), kuid ootab nüüd aasta käivet 210–215 mln euro vahemiku alumises otsas nõrga litsentsimüügi tõttu. Aktsia alustas tõusuga, kuid pöördus langusesse; tõenäoline põhjus on nõrgem käibeväljavaade, mis varjutas marginaali tõstmise – seos on mõõdukalt kindel.",
-      "sources": [
-        {
-          "title": "ATOSS Software überrascht mit Gewinnsprung und höherem Margenziel - Aktie fällt dennoch (finanzen.net)",
-          "url": "https://www.finanzen.net/nachricht/aktien/zahlen-praesentiert-aktie-mit-schwankungen-atoss-software-hebt-margenausblick-nach-starkem-quartal-an-16003325"
-        },
-        {
-          "title": "Atoss Software profitabler als erwartet - Hebt Margenprognose (boerse.de)",
-          "url": "https://www.boerse.de/nachrichten/Atoss-Software-profitabler-als-erwartet-Hebt-Margenprognose/38683513"
-        }
-      ],
-      "at": "2026-10-23T09:08:11Z"
-    },
-    {
       "fmp": "SMCP.PA",
       "sym": "smcp-par",
       "name": "SMCP SA",
-      "pct": -7.59,
+      "pct": -8.61,
       "short": "Langus jätkub pärast eilset nõrka Q3 müügiraportit (Prantsusmaa −9,7%)",
       "text": "SMCP avaldas eile (22.10) 3. kvartali müügi: käive 291,4 mln eurot, võrreldaval baasil −2%, Prantsusmaal koguni −9,7%; Ameerika (+4,3%) ja muu EMEA (+2,5%) kasvasid. Aasta eesmärgid (II poolaasta 10% ärimarginaal, vaba rahavoog üle 50 mln euro) jäid alles, kuid tingimusel, et Prantsuse turg oluliselt ei halvene. Aktsia kukkus eile ~15%; tänaseid uusi ettevõttepõhiseid uudiseid ei leitud, seega on tänane langus tõenäoliselt eilse raporti järelmõju – seos on mõõdukas.",
       "sources": [
@@ -69,6 +50,25 @@
         }
       ],
       "at": "2026-10-23T11:15:49Z"
+    },
+    {
+      "fmp": "AOF.DE",
+      "sym": "aof-etr",
+      "name": "ATOSS Software SE",
+      "pct": -6.67,
+      "short": "Q3 kasum üle ootuste, kuid 2026 käive prognoosi alumises otsas",
+      "text": "ATOSS avaldas täna 3. kvartali tulemused: käive kasvas ~11% 52,6 mln euroni ja EBIT 23% 21,1 mln euroni (marginaal 40%), mis ületas analüütikute ootusi. Ettevõte tõstis 2026. aasta EBIT-marginaali sihi ~37%-le (varem vähemalt 34%), kuid ootab nüüd aasta käivet 210–215 mln euro vahemiku alumises otsas nõrga litsentsimüügi tõttu. Aktsia alustas tõusuga, kuid pöördus langusesse; tõenäoline põhjus on nõrgem käibeväljavaade, mis varjutas marginaali tõstmise – seos on mõõdukalt kindel.",
+      "sources": [
+        {
+          "title": "ATOSS Software überrascht mit Gewinnsprung und höherem Margenziel - Aktie fällt dennoch (finanzen.net)",
+          "url": "https://www.finanzen.net/nachricht/aktien/zahlen-praesentiert-aktie-mit-schwankungen-atoss-software-hebt-margenausblick-nach-starkem-quartal-an-16003325"
+        },
+        {
+          "title": "Atoss Software profitabler als erwartet - Hebt Margenprognose (boerse.de)",
+          "url": "https://www.boerse.de/nachrichten/Atoss-Software-profitabler-als-erwartet-Hebt-Margenprognose/38683513"
+        }
+      ],
+      "at": "2026-10-23T09:08:11Z"
     },
     {
       "fmp": "2590.HK",
@@ -101,6 +101,21 @@
       "at": "2026-10-23T07:18:07Z"
     },
     {
+      "fmp": "XVIVO.ST",
+      "sym": "xvivo-se",
+      "name": "Xvivo Perfusion AB",
+      "pct": -6.27,
+      "short": "Tänast uudist ei leitud; eilne Q3 tõi välja suurima USA kopsukliendi lahkumise riski",
+      "text": "Tänaseid ettevõttepõhiseid uudiseid ei leitud. Eile (22.10) avaldatud 3. kvartali aruanne oli kasvult tugev: käive 253 mln krooni, orgaaniline kasv 32%, EBITDA-marginaal 21%; samas langes brutomarginaal 75%-lt 70%-le ja suurim USA kopsuklient (2025. aastal 132 mln krooni) plaanib 2027. aastal üle minna oma lahendusele. Tänane langus võib peegeldada selle riski seedimist, kuid otsest tõendit pole – seos on nõrk.",
+      "sources": [
+        {
+          "title": "Xvivo Perfusion Q3 2026 Earnings Call Highlights (GuruFocus, 22.10.2026)",
+          "url": "https://www.gurufocus.com/news/9138619/xvivo-perfusion-ab-xvipf-q3-2026-earnings-call-highlights-32-organic-growth-heart-launch-momentum-and-a-highstakes-us-lung-transition"
+        }
+      ],
+      "at": "2026-10-23T11:15:49Z"
+    },
+    {
       "fmp": "ALIG.ST",
       "sym": "alig-se",
       "name": "Alimak Group AB",
@@ -120,6 +135,29 @@
       "at": "2026-10-23T07:18:07Z"
     },
     {
+      "fmp": "IPS.PA",
+      "sym": "ips-par",
+      "name": "Ipsos SA",
+      "pct": -5.89,
+      "short": "Q3 orgaaniline kasv 2%, aasta kasvuprognoos langetati 1,2–1,5%-le",
+      "text": "Ipsos avaldas täna 3. kvartali müügi: käive 636,2 mln eurot (aastatagusega samal tasemel), orgaaniline kasv 2,0%, kuid Ameerikas −1,2%, mis jäi ettevõtte enda sõnul ootustele alla Horizonsi strateegia elluviimise viivituste tõttu. Ettevõte langetas taas 2026. aasta orgaanilise kasvu sihti, nüüd 1,2–1,5%, ning ootab ärimarginaali 2025. aasta tasemel. Prognoosi kärbe ja nõrk Ameerika on langenud aktsia tõenäoline põhjus – seos on kindel.",
+      "sources": [
+        {
+          "title": "Ipsos abaisse de nouveau ses perspectives, CA au T3 +2% en organique (Boursorama, 23.10.2026)",
+          "url": "https://www.boursorama.com/bourse/actualites/ipsos-abaisse-de-nouveau-ses-perspectives-ca-au-t3-2-en-organique-03f8e9f8b1b40d0c0d6f3148e766e16c"
+        },
+        {
+          "title": "Ipsos : Croissance organique de 2,0 % au troisième trimestre (pressiteade)",
+          "url": "https://www.lesoleil.com/communiques-de-presse/2026/10/23/ipsos-croissance-organique-de-20-au-troisieme-trimestre-M4L6XFWVKVEOLFECPRTVKYG4MQ/"
+        },
+        {
+          "title": "Earnings call transcript: Ipsos Q3 2026 (Investing.com)",
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ipsos-q3-2026-revenue-growth-lifts-outlook-shares-fall-93CH-4968150"
+        }
+      ],
+      "at": "2026-10-23T13:08:17Z"
+    },
+    {
       "fmp": "1378.HK",
       "sym": "1378-hk",
       "name": "China Hongqiao Group Ltd.",
@@ -133,21 +171,6 @@
         }
       ],
       "at": "2026-10-23T07:18:07Z"
-    },
-    {
-      "fmp": "XVIVO.ST",
-      "sym": "xvivo-se",
-      "name": "Xvivo Perfusion AB",
-      "pct": -5.1,
-      "short": "Tänast uudist ei leitud; eilne Q3 tõi välja suurima USA kopsukliendi lahkumise riski",
-      "text": "Tänaseid ettevõttepõhiseid uudiseid ei leitud. Eile (22.10) avaldatud 3. kvartali aruanne oli kasvult tugev: käive 253 mln krooni, orgaaniline kasv 32%, EBITDA-marginaal 21%; samas langes brutomarginaal 75%-lt 70%-le ja suurim USA kopsuklient (2025. aastal 132 mln krooni) plaanib 2027. aastal üle minna oma lahendusele. Tänane langus võib peegeldada selle riski seedimist, kuid otsest tõendit pole – seos on nõrk.",
-      "sources": [
-        {
-          "title": "Xvivo Perfusion Q3 2026 Earnings Call Highlights (GuruFocus, 22.10.2026)",
-          "url": "https://www.gurufocus.com/news/9138619/xvivo-perfusion-ab-xvipf-q3-2026-earnings-call-highlights-32-organic-growth-heart-launch-momentum-and-a-highstakes-us-lung-transition"
-        }
-      ],
-      "at": "2026-10-23T11:15:49Z"
     }
   ]
 }
