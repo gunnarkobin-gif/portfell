@@ -1,12 +1,12 @@
 {
   "date": "2026-10-23",
-  "updated": "2026-10-23T15:10:30Z",
+  "updated": "2026-10-23T17:08:32Z",
   "items": [
     {
       "fmp": "BHG.ST",
       "sym": "BHG-SE",
       "name": "BHG Group AB",
-      "pct": 14.46,
+      "pct": 15.1,
       "short": "Q3 käive ja korrigeeritud EBIT selgelt üle ootuste; tõus kiirenes päeva lõpuks",
       "text": "BHG avaldas täna 3. kvartali aruande: käive kasvas 11,7% 2,9 mld kroonini (orgaaniliselt +9,3%), korrigeeritud EBIT tõusis 32% 122 mln kroonini ja marginaal 4,2%-le – mõlemad üle analüütikute ootuste. Ka rahavoog paranes (92 mln vs 52 mln) ja võlakordaja langes 3,4-lt 2,1-le. Hommikune ~+9% tõus taandus vahepeal, kuid päeva lõpuks oli aktsia ligi +14,5%. Tulemuse ootuste ületamine on tõusu selge põhjus – seos on kindel.",
       "sources": [
@@ -25,7 +25,7 @@
       "fmp": "ANOD-B.ST",
       "sym": "anod.b-se",
       "name": "Addnode Group AB Class B",
-      "pct": 14.31,
+      "pct": 13.43,
       "short": "Q3 EBITA 250 mln SEK, ~18% üle ootuste; marginaal 17,4%",
       "text": "Addnode avaldas täna 3. kvartali tulemused: käive kasvas ~10% 1438 mln kroonini (ootus 1434), orgaaniline kasv 3%. EBITA tõusis 149-lt 250 mln kroonini, mis ületas FactSeti konsensust (212) umbes 18%, ja EBITA-marginaal paranes 11,4%-lt 17,4%-le. Tugev kasumiüllatus on tõusu selge põhjus – seos on kindel.",
       "sources": [
@@ -37,29 +37,10 @@
       "at": "2026-10-23T07:18:07Z"
     },
     {
-      "fmp": "AOF.DE",
-      "sym": "aof-etr",
-      "name": "ATOSS Software SE",
-      "pct": -10.43,
-      "short": "Q3 kasum üle ootuste, kuid litsentsimüük nõrk ja 2026 käive prognoosi alumises otsas",
-      "text": "ATOSS avaldas täna 3. kvartali tulemused: käive kasvas 47,2-lt 52,6 mln euroni ja EBIT 17,2-lt 21,1 mln euroni (marginaal 40%), mis ületas ootusi; EBIT-marginaali siht tõsteti ~37%-le. Samas on litsentsimüük nõrk ja aasta käive jääb tõenäoliselt 210–215 mln euro vahemiku alumisse otsa; lisaks oli tarkvarasektor täna nõrk. Hommikune ~−4% langus süvenes päeva jooksul üle −10%-ni – käibeväljavaade on tõenäoline põhjus, seos on mõõdukalt kindel.",
-      "sources": [
-        {
-          "title": "ROUNDUP: Atoss Software hebt Margenprognose - Umsatz schwächelt etwas (onvista)",
-          "url": "https://www.onvista.de/news/2026/10-23-roundup-atoss-software-hebt-margenprognose-umsatz-schwaechelt-etwas-0-10-26567586"
-        },
-        {
-          "title": "ATOSS Software überrascht mit Gewinnsprung und höherem Margenziel - Aktie fällt dennoch (finanzen.net)",
-          "url": "https://www.finanzen.net/nachricht/aktien/zahlen-praesentiert-aktie-mit-schwankungen-atoss-software-hebt-margenausblick-nach-starkem-quartal-an-16003325"
-        }
-      ],
-      "at": "2026-10-23T15:10:30Z"
-    },
-    {
       "fmp": "SMCP.PA",
       "sym": "smcp-par",
       "name": "SMCP SA",
-      "pct": -9.63,
+      "pct": -11.52,
       "short": "Langus jätkub pärast eilset nõrka Q3 müügiraportit (Prantsusmaa −9,7%)",
       "text": "SMCP avaldas eile (22.10) 3. kvartali müügi: käive 291,4 mln eurot, võrreldaval baasil −2%, Prantsusmaal koguni −9,7%; Ameerika (+4,3%) ja muu EMEA (+2,5%) kasvasid. Aasta eesmärgid (II poolaasta 10% ärimarginaal, vaba rahavoog üle 50 mln euro) jäid alles, kuid tingimusel, et Prantsuse turg oluliselt ei halvene. Aktsia kukkus eile ~15%; tänaseid uusi ettevõttepõhiseid uudiseid ei leitud, seega on tänane langus tõenäoliselt eilse raporti järelmõju – seos on mõõdukas.",
       "sources": [
@@ -75,10 +56,29 @@
       "at": "2026-10-23T11:15:49Z"
     },
     {
+      "fmp": "AOF.DE",
+      "sym": "aof-etr",
+      "name": "ATOSS Software SE",
+      "pct": -8.97,
+      "short": "Q3 kasum üle ootuste, kuid litsentsimüük nõrk ja 2026 käive prognoosi alumises otsas",
+      "text": "ATOSS avaldas täna 3. kvartali tulemused: käive kasvas 47,2-lt 52,6 mln euroni ja EBIT 17,2-lt 21,1 mln euroni (marginaal 40%), mis ületas ootusi; EBIT-marginaali siht tõsteti ~37%-le. Samas on litsentsimüük nõrk ja aasta käive jääb tõenäoliselt 210–215 mln euro vahemiku alumisse otsa; lisaks oli tarkvarasektor täna nõrk. Hommikune ~−4% langus süvenes päeva jooksul üle −10%-ni – käibeväljavaade on tõenäoline põhjus, seos on mõõdukalt kindel.",
+      "sources": [
+        {
+          "title": "ROUNDUP: Atoss Software hebt Margenprognose - Umsatz schwächelt etwas (onvista)",
+          "url": "https://www.onvista.de/news/2026/10-23-roundup-atoss-software-hebt-margenprognose-umsatz-schwaechelt-etwas-0-10-26567586"
+        },
+        {
+          "title": "ATOSS Software überrascht mit Gewinnsprung und höherem Margenziel - Aktie fällt dennoch (finanzen.net)",
+          "url": "https://www.finanzen.net/nachricht/aktien/zahlen-praesentiert-aktie-mit-schwankungen-atoss-software-hebt-margenausblick-nach-starkem-quartal-an-16003325"
+        }
+      ],
+      "at": "2026-10-23T15:10:30Z"
+    },
+    {
       "fmp": "XVIVO.ST",
       "sym": "xvivo-se",
       "name": "Xvivo Perfusion AB",
-      "pct": -7.43,
+      "pct": -7.79,
       "short": "Tänast uudist ei leitud; eilne Q3 tõi välja suurima USA kopsukliendi lahkumise riski",
       "text": "Tänaseid ettevõttepõhiseid uudiseid ei leitud. Eile (22.10) avaldatud 3. kvartali aruanne oli kasvult tugev: käive 253 mln krooni, orgaaniline kasv 32%, EBITDA-marginaal 21%; samas langes brutomarginaal 75%-lt 70%-le ja suurim USA kopsuklient (2025. aastal 132 mln krooni) plaanib 2027. aastal üle minna oma lahendusele. Tänane langus võib peegeldada selle riski seedimist, kuid otsest tõendit pole – seos on nõrk.",
       "sources": [
@@ -120,6 +120,21 @@
       "at": "2026-10-23T07:18:07Z"
     },
     {
+      "fmp": "TRN.L",
+      "sym": "trn-lon",
+      "name": "Trainline Plc",
+      "pct": -6.56,
+      "short": "Tänast ettevõttepõhist uudist ei leitud; tulemused tulevad 4. novembril",
+      "text": "Tänaseid Trainline'i kohta käivaid uudiseid, mis langust selgitaksid, ei leitud. Viimane teadaolev uudis oli raudteeregulaatori ORR 9. oktoobri piletimüügi reeglite eelnõu, mida Trainline toetas; konsultatsioon kestab 11. detsembrini ja poolaasta tulemused tulevad 4. novembril. Aktsia on viimastel aastatel olnud tundlik Great British Railwaysi piletimüügi plaanide suhtes. Tänase languse põhjus jääb ebaselgeks – seos ühegi uudisega on nõrk.",
+      "sources": [
+        {
+          "title": "Trainline backs fair rail rules: November 4 results test Trainline stock (ad-hoc-news, 18.10.2026)",
+          "url": "https://www.ad-hoc-news.de/boerse/news/nebenwerte/trainline-backs-fair-rail-rules-november-4-results-test-trainline-stock/70353661"
+        }
+      ],
+      "at": "2026-10-23T17:08:32Z"
+    },
+    {
       "fmp": "ALIG.ST",
       "sym": "alig-se",
       "name": "Alimak Group AB",
@@ -152,6 +167,29 @@
         }
       ],
       "at": "2026-10-23T15:10:30Z"
+    },
+    {
+      "fmp": "IPS.PA",
+      "sym": "ips-par",
+      "name": "Ipsos SA",
+      "pct": -5.56,
+      "short": "Q3 orgaaniline kasv 2%, aasta kasvuprognoos langetati 1,2–1,5%-le",
+      "text": "Ipsos avaldas täna 3. kvartali müügi: käive 636,2 mln eurot (aastatagusega samal tasemel), orgaaniline kasv 2,0%, kuid Ameerikas −1,2%, mis jäi ettevõtte enda sõnul ootustele alla Horizonsi strateegia elluviimise viivituste tõttu. Ettevõte langetas taas 2026. aasta orgaanilise kasvu sihti, nüüd 1,2–1,5%, ning ootab ärimarginaali 2025. aasta tasemel. Prognoosi kärbe ja nõrk Ameerika on langenud aktsia tõenäoline põhjus – seos on kindel.",
+      "sources": [
+        {
+          "title": "Ipsos abaisse de nouveau ses perspectives, CA au T3 +2% en organique (Boursorama, 23.10.2026)",
+          "url": "https://www.boursorama.com/bourse/actualites/ipsos-abaisse-de-nouveau-ses-perspectives-ca-au-t3-2-en-organique-03f8e9f8b1b40d0c0d6f3148e766e16c"
+        },
+        {
+          "title": "Ipsos : Croissance organique de 2,0 % au troisième trimestre (pressiteade)",
+          "url": "https://www.lesoleil.com/communiques-de-presse/2026/10/23/ipsos-croissance-organique-de-20-au-troisieme-trimestre-M4L6XFWVKVEOLFECPRTVKYG4MQ/"
+        },
+        {
+          "title": "Earnings call transcript: Ipsos Q3 2026 (Investing.com)",
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ipsos-q3-2026-revenue-growth-lifts-outlook-shares-fall-93CH-4968150"
+        }
+      ],
+      "at": "2026-10-23T13:08:17Z"
     },
     {
       "fmp": "1378.HK",
@@ -188,27 +226,42 @@
       "at": "2026-10-23T15:10:30Z"
     },
     {
-      "fmp": "IPS.PA",
-      "sym": "ips-par",
-      "name": "Ipsos SA",
-      "pct": -5.03,
-      "short": "Q3 orgaaniline kasv 2%, aasta kasvuprognoos langetati 1,2–1,5%-le",
-      "text": "Ipsos avaldas täna 3. kvartali müügi: käive 636,2 mln eurot (aastatagusega samal tasemel), orgaaniline kasv 2,0%, kuid Ameerikas −1,2%, mis jäi ettevõtte enda sõnul ootustele alla Horizonsi strateegia elluviimise viivituste tõttu. Ettevõte langetas taas 2026. aasta orgaanilise kasvu sihti, nüüd 1,2–1,5%, ning ootab ärimarginaali 2025. aasta tasemel. Prognoosi kärbe ja nõrk Ameerika on langenud aktsia tõenäoline põhjus – seos on kindel.",
+      "fmp": "HAL",
+      "sym": "hal",
+      "name": "Halliburton Company",
+      "pct": 5.24,
+      "short": "Nafta viie kuu tipus (Brent ~114 $), naftateenuste aktsiad tõusid",
+      "text": "Halliburtoni kohta tänaseid uusi ettevõttepõhiseid uudiseid ei leitud. Nafta on viie kuu kõrgeimal tasemel: Brent tõusis eile 4% ja täna hommikul veel ~1,2% ligi 114,5 dollarini barreli kohta Lähis-Ida pingete ja Liibüa tootmiskao tõttu. Lisaks ületas ettevõte sel nädalal 3. kvartali ootusi (käive 5,7 mld dollarit, korrigeeritud EPS 0,60 dollarit). Kõrgem naftahind on tõusu tõenäoline põhjus – seos on mõõdukas.",
       "sources": [
         {
-          "title": "Ipsos abaisse de nouveau ses perspectives, CA au T3 +2% en organique (Boursorama, 23.10.2026)",
-          "url": "https://www.boursorama.com/bourse/actualites/ipsos-abaisse-de-nouveau-ses-perspectives-ca-au-t3-2-en-organique-03f8e9f8b1b40d0c0d6f3148e766e16c"
+          "title": "Oil Prices Today, October 23: Brent Tops $114 (Profile News)",
+          "url": "https://www.profilenews.com/en/oil-prices-today-2/"
         },
         {
-          "title": "Ipsos : Croissance organique de 2,0 % au troisième trimestre (pressiteade)",
-          "url": "https://www.lesoleil.com/communiques-de-presse/2026/10/23/ipsos-croissance-organique-de-20-au-troisieme-trimestre-M4L6XFWVKVEOLFECPRTVKYG4MQ/"
-        },
-        {
-          "title": "Earnings call transcript: Ipsos Q3 2026 (Investing.com)",
-          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-ipsos-q3-2026-revenue-growth-lifts-outlook-shares-fall-93CH-4968150"
+          "title": "What Halliburton (HAL) Said on Its Q3 Earnings Call (Defense World, 22.10.2026)",
+          "url": "https://www.defenseworld.net/2026/10/22/what-halliburton-hal-said-on-its-q3-earnings-call.html"
         }
       ],
-      "at": "2026-10-23T13:08:17Z"
+      "at": "2026-10-23T17:08:32Z"
+    },
+    {
+      "fmp": "MLCO",
+      "sym": "mlco",
+      "name": "Melco Resorts & Entertainment Ltd. Sponsored ADR",
+      "pct": -5.22,
+      "short": "Tänast uudist ei leitud; Macau kasiinosektor surve all, HSBC kärpis prognoose",
+      "text": "Tänaseid Melco-põhiseid uudiseid ei leitud. Eile (22.10) kärpis HSBC Macau kasiinode 2026–2028 EBITDA prognoose 3–4% ja hinnasihte keskmiselt 8%, oodates, et Melco kaotab turuosa; samal päeval jäi Las Vegas Sandsi 3. kvartal ootustele alla. Täna langes ka Wynn (~−2,4%). Aktsia on 52 nädala madalaimal tasemel; tõenäoline taust on sektori nõrkus, kuid otsene seos tänase langusega on nõrk.",
+      "sources": [
+        {
+          "title": "Major Investment Banks Cut Macau Casino Earnings Forecasts (Allin News, 22.10.2026)",
+          "url": "https://www.allinmedia.com.hk/2026/10/22/major-investment-banks-cut-macau-casino-earnings-forecasts-as-tighter-capital-controls-strain-high-end-demand/"
+        },
+        {
+          "title": "Sands Boosts Dividend 20%, But Stock Slumps Following Q3 Earnings Miss (Casino.org, 22.10.2026)",
+          "url": "https://www.casino.org/news/sands-boosts-dividend-20-but-stock-slumps-following-q3-earnings-miss/"
+        }
+      ],
+      "at": "2026-10-23T17:08:32Z"
     }
   ]
 }
