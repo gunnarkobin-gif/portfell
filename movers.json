@@ -1,12 +1,46 @@
 {
   "date": "2026-10-26",
-  "updated": "2026-10-26T08:14:53Z",
+  "updated": "2026-10-26T10:10:38Z",
   "items": [
+    {
+      "fmp": "SMCP.PA",
+      "sym": "smcp-par",
+      "name": "SMCP SA",
+      "pct": 10.98,
+      "short": "Tagasipõrge pärast eelmise nädala suurt langust; tänast uudist ei leitud",
+      "text": "SMCP aktsia kukkus 22. oktoobril umbes 12% pärast nõrka 9 kuu müügiülevaadet (käive 888,4 mln eurot, orgaaniliselt –0,2%, Prantsusmaal –10,4%) ja jätkas langust kuni reedeni (3,82 eurot). Täna tõusis aktsia ~11% 4,24 euroni, kuid tänast ettevõtte- ega analüütikuuudist ei leitud. Tõenäoliselt on tegu tehnilise tagasipõrkega pärast müügisurvet; põhjus on kinnitamata.",
+      "sources": [
+        {
+          "title": "SMCP chute après un point d'activité terne (Zonebourse, 22.10.2026)",
+          "url": "https://www.zonebourse.com/actualite-bourse/smcp-chute-apres-un-point-d-activite-terne-ce785cded98af224"
+        }
+      ],
+      "at": "2026-10-26T10:10:38Z"
+    },
+    {
+      "fmp": "AOF.DE",
+      "sym": "aof-etr",
+      "name": "ATOSS Software SE",
+      "pct": 7.9,
+      "short": "Taastumine reedesest langusest; Berenberg kinnitas ostusoovituse (siht 135 €)",
+      "text": "ATOSS avaldas 23.10 kvartalitulemused: käive 52,6 mln € (47,2), EBIT 21,1 mln € (17,2), EBIT-marginaal 40%; aasta marginaalisiht tõsteti ~37%-ni, kuid käibe ootus langes vahemiku 210–215 mln € alumisse otsa, mis tõi reedel müügisurve. Täna avaldatud Berenbergi analüüs kinnitas ostusoovitust sihthinnaga 135 €, nimetades turu reaktsiooni liialdatuks. Tänane tõus on suure tõenäosusega reedese languse tagasipõrge, mida analüütikukommentaar toetas.",
+      "sources": [
+        {
+          "title": "ATOSS Software Aktie: Erholung nach Kursrutsch (Goldesel, 26.10.2026)",
+          "url": "https://goldesel.de/aktien/news/atoss-software-aktie-erholung-nach-kursrutsch-margenplus-trifft-auf-umsatzsorgen"
+        },
+        {
+          "title": "BERENBERG stuft ATOSS SOFTWARE AG auf 'Buy' (wallstreet-online, 26.10.2026)",
+          "url": "https://www.wallstreet-online.de/nachricht/21579945-berenberg-stuft-atoss-software-ag-buy"
+        }
+      ],
+      "at": "2026-10-26T10:10:38Z"
+    },
     {
       "fmp": "2883.HK",
       "sym": "2883-hk",
       "name": "China Oilfield Services Limited Class H",
-      "pct": 7.63,
+      "pct": 7.77,
       "short": "Naftasektor tõusis Lähis-Ida riskide ja kõrge naftahinna tõttu; ettevõtteuudist pole",
       "text": "Hongkongi naftaaktsiad tõusid täna hommikul turust sõltumatult: 21jingji andmetel oli China Oilfield Services sektori suurim tõusja (algul +3,5%), PetroChina +2,8%, Sinopec +2,5%, CNOOC +2%. Põhjuseks tuuakse Jeemeni huthide rünnakud Saudi Araabia naftarajatistele ja muredele tarnehäirete pärast; Brent käis eelmisel nädalal üle 117 dollari, kuigi täna hommikul langes alla 111. Ettevõttepõhist uudist ei leitud – tõus on sektoriülene ja seos naftahinna ootustega mõõdukalt kindel.",
       "sources": [
@@ -21,7 +55,7 @@
       "fmp": "1357.HK",
       "sym": "1357-hk",
       "name": "Meitu, Inc",
-      "pct": 6.84,
+      "pct": 6.98,
       "short": "Q3 äriülevaade: pildi- ja disainitoodete tulu +28,2% ~1 mld jüaanini",
       "text": "Meitu avaldas 3. kvartali äriülevaate, mille järgi pildi- ja disainitoodete (põhiäri) tulu kasvas aastaga 28,2% umbes 1 mld jüaanini. Uudis ilmus tänases Hongkongi börsiteadete kokkuvõttes enne tõusu. Täpsemaid ootustega võrdlusi ei leitud, kuid samalaadsed kvartaliuuendused on varem aktsiat tugevalt tõstnud; seos tänase tõusuga on tõenäoline, kuid mitte kinnitatud.",
       "sources": [
@@ -31,6 +65,40 @@
         }
       ],
       "at": "2026-10-26T06:13:29Z"
+    },
+    {
+      "fmp": "VIT-B.ST",
+      "sym": "vit.b-se",
+      "name": "Vitec Software Group AB Class B",
+      "pct": 6.39,
+      "short": "Jätkuv tõus pärast reedest Q3 tulemust (veidi üle ootuste); tänast uudist ei leitud",
+      "text": "Vitec avaldas 23.10 kolmanda kvartali tulemused: käive 909 mln SEK (konsensus 899), EBITA 272 mln SEK (267), korduvtulu 801 mln SEK – kõik veidi üle ootuste; puhaskasum jäi 5,6% alla ootuste. Lisaks teatati kahest uuest ülevõtmisest. Tänast eraldi uudist ei leitud, seega on tõus tõenäoliselt reedese tulemuse järelreaktsioon, kuid seos on kinnitamata.",
+      "sources": [
+        {
+          "title": "Vitecs ebita i linje med konsensus under tredje kvartalet (Börsvärlden, 23.10.2026)",
+          "url": "https://borsvarlden.com/artiklar/vitecs-ebita-i-linje-med-konsensus-under-tredje-kvartalet"
+        }
+      ],
+      "at": "2026-10-26T10:10:38Z"
+    },
+    {
+      "fmp": "PEN.OL",
+      "sym": "pen-no",
+      "name": "Panoro Energy ASA",
+      "pct": -6.19,
+      "short": "Gaboni Dussafu väljal uppus puurplatvorm; MaBoMo tootmine peatatud",
+      "text": "Borr Drillingu puurplatvorm Prospector 5 uppus laupäeva õhtul Gaboni rannikul Dussafu Marini loal, kus Panorole kuulub 17,5% (operaator BW Energy 73,5%); hukkus üks inimene ja neli on kadunud. MaBoMo tootmisüksuse tootmine peatati (rajatis kahjustusi ei saanud) ja taaskäivitamise aeg on teadmata; ohus on ka Hibiscuse väljade kavandatud puurimiskampaania. Aktsia langes ~6,5% 31,7 kroonini, ka BW Energy kukkus – seos on väga tugev.",
+      "sources": [
+        {
+          "title": "Why is Panoro Energy stock sliding today? (Investing.com, 26.10.2026)",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-panoro-energy-stock-sliding-today-93CH-4971680"
+        },
+        {
+          "title": "Borr Drilling Rig Sinks Off Gabon, One Person Dead And Four Missing (gCaptain)",
+          "url": "https://gcaptain.com/borr-drilling-rig-sinks-off-gabon-one-person-dead-and-four-missing/"
+        }
+      ],
+      "at": "2026-10-26T10:10:38Z"
     },
     {
       "fmp": "EOL.AX",
@@ -46,6 +114,55 @@
         }
       ],
       "at": "2026-10-26T06:13:29Z"
+    },
+    {
+      "fmp": "ADOC.PA",
+      "sym": "adoc-par",
+      "name": "Adocia SA",
+      "pct": 5.5,
+      "short": "Tänast uudist ei leitud; väikese turuväärtusega volatiilne biotehnoloogiaaktsia",
+      "text": "Adocia aktsia tõusis täna ~5,5% 2,53 euroni, kuid tänast börsiteadet ega meediauudist ei leitud. Viimane uudis oli 20.10: 7 mln euro rahastus (sh ~3 mln € aktsiaemissioon hinnaga 2,04 €), mis pikendab rahavarude jätkumist 2028. aasta I kvartalini. Põhjus on teadmata.",
+      "sources": [
+        {
+          "title": "Adocia étend sa visibilité financière jusqu'au premier trimestre 2028 (Option Finance, 20.10.2026)",
+          "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-10-20-adocia-etend-sa-visibilite-financiere-jusquau-premier-trimestre-2028.html"
+        }
+      ],
+      "at": "2026-10-26T10:10:38Z"
+    },
+    {
+      "fmp": "ADN1.DE",
+      "sym": "adn1-etr",
+      "name": "adesso SE",
+      "pct": 5.41,
+      "short": "Ainult väiksemad uudised (SOKA-BAU AI-platvorm, juhi lepingu pikendus); põhjus ebaselge",
+      "text": "Täna ilmus adesso kohta kaks väiksemat uudist: klient SOKA-BAU juurutas koos adessoga tehisintellekti platvormi ilma tarnijasõltuvuseta ning juhatuse liikme Kristina Gerwerti leping pikendati 2031. aastani (teade juba 22.10). Kumbki pole tõenäoliselt ~5% tõusu peamine põhjus; kauplemismaht on väike. Q3 tulemused tulevad 10.11. Põhjus on sisuliselt teadmata.",
+      "sources": [
+        {
+          "title": "adesso SE aktienews (finanznachrichten.de)",
+          "url": "https://www.finanznachrichten.de/nachrichten-aktien/adesso-se.htm"
+        },
+        {
+          "title": "SOKA-BAU and adesso Implement a Robust AI Platform Without Vendor Lock-In (MarketScreener)",
+          "url": "https://www.marketscreener.com/news/adesso-soka-bau-and-adesso-implement-a-robust-ai-platform-without-vendor-lock-in-ce785cdbd08cf725"
+        }
+      ],
+      "at": "2026-10-26T10:10:38Z"
+    },
+    {
+      "fmp": "GREEN.ST",
+      "sym": "green-se",
+      "name": "Green Landscaping Group AB",
+      "pct": 5.33,
+      "short": "Tänast uudist ei leitud; tõus aasta madalseisu lähedalt pärast nõrka Q3",
+      "text": "Green Landscaping avaldas 23.10 kolmanda kvartali aruande: käive kasvas 11% 1788 mln SEK-ni (orgaaniliselt 3%), kuid korrigeeritud EBITA langes 123 mln SEK-ni (135) ja marginaal 6,9%-ni (8,4%). Tänast uudist ei leitud; aktsia kaupleb aasta madalaima taseme lähedal, nii et tõus võib olla tagasipõrge – põhjus on kinnitamata.",
+      "sources": [
+        {
+          "title": "Green Landscaping Group Interim report January-September 2026 (Inderes, 23.10.2026)",
+          "url": "https://www.inderes.fi/en/releases/green-landscaping-group-publ-interim-report-january-september-2026"
+        }
+      ],
+      "at": "2026-10-26T10:10:38Z"
     }
   ]
 }
