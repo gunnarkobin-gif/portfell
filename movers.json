@@ -1,12 +1,12 @@
 {
   "date": "2026-10-26",
-  "updated": "2026-10-26T12:28:12Z",
+  "updated": "2026-10-26T14:08:20Z",
   "items": [
     {
       "fmp": "AOF.DE",
       "sym": "aof-etr",
       "name": "ATOSS Software SE",
-      "pct": 8.25,
+      "pct": 9.28,
       "short": "Taastumine reedesest langusest; Berenberg kinnitas ostusoovituse (siht 135 €)",
       "text": "ATOSS avaldas 23.10 kvartalitulemused: käive 52,6 mln € (47,2), EBIT 21,1 mln € (17,2), EBIT-marginaal 40%; aasta marginaalisiht tõsteti ~37%-ni, kuid käibe ootus langes vahemiku 210–215 mln € alumisse otsa, mis tõi reedel müügisurve. Täna avaldatud Berenbergi analüüs kinnitas ostusoovitust sihthinnaga 135 €, nimetades turu reaktsiooni liialdatuks. Tänane tõus on suure tõenäosusega reedese languse tagasipõrge, mida analüütikukommentaar toetas.",
       "sources": [
@@ -55,7 +55,7 @@
       "fmp": "PEN.OL",
       "sym": "pen-no",
       "name": "Panoro Energy ASA",
-      "pct": -6.64,
+      "pct": -6.78,
       "short": "Gaboni Dussafu väljal uppus puurplatvorm; MaBoMo tootmine peatatud",
       "text": "Borr Drillingu puurplatvorm Prospector 5 uppus laupäeva õhtul Gaboni rannikul Dussafu Marini loal, kus Panorole kuulub 17,5% (operaator BW Energy 73,5%); hukkus üks inimene ja neli on kadunud. MaBoMo tootmisüksuse tootmine peatati (rajatis kahjustusi ei saanud) ja taaskäivitamise aeg on teadmata; ohus on ka Hibiscuse väljade kavandatud puurimiskampaania. Aktsia langes ~6,5% 31,7 kroonini, ka BW Energy kukkus – seos on väga tugev.",
       "sources": [
@@ -69,6 +69,25 @@
         }
       ],
       "at": "2026-10-26T10:10:38Z"
+    },
+    {
+      "fmp": "SMCP.PA",
+      "sym": "smcp-par",
+      "name": "SMCP SA",
+      "pct": 6.59,
+      "short": "Tagasipõrge pärast eelmise nädala suurt langust; tänast uudist ei leitud",
+      "text": "SMCP aktsia kukkus 22. oktoobril umbes 12% pärast nõrka 9 kuu müügiülevaadet (käive 888,4 mln eurot, orgaaniliselt –0,2%, Prantsusmaal –10,4%) ja jätkas langust kuni reedeni (3,82 eurot). Täna on aktsia tõusnud ~6,5% (päeva tipus üle 11%, 4,28 euroni), kuid tänast ettevõtte- ega analüütikuuudist ei leitud. Tõenäoliselt on tegu tehnilise tagasipõrkega pärast müügisurvet; põhjus on kinnitamata.",
+      "sources": [
+        {
+          "title": "SMCP chute après un point d'activité terne (Zonebourse, 22.10.2026)",
+          "url": "https://www.zonebourse.com/actualite-bourse/smcp-chute-apres-un-point-d-activite-terne-ce785cded98af224"
+        },
+        {
+          "title": "SMCP – Ventes 9M 2026 (GlobeNewswire, 22.10.2026)",
+          "url": "https://www.globenewswire.com/news-release/2026/10/22/3386030/0/fr/smcp-ventes-9m-2026.html"
+        }
+      ],
+      "at": "2026-10-26T12:28:12Z"
     },
     {
       "fmp": "FRVIA.PA",
@@ -90,25 +109,6 @@
       "at": "2026-10-26T12:28:12Z"
     },
     {
-      "fmp": "SMCP.PA",
-      "sym": "smcp-par",
-      "name": "SMCP SA",
-      "pct": 6.49,
-      "short": "Tagasipõrge pärast eelmise nädala suurt langust; tänast uudist ei leitud",
-      "text": "SMCP aktsia kukkus 22. oktoobril umbes 12% pärast nõrka 9 kuu müügiülevaadet (käive 888,4 mln eurot, orgaaniliselt –0,2%, Prantsusmaal –10,4%) ja jätkas langust kuni reedeni (3,82 eurot). Täna on aktsia tõusnud ~6,5% (päeva tipus üle 11%, 4,28 euroni), kuid tänast ettevõtte- ega analüütikuuudist ei leitud. Tõenäoliselt on tegu tehnilise tagasipõrkega pärast müügisurvet; põhjus on kinnitamata.",
-      "sources": [
-        {
-          "title": "SMCP chute après un point d'activité terne (Zonebourse, 22.10.2026)",
-          "url": "https://www.zonebourse.com/actualite-bourse/smcp-chute-apres-un-point-d-activite-terne-ce785cded98af224"
-        },
-        {
-          "title": "SMCP – Ventes 9M 2026 (GlobeNewswire, 22.10.2026)",
-          "url": "https://www.globenewswire.com/news-release/2026/10/22/3386030/0/fr/smcp-ventes-9m-2026.html"
-        }
-      ],
-      "at": "2026-10-26T12:28:12Z"
-    },
-    {
       "fmp": "VIT-B.ST",
       "sym": "vit.b-se",
       "name": "Vitec Software Group AB Class B",
@@ -124,10 +124,29 @@
       "at": "2026-10-26T10:10:38Z"
     },
     {
+      "fmp": "MLCO",
+      "sym": "mlco",
+      "name": "Melco Resorts & Entertainment Ltd. Sponsored ADR",
+      "pct": 6.03,
+      "short": "Tänast ettevõttepõhist uudist ei leitud; ka teised Macau kasiinoaktsiad tõusid",
+      "text": "Melco ADR tõusis täna ~6% 3,96 dollarini, kuid tänast börsiteadet ega analüütikuuudist ei leitud. Samal ajal tõusis ka Wynn Resorts ~3,3%, mis viitab pigem Macau sektori liikumisele; tänast allikat sektori tõusu põhjuse kohta siiski ei leitud. Taustaks: Macau 3. kvartali kasiinotulu langes 3,8% ja Jefferies prognoosis oktoobri tuluks –7%, aktsia kauples enne tõusu aasta madalaima taseme (3,70 $) lähedal. Põhjus on kinnitamata.",
+      "sources": [
+        {
+          "title": "Macau October GGR forecast to fall 7%, weakness into November: Jefferies (AGBrief, 13.10.2026)",
+          "url": "https://agbrief.com/news/macau/13/10/2026/macau-october-ggr-forecast-to-fall-7-weakness-into-november-jefferies/"
+        },
+        {
+          "title": "Macau 3Q26 Casino GGR Falls 3.8% as Mass Baccarat Slides 7.9% (AGBrief, 22.10.2026)",
+          "url": "https://agbrief.com/news/macau/22/10/2026/macau-3q26-casino-ggr-falls-3-8-as-mass-baccarat-slides-7-9/"
+        }
+      ],
+      "at": "2026-10-26T14:08:20Z"
+    },
+    {
       "fmp": "GREEN.ST",
       "sym": "green-se",
       "name": "Green Landscaping Group AB",
-      "pct": 6.11,
+      "pct": 5.98,
       "short": "Tänast uudist ei leitud; tõus aasta madalseisu lähedalt pärast nõrka Q3",
       "text": "Green Landscaping avaldas 23.10 kolmanda kvartali aruande: käive kasvas 11% 1788 mln SEK-ni (orgaaniliselt 3%), kuid korrigeeritud EBITA langes 123 mln SEK-ni (135) ja marginaal 6,9%-ni (8,4%). Tänast uudist ei leitud; aktsia kaupleb aasta madalaima taseme lähedal, nii et tõus võib olla tagasipõrge – põhjus on kinnitamata.",
       "sources": [
@@ -137,21 +156,6 @@
         }
       ],
       "at": "2026-10-26T10:10:38Z"
-    },
-    {
-      "fmp": "BFIT.AS",
-      "sym": "bfit-ams",
-      "name": "Basic-Fit NV",
-      "pct": 5.92,
-      "short": "Tänast ettevõttepõhist uudist ei leitud; Q3 käibeülevaade oli 21.10",
-      "text": "Basic-Fit aktsia tõusis täna ~5,9% 30,40 euroni, kuid tänast börsiteadet ega analüütikuuudist ei leitud. Viimane suurem uudis oli 21.10 avaldatud 3. kvartali käive 417 mln € (+17% aastaga, ootustest ~1% parem) ja kinnitatud aastaprognoos, mille keskpunkt jäi veidi alla konsensuse; aktsia langes siis ~1,5%. Tänase tõusu põhjus on teadmata.",
-      "sources": [
-        {
-          "title": "Why is Basic Fit stock sliding today? (Investing.com, 21.10.2026)",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-basic-fit-stock-sliding-today-93CH-4962009"
-        }
-      ],
-      "at": "2026-10-26T12:28:12Z"
     },
     {
       "fmp": "EOL.AX",
@@ -201,6 +205,21 @@
         }
       ],
       "at": "2026-10-26T10:10:38Z"
+    },
+    {
+      "fmp": "BFIT.AS",
+      "sym": "bfit-ams",
+      "name": "Basic-Fit NV",
+      "pct": 5.23,
+      "short": "Tänast ettevõttepõhist uudist ei leitud; Q3 käibeülevaade oli 21.10",
+      "text": "Basic-Fit aktsia tõusis täna ~5,9% 30,40 euroni, kuid tänast börsiteadet ega analüütikuuudist ei leitud. Viimane suurem uudis oli 21.10 avaldatud 3. kvartali käive 417 mln € (+17% aastaga, ootustest ~1% parem) ja kinnitatud aastaprognoos, mille keskpunkt jäi veidi alla konsensuse; aktsia langes siis ~1,5%. Tänase tõusu põhjus on teadmata.",
+      "sources": [
+        {
+          "title": "Why is Basic Fit stock sliding today? (Investing.com, 21.10.2026)",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-basic-fit-stock-sliding-today-93CH-4962009"
+        }
+      ],
+      "at": "2026-10-26T12:28:12Z"
     }
   ]
 }
