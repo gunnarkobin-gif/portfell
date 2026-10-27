@@ -1,5 +1,44 @@
 {
   "date": "2026-10-27",
-  "updated": "2026-10-27T08:08:07Z",
-  "items": []
+  "updated": "2026-10-27T10:09:19Z",
+  "items": [
+    {
+      "fmp": "MUR.WA",
+      "sym": "mur-pl",
+      "name": "Murapol S.A.",
+      "pct": 5.83,
+      "short": "Juhatus otsustas maksta 2026. aasta dividendi ettemaksu 2,94 zł aktsia kohta",
+      "text": "Murapoli juhatus teatas täna hommikul, et maksab 2026. aasta kasumist dividendi ettemaksu 2,94 zł aktsia kohta, kokku umbes 120 mln zł kõigile 40,8 mln aktsiale. Dividendipäev on 25. november ja väljamakse 30. november. Praeguse ~38 zł hinna juures teeb see ligi 8% ettemakse, seega on seos tänase tõusuga tõenäoline. Muid ettevõttepõhiseid uudiseid tänase kohta ei leidnud.",
+      "sources": [
+        {
+          "title": "Murapol zdecydował o zaliczce na dywidendę za 2026 r. w wysokości 2,94 zł na akcję – Biznes24",
+          "url": "https://biznes24.pl/murapol-zdecydowal-o-zaliczce-na-dywidende-za-2026-r-w-wysokosci-294-zl-na-akcje/"
+        },
+        {
+          "title": "MURAPOL S.A.: Decyzja Zarządu o wypłacie zaliczki na poczet dywidendy za 2026 rok – Bankier.pl",
+          "url": "https://www.bankier.pl/wiadomosc/MURAPOL-S-A-Decyzja-Zarzadu-Murapol-S-A-o-wyplacie-zaliczki-na-poczet-dywidendy-za-2026-rok-9218796.html"
+        }
+      ],
+      "at": "2026-10-27T10:09:19Z"
+    },
+    {
+      "fmp": "PEN.OL",
+      "sym": "pen-no",
+      "name": "Panoro Energy ASA",
+      "pct": 5.2,
+      "short": "Tagasipõrge pärast esmaspäevast langust Gaboni puurplatvormi uppumise tõttu; tänast uudist ei leidnud",
+      "text": "Esmaspäeval langes Panoro umbes 6,5% (33,9-lt kuni 31,05 NOK-ni), kui Borr Drillingu platvorm Prospector 5 uppus Gabonis Dussafu Marini litsentsil, kus Panorole kuulub 17,5%, ja MaBoMo tootmine peatati ettevaatusabinõuna. Täna on aktsia ~33,4 NOK juures ehk suurem osa eilsest kukkumisest on tagasi võidetud. Tänase tõusu kohta konkreetset ettevõtte uudist (nt tootmise taastamist) ma ei leidnud, nii et seos on oletuslik – tõenäoliselt on tegu tagasipõrkega pärast ülereageerimist.",
+      "sources": [
+        {
+          "title": "Why is Panoro Energy stock sliding today? – Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/why-is-panoro-energy-stock-sliding-today-93CH-4971680"
+        },
+        {
+          "title": "Borr Drilling, BW Energy, Panoro shares slump after Gabon rig sinking – Investing.com",
+          "url": "https://www.investing.com/news/stock-market-news/borr-drilling-bw-energy-panoro-shares-slump-after-gabon-rig-sinking-4971641"
+        }
+      ],
+      "at": "2026-10-27T10:09:19Z"
+    }
+  ]
 }
