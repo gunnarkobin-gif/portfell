@@ -1,12 +1,31 @@
 {
   "date": "2026-10-27",
-  "updated": "2026-10-27T10:09:19Z",
+  "updated": "2026-10-27T12:11:29Z",
   "items": [
+    {
+      "fmp": "DOV.MI",
+      "sym": "dov-mil",
+      "name": "doValue S.p.A.",
+      "pct": 5.88,
+      "short": "Tänast uudist ei leidnud; käib aktsiate tagasiost (eile teatati 1,8 mln € ostudest)",
+      "text": "Tänase tõusu kohta ei leidnud ma ühtegi ettevõttepõhist uudist. doValue alustas 19. oktoobril kuni 10 mln euro suurust aktsiate tagasiostu ja teatas eile, et ostis 20.–23. oktoobril umbes 1,12 mln aktsiat keskmiselt veidi üle 1,60 € ehk kokku ~1,8 mln € eest. Tagasiost võib hinda toetada, kuid otsest seost tänase ~6% tõusuga allikad ei kinnita, seega on põhjus ebakindel.",
+      "sources": [
+        {
+          "title": "Azioni Dovalue – Teleborsa (doValue, buyback per quasi 1,8 milioni di euro, 26.10.2026)",
+          "url": "https://www.teleborsa.it/azioni/dovalue-dov-it0005610958-SVQwMDA1NjEwOTU4"
+        },
+        {
+          "title": "Dovalue Launches Share Buyback Program With Maximum Value Of €10 Million Effective Oct 19, 2026 – TradingView",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4650Z5:0-dovalue-launches-share-buyback-program-with-maximum-value-of-10-million-effective-oct-19-2026/"
+        }
+      ],
+      "at": "2026-10-27T12:11:29Z"
+    },
     {
       "fmp": "MUR.WA",
       "sym": "mur-pl",
       "name": "Murapol S.A.",
-      "pct": 5.83,
+      "pct": 5.56,
       "short": "Juhatus otsustas maksta 2026. aasta dividendi ettemaksu 2,94 zł aktsia kohta",
       "text": "Murapoli juhatus teatas täna hommikul, et maksab 2026. aasta kasumist dividendi ettemaksu 2,94 zł aktsia kohta, kokku umbes 120 mln zł kõigile 40,8 mln aktsiale. Dividendipäev on 25. november ja väljamakse 30. november. Praeguse ~38 zł hinna juures teeb see ligi 8% ettemakse, seega on seos tänase tõusuga tõenäoline. Muid ettevõttepõhiseid uudiseid tänase kohta ei leidnud.",
       "sources": [
