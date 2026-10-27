@@ -1,12 +1,46 @@
 {
   "date": "2026-10-27",
-  "updated": "2026-10-27T14:11:53Z",
+  "updated": "2026-10-27T16:16:17Z",
   "items": [
+    {
+      "fmp": "DVYSR.ST",
+      "sym": "dvysr-se",
+      "name": "Devyser Diagnostics AB",
+      "pct": 8.33,
+      "short": "Tänast ettevõtte uudist ei leidnud; III kvartali aruanne tuleb 3. novembril",
+      "text": "Devyseri tänase ~8% tõusu kohta ei leidnud ma ühtegi ettevõttepõhist uudist ega analüütiku hinnangu muutust. Ettevõte avaldab III kvartali tulemused 3. novembril kell 7.30 Kesk-Euroopa aja järgi. Aktsia on aasta tipust (138,6 SEK) kaugel all ja käib 52 nädala põhja lähedal, seega võib tegu olla tagasipõrkega enne aruannet, kuid allikad seda ei kinnita – põhjus on teadmata.",
+      "sources": [
+        {
+          "title": "Invitation to Devyser’s Q3 2026 results presentation – TradingView",
+          "url": "https://www.tradingview.com/news/modular_finance:27d12efb02cc9:0-invitation-to-devyser-s-q3-2026-results-presentation/"
+        }
+      ],
+      "at": "2026-10-27T16:16:17Z"
+    },
+    {
+      "fmp": "AMRC",
+      "sym": "amrc",
+      "name": "Ameresco, Inc. Class A",
+      "pct": 7.81,
+      "short": "Tagasipõrge eilselt 52 nädala põhjalt; tänast ettevõtte uudist ei leidnud",
+      "text": "Ameresco aktsia langes esmaspäeval uuele 52 nädala madalaimale tasemele 18,32 $-ni ja põrkab täna ~8% üles (~19,75 $). Eile teatas ettevõte ka 5,9 mln $ suuruse arvestite projekti lõpetamisest Oklahomas Mustangi linnas, kuid see on ettevõtte mastaabis väike. Tänase tõusu kohta konkreetset uudist ma ei leidnud, seega on tõenäoline selgitus tagasipõrge pärast järsku langust – kindlust selles pole.",
+      "sources": [
+        {
+          "title": "Ameresco (NYSE:AMRC) Hits New 1-Year Low – MarketBeat, 26.10.2026",
+          "url": "https://www.marketbeat.com/instant-alerts/price-ameresco-nyse-amrc-hits-new-1-year-low-should-you-sell-2026-10-26/"
+        },
+        {
+          "title": "Ameresco Completes $5.9M AMI Project for the City of Mustang, Oklahoma – Business Wire",
+          "url": "https://www.businesswire.com/news/home/20261026941596/en/Ameresco-Completes-5.9M-Advanced-Metering-Infrastructure-Project-for-the-City-of-Mustang-Oklahoma/"
+        }
+      ],
+      "at": "2026-10-27T16:16:17Z"
+    },
     {
       "fmp": "DOV.MI",
       "sym": "dov-mil",
       "name": "doValue S.p.A.",
-      "pct": 5.88,
+      "pct": 6.31,
       "short": "Tänast uudist ei leidnud; käib aktsiate tagasiost (eile teatati 1,8 mln € ostudest)",
       "text": "Tänase tõusu kohta ei leidnud ma ühtegi ettevõttepõhist uudist. doValue alustas 19. oktoobril kuni 10 mln euro suurust aktsiate tagasiostu ja teatas eile, et ostis 20.–23. oktoobril umbes 1,12 mln aktsiat keskmiselt veidi üle 1,60 € ehk kokku ~1,8 mln € eest. Tagasiost võib hinda toetada, kuid otsest seost tänase ~6% tõusuga allikad ei kinnita, seega on põhjus ebakindel.",
       "sources": [
@@ -25,7 +59,7 @@
       "fmp": "MUR.WA",
       "sym": "mur-pl",
       "name": "Murapol S.A.",
-      "pct": 5.56,
+      "pct": 6.11,
       "short": "Juhatus otsustas maksta 2026. aasta dividendi ettemaksu 2,94 zł aktsia kohta",
       "text": "Murapoli juhatus teatas täna hommikul, et maksab 2026. aasta kasumist dividendi ettemaksu 2,94 zł aktsia kohta, kokku umbes 120 mln zł kõigile 40,8 mln aktsiale. Dividendipäev on 25. november ja väljamakse 30. november. Praeguse ~38 zł hinna juures teeb see ligi 8% ettemakse, seega on seos tänase tõusuga tõenäoline. Muid ettevõttepõhiseid uudiseid tänase kohta ei leidnud.",
       "sources": [
@@ -39,6 +73,70 @@
         }
       ],
       "at": "2026-10-27T10:09:19Z"
+    },
+    {
+      "fmp": "ADOC.PA",
+      "sym": "adoc-par",
+      "name": "Adocia SA",
+      "pct": 5.86,
+      "short": "Tänast uudist ei leidnud; III kvartali käive avaldatakse 29. oktoobril",
+      "text": "Adocia kohta ei ilmunud 26.–27. oktoobril ühtegi uudist. Viimati teatas ettevõte 20. oktoobril 7 mln € rahastusest, mis pikendab raha jätkumist 2028. aasta I kvartalini, ja III kvartali käive avaldatakse 29. oktoobril. Väike ja kõikuv aktsia (~2,6 €) liigub sageli ilma uudisteta, seega tänase ~6% tõusu põhjus on teadmata.",
+      "sources": [
+        {
+          "title": "Actualités ADOCIA – Boursorama",
+          "url": "https://www.boursorama.com/cours/actualites/1rPADOC/"
+        },
+        {
+          "title": "Adocia étend sa visibilité financière jusqu'au premier trimestre 2028 – Boursorama, 20.10.2026",
+          "url": "https://www.boursorama.com/bourse/actualites/adocia-etend-sa-visibilite-financiere-jusqu-au-premier-trimestre-2028-d443fc234807a9c974f338bc0b163e2c"
+        }
+      ],
+      "at": "2026-10-27T16:16:17Z"
+    },
+    {
+      "fmp": "EYE",
+      "sym": "eye",
+      "name": "National Vision Holdings, Inc.",
+      "pct": -5.75,
+      "short": "Tänast ettevõtte uudist langusele ei leidnud",
+      "text": "National Vision ei ole täna ega eile ühtegi pressiteadet avaldanud (viimane oli 12. oktoobril stipendiumiprogrammi kohta) ja ma ei leidnud ka analüütikute hinnangumuutusi. III kvartali tulemuste kuupäeva pole veel teatatud. Tänase ~6% languse põhjus jääb seega teadmata.",
+      "sources": [
+        {
+          "title": "National Vision – News Releases",
+          "url": "https://ir.nationalvision.com/news-events/news-releases"
+        }
+      ],
+      "at": "2026-10-27T16:16:17Z"
+    },
+    {
+      "fmp": "NYXH",
+      "sym": "nyxh-be",
+      "name": "Nyxoah SA",
+      "pct": 5.55,
+      "short": "Eile teatati vaid III kvartali tulemuste kuupäev (5. nov); muud uudist ei leidnud",
+      "text": "Nyxoah teatas eile õhtul, et avaldab III kvartali tulemused 5. novembril – see on rutiinne teade, mitte põhjus hinnatõusuks. Muud tänast uudist ma ei leidnud. Aktsia hind on alla 1 $, kus protsendiliikumised on suured juba väikeste summade juures, seega tänase ~5,5% tõusu põhjus on teadmata.",
+      "sources": [
+        {
+          "title": "Nyxoah to Release Third Quarter 2026 Financial Results on November 5, 2026 – GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/10/26/3388608/0/en/nyxoah-to-release-third-quarter-2026-financial-results-on-november-5-2026.html"
+        }
+      ],
+      "at": "2026-10-27T16:16:17Z"
+    },
+    {
+      "fmp": "SHLS",
+      "sym": "shls",
+      "name": "Shoals Technologies Group, Inc. Class A",
+      "pct": 5.25,
+      "short": "Tänast ettevõtte uudist ei leidnud; III kvartali tulemused 4. novembril",
+      "text": "Shoalsi tänase ~5% tõusu kohta ei leidnud ma ühtegi ettevõttepõhist uudist. Ettevõte avaldab III kvartali tulemused 4. novembril enne turu avanemist. Ka teised päikeseenergia infrastruktuuri aktsiad portfellis tõusevad täna (nt Nextpower ~4%), mis viitab sektori liikumisele, kuid ühtegi allikat, mis seda selgitaks, ma ei leidnud – põhjus on ebakindel.",
+      "sources": [
+        {
+          "title": "Shoals Technologies Group Announces Third Quarter 2026 Earnings Release Date – Finviz, 19.10.2026",
+          "url": "https://finviz.com/news/403820/shoals-technologies-group-inc-announces-third-quarter-2026-earnings-release-date-and-conference-call"
+        }
+      ],
+      "at": "2026-10-27T16:16:17Z"
     },
     {
       "fmp": "PEN.OL",
@@ -58,7 +156,21 @@
         }
       ],
       "at": "2026-10-27T10:09:19Z"
+    },
+    {
+      "fmp": "RDNT",
+      "sym": "rdnt",
+      "name": "RadNet, Inc.",
+      "pct": 5.2,
+      "short": "Eile pärast turu sulgemist teatati ONRAD-i ostulepingust",
+      "text": "RadNet teatas esmaspäeval pärast börsi sulgemist kokkuleppest osta ONRAD, Inc., mis pakub radioloogia professionaalseid teenuseid; tehing ühendab radioloogide teenused, tehisintellekti lahendused ja ambulatoorse kuvamise ühtseks pakkumiseks. Täna on see esimene kauplemispäev pärast teadet ja aktsia tõuseb ~5%, seega on seos tõenäoline. Tehingu hinda ma allikast ei leidnud.",
+      "sources": [
+        {
+          "title": "RadNet, Inc. Announces Agreement to Acquire ONRAD, Inc. – GlobeNewswire, 26.10.2026",
+          "url": "https://www.globenewswire.com/news-release/2026/10/26/3388528/10985/en/radnet-inc-announces-agreement-to-acquire-onrad-inc.html"
+        }
+      ],
+      "at": "2026-10-27T16:16:17Z"
     }
-  ],
-  "error": "FMP ei vastanud (hinnapäringud ebaõnnestusid)"
+  ]
 }
