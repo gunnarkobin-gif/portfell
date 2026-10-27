@@ -1,12 +1,31 @@
 {
   "date": "2026-10-27",
-  "updated": "2026-10-27T16:16:17Z",
+  "updated": "2026-10-27T18:09:45Z",
   "items": [
+    {
+      "fmp": "ADOC.PA",
+      "sym": "adoc-par",
+      "name": "Adocia SA",
+      "pct": 10.5,
+      "short": "Tõus laienes ~10%-ni; tänast uudist ei leidnud, III kv käive tuleb 29. oktoobril",
+      "text": "Adocia tõus kasvas päeva lõpuks ~10,5%-ni ja aktsia sulgus päeva tipus 2,71 € juures. Tänase kohta ei leidnud ma ühtegi ettevõtte teadet ega analüütiku kommentaari. Viimane uudis oli 20. oktoobril teatatud 7 mln € rahastus, mis pikendab raha jätkumist 2028. aasta I kvartalini, ja III kvartali käive avaldatakse 29. oktoobril. Väike ja kõikuv aktsia liigub sageli ilma uudisteta, seega põhjus on teadmata.",
+      "sources": [
+        {
+          "title": "Actualités ADOCIA – Boursorama",
+          "url": "https://www.boursorama.com/cours/actualites/1rPADOC/"
+        },
+        {
+          "title": "Adocia étend sa visibilité financière jusqu'au premier trimestre 2028 – Boursorama, 20.10.2026",
+          "url": "https://www.boursorama.com/bourse/actualites/adocia-etend-sa-visibilite-financiere-jusqu-au-premier-trimestre-2028-d443fc234807a9c974f338bc0b163e2c"
+        }
+      ],
+      "at": "2026-10-27T18:09:45Z"
+    },
     {
       "fmp": "DVYSR.ST",
       "sym": "dvysr-se",
       "name": "Devyser Diagnostics AB",
-      "pct": 8.33,
+      "pct": 9.13,
       "short": "Tänast ettevõtte uudist ei leidnud; III kvartali aruanne tuleb 3. novembril",
       "text": "Devyseri tänase ~8% tõusu kohta ei leidnud ma ühtegi ettevõttepõhist uudist ega analüütiku hinnangu muutust. Ettevõte avaldab III kvartali tulemused 3. novembril kell 7.30 Kesk-Euroopa aja järgi. Aktsia on aasta tipust (138,6 SEK) kaugel all ja käib 52 nädala põhja lähedal, seega võib tegu olla tagasipõrkega enne aruannet, kuid allikad seda ei kinnita – põhjus on teadmata.",
       "sources": [
@@ -21,7 +40,7 @@
       "fmp": "AMRC",
       "sym": "amrc",
       "name": "Ameresco, Inc. Class A",
-      "pct": 7.81,
+      "pct": 7.64,
       "short": "Tagasipõrge eilselt 52 nädala põhjalt; tänast ettevõtte uudist ei leidnud",
       "text": "Ameresco aktsia langes esmaspäeval uuele 52 nädala madalaimale tasemele 18,32 $-ni ja põrkab täna ~8% üles (~19,75 $). Eile teatas ettevõte ka 5,9 mln $ suuruse arvestite projekti lõpetamisest Oklahomas Mustangi linnas, kuid see on ettevõtte mastaabis väike. Tänase tõusu kohta konkreetset uudist ma ei leidnud, seega on tõenäoline selgitus tagasipõrge pärast järsku langust – kindlust selles pole.",
       "sources": [
@@ -37,29 +56,25 @@
       "at": "2026-10-27T16:16:17Z"
     },
     {
-      "fmp": "DOV.MI",
-      "sym": "dov-mil",
-      "name": "doValue S.p.A.",
-      "pct": 6.31,
-      "short": "Tänast uudist ei leidnud; käib aktsiate tagasiost (eile teatati 1,8 mln € ostudest)",
-      "text": "Tänase tõusu kohta ei leidnud ma ühtegi ettevõttepõhist uudist. doValue alustas 19. oktoobril kuni 10 mln euro suurust aktsiate tagasiostu ja teatas eile, et ostis 20.–23. oktoobril umbes 1,12 mln aktsiat keskmiselt veidi üle 1,60 € ehk kokku ~1,8 mln € eest. Tagasiost võib hinda toetada, kuid otsest seost tänase ~6% tõusuga allikad ei kinnita, seega on põhjus ebakindel.",
+      "fmp": "EYE",
+      "sym": "eye",
+      "name": "National Vision Holdings, Inc.",
+      "pct": -7.02,
+      "short": "Tänast ettevõtte uudist langusele ei leidnud",
+      "text": "National Vision ei ole täna ega eile ühtegi pressiteadet avaldanud (viimane oli 12. oktoobril stipendiumiprogrammi kohta) ja ma ei leidnud ka analüütikute hinnangumuutusi. III kvartali tulemuste kuupäeva pole veel teatatud. Tänase ~6% languse põhjus jääb seega teadmata.",
       "sources": [
         {
-          "title": "Azioni Dovalue – Teleborsa (doValue, buyback per quasi 1,8 milioni di euro, 26.10.2026)",
-          "url": "https://www.teleborsa.it/azioni/dovalue-dov-it0005610958-SVQwMDA1NjEwOTU4"
-        },
-        {
-          "title": "Dovalue Launches Share Buyback Program With Maximum Value Of €10 Million Effective Oct 19, 2026 – TradingView",
-          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4650Z5:0-dovalue-launches-share-buyback-program-with-maximum-value-of-10-million-effective-oct-19-2026/"
+          "title": "National Vision – News Releases",
+          "url": "https://ir.nationalvision.com/news-events/news-releases"
         }
       ],
-      "at": "2026-10-27T12:11:29Z"
+      "at": "2026-10-27T16:16:17Z"
     },
     {
       "fmp": "MUR.WA",
       "sym": "mur-pl",
       "name": "Murapol S.A.",
-      "pct": 6.11,
+      "pct": 6.67,
       "short": "Juhatus otsustas maksta 2026. aasta dividendi ettemaksu 2,94 zł aktsia kohta",
       "text": "Murapoli juhatus teatas täna hommikul, et maksab 2026. aasta kasumist dividendi ettemaksu 2,94 zł aktsia kohta, kokku umbes 120 mln zł kõigile 40,8 mln aktsiale. Dividendipäev on 25. november ja väljamakse 30. november. Praeguse ~38 zł hinna juures teeb see ligi 8% ettemakse, seega on seos tänase tõusuga tõenäoline. Muid ettevõttepõhiseid uudiseid tänase kohta ei leidnud.",
       "sources": [
@@ -75,53 +90,72 @@
       "at": "2026-10-27T10:09:19Z"
     },
     {
-      "fmp": "ADOC.PA",
-      "sym": "adoc-par",
-      "name": "Adocia SA",
-      "pct": 5.86,
-      "short": "Tänast uudist ei leidnud; III kvartali käive avaldatakse 29. oktoobril",
-      "text": "Adocia kohta ei ilmunud 26.–27. oktoobril ühtegi uudist. Viimati teatas ettevõte 20. oktoobril 7 mln € rahastusest, mis pikendab raha jätkumist 2028. aasta I kvartalini, ja III kvartali käive avaldatakse 29. oktoobril. Väike ja kõikuv aktsia (~2,6 €) liigub sageli ilma uudisteta, seega tänase ~6% tõusu põhjus on teadmata.",
+      "fmp": "CICN.SW",
+      "sym": "cicn-ch",
+      "name": "Cicor Technologies",
+      "pct": 6.52,
+      "short": "Tänast ettevõtte uudist ei leidnud; viimane teade oli 15. okt III kv tulemus",
+      "text": "Cicori tänase ~6,5% tõusu (140,6 CHF-ni) kohta ei leidnud ma ühtegi ettevõtte teadet ega analüütiku hinnangu muutust. Viimati teatas ettevõte 15. oktoobril III kvartali müügikasvust 6,7% (170,8 mln CHF) ja tellimuste kasvust 10,7%, kinnitades 2026. aasta prognoosi (müük 700–750 mln CHF). Need on vanad uudised, seega tänase liikumise põhjus jääb teadmata.",
       "sources": [
         {
-          "title": "Actualités ADOCIA – Boursorama",
-          "url": "https://www.boursorama.com/cours/actualites/1rPADOC/"
+          "title": "Cicor reports 6.7% sales growth and strong order intake in Q3 – EQS, 15.10.2026",
+          "url": "https://www.eqs-news.com/news/ad-hoc/cicor-reports-6-7-sales-growth-and-strong-order-intake-in-q3-order-backlog-supports-expected-acceleration-in-q4/47bc49f7-6877-4c8f-b69a-c2378bc0383f_en"
+        }
+      ],
+      "at": "2026-10-27T18:09:45Z"
+    },
+    {
+      "fmp": "DOV.MI",
+      "sym": "dov-mil",
+      "name": "doValue S.p.A.",
+      "pct": 5.81,
+      "short": "Tänast uudist ei leidnud; käib aktsiate tagasiost (eile teatati 1,8 mln € ostudest)",
+      "text": "Tänase tõusu kohta ei leidnud ma ühtegi ettevõttepõhist uudist. doValue alustas 19. oktoobril kuni 10 mln euro suurust aktsiate tagasiostu ja teatas eile, et ostis 20.–23. oktoobril umbes 1,12 mln aktsiat keskmiselt veidi üle 1,60 € ehk kokku ~1,8 mln € eest. Tagasiost võib hinda toetada, kuid otsest seost tänase ~6% tõusuga allikad ei kinnita, seega on põhjus ebakindel.",
+      "sources": [
+        {
+          "title": "Azioni Dovalue – Teleborsa (doValue, buyback per quasi 1,8 milioni di euro, 26.10.2026)",
+          "url": "https://www.teleborsa.it/azioni/dovalue-dov-it0005610958-SVQwMDA1NjEwOTU4"
         },
         {
-          "title": "Adocia étend sa visibilité financière jusqu'au premier trimestre 2028 – Boursorama, 20.10.2026",
-          "url": "https://www.boursorama.com/bourse/actualites/adocia-etend-sa-visibilite-financiere-jusqu-au-premier-trimestre-2028-d443fc234807a9c974f338bc0b163e2c"
+          "title": "Dovalue Launches Share Buyback Program With Maximum Value Of €10 Million Effective Oct 19, 2026 – TradingView",
+          "url": "https://www.tradingview.com/news/reuters.com,2026:newsml_FWN4650Z5:0-dovalue-launches-share-buyback-program-with-maximum-value-of-10-million-effective-oct-19-2026/"
+        }
+      ],
+      "at": "2026-10-27T12:11:29Z"
+    },
+    {
+      "fmp": "RDNT",
+      "sym": "rdnt",
+      "name": "RadNet, Inc.",
+      "pct": 5.49,
+      "short": "Eile pärast turu sulgemist teatati ONRAD-i ostulepingust",
+      "text": "RadNet teatas esmaspäeval pärast börsi sulgemist kokkuleppest osta ONRAD, Inc., mis pakub radioloogia professionaalseid teenuseid; tehing ühendab radioloogide teenused, tehisintellekti lahendused ja ambulatoorse kuvamise ühtseks pakkumiseks. Täna on see esimene kauplemispäev pärast teadet ja aktsia tõuseb ~5%, seega on seos tõenäoline. Tehingu hinda ma allikast ei leidnud.",
+      "sources": [
+        {
+          "title": "RadNet, Inc. Announces Agreement to Acquire ONRAD, Inc. – GlobeNewswire, 26.10.2026",
+          "url": "https://www.globenewswire.com/news-release/2026/10/26/3388528/10985/en/radnet-inc-announces-agreement-to-acquire-onrad-inc.html"
         }
       ],
       "at": "2026-10-27T16:16:17Z"
     },
     {
-      "fmp": "EYE",
-      "sym": "eye",
-      "name": "National Vision Holdings, Inc.",
-      "pct": -5.75,
-      "short": "Tänast ettevõtte uudist langusele ei leidnud",
-      "text": "National Vision ei ole täna ega eile ühtegi pressiteadet avaldanud (viimane oli 12. oktoobril stipendiumiprogrammi kohta) ja ma ei leidnud ka analüütikute hinnangumuutusi. III kvartali tulemuste kuupäeva pole veel teatatud. Tänase ~6% languse põhjus jääb seega teadmata.",
+      "fmp": "OSW",
+      "sym": "osw",
+      "name": "OneSpaWorld Holdings Ltd.",
+      "pct": 5.33,
+      "short": "Royal Caribbeani tugev tulemus tõstis kruiisisektorit; OSW tulemused homme",
+      "text": "OneSpaWorld haldab spaasid kruiisilaevadel, ja täna tõusis Royal Caribbean ~8% pärast oodatust paremat III kvartali kasumit (6,57 $ aktsia kohta vs oodatud 6,38 $) ja aastaprognoosi tõstmist; ka Norwegian tõusis ~3%. OneSpaWorld ise avaldab III kvartali tulemused homme (28. okt) enne turu avanemist. Ettevõttepõhist uudist ma ei leidnud, kuid sektori seos on üsna tõenäoline – allikad OneSpaWorldi otseselt ei maini.",
       "sources": [
         {
-          "title": "National Vision – News Releases",
-          "url": "https://ir.nationalvision.com/news-events/news-releases"
-        }
-      ],
-      "at": "2026-10-27T16:16:17Z"
-    },
-    {
-      "fmp": "NYXH",
-      "sym": "nyxh-be",
-      "name": "Nyxoah SA",
-      "pct": 5.55,
-      "short": "Eile teatati vaid III kvartali tulemuste kuupäev (5. nov); muud uudist ei leidnud",
-      "text": "Nyxoah teatas eile õhtul, et avaldab III kvartali tulemused 5. novembril – see on rutiinne teade, mitte põhjus hinnatõusuks. Muud tänast uudist ma ei leidnud. Aktsia hind on alla 1 $, kus protsendiliikumised on suured juba väikeste summade juures, seega tänase ~5,5% tõusu põhjus on teadmata.",
-      "sources": [
+          "title": "Royal Caribbean Surges 8% as Earnings Beat Lifts Full-Year Outlook – 24/7 Wall St., 27.10.2026",
+          "url": "https://247wallst.com/investing/2026/10/27/royal-caribbean-surges-8-as-earnings-beat-lifts-full-year-outlook-norwegian-climbs-3-carnival-edges-higher/"
+        },
         {
-          "title": "Nyxoah to Release Third Quarter 2026 Financial Results on November 5, 2026 – GlobeNewswire",
-          "url": "https://www.globenewswire.com/news-release/2026/10/26/3388608/0/en/nyxoah-to-release-third-quarter-2026-financial-results-on-november-5-2026.html"
+          "title": "OneSpaWorld (OSW) Set to Post Earnings on Wednesday – MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/upcoming-onespaworld-osw-set-to-post-earnings-on-wednesday-2026-10-23/"
         }
       ],
-      "at": "2026-10-27T16:16:17Z"
+      "at": "2026-10-27T18:09:45Z"
     },
     {
       "fmp": "SHLS",
@@ -158,16 +192,16 @@
       "at": "2026-10-27T10:09:19Z"
     },
     {
-      "fmp": "RDNT",
-      "sym": "rdnt",
-      "name": "RadNet, Inc.",
-      "pct": 5.2,
-      "short": "Eile pärast turu sulgemist teatati ONRAD-i ostulepingust",
-      "text": "RadNet teatas esmaspäeval pärast börsi sulgemist kokkuleppest osta ONRAD, Inc., mis pakub radioloogia professionaalseid teenuseid; tehing ühendab radioloogide teenused, tehisintellekti lahendused ja ambulatoorse kuvamise ühtseks pakkumiseks. Täna on see esimene kauplemispäev pärast teadet ja aktsia tõuseb ~5%, seega on seos tõenäoline. Tehingu hinda ma allikast ei leidnud.",
+      "fmp": "NYXH",
+      "sym": "nyxh-be",
+      "name": "Nyxoah SA",
+      "pct": 5.1,
+      "short": "Eile teatati vaid III kvartali tulemuste kuupäev (5. nov); muud uudist ei leidnud",
+      "text": "Nyxoah teatas eile õhtul, et avaldab III kvartali tulemused 5. novembril – see on rutiinne teade, mitte põhjus hinnatõusuks. Muud tänast uudist ma ei leidnud. Aktsia hind on alla 1 $, kus protsendiliikumised on suured juba väikeste summade juures, seega tänase ~5,5% tõusu põhjus on teadmata.",
       "sources": [
         {
-          "title": "RadNet, Inc. Announces Agreement to Acquire ONRAD, Inc. – GlobeNewswire, 26.10.2026",
-          "url": "https://www.globenewswire.com/news-release/2026/10/26/3388528/10985/en/radnet-inc-announces-agreement-to-acquire-onrad-inc.html"
+          "title": "Nyxoah to Release Third Quarter 2026 Financial Results on November 5, 2026 – GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/10/26/3388608/0/en/nyxoah-to-release-third-quarter-2026-financial-results-on-november-5-2026.html"
         }
       ],
       "at": "2026-10-27T16:16:17Z"
