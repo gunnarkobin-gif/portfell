@@ -166,7 +166,7 @@ details summary{cursor:pointer;color:var(--muted);font-size:.85rem}
     </div>
     <ul class="plist" id="tb"><li class="skel">Laen positsioone…</li></ul>
     <details style="margin-top:10px"><summary id="missSum">Hinnata positsioonid</summary><p class="small muted" id="missList"></p></details>
-    <p class="small muted">Päeva tulemus näidatakse ainult börsidel, kus täna on kaubeldud. Enne avamist, nädalavahetusel ja pühadel on rida märgitud „suletud“ ja päevatulemusse see ei lähe. Eurodes muutus on valuutakursi muutuseta. Võlakirjad on õhtuse sünkrooni hinnaga, päevatulemust neil ei näidata. Positsioonid uuenevad Google Drive'i PORTFELL sünkroonist iga tund. Üle ±5% liikujatele otsib Claude tööpäeviti iga 2 tunni järel kella 8-st 20-ni tänased uudised ja lisab selgituse rea alla. Viimase kontrolli aeg on „Suurimad liikujad“ all.</p>
+    <p class="small muted">Päeva tulemus näidatakse ainult börsidel, kus täna on kaubeldud. Enne avamist, nädalavahetusel ja pühadel on rida märgitud „suletud“ ja päevatulemusse see ei lähe. Eurodes muutus on valuutakursi muutuseta. Võlakirjade hinnad otsib Claude igal ööl pärast USA turu sulgemist veebist (kuupäev on hinna järel); päevatulemust neil ei näidata. Positsioonid uuenevad Google Drive'i PORTFELL sünkroonist iga tund. Üle ±5% liikujatele otsib Claude tööpäeviti iga 2 tunni järel kella 8-st 20-ni tänased uudised ja lisab selgituse rea alla. Viimase kontrolli aeg on „Suurimad liikujad“ all.</p>
     <button class="linkbtn" id="keyReset" type="button">Vaheta FMP võtit</button>
   </section>
 </div>
@@ -183,7 +183,7 @@ const FXCCY=["USD","GBP","SEK","NOK","DKK","CHF","PLN","CAD","AUD","HKD","MYR"];
 const BOOKS=[["EU","Euroopa"],["US","USA / Kanada"],["ASIA","Aasia / Okeaania"],["BONDS","Võlakirjad"]];
 const $=id=>document.getElementById(id);
 
-let mcp=null, rows=[], quotes={}, fx={EUR:1}, fxAt=null, lastQuoteAt=null, syncTime=null, why={}, whyAt=null, whyErr="";
+let mcp=null, rows=[], quotes={}, fx={EUR:1}, fxAt=null, lastQuoteAt=null, syncTime=null, why={}, whyAt=null, whyErr="", bondPx={};
 let watches=[], filt="ALL", sortK="dayEur", sortDir=-1;
 const errs={};
 
@@ -239,7 +239,7 @@ function compute(){
   for(const o of rows){
     o.price=null;o.pct=null;o.valEur=null;o.dayEur=null;o.priced=false;o.traded=false;o.closed=false;
     if(o.book==="BONDS"){
-      const r=fxRate(o.ccy||"USD"); if(o.last!=null&&r){o.price=o.last;o.valEur=o.qty*o.last/100/r;o.priced=true;o.closed=true;}
+      const r=fxRate(o.ccy||"USD"), bp=bondPx[o.sym.toUpperCase()], px=bp&&bp.price!=null?bp.price:o.last; o.pxDate=bp&&bp.price!=null?bp.priceDate:null; if(px!=null&&r){o.price=px;o.valEur=o.qty*px/100/r;o.priced=true;}
       continue;
     }
     const q=o.fmp&&quotes[o.fmp];
@@ -291,7 +291,8 @@ function render(){
     const bs=rows.filter(o=>o.book===k); if(!bs.length) return "";
     const v=bs.reduce((a,o)=>a+(o.valEur||0),0), d=bs.reduce((a,o)=>a+(o.dayEur||0),0), p=v-d?d/(v-d)*100:null;
     const pr=bs.filter(o=>o.traded).length;
-    const note=k==="BONDS"?"päevatulemust ei näidata":(pr?`${pr}/${bs.length} kaubeldud täna`:"turg täna suletud");
+    const bd=k==="BONDS"?bs.map(o=>o.pxDate).filter(Boolean).sort().pop():null;
+    const note=k==="BONDS"?(bd?"hinnad "+fmtD(bd)+" seisuga":"hinnad failist"):(pr?`${pr}/${bs.length} kaubeldud täna`:"turg täna suletud");
     return `<div class="book"><div class="row"><h3>${lab}</h3><span class="num muted small">${bs.length} rida</span></div>
       <div class="row"><span class="num">${fmtE(v)}</span><span class="num ${cls(d)}">${fmtSE(d)}</span></div>
       <div class="row"><span class="note">${note}</span><span class="num ${cls(p)} small">${fmtP(p)}</span></div></div>`;
@@ -320,6 +321,12 @@ function whyBlock(o){
   const t=w.at?new Date(w.at).toLocaleTimeString("et-EE",{hour:"2-digit",minute:"2-digit"}):"";
   return `<details class="why"><summary>Miks ${w.pct!=null?fmtP(w.pct):""}?</summary><p>${esc(w.text||w.short||"")}</p>${src||t?`<p class="src">${src}${src&&t?" · ":""}${t?"selgitus "+t:""}</p>`:""}</details>`;
 }
+const fmtD=d=>{const m=String(d).match(/^(\d{4})-(\d{2})-(\d{2})/);return m?m[3]+"."+m[2]:String(d);};
+async function loadBonds(){
+  try{const r=await fetch("bonds.json?t="+Date.now(),{cache:"no-store"}); if(!r.ok) return;
+    const m=await r.json(), nb={}; (m&&Array.isArray(m.items)?m.items:[]).forEach(it=>{if(it&&it.isin&&typeof it.price==="number")nb[String(it.isin).toUpperCase()]=it;}); bondPx=nb;
+  }catch(_){}
+}
 async function loadMovers(){
   try{
     const r=await fetch("movers.json?t="+Date.now(),{cache:"no-store"}); if(!r.ok) return;
@@ -339,7 +346,7 @@ function renderTable(){
     const pill=o.closed?'<span class="flag" style="background:var(--line);color:var(--muted)">suletud</span>':o.pct==null?'<span class="muted num">—</span>':`<span class="pill ${cls(o.pct)}">${fmtP(o.pct)}</span>`;
     const w=o.w?" · "+o.w.toFixed(1).replace(".",",")+"%":"";
     return `<li><span class="nm">${esc(o.name)}${flag}</span><span class="r1">${pill}</span>
-      <span class="meta">${esc(o.sym)} · ${bl[o.book]||o.book} · ${fmtPx(o.price)}</span>
+      <span class="meta">${esc(o.sym)} · ${bl[o.book]||o.book} · ${fmtPx(o.price)}${o.book==="BONDS"?(o.pxDate?" ("+fmtD(o.pxDate)+")":" (fail)"):""}</span>
       <span class="r2"><span class="${cls(o.dayEur)}">${fmtSE(o.dayEur)}</span> <span class="muted">/ ${fmtE(o.valEur)}${w}</span></span>${whyBlock(o)}</li>`;
   }).join(""):`<li class="skel">${rows.length?"Filtrile vastavaid ridu pole.":"Positsioone pole veel laaditud."}</li>`;
 }
@@ -436,16 +443,16 @@ async function refreshQuotes(){
   busy=false; render();
 }
 let timer=null, posTimer=null;
-function startTimer(){stopTimer();timer=setInterval(()=>{if(!document.hidden)refreshQuotes();},REFRESH_MS);posTimer=setInterval(async()=>{if(document.hidden)return;const ok=await loadPositions();await loadMovers();if(ok)render();},15*60000);}
+function startTimer(){stopTimer();timer=setInterval(()=>{if(!document.hidden)refreshQuotes();},REFRESH_MS);posTimer=setInterval(async()=>{if(document.hidden)return;const ok=await loadPositions();await loadMovers();await loadBonds();if(ok)render();},15*60000);}
 function stopTimer(){if(timer)clearInterval(timer);if(posTimer)clearInterval(posTimer);timer=posTimer=null;}
 document.addEventListener("visibilitychange",()=>{if(!document.hidden&&apiKey&&lastQuoteAt&&Date.now()-lastQuoteAt>REFRESH_MS/2)refreshQuotes();});
 
 async function boot(){
-  const ok=await loadPositions(); await loadMovers(); render();
+  const ok=await loadPositions(); await loadMovers(); await loadBonds(); render();
   if(!apiKey){showKeyForm();return;}
   if(ok){await refreshQuotes();startTimer();}
 }
-$("refresh").addEventListener("click",async()=>{$("refresh").disabled=true;await loadPositions();await loadMovers();await refreshQuotes();$("refresh").disabled=false;});
+$("refresh").addEventListener("click",async()=>{$("refresh").disabled=true;await loadPositions();await loadMovers();await loadBonds();await refreshQuotes();$("refresh").disabled=false;});
 boot();
 })();
 </script>
