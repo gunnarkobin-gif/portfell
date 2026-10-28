@@ -1,12 +1,12 @@
 {
   "date": "2026-10-28",
-  "updated": "2026-10-28T10:09:08Z",
+  "updated": "2026-10-28T12:11:38Z",
   "items": [
     {
       "fmp": "ADOC.PA",
       "sym": "adoc-par",
       "name": "Adocia SA",
-      "pct": 18.05,
+      "pct": 16.14,
       "short": "Tänast uudist ei leidnud; homme (29.10) tuleb III kvartali käive",
       "text": "Adocia aktsia tõusis täna Pariisis ~18% (2,71-lt 3,20 euroni). Tänast börsiteadet ega analüütiku kommentaari ma ei leidnud. Viimane suurem uudis oli 20. oktoobril: 7 mln euro rahastus (aktsiaemissioon hinnaga 2,04 € ja suurem aktsionärilaen), mis pikendab rahavarusid 2028. aasta I kvartalini ja kaotab jätkusuutlikkuse kahtluse. Homme, 29. oktoobril, avaldatakse III kvartali käive; seos tänase tõusuga on oletuslik ning väikese biotehnoloogiaaktsia puhul võib see olla ka lihtsalt kauplemine.",
       "sources": [
@@ -25,7 +25,7 @@
       "fmp": "ADYEN.AS",
       "sym": "adyen-ams",
       "name": "Adyen NV",
-      "pct": -10.95,
+      "pct": -12.17,
       "short": "III kv käive ületas ootusi, kuid 2026 marginaalisiht langetati ja 2028 siht loobuti",
       "text": "Adyen avaldas täna III kvartali ülevaate: netotulu kasvas 23% 738,1 mln euroni (analüütikud ootasid 730,3 mln) ja töödeldud maht kasvas 30%. Samas langetas firma 2026. aasta EBITDA marginaali sihti 50%-le (varem ~52%) ja loobus 2028. aasta üle 55% marginaali eesmärgist, et kiirendada investeeringuid juulis ostetud Talon.One'i ja Orbi. Aktsia kukkus Amsterdamis kuni 13%; seos on selge – turg reageeris kasumlikkuse sihtide kärpimisele.",
       "sources": [
@@ -44,7 +44,7 @@
       "fmp": "CDA.PA",
       "sym": "cda-par",
       "name": "Compagnie des Alpes SA",
-      "pct": 7.67,
+      "pct": 7.44,
       "short": "Aastakäive +2,6% ja EBO kasvu prognoos tõsteti ~6%-le (varem 2–5%)",
       "text": "Compagnie des Alpes avaldas eile õhtul majandusaasta 2025/26 käibe: 1,433 mld eurot, +2,6% (võrreldaval baasil +2,2%); suusa- ja välitegevuste segment kasvas 6,5%, teemapargid langesid 0,5%. Firma tõstis EBO (EBITDA) kasvu prognoosi ligikaudu 6%-le (Tignes'i varamüügi kasumita), varem oli siht +2…+5%. Tänane ~7,7% tõus on suure tõenäosusega seotud just prognoosi tõstmisega.",
       "sources": [
@@ -63,7 +63,7 @@
       "fmp": "GUBRA.CO",
       "sym": "gubra-dk",
       "name": "Gubra A/S",
-      "pct": 7.1,
+      "pct": 7.38,
       "short": "Tõus pärast eilset investorite R&D päeva ja 2030. aasta strateegia esitlust",
       "text": "Gubra pidas eile Londonis esimese investorite R&D päeva ja tutvustas 2030. aasta strateegiat: 8–10 kliinilises faasis ravimikandidaati, CRO äri ~10% aastane orgaaniline kasv ja 2–3 uut ettevõtet Ventures üksuses; juhtkandidaati GUB-UCN2 laiendatakse ka lihaskao ja vananemisega seotud näidustustele. Inderesi analüütik hindas, et sõnumid kinnitasid investeerimisjuhtumit, kuigi uusi finantseesmärke ei antud. Tänane ~7% tõus langeb ajaliselt kokku sündmusega, kuid otsest põhjust allikad ei nimeta.",
       "sources": [
@@ -97,7 +97,7 @@
       "fmp": "DVYSR.ST",
       "sym": "dvysr-se",
       "name": "Devyser Diagnostics AB",
-      "pct": 5.82,
+      "pct": 6.36,
       "short": "Tänast uudist ei leidnud; III kvartali tulemused tulevad 2. novembril",
       "text": "Devyseri aktsia tõusis täna Stockholmis ~5,8% (55-lt 58,2 kroonini) väikese käibega. Tänast börsiteadet ega analüütiku kommentaari ma ei leidnud. Järgmine oluline sündmus on III kvartali tulemused 2. novembril; põhjus on teadmata.",
       "sources": [
@@ -107,6 +107,25 @@
         }
       ],
       "at": "2026-10-28T10:09:08Z"
+    },
+    {
+      "fmp": "KRU.WA",
+      "sym": "kru-pl",
+      "name": "Kruk S.A",
+      "pct": -5.2,
+      "short": "Eile õhtul avaldatud III kv kasum langes 32% (198 mln zł)",
+      "text": "Kruk avaldas eile (27.10) õhtul III kvartali aruande: kontserni puhaskasum langes aastaga 32% 198 mln zlotini ja tegevustulu 10% 727 mln zlotini; üheksa kuu kasum oli 753 mln zlotti (−14%). Tulemused olid üldiselt kooskõlas varem (9.10) avaldatud eelinfoga ning juht Piotr Krupa ütles, et nad pole tänavuse kasumitasemega rahul. Tänast eraldi uudist ega analüütiku kommentaari ma ei leidnud; ~5% langus tuleb tõenäoliselt aruande järel, kuid seos on mõõdukalt kindel.",
+      "sources": [
+        {
+          "title": "Wiadomości KRUK (KRU) – BiznesRadar.pl",
+          "url": "https://www.biznesradar.pl/wiadomosci/KRUK"
+        },
+        {
+          "title": "Mocne spadki kursu akcji Kruka. Spłaty „poniżej operacyjnych oczekiwań” – XYZ (9.10.2026)",
+          "url": "https://xyz.pl/dzieje-sie/mocne-spadki-kursu-akcji-kruka-splaty-ponizej-operacyjnych-oczekiwan2213-2213"
+        }
+      ],
+      "at": "2026-10-28T12:11:38Z"
     }
   ]
 }
