@@ -88,6 +88,13 @@ label.tog{display:flex;align-items:center;gap:6px;font-size:.85rem;color:var(--m
 .why .src a{color:var(--accent)}
 .whyshort{display:block;font-size:.76rem;color:var(--muted);white-space:normal;margin-top:1px}
 .mlist li{align-items:start}
+.mtabs.mkt{flex-wrap:wrap}
+.mtabs.mkt .chip{font-size:.78rem;padding:4px 10px}
+.mlist li.grp{display:block;font-size:.68rem;text-transform:uppercase;letter-spacing:.08em;color:var(--muted);font-weight:600;padding-top:6px;border-top:1px solid var(--line)}
+.mlist li.grp:first-child{border-top:0;padding-top:0}
+.mlist .why{margin-top:2px}
+.mlist .why summary{font-weight:500;color:var(--muted);font-size:.78rem;white-space:normal}
+.mlist .why[open] summary{color:var(--accent)}
 .sortbar{display:flex;gap:6px;flex-wrap:wrap;align-items:center;width:100%}
 .sortbar .k{margin-right:2px}
 .sortbar .chip::after{content:attr(data-arrow)}
@@ -142,6 +149,12 @@ details summary{cursor:pointer;color:var(--muted);font-size:.85rem}
       <button class="chip" type="button" data-m="mDn" aria-pressed="false">Langejad</button>
       <button class="chip" type="button" data-m="mEur" aria-pressed="false">Mõju €</button>
     </div>
+    <div class="mtabs mkt" id="mMkt" role="group" aria-label="Turg">
+      <button class="chip" type="button" data-k="ALL">Kõik turud</button>
+      <button class="chip" type="button" data-k="EU">Euroopa</button>
+      <button class="chip" type="button" data-k="US">USA / Kanada</button>
+      <button class="chip" type="button" data-k="ASIA">Aasia</button>
+    </div>
     <div class="mcol">
       <ul class="mlist" id="mUp"><li class="skel">ootan hindu</li></ul>
       <ul class="mlist" id="mDn" hidden><li class="skel">ootan hindu</li></ul>
@@ -185,7 +198,8 @@ const BOOKS=[["EU","Euroopa"],["US","USA / Kanada"],["ASIA","Aasia / Okeaania"],
 const $=id=>document.getElementById(id);
 
 let mcp=null, rows=[], quotes={}, fx={EUR:1}, fxAt=null, lastQuoteAt=null, syncTime=null, why={}, whyAt=null, whyErr="", bondPx={};
-let watches=[], filt="ALL", sortK="dayEur", sortDir=-1;
+let watches=[], filt="ALL", sortK="dayEur", sortDir=-1, mMkt="ALL";
+try{const v=localStorage.getItem("pp_mmkt");if(v)mMkt=v;}catch(_){}
 const errs={};
 
 function toFmp(sym){
@@ -302,11 +316,25 @@ function render(){
       <div class="row"><span class="note">${note}</span><span class="num ${cls(p)} small">${fmtP(p)}</span></div></div>`;
   }).join("");
 
-  const li=(o,val,c)=>{const w=o.fmp&&why[o.fmp];return `<li><span class="nm">${esc(o.name)}<span class="tk">${esc(o.sym)}</span>${w&&w.short?`<span class="whyshort">${esc(w.short)}</span>`:""}</span><span class="num ${c}">${val}</span></li>`;};
-  const byPct=[...priced].sort((a,b)=>b.pct-a.pct);
-  $("mUp").innerHTML=byPct.filter(o=>o.pct>0).slice(0,8).map(o=>li(o,fmtP(o.pct),"up")).join("")||'<li class="skel">tõusjaid pole</li>';
-  $("mDn").innerHTML=byPct.filter(o=>o.pct<0).reverse().slice(0,8).map(o=>li(o,fmtP(o.pct),"down")).join("")||'<li class="skel">langejaid pole</li>';
-  $("mEur").innerHTML=[...priced].sort((a,b)=>Math.abs(b.dayEur)-Math.abs(a.dayEur)).slice(0,8).map(o=>li(o,fmtSE(o.dayEur),cls(o.dayEur))).join("")||'<li class="skel">ootan hindu</li>';
+  const li=(o,val,c)=>{const w=o.fmp&&why[o.fmp];
+    const src=w?(w.sources||[]).map(s=>{const u=safeUrl(s.url);return u?`<a href="${esc(u)}" target="_blank" rel="noopener">${esc(s.title||new URL(u).hostname)}</a>`:"";}).filter(Boolean).join(" · "):"";
+    const det=w?`<details class="why"><summary>${esc(w.short||"Selgitus")}</summary><p>${esc(w.text||"")}</p>${src?`<p class="src">${src}</p>`:""}</details>`
+      :(o.pct!=null&&Math.abs(o.pct)>=5?`<span class="whyshort">selgitus tuleb järgmisel uudiste kontrollil</span>`:"");
+    return `<li><span class="nm" style="white-space:normal">${esc(o.name)}<span class="tk">${esc(o.sym)}</span>${det}</span><span class="num ${c}">${val}</span></li>`;};
+  const MK=[["EU","Euroopa"],["US","USA / Kanada"],["ASIA","Aasia / Okeaania"]];
+  const lists=src=>({
+    mUp:[...src].filter(o=>o.pct>0).sort((a,b)=>b.pct-a.pct),
+    mDn:[...src].filter(o=>o.pct<0).sort((a,b)=>a.pct-b.pct),
+    mEur:[...src].filter(o=>o.dayEur).sort((a,b)=>Math.abs(b.dayEur)-Math.abs(a.dayEur))});
+  const val={mUp:o=>li(o,fmtP(o.pct),"up"),mDn:o=>li(o,fmtP(o.pct),"down"),mEur:o=>li(o,fmtSE(o.dayEur),cls(o.dayEur))};
+  const empty={mUp:"tõusjaid pole",mDn:"langejaid pole",mEur:"täna kaubeldud aktsiaid pole"};
+  for(const id of ["mUp","mDn","mEur"]){
+    let html="";
+    if(mMkt==="ALL"){
+      for(const [k,lab] of MK){const L=lists(priced.filter(o=>o.book===k))[id].slice(0,5); if(L.length) html+=`<li class="grp">${lab}</li>`+L.map(val[id]).join("");}
+    } else html=lists(priced.filter(o=>o.book===mMkt))[id].slice(0,10).map(val[id]).join("");
+    $(id).innerHTML=html||`<li class="skel">${empty[id]}</li>`;
+  }
 
   renderTable();
   const miss=eq.filter(o=>!o.priced);
@@ -401,6 +429,9 @@ $("sortSel").addEventListener("change",e=>{const [k,d]=e.target.value.split(":")
 try{const v=localStorage.getItem("pp_sort");if(v){const [k,d]=v.split(":");if(k&&d){sortK=k;sortDir=+d;}}}catch(_){}
 document.querySelector(".mtabs").addEventListener("click",e=>{const b=e.target.closest("[data-m]");if(!b)return;
   document.querySelectorAll(".mtabs [data-m]").forEach(x=>{x.setAttribute("aria-pressed",x===b);$(x.dataset.m).hidden=x!==b;});});
+function mktUI(){document.querySelectorAll("#mMkt [data-k]").forEach(b=>b.setAttribute("aria-pressed",b.dataset.k===mMkt));}
+$("mMkt").addEventListener("click",e=>{const b=e.target.closest("[data-k]");if(!b)return;mMkt=b.dataset.k;try{localStorage.setItem("pp_mmkt",mMkt);}catch(_){}mktUI();render();});
+mktUI();
 $("q").addEventListener("input",renderTable);$("big5").addEventListener("change",renderTable);
 try{const f=localStorage.getItem("pp_filt");if(f)filt=f;}catch(_){}
 chips();
