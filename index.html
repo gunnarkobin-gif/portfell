@@ -176,10 +176,11 @@ details summary{cursor:pointer;color:var(--muted);font-size:.85rem}
 const FILE_ID="1878rAg0Gh2laz741K1r8tKou_22EztMx";
 const DRIVE="Google Drive", FMP="FMP";
 const REFRESH_MS=60000, CHUNK=80;
-const SUF={se:".ST",no:".OL",par:".PA",fr:".PA",ch:".SW",swx:".SW",mil:".MI",it:".MI",lon:".L",gb:".L",etr:".DE",de:".DE",be:".BR",bru:".BR",dk:".CO",ams:".AS",lis:".LS",pl:".WA",es:".MC",mce:".MC",hel:".HE",ca:".TO",hk:".HK",hkg:".HK",kls:".KL",au:".AX",aus:".AX"};
-const SUFCCY={".ST":"SEK",".OL":"NOK",".PA":"EUR",".SW":"CHF",".MI":"EUR",".L":"GBp",".DE":"EUR",".BR":"EUR",".CO":"DKK",".AS":"EUR",".LS":"EUR",".WA":"PLN",".MC":"EUR",".HE":"EUR",".TO":"CAD",".HK":"HKD",".KL":"MYR",".AX":"AUD","":"USD"};
-const OVERRIDE={"envi-ams":"ENVIP.OL","nyxh-be":"NYXH"};
-const FXCCY=["USD","GBP","SEK","NOK","DKK","CHF","PLN","CAD","AUD","HKD","MYR"];
+const SUF={se:".ST",no:".OL",par:".PA",fr:".PA",ch:".SW",swx:".SW",mil:".MI",it:".MI",lon:".L",gb:".L",etr:".DE",de:".DE",be:".BR",bru:".BR",dk:".CO",ams:".AS",lis:".LS",pl:".WA",es:".MC",mce:".MC",hel:".HE",ca:".TO",hk:".HK",hkg:".HK",kls:".KL",au:".AX",aus:".AX",wbo:".VI",vie:".VI",wien:".VI",at:".VI",ie:".IR",dub:".IR",ise:".IR",ir:".IR",fra:".F",xet:".DE",osl:".OL",sto:".ST",cph:".CO",ldn:".L",mad:".MC",vtx:".SW",nz:".NZ",nzx:".NZ",sg:".SI",sgx:".SI",si:".SI",jp:".T",tyo:".T",ks:".KS",kr:".KS",tw:".TW",ice:".IC",ta:".TA",tase:".TA",to:".TO",tsx:".TO"};
+const SUFCCY={".ST":"SEK",".OL":"NOK",".PA":"EUR",".SW":"CHF",".MI":"EUR",".L":"GBp",".DE":"EUR",".BR":"EUR",".CO":"DKK",".AS":"EUR",".LS":"EUR",".WA":"PLN",".MC":"EUR",".HE":"EUR",".TO":"CAD",".HK":"HKD",".KL":"MYR",".AX":"AUD",".VI":"EUR",".IR":"EUR",".F":"EUR",".NZ":"NZD",".SI":"SGD",".T":"JPY",".KS":"KRW",".TW":"TWD",".IC":"ISK",".TA":"ILS","":"USD"};
+const OVERRIDE={"envi-ams":"ENVIP.OL","nyxh-be":"NYXH","arch-no":"ARHVF"};
+let SYMMAP={}, extraPx={}; // symbols.json (öine ülesanne) + telefonis leitud vasted; prices.json = varuhinnad
+const FXCCY=["USD","GBP","SEK","NOK","DKK","CHF","PLN","CAD","AUD","HKD","MYR","NZD","SGD","JPY","KRW","TWD","ISK","ILS"];
 const BOOKS=[["EU","Euroopa"],["US","USA / Kanada"],["ASIA","Aasia / Okeaania"],["BONDS","Võlakirjad"]];
 const $=id=>document.getElementById(id);
 
@@ -188,7 +189,7 @@ let watches=[], filt="ALL", sortK="dayEur", sortDir=-1;
 const errs={};
 
 function toFmp(sym){
-  const s=sym.trim().toLowerCase(); if(OVERRIDE[s]) return OVERRIDE[s];
+  const s=sym.trim().toLowerCase(); if(SYMMAP[s]) return SYMMAP[s]; if(OVERRIDE[s]) return OVERRIDE[s];
   const i=s.lastIndexOf("-");
   if(i<0) return s.toUpperCase().replace(/\./g,"-");
   let base=s.slice(0,i), suf=SUF[s.slice(i+1)];
@@ -226,7 +227,7 @@ function buildRows(text){
   return out;
 }
 
-const SUFTZ={".L":"Europe/London",".LS":"Europe/Lisbon",".HE":"Europe/Helsinki",".HK":"Asia/Hong_Kong",".KL":"Asia/Kuala_Lumpur",".AX":"Australia/Sydney",".TO":"America/New_York","":"America/New_York"};
+const SUFTZ={".L":"Europe/London",".LS":"Europe/Lisbon",".HE":"Europe/Helsinki",".HK":"Asia/Hong_Kong",".KL":"Asia/Kuala_Lumpur",".AX":"Australia/Sydney",".TO":"America/New_York",".VI":"Europe/Vienna",".IR":"Europe/Dublin",".NZ":"Pacific/Auckland",".SI":"Asia/Singapore",".T":"Asia/Tokyo",".KS":"Asia/Seoul",".TW":"Asia/Taipei","":"America/New_York"};
 const dayIn=(ms,tz)=>new Intl.DateTimeFormat("en-CA",{timeZone:tz,year:"numeric",month:"2-digit",day:"2-digit"}).format(new Date(ms));
 function tradedToday(fmp,q){
   if(!q||!q.timestamp) return true;
@@ -244,6 +245,9 @@ function compute(){
     }
     const q=o.fmp&&quotes[o.fmp];
     if(!q||!q.price){
+      const xp=extraPx[o.sym.toLowerCase()];
+      if(xp&&typeof xp.price==="number"){const c=xp.currency||o.ccy, px=c==="GBp"?xp.price/100:xp.price, r=fxRate(c==="GBp"?"GBP":c);
+        if(r){o.price=xp.price;o.valEur=o.qty*px/r;o.priced=true;o.closed=true;o.pxDate=xp.priceDate||null;o.xsrc=true;}continue;}
       if(o.last!=null){const r=fxRate(o.ccy);if(r)o.valEur=o.qty*o.last/r;}
       continue;
     }
@@ -311,7 +315,7 @@ function render(){
     :whyAt?`Uudised kontrollitud ${new Date(whyAt).toLocaleTimeString("et-EE",{hour:"2-digit",minute:"2-digit"})} · ${nWhy?nWhy+" selgitust":"üle ±5% liikujaid polnud"}`
     :"Uudiste selgitusi täna veel pole.";
   $("missSum").textContent=`Hinnata positsioonid (${miss.length})`;
-  $("missList").textContent=miss.length?miss.map(o=>`${o.name} (${o.sym} → ${o.fmp||"tundmatu börs"})`).join("; "):"Kõik aktsiad said FMP-st hinna.";
+  $("missList").textContent=miss.length?miss.map(o=>`${o.name} (${o.sym} → ${o.fmp||"tundmatu börs"})`).join("; "):"Kõik aktsiad said hinna.";
 }
 
 const safeUrl=u=>/^https?:\/\//i.test(String(u||""))?String(u):null;
@@ -322,6 +326,41 @@ function whyBlock(o){
   return `<details class="why"><summary>Miks ${w.pct!=null?fmtP(w.pct):""}?</summary><p>${esc(w.text||w.short||"")}</p>${src||t?`<p class="src">${src}${src&&t?" · ":""}${t?"selgitus "+t:""}</p>`:""}</details>`;
 }
 const fmtD=d=>{const m=String(d).match(/^(\d{4})-(\d{2})-(\d{2})/);return m?m[3]+"."+m[2]:String(d);};
+const LSMAP="pp_symmap";
+function lsJ(k){try{return JSON.parse(localStorage.getItem(k)||"{}")||{};}catch(_){return {};}}
+function lsJset(k,v){try{localStorage.setItem(k,JSON.stringify(v));}catch(_){}}
+async function loadMaps(){
+  let srv={};
+  try{const r=await fetch("symbols.json?t="+Date.now(),{cache:"no-store"}); if(r.ok){const m=await r.json(); srv=(m&&m.map)||{};}}catch(_){}
+  const loc={}; Object.entries(lsJ(LSMAP)).forEach(([k,v])=>{if(v&&v.fmp)loc[k]=v.fmp;});
+  SYMMAP={...loc}; Object.entries(srv).forEach(([k,v])=>{if(v)SYMMAP[String(k).toLowerCase()]=v;});
+  try{const r=await fetch("prices.json?t="+Date.now(),{cache:"no-store"}); if(r.ok){const m=await r.json(), nx={}; (m&&Array.isArray(m.items)?m.items:[]).forEach(it=>{if(it&&it.sym)nx[String(it.sym).toLowerCase()]=it;}); extraPx=nx;}}catch(_){}
+}
+/* Kui aktsiale hinda ei tule, otsi FMP-st firma nime järgi õige tähis ja jäta see meelde. */
+const LEGAL=/(&\s*co\.?\s*kgaa)|\b(aktiengesellschaft|ag|se|plc|inc|corp(oration)?|ltd|limited|s\.?a\.?|n\.?v\.?|asa|ab|oyj|a\/s|s\.?p\.?a\.?|kgaa|holdings?|group|class [a-z]|publ)\b\.?/gi;
+let resolving=false;
+async function resolveMissing(){
+  if(resolving||!apiKey) return; resolving=true;
+  const tried=lsJ("pp_symtry"), map=lsJ(LSMAP), now=Date.now(); let changed=false, n=0;
+  for(const o of rows){
+    if(o.book==="BONDS"||(o.fmp&&quotes[o.fmp])) continue;
+    const key=o.sym.toLowerCase(); if(tried[key]&&now-tried[key]<24*3600e3) continue;
+    if(++n>8) break; tried[key]=now;
+    const qn=o.name.replace(LEGAL," ").replace(/[^\p{L}\p{N}&' ]+/gu," ").replace(/\s+/g," ").replace(/[\s&]+$/,"").trim();
+    try{
+      const r=await fetch("https://financialmodelingprep.com/stable/search-name?query="+encodeURIComponent(qn)+"&apikey="+encodeURIComponent(apiKey),{cache:"no-store"});
+      const arr=r.ok?await r.json():[]; if(!Array.isArray(arr)) continue;
+      const bad=/OTC|CRYPTO|FOREX|CCC|CCY/i, want=(o.ccy||"").toUpperCase();
+      const nm=s=>String(s||"").toLowerCase().replace(LEGAL," ").replace(/[^\p{L}\p{N}]+/gu,"");
+      const cand=arr.filter(x=>x&&x.symbol&&!bad.test(x.exchange||"")&&nm(x.name)&&(nm(x.name).startsWith(nm(qn).slice(0,6))||nm(qn).startsWith(nm(x.name).slice(0,6))));
+      const pick=cand.find(x=>String(x.currency||"").toUpperCase()===want)||cand.find(x=>want==="GBP"&&x.currency==="GBp")||null;
+      if(!pick) continue;
+      const q=await fmpBatch([pick.symbol],"batch-quote").catch(()=>[]);
+      if(q&&q[0]&&q[0].price){map[key]={fmp:pick.symbol,at:now}; SYMMAP[key]=pick.symbol; o.fmp=pick.symbol; quotes[pick.symbol]=q[0]; changed=true;}
+    }catch(_){}
+  }
+  lsJset("pp_symtry",tried); if(changed){lsJset(LSMAP,map); render();} resolving=false;
+}
 async function loadBonds(){
   try{const r=await fetch("bonds.json?t="+Date.now(),{cache:"no-store"}); if(!r.ok) return;
     const m=await r.json(), nb={}; (m&&Array.isArray(m.items)?m.items:[]).forEach(it=>{if(it&&it.isin&&typeof it.price==="number")nb[String(it.isin).toUpperCase()]=it;}); bondPx=nb;
@@ -346,7 +385,7 @@ function renderTable(){
     const pill=o.closed?'<span class="flag" style="background:var(--line);color:var(--muted)">suletud</span>':o.pct==null?'<span class="muted num">—</span>':`<span class="pill ${cls(o.pct)}">${fmtP(o.pct)}</span>`;
     const w=o.w?" · "+o.w.toFixed(1).replace(".",",")+"%":"";
     return `<li><span class="nm">${esc(o.name)}${flag}</span><span class="r1">${pill}</span>
-      <span class="meta">${esc(o.sym)} · ${bl[o.book]||o.book} · ${fmtPx(o.price)}${o.book==="BONDS"?(o.pxDate?" ("+fmtD(o.pxDate)+")":" (fail)"):""}</span>
+      <span class="meta">${esc(o.sym)} · ${bl[o.book]||o.book} · ${fmtPx(o.price)}${o.book==="BONDS"?(o.pxDate?" ("+fmtD(o.pxDate)+")":" (fail)"):(o.xsrc?" (sulg. "+(o.pxDate?fmtD(o.pxDate):"?")+")":"")}</span>
       <span class="r2"><span class="${cls(o.dayEur)}">${fmtSE(o.dayEur)}</span> <span class="muted">/ ${fmtE(o.valEur)}${w}</span></span>${whyBlock(o)}</li>`;
   }).join(""):`<li class="skel">${rows.length?"Filtrile vastavaid ridu pole.":"Positsioone pole veel laaditud."}</li>`;
 }
@@ -439,20 +478,20 @@ async function refreshQuotes(){
     else if(e instanceof TypeError) setErr("fmp","FMP-ga ei saanud ühendust (võrk puudub?). Proovin uuesti.");
     else setErr("fmp","FMP andis vea"+(e.detail?": "+e.detail:" ("+e.message+")")+".");
   } else setErr("fmp",null);
-  if(anyOk) lastQuoteAt=Date.now();
+  if(anyOk){ lastQuoteAt=Date.now(); setTimeout(resolveMissing,0); }
   busy=false; render();
 }
 let timer=null, posTimer=null;
-function startTimer(){stopTimer();timer=setInterval(()=>{if(!document.hidden)refreshQuotes();},REFRESH_MS);posTimer=setInterval(async()=>{if(document.hidden)return;const ok=await loadPositions();await loadMovers();await loadBonds();if(ok)render();},15*60000);}
+function startTimer(){stopTimer();timer=setInterval(()=>{if(!document.hidden)refreshQuotes();},REFRESH_MS);posTimer=setInterval(async()=>{if(document.hidden)return;await loadMaps();const ok=await loadPositions();await loadMovers();await loadBonds();if(ok)render();},15*60000);}
 function stopTimer(){if(timer)clearInterval(timer);if(posTimer)clearInterval(posTimer);timer=posTimer=null;}
 document.addEventListener("visibilitychange",()=>{if(!document.hidden&&apiKey&&lastQuoteAt&&Date.now()-lastQuoteAt>REFRESH_MS/2)refreshQuotes();});
 
 async function boot(){
-  const ok=await loadPositions(); await loadMovers(); await loadBonds(); render();
+  await loadMaps(); const ok=await loadPositions(); await loadMovers(); await loadBonds(); render();
   if(!apiKey){showKeyForm();return;}
   if(ok){await refreshQuotes();startTimer();}
 }
-$("refresh").addEventListener("click",async()=>{$("refresh").disabled=true;await loadPositions();await loadMovers();await loadBonds();await refreshQuotes();$("refresh").disabled=false;});
+$("refresh").addEventListener("click",async()=>{$("refresh").disabled=true;await loadMaps();await loadPositions();await loadMovers();await loadBonds();await refreshQuotes();$("refresh").disabled=false;});
 boot();
 })();
 </script>

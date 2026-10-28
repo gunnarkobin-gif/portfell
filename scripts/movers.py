@@ -14,16 +14,33 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SUF = {"se": ".ST", "no": ".OL", "par": ".PA", "fr": ".PA", "ch": ".SW", "swx": ".SW", "mil": ".MI", "it": ".MI",
        "lon": ".L", "gb": ".L", "etr": ".DE", "de": ".DE", "be": ".BR", "bru": ".BR", "dk": ".CO", "ams": ".AS",
        "lis": ".LS", "pl": ".WA", "es": ".MC", "mce": ".MC", "hel": ".HE", "ca": ".TO", "hk": ".HK", "hkg": ".HK",
-       "kls": ".KL", "au": ".AX", "aus": ".AX"}
-OVERRIDE = {"envi-ams": "ENVIP.OL", "nyxh-be": "NYXH"}
+       "kls": ".KL", "au": ".AX", "aus": ".AX",
+       "wbo": ".VI", "vie": ".VI", "wien": ".VI", "at": ".VI", "ie": ".IR", "dub": ".IR", "ise": ".IR", "ir": ".IR",
+       "fra": ".F", "xet": ".DE", "osl": ".OL", "sto": ".ST", "cph": ".CO", "ldn": ".L", "mad": ".MC", "vtx": ".SW",
+       "nz": ".NZ", "nzx": ".NZ", "sg": ".SI", "sgx": ".SI", "si": ".SI", "jp": ".T", "tyo": ".T", "ks": ".KS", "kr": ".KS",
+       "tw": ".TW", "ice": ".IC", "ta": ".TA", "tase": ".TA", "to": ".TO", "tsx": ".TO"}
+OVERRIDE = {"envi-ams": "ENVIP.OL", "nyxh-be": "NYXH", "arch-no": "ARHVF"}
 SUFTZ = {".L": "Europe/London", ".LS": "Europe/Lisbon", ".HE": "Europe/Helsinki", ".HK": "Asia/Hong_Kong",
-         ".KL": "Asia/Kuala_Lumpur", ".AX": "Australia/Sydney", ".TO": "America/New_York", "": "America/New_York"}
+         ".KL": "Asia/Kuala_Lumpur", ".AX": "Australia/Sydney", ".TO": "America/New_York", ".VI": "Europe/Vienna", ".IR": "Europe/Dublin",
+         ".NZ": "Pacific/Auckland", ".SI": "Asia/Singapore", ".T": "Asia/Tokyo", ".KS": "Asia/Seoul", ".TW": "Asia/Taipei", "": "America/New_York"}
 THRESHOLD = 5.0
 CHUNK = 80
 
 
+def _symmap():
+    try:
+        return {k.lower(): v for k, v in json.load(open(os.path.join(ROOT, "symbols.json"))).get("map", {}).items() if v}
+    except Exception:
+        return {}
+
+
+SYMMAP = _symmap()
+
+
 def to_fmp(sym):
     s = sym.strip().lower()
+    if s in SYMMAP:
+        return SYMMAP[s]
     if s in OVERRIDE:
         return OVERRIDE[s]
     if "-" not in s:
