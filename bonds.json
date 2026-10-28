@@ -1,14 +1,54 @@
 {
-  "updated": "2026-10-28T06:32:58Z",
+  "updated": "2026-10-28T06:39:34Z",
   "items": [
+    {
+      "isin": "USU45709AB58",
+      "name": "Innophos Holdings, Inc. 9.375% 15-FEB-2028",
+      "price": null,
+      "priceDate": null,
+      "prevPrice": null,
+      "source": null,
+      "url": null,
+      "note": "uut hinda ei leitud 2026-10-28: FactSet ja IBKR ühendused vajavad uuesti ühendamist (pole selles seansis saadaval); stockevents.app näitab hinda 0 (andmed puuduvad); onvista rate-limit; cbonds, Deutsche Börse, bondblox lehti ei saanud laadida; otsing hinda ei andnud"
+    },
+    {
+      "isin": "USU6203KAE48",
+      "name": "MPH Acquisition Holdings LLC 5.5% 01-SEP-2028",
+      "price": null,
+      "priceDate": null,
+      "prevPrice": null,
+      "source": null,
+      "url": null,
+      "note": "uut hinda ei leitud 2026-10-28: FactSet ja IBKR ühendused vajavad uuesti ühendamist (pole selles seansis saadaval); stockevents.app hind 0; finanzen.net: 'aktuell keinen Kurs'; TradingView FINRA hinda ei näita; Deutsche Börse/Börse Frankfurt/bondblox ei laadinud"
+    },
+    {
+      "isin": "USU37027AB27",
+      "name": "GPD Companies, Inc. 12.5% 31-DEC-2029",
+      "price": null,
+      "priceDate": null,
+      "prevPrice": null,
+      "source": null,
+      "url": null,
+      "note": "uut hinda ei leitud 2026-10-28: FactSet ja IBKR ühendused vajavad uuesti ühendamist (pole selles seansis saadaval); stockevents.app hind 0; cbonds ei laadinud; otsing (TradingView, finanzen, onvista, Börse) hinda ei leidnud"
+    },
     {
       "isin": "USU98401AE97",
       "name": "Xerox Holdings Corporation 8.875% 30-NOV-2029",
       "price": 30.16,
       "priceDate": "2026-10-27",
-      "prevPrice": null,
+      "prevPrice": 30.16,
       "source": "stockevents.app",
       "url": "https://stockevents.app/en/stock/USU98401AE97.BOND"
+    },
+    {
+      "isin": "USP46214AJ49",
+      "name": "Generacion Mediterranea SA  30-JUN-2036",
+      "price": null,
+      "priceDate": null,
+      "prevPrice": null,
+      "source": null,
+      "url": null,
+      "note": "uut hinda ei leitud 2026-10-28: FactSet ja IBKR ühendused vajavad uuesti ühendamist (pole selles seansis saadaval); stockevents.app hind 0; cbonds/TradingView BCBA lehed ilma hinnata; otsing hinda ei leidnud"
     }
   ]
 }
