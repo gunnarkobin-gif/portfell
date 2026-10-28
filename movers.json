@@ -1,7 +1,83 @@
 {
   "date": "2026-10-28",
-  "updated": "2026-10-28T08:08:21Z",
+  "updated": "2026-10-28T10:09:08Z",
   "items": [
+    {
+      "fmp": "ADOC.PA",
+      "sym": "adoc-par",
+      "name": "Adocia SA",
+      "pct": 18.05,
+      "short": "Tänast uudist ei leidnud; homme (29.10) tuleb III kvartali käive",
+      "text": "Adocia aktsia tõusis täna Pariisis ~18% (2,71-lt 3,20 euroni). Tänast börsiteadet ega analüütiku kommentaari ma ei leidnud. Viimane suurem uudis oli 20. oktoobril: 7 mln euro rahastus (aktsiaemissioon hinnaga 2,04 € ja suurem aktsionärilaen), mis pikendab rahavarusid 2028. aasta I kvartalini ja kaotab jätkusuutlikkuse kahtluse. Homme, 29. oktoobril, avaldatakse III kvartali käive; seos tänase tõusuga on oletuslik ning väikese biotehnoloogiaaktsia puhul võib see olla ka lihtsalt kauplemine.",
+      "sources": [
+        {
+          "title": "ADOCIA annonce un financement de 7 millions d'euros (webdisclosure, 20.10.2026)",
+          "url": "https://www.webdisclosure.fr/press-release/adocia-epa-adoc-informations-privilegiees-autres-communiques-OLWnj6cft5t"
+        },
+        {
+          "title": "Actualités ADOCIA – Boursorama",
+          "url": "https://www.boursorama.com/cours/actualites/1rPADOC/"
+        }
+      ],
+      "at": "2026-10-28T10:09:08Z"
+    },
+    {
+      "fmp": "ADYEN.AS",
+      "sym": "adyen-ams",
+      "name": "Adyen NV",
+      "pct": -10.95,
+      "short": "III kv käive ületas ootusi, kuid 2026 marginaalisiht langetati ja 2028 siht loobuti",
+      "text": "Adyen avaldas täna III kvartali ülevaate: netotulu kasvas 23% 738,1 mln euroni (analüütikud ootasid 730,3 mln) ja töödeldud maht kasvas 30%. Samas langetas firma 2026. aasta EBITDA marginaali sihti 50%-le (varem ~52%) ja loobus 2028. aasta üle 55% marginaali eesmärgist, et kiirendada investeeringuid juulis ostetud Talon.One'i ja Orbi. Aktsia kukkus Amsterdamis kuni 13%; seos on selge – turg reageeris kasumlikkuse sihtide kärpimisele.",
+      "sources": [
+        {
+          "title": "Adyen Scraps Its 2028 Margin Target and Cuts This Year's to 50% – Finance Magnates",
+          "url": "https://www.financemagnates.com/fintech/payments/adyen-scraps-its-2028-margin-target-and-cuts-this-years-to-50/"
+        },
+        {
+          "title": "Dutch fintech firm Adyen's revenue tops forecast; trims 2026 margin goal – Reuters",
+          "url": "https://www.reuters.com/business/dutch-fintech-firm-adyens-revenue-tops-forecast-trims-2026-margin-goal-2026-10-28/"
+        }
+      ],
+      "at": "2026-10-28T10:09:08Z"
+    },
+    {
+      "fmp": "CDA.PA",
+      "sym": "cda-par",
+      "name": "Compagnie des Alpes SA",
+      "pct": 7.67,
+      "short": "Aastakäive +2,6% ja EBO kasvu prognoos tõsteti ~6%-le (varem 2–5%)",
+      "text": "Compagnie des Alpes avaldas eile õhtul majandusaasta 2025/26 käibe: 1,433 mld eurot, +2,6% (võrreldaval baasil +2,2%); suusa- ja välitegevuste segment kasvas 6,5%, teemapargid langesid 0,5%. Firma tõstis EBO (EBITDA) kasvu prognoosi ligikaudu 6%-le (Tignes'i varamüügi kasumita), varem oli siht +2…+5%. Tänane ~7,7% tõus on suure tõenäosusega seotud just prognoosi tõstmisega.",
+      "sources": [
+        {
+          "title": "Compagnie des Alpes affiche un chiffre d'affaires annuel en hausse et relève sa prévision – ABC Bourse",
+          "url": "https://www.abcbourse.com/marches/compagnie-des-alpes-affiche-un-chiffre-daffaires-annuel-en-hausse-et-releve-sa_705036"
+        },
+        {
+          "title": "Compagnie des Alpes : chiffre d'affaires en légère hausse pour 2025/26 – Finanzwire",
+          "url": "https://www.finanzwire.fr/article/compagnie-des-alpes-epa-cda-compagnie-des-alpes-chiffre-daffaires-en-legere-hausse-pour-202526-Cjp07hX8BdQ"
+        }
+      ],
+      "at": "2026-10-28T10:09:08Z"
+    },
+    {
+      "fmp": "GUBRA.CO",
+      "sym": "gubra-dk",
+      "name": "Gubra A/S",
+      "pct": 7.1,
+      "short": "Tõus pärast eilset investorite R&D päeva ja 2030. aasta strateegia esitlust",
+      "text": "Gubra pidas eile Londonis esimese investorite R&D päeva ja tutvustas 2030. aasta strateegiat: 8–10 kliinilises faasis ravimikandidaati, CRO äri ~10% aastane orgaaniline kasv ja 2–3 uut ettevõtet Ventures üksuses; juhtkandidaati GUB-UCN2 laiendatakse ka lihaskao ja vananemisega seotud näidustustele. Inderesi analüütik hindas, et sõnumid kinnitasid investeerimisjuhtumit, kuigi uusi finantseesmärke ei antud. Tänane ~7% tõus langeb ajaliselt kokku sündmusega, kuid otsest põhjust allikad ei nimeta.",
+      "sources": [
+        {
+          "title": "Gubra: 2030 strategy puts numbers on the ambition – Inderes",
+          "url": "https://www.inderes.fi/en/analyst-comments/gubra-2030-strategy-puts-numbers-on-the-ambition-while-near-term-value-drivers-are-unchanged"
+        },
+        {
+          "title": "Gubra outlines 2030 strategy – TradingView News",
+          "url": "https://www.tradingview.com/news/modular_finance:a4a0dee10b5ff:0-gubra-outlines-2030-strategy-to-scale-innovation-and-expand-its-clinical-stage-pipeline/"
+        }
+      ],
+      "at": "2026-10-28T10:09:08Z"
+    },
     {
       "fmp": "SPZ.AX",
       "sym": "spz-aus",
@@ -16,6 +92,21 @@
         }
       ],
       "at": "2026-10-28T06:06:53Z"
+    },
+    {
+      "fmp": "DVYSR.ST",
+      "sym": "dvysr-se",
+      "name": "Devyser Diagnostics AB",
+      "pct": 5.82,
+      "short": "Tänast uudist ei leidnud; III kvartali tulemused tulevad 2. novembril",
+      "text": "Devyseri aktsia tõusis täna Stockholmis ~5,8% (55-lt 58,2 kroonini) väikese käibega. Tänast börsiteadet ega analüütiku kommentaari ma ei leidnud. Järgmine oluline sündmus on III kvartali tulemused 2. novembril; põhjus on teadmata.",
+      "sources": [
+        {
+          "title": "Invitation to Devyser's Q3 2026 results presentation – TradingView News",
+          "url": "https://www.tradingview.com/news/modular_finance:27d12efb02cc9:0-invitation-to-devyser-s-q3-2026-results-presentation/"
+        }
+      ],
+      "at": "2026-10-28T10:09:08Z"
     }
   ]
 }
