@@ -1,12 +1,12 @@
 {
   "date": "2026-10-29",
-  "updated": "2026-10-29T17:09:38Z",
+  "updated": "2026-10-29T20:08:24Z",
   "items": [
     {
       "fmp": "ALNY",
       "sym": "alny",
       "name": "Alnylam Pharmaceuticals, Inc",
-      "pct": -23.84,
+      "pct": -25.13,
       "short": "III kvartali tulemus ületas ootusi, kuid aktsia langes ~24%; põhjust allikad ei selgita",
       "text": "Alnylam teatas täna III kvartali tulemused: globaalne toodete netokäive ~1,3 mld USD (+52% aastaga) ja EPS 16,26 USD vs konsensus 2,19 USD. Leitud allikad ei selgita, miks aktsia sellest hoolimata ~24% langes (võimalik, et kasumit mõjutas ühekordne kirje või investorid reageerisid juhtkonna kommentaaridele/prognoosile) – seos on kinnitamata. Taust: juulis langes aktsia ~30% pärast Amvuttra müügiprognoosi kärpimist ja konkurentsi kasvu.",
       "sources": [
@@ -29,7 +29,7 @@
       "fmp": "BOOT",
       "sym": "boot",
       "name": "Boot Barn Holdings, Inc.",
-      "pct": 15.09,
+      "pct": 15.16,
       "short": "II kvartali tulemused ületasid ootusi: müük +15%, EPS 1,73 USD",
       "text": "Boot Barn teatas eile õhtul II finantskvartali müügiks 582 mln USD (+15%) ja EPS-iks 1,73 USD (+26%), mis ületas ettevõtte enda prognoosi ülemist otsa. Ettevõte tõstis ka uute poodide eesmärgi 80-ni; analüütikud kärpisid siiski hinnasihte, sest FY2027 prognoosi vähendati. Seos tulemustega on tugev, sest tõus tuli kohe pärast aruannet.",
       "sources": [
@@ -52,7 +52,7 @@
       "fmp": "INSM",
       "sym": "insm",
       "name": "Insmed Incorporated",
-      "pct": 13.79,
+      "pct": 15.06,
       "short": "III kvartali käive 524 mln USD, Brinsupri ja Arikayce prognoosid tõsteti",
       "text": "Insmed teatas täna III kvartali kogukäibeks 524,4 mln USD, millest Brinsupri 400,1 mln USD (+29% eelmise kvartaliga võrreldes). Ettevõte tõstis 2026. aasta Brinsupri käibeprognoosi 1,35–1,4 mld USD-ni ja Arikayce'i prognoosi 460–470 mln USD-ni; lisaks algas Brinsupri müük Jaapanis. Seos hinnaliikumisega on tugev.",
       "sources": [
@@ -87,25 +87,10 @@
       "at": "2026-10-29T09:08:07Z"
     },
     {
-      "fmp": "AVAV",
-      "sym": "avav",
-      "name": "AeroVironment, Inc.",
-      "pct": 9.22,
-      "short": "Tänast ettevõttespetsiifilist uudist ei leidnud; aktsia taastub aasta madalaimalt tasemelt",
-      "text": "AeroVironment tõusis täna ~9%, kuid tänast ettevõtte teadet, tellimust ega analüütiku sammu ma ei leidnud. Taust: kaitsesektor oli septembris kogenud rekordilist languste jada ning AVAV on aasta algusest oluliselt langenud, seega võib tegu olla sektori ja põrke taastumisega – see on oletus, mida allikad otseselt ei kinnita.",
-      "sources": [
-        {
-          "title": "9 Defense Stocks to Watch Before the Next Big Rally – InvestorPlace",
-          "url": "https://investorplace.com/2026/10/9-defense-stocks-to-watch/"
-        }
-      ],
-      "at": "2026-10-29T17:09:38Z"
-    },
-    {
       "fmp": "GVA",
       "sym": "gva",
       "name": "Granite Construction Incorporated",
-      "pct": 8.44,
+      "pct": 9.07,
       "short": "III kvartali kohandatud EPS 3,81 USD ületas ootusi; uued 2029. a eesmärgid",
       "text": "Granite teatas täna III kvartali kohandatud EPS-iks 3,81 USD (konsensus 3,22 USD, aasta tagasi 2,70 USD) ja tutvustas 2029. aasta eesmärke. Raporteeritud puhaskasum oli vaid 3 mln USD, sest konverteeritavate võlakirjade arveldamisega kaasnesid 162 mln USD mitteoperatiivseid kulusid. Tõus on tõenäoliselt seotud tulemuste ja uute eesmärkidega.",
       "sources": [
@@ -116,6 +101,25 @@
         {
           "title": "Granite Construction (GVA) Q3 Earnings and Revenues Beat Estimates – Zacks",
           "url": "https://www.zacks.com/stock/news/3018078/granite-construction-gva-q3-earnings-and-revenues-beat-estimates"
+        }
+      ],
+      "at": "2026-10-29T17:09:38Z"
+    },
+    {
+      "fmp": "APG",
+      "sym": "apg",
+      "name": "APi Group Corporation",
+      "pct": 8.85,
+      "short": "Rekordiline III kvartal ja tõstetud 2026. a prognoos",
+      "text": "APi Group teatas täna rekordilisest III kvartalist: kohandatud EPS 0,50 USD (konsensus 0,47), kahekohaline orgaaniline kasv ja EBITDA marginaali paranemine; ettevõte tõstis 2026. aasta prognoosi. Tõus langeb kokku tulemustega ning seos on tugev.",
+      "sources": [
+        {
+          "title": "APi Group Reports Record Third Quarter 2026 Financial Results – Business Wire",
+          "url": "https://www.businesswire.com/news/home/20261029212570/en/APi-Group-Reports-Record-Third-Quarter-2026-Financial-Results-and-Raises-Full-Year-2026-Outlook/"
+        },
+        {
+          "title": "APi (APG) Tops Q3 Earnings and Revenue Estimates – Zacks",
+          "url": "https://www.zacks.com/stock/news/3018665/api-apg-tops-q3-earnings-and-revenue-estimates"
         }
       ],
       "at": "2026-10-29T17:09:38Z"
@@ -136,23 +140,14 @@
       "at": "2026-10-29T17:09:38Z"
     },
     {
-      "fmp": "LHX",
-      "sym": "lhx",
-      "name": "L3Harris Technologies Inc",
-      "pct": 7.43,
-      "short": "III kvartali tulemused ja rekordiline tellimuste portfell",
-      "text": "L3Harris avaldas täna III kvartali tulemused pealkirjaga „rekordiline tellimuste portfell ja tugevad tulemused“. Täpseid arve ega prognoosimuutusi ma lehelt ei saanud kätte, seega ulatuse kohta kindlust pole; ajaline kokkulangevus tulemustega viitab siiski tugevale seosele.",
-      "sources": [
-        {
-          "title": "L3Harris Delivers Record Backlog and Strong Third-Quarter Results – Business Wire",
-          "url": "https://www.financialcontent.com/article/bizwire-2026-10-29-l3harris-delivers-record-backlog-and-strong-third-quarter-results"
-        },
-        {
-          "title": "L3Harris Q3 2026 Earnings Call Transcript – Benzinga",
-          "url": "https://www.benzinga.com/news/26/10/62705244/l3harris-technologies-q3-2026-earnings-call-transcript"
-        }
-      ],
-      "at": "2026-10-29T17:09:38Z"
+      "fmp": "EYE",
+      "sym": "eye",
+      "name": "National Vision Holdings, Inc.",
+      "pct": 7.63,
+      "short": "National Vision +7,6%: tänast põhjust ei leidnud",
+      "text": "National Vision tõusis täna 7,6% 16,64 USD-ni. Otsingutes ei leidnud ma täna avaldatud tulemusi, prognoosimuudatust ega muud ettevõttespetsiifilist uudist, mis liikumist selgitaks. Põhjus jääb kinnitamata; võimalik seos on jaekaubandussektori laiema tõusuga, kuid see on vaid oletus.",
+      "sources": [],
+      "at": "2026-10-29T20:08:24Z"
     },
     {
       "fmp": "SALME.OL",
@@ -165,6 +160,40 @@
         {
           "title": "Salmon Evolution Q3 2026 slides: losses narrow as phase 2 nears – Investing.com",
           "url": "https://www.investing.com/news/company-news/salmon-evolution-q3-2026-slides-losses-narrow-as-phase-2-nears-93CH-4977672"
+        }
+      ],
+      "at": "2026-10-29T17:09:38Z"
+    },
+    {
+      "fmp": "OSW",
+      "sym": "osw",
+      "name": "OneSpaWorld Holdings Ltd.",
+      "pct": 7.23,
+      "short": "Rekordiline III kvartal, 100 mln $ tagasiost ja dividendi tõus 25%",
+      "text": "OneSpaWorld teatas eile rekordilisest III kvartalist: käive +7%, kohandatud EBITDA +12%, EPS 0,34 USD (konsensus 0,32). Ettevõte tõstis aasta prognoosi keskmist, kinnitas uue 100 mln USD aktsiate tagasiostu programmi ja tõstis kvartaalset dividendi 25%. Tõus jätkub tulemuste järel ning seos on tugev.",
+      "sources": [
+        {
+          "title": "OneSpaWorld Reports Record Third Quarter Fiscal 2026 Results – Business Wire",
+          "url": "https://www.businesswire.com/news/home/20261028384783/en/OneSpaWorld-Reports-Record-Third-Quarter-Fiscal-2026-Results/"
+        },
+        {
+          "title": "Why OneSpaWorld Stock Is Up Today – Motley Fool",
+          "url": "https://www.fool.com/investing/2026/10/28/why-onespaworld-stock-is-up-today/"
+        }
+      ],
+      "at": "2026-10-29T17:09:38Z"
+    },
+    {
+      "fmp": "AVAV",
+      "sym": "avav",
+      "name": "AeroVironment, Inc.",
+      "pct": 7.09,
+      "short": "Tänast ettevõttespetsiifilist uudist ei leidnud; aktsia taastub aasta madalaimalt tasemelt",
+      "text": "AeroVironment tõusis täna ~9%, kuid tänast ettevõtte teadet, tellimust ega analüütiku sammu ma ei leidnud. Taust: kaitsesektor oli septembris kogenud rekordilist languste jada ning AVAV on aasta algusest oluliselt langenud, seega võib tegu olla sektori ja põrke taastumisega – see on oletus, mida allikad otseselt ei kinnita.",
+      "sources": [
+        {
+          "title": "9 Defense Stocks to Watch Before the Next Big Rally – InvestorPlace",
+          "url": "https://investorplace.com/2026/10/9-defense-stocks-to-watch/"
         }
       ],
       "at": "2026-10-29T17:09:38Z"
@@ -185,20 +214,20 @@
       "at": "2026-10-29T17:09:38Z"
     },
     {
-      "fmp": "OSW",
-      "sym": "osw",
-      "name": "OneSpaWorld Holdings Ltd.",
-      "pct": 6.36,
-      "short": "Rekordiline III kvartal, 100 mln $ tagasiost ja dividendi tõus 25%",
-      "text": "OneSpaWorld teatas eile rekordilisest III kvartalist: käive +7%, kohandatud EBITDA +12%, EPS 0,34 USD (konsensus 0,32). Ettevõte tõstis aasta prognoosi keskmist, kinnitas uue 100 mln USD aktsiate tagasiostu programmi ja tõstis kvartaalset dividendi 25%. Tõus jätkub tulemuste järel ning seos on tugev.",
+      "fmp": "LHX",
+      "sym": "lhx",
+      "name": "L3Harris Technologies Inc",
+      "pct": 6.92,
+      "short": "III kvartali tulemused ja rekordiline tellimuste portfell",
+      "text": "L3Harris avaldas täna III kvartali tulemused pealkirjaga „rekordiline tellimuste portfell ja tugevad tulemused“. Täpseid arve ega prognoosimuutusi ma lehelt ei saanud kätte, seega ulatuse kohta kindlust pole; ajaline kokkulangevus tulemustega viitab siiski tugevale seosele.",
       "sources": [
         {
-          "title": "OneSpaWorld Reports Record Third Quarter Fiscal 2026 Results – Business Wire",
-          "url": "https://www.businesswire.com/news/home/20261028384783/en/OneSpaWorld-Reports-Record-Third-Quarter-Fiscal-2026-Results/"
+          "title": "L3Harris Delivers Record Backlog and Strong Third-Quarter Results – Business Wire",
+          "url": "https://www.financialcontent.com/article/bizwire-2026-10-29-l3harris-delivers-record-backlog-and-strong-third-quarter-results"
         },
         {
-          "title": "Why OneSpaWorld Stock Is Up Today – Motley Fool",
-          "url": "https://www.fool.com/investing/2026/10/28/why-onespaworld-stock-is-up-today/"
+          "title": "L3Harris Q3 2026 Earnings Call Transcript – Benzinga",
+          "url": "https://www.benzinga.com/news/26/10/62705244/l3harris-technologies-q3-2026-earnings-call-transcript"
         }
       ],
       "at": "2026-10-29T17:09:38Z"
@@ -219,23 +248,19 @@
       "at": "2026-10-29T17:09:38Z"
     },
     {
-      "fmp": "APG",
-      "sym": "apg",
-      "name": "APi Group Corporation",
-      "pct": 6.17,
-      "short": "Rekordiline III kvartal ja tõstetud 2026. a prognoos",
-      "text": "APi Group teatas täna rekordilisest III kvartalist: kohandatud EPS 0,50 USD (konsensus 0,47), kahekohaline orgaaniline kasv ja EBITDA marginaali paranemine; ettevõte tõstis 2026. aasta prognoosi. Tõus langeb kokku tulemustega ning seos on tugev.",
+      "fmp": "TPR",
+      "sym": "tpr",
+      "name": "Tapestry, Inc.",
+      "pct": 5.91,
+      "short": "Tapestry +5,9%: tänast põhjust ei leidnud; tulemused on alles ees",
+      "text": "Tapestry tõusis täna ligi 6%, kuid tänast ettevõttespetsiifilist uudist ei leidnud. Zacksi artiklite järgi avaldab ettevõte järgmise kvartali tulemused alles järgmisel nädalal, seega ei ole tegu tulemuste reaktsiooniga. Samal päeval tõusid ka teised riide- ja jaekaubandusaktsiad (nt Boot Barn, Levi's), mistõttu võib olla tegu sektoriliikumisega, kuid seda ei õnnestunud allikatega kinnitada.",
       "sources": [
         {
-          "title": "APi Group Reports Record Third Quarter 2026 Financial Results – Business Wire",
-          "url": "https://www.businesswire.com/news/home/20261029212570/en/APi-Group-Reports-Record-Third-Quarter-2026-Financial-Results-and-Raises-Full-Year-2026-Outlook/"
-        },
-        {
-          "title": "APi (APG) Tops Q3 Earnings and Revenue Estimates – Zacks",
-          "url": "https://www.zacks.com/stock/news/3018665/api-apg-tops-q3-earnings-and-revenue-estimates"
+          "title": "Zacks: Tapestry earnings expected to grow",
+          "url": "https://www.zacks.com/stock/news/3018531/tapestry-tpr-earnings-expected-to-grow-what-to-know-ahead-of-next-week-s-release"
         }
       ],
-      "at": "2026-10-29T17:09:38Z"
+      "at": "2026-10-29T20:08:24Z"
     },
     {
       "fmp": "2590.HK",
@@ -251,6 +276,60 @@
         }
       ],
       "at": "2026-10-29T09:08:07Z"
+    },
+    {
+      "fmp": "NXPI",
+      "sym": "nxpi",
+      "name": "NXP Semiconductors NV",
+      "pct": 5.69,
+      "short": "NXP: tulemused 27.10, tänane tõus +5,7% tundub taastumisena eilsele langusele",
+      "text": "NXP teatas III kvartali tulemused 27. oktoobri õhtul: käive 3,79 mld USD (+19% a/a), EPS 4,20 USD ületas konsensust (4,14). Aktsia langes pärast tulemusi nõrgema prognoosi tõttu ning analüütikud langetasid hinnasihte. Tänase +5,7% kohta ei leidnud ma eraldi uudist; tõenäoliselt on tegu eilse languse osalise tagasipöördumisega, kuid seda allikad otseselt ei kinnita.",
+      "sources": [
+        {
+          "title": "Zacks: NXPI Q3 Earnings Beat Estimates",
+          "url": "https://www.zacks.com/stock/news/3017462/nxpi-q3-earnings-beat-estimates-on-auto-and-industrial-growth"
+        },
+        {
+          "title": "247wallst: NXP drops 4% as soft guidance revives auto chip worries",
+          "url": "https://247wallst.com/investing/2026/10/28/on-semiconductor-falls-5-nxp-semiconductors-drops-4-as-soft-guidance-revives-auto-chip-worries-skyworks-ticks-up-qualcomm-and-texas-instruments-dip/"
+        }
+      ],
+      "at": "2026-10-29T20:08:24Z"
+    },
+    {
+      "fmp": "HEI",
+      "sym": "hei",
+      "name": "HEICO Corporation",
+      "pct": 5.02,
+      "short": "HEICO +5,0%: tänast põhjust ei leidnud; kaitse-/lennundussektor tugev",
+      "text": "HEICO tõusis täna 5,0% 326,41 USD-ni. Tänast ettevõttespetsiifilist uudist ei leidnud. Samal päeval tõusid tugevalt ka teised kaitse- ja lennundusaktsiad (L3Harris +6,9%, AeroVironment +7,1%), mis viitab sektoriliikumisele, kuid sektori põhjust ei õnnestunud allikatega kinnitada.",
+      "sources": [],
+      "at": "2026-10-29T20:08:24Z"
+    },
+    {
+      "fmp": "VU.PA",
+      "sym": "vu-par",
+      "name": "VusionGroup S.A.",
+      "pct": 5.01,
+      "short": "VusionGroup +5,0%: tänast uudist ei leidnud; III kvartali käive oli 20.10",
+      "text": "VusionGroup tõusis täna 5,0% 134,2 euroni. Tänast uudist ei leidnud. Ettevõte avaldas 20. oktoobril III kvartali käibe ja kinnitas aasta eesmärgid, seega tänane liikumine ei tulene sellest; põhjus jääb kinnitamata.",
+      "sources": [
+        {
+          "title": "Option Finance: Vusion croissance soutenue au troisième trimestre",
+          "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-10-20-vusion-croissance-soutenue-au-troisieme-trimestre-et-objectifs-annuels-confirmes.html"
+        }
+      ],
+      "at": "2026-10-29T20:08:24Z"
+    },
+    {
+      "fmp": "VSURE.ST",
+      "sym": "vsure-se",
+      "name": "Verisure Plc",
+      "pct": 5,
+      "short": "Verisure +5,0%: tänast põhjust ei leidnud",
+      "text": "Verisure tõusis täna 5,0% 10,50 Rootsi kroonini (Stockholm). Otsingutes ei leidnud ma täna avaldatud aruannet ega muud uudist, mis tõusu selgitaks. Põhjus jääb kinnitamata.",
+      "sources": [],
+      "at": "2026-10-29T20:08:24Z"
     }
   ]
 }
