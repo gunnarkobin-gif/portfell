@@ -1,218 +1,40 @@
 {
-  "date": "2026-10-28",
-  "updated": "2026-10-28T14:15:34Z",
+  "date": "2026-10-29",
+  "updated": "2026-10-29T09:08:07Z",
   "items": [
     {
-      "fmp": "ADOC.PA",
-      "sym": "adoc-par",
-      "name": "Adocia SA",
-      "pct": 14.22,
-      "short": "Tänast uudist ei leidnud; homme (29.10) tuleb III kvartali käive",
-      "text": "Adocia aktsia tõusis täna Pariisis ~18% (2,71-lt 3,20 euroni). Tänast börsiteadet ega analüütiku kommentaari ma ei leidnud. Viimane suurem uudis oli 20. oktoobril: 7 mln euro rahastus (aktsiaemissioon hinnaga 2,04 € ja suurem aktsionärilaen), mis pikendab rahavarusid 2028. aasta I kvartalini ja kaotab jätkusuutlikkuse kahtluse. Homme, 29. oktoobril, avaldatakse III kvartali käive; seos tänase tõusuga on oletuslik ning väikese biotehnoloogiaaktsia puhul võib see olla ka lihtsalt kauplemine.",
+      "fmp": "ENVIP.OL",
+      "sym": "envi-ams",
+      "name": "Envipco Holding N.V.",
+      "pct": 8.93,
+      "short": "Tänast konkreetset uudist ei leidnud; aktsia taastub aasta madalaimate tasemete lähedalt",
+      "text": "Envipco aktsia tõusis täna Oslos ~9% (33,6-lt 36,6 Norra kroonini). Tänast ettevõttespetsiifilist teadet, tellimust ega analüütiku kommentaari ma ei leidnud. Taust: 2026. aasta II kvartali aruanne näitas käibe kasvu (~13%), kuid jätkuvaid investeerimisfaasi kahjumeid ning aktsia reageeris tollal languse ja käibe prognoosi möödalaskmisega; täna on tõus tõenäoliselt tehniline tagasipõrge, kuid seost ei saa allikatega kinnitada.",
       "sources": [
         {
-          "title": "ADOCIA annonce un financement de 7 millions d'euros (webdisclosure, 20.10.2026)",
-          "url": "https://www.webdisclosure.fr/press-release/adocia-epa-adoc-informations-privilegiees-autres-communiques-OLWnj6cft5t"
+          "title": "Envipco Q2 2026 slides: revenue rises 13% amid investment phase losses (Investing.com)",
+          "url": "https://www.investing.com/news/company-news/envipco-q2-2026-slides-revenue-rises-13-amid-investment-phase-losses-93CH-4853807"
         },
         {
-          "title": "Actualités ADOCIA – Boursorama",
-          "url": "https://www.boursorama.com/cours/actualites/1rPADOC/"
+          "title": "Earnings call transcript: Envipco shares fall on Q2 2026 revenue miss (Investing.com)",
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-envipco-shares-fall-on-q2-2026-revenue-miss-93CH-4853783"
         }
       ],
-      "at": "2026-10-28T10:09:08Z"
+      "at": "2026-10-29T09:08:07Z"
     },
     {
-      "fmp": "ADYEN.AS",
-      "sym": "adyen-ams",
-      "name": "Adyen NV",
-      "pct": -12.24,
-      "short": "III kv käive ületas ootusi, kuid 2026 marginaalisiht langetati ja 2028 siht loobuti",
-      "text": "Adyen avaldas täna III kvartali ülevaate: netotulu kasvas 23% 738,1 mln euroni (analüütikud ootasid 730,3 mln) ja töödeldud maht kasvas 30%. Samas langetas firma 2026. aasta EBITDA marginaali sihti 50%-le (varem ~52%) ja loobus 2028. aasta üle 55% marginaali eesmärgist, et kiirendada investeeringuid juulis ostetud Talon.One'i ja Orbi. Aktsia kukkus Amsterdamis kuni 13%; seos on selge – turg reageeris kasumlikkuse sihtide kärpimisele.",
+      "fmp": "2590.HK",
+      "sym": "2590-hk",
+      "name": "Beijing Geekplus Technology Co., Ltd. Class H",
+      "pct": -5.8,
+      "short": "Tänast põhjust ei leidnud; aktsia on rekordmadalate lähedal, ettevõte teeb tagasiostu",
+      "text": "Geekplus langes täna Hongkongis ~5,8% (6,55-lt 6,17 HKD-ni), jõudes aasta madalaima taseme (5,95) lähedale; aktsia on aastahiglt kukkunud ~80%. Tänast ettevõttespetsiifilist uudist ma ei leidnud. Ettevõte on aktsiaid tagasi ostnud (27. oktoobril 100 000 aktsiat summas ~0,64 mln HKD), mis ei ole langust peatanud. Põhjuse seos hinnaliikumisega on kinnitamata – tõenäoliselt jätkuv müügisurve ja nõrk üldine tehnoloogiasektori meeleolu.",
       "sources": [
         {
-          "title": "Adyen Scraps Its 2028 Margin Target and Cuts This Year's to 50% – Finance Magnates",
-          "url": "https://www.financemagnates.com/fintech/payments/adyen-scraps-its-2028-margin-target-and-cuts-this-years-to-50/"
-        },
-        {
-          "title": "Dutch fintech firm Adyen's revenue tops forecast; trims 2026 margin goal – Reuters",
-          "url": "https://www.reuters.com/business/dutch-fintech-firm-adyens-revenue-tops-forecast-trims-2026-margin-goal-2026-10-28/"
+          "title": "极智嘉-W(02590)10月27日斥资63.91万港元回购10万股 (Futu)",
+          "url": "https://news.futunn.com/post/1002447176/geekplus-w-02590-repurchased-100000-shares-for-hkd-639100-on"
         }
       ],
-      "at": "2026-10-28T10:09:08Z"
-    },
-    {
-      "fmp": "OSW",
-      "sym": "osw",
-      "name": "OneSpaWorld Holdings Ltd.",
-      "pct": 11.02,
-      "short": "III kv tulemused ületasid ootusi ja aasta prognoosi tõsteti",
-      "text": "OneSpaWorld avaldas täna rekordilise III kvartali: käive kasvas 7% 276,5 mln dollarini (oodati ~272 mln) ja korrigeeritud EPS oli 0,34 dollarit (oodati ~0,31–0,32). Korrigeeritud EBITDA kasvas 12% 39,2 mln dollarini ning 2026. aasta prognoosi tõsteti: käive 1,033–1,038 mld ja EBITDA 138–140 mln dollarit (varem 130–140 mln). IV kvartali käibeprognoos jäi ootustest veidi alla, kuid ~11% tõus on selgelt seotud tänaste tulemustega.",
-      "sources": [
-        {
-          "title": "OneSpaWorld beats Q3 estimates, raises full-year guidance – Investing.com",
-          "url": "https://www.investing.com/news/earnings/onespaworld-beats-q3-estimates-raises-fullyear-guidance-93CH-4978455"
-        },
-        {
-          "title": "OneSpaWorld (OSW) Beats Q3 Earnings and Revenue Estimates – Zacks",
-          "url": "https://www.zacks.com/stock/news/3016771/onespaworld-osw-beats-q3-earnings-and-revenue-estimates?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|yseop_template_4-3016771"
-        }
-      ],
-      "at": "2026-10-28T14:15:34Z"
-    },
-    {
-      "fmp": "CHRW",
-      "sym": "chrw",
-      "name": "C.H. Robinson Worldwide, Inc.",
-      "pct": -10.03,
-      "short": "III kv ületas ootusi, kuid kulude kasv ja nõrk rahavoog hirmutasid",
-      "text": "C.H. Robinson avaldas täna III kvartali tulemused: käive kasvas 29,5% 5,36 mld dollarini ja korrigeeritud EPS oli 1,80 dollarit (oodati ~1,75). Investoreid häirisid aga kasvavad kulud (tegevuskulud +10,6%, preemiad ja nõuded, 12,2 mln dollari rendilepingu allahindlus) ning äritegevuse rahavoo langus 275 mln-lt 124 mln dollarini; lisaks muretsetakse 5. oktoobril teatatud 5,8 mld dollari RXO ostu integreerimise pärast. Aktsia langes juba enne avanemist ~4% ja päeva jooksul ~10%; seos tulemustega on selge.",
-      "sources": [
-        {
-          "title": "Why is CH Robinson Worldwide stock sliding today? – Investing.com",
-          "url": "https://www.investing.com/news/stock-market-news/why-is-ch-robinson-worldwide-stock-sliding-today-93CH-4978946"
-        },
-        {
-          "title": "C.H. Robinson Worldwide (NASDAQ:CHRW) reports upbeat Q3 2026 – StockStory",
-          "url": "https://markets.financialcontent.com/stocks/article/stockstory-2026-10-28-ch-robinson-worldwide-nasdaqchrw-reports-upbeat-q3-2026"
-        }
-      ],
-      "at": "2026-10-28T14:15:34Z"
-    },
-    {
-      "fmp": "GUBRA.CO",
-      "sym": "gubra-dk",
-      "name": "Gubra A/S",
-      "pct": 9.24,
-      "short": "Tõus pärast eilset investorite R&D päeva ja 2030. aasta strateegia esitlust",
-      "text": "Gubra pidas eile Londonis esimese investorite R&D päeva ja tutvustas 2030. aasta strateegiat: 8–10 kliinilises faasis ravimikandidaati, CRO äri ~10% aastane orgaaniline kasv ja 2–3 uut ettevõtet Ventures üksuses; juhtkandidaati GUB-UCN2 laiendatakse ka lihaskao ja vananemisega seotud näidustustele. Inderesi analüütik hindas, et sõnumid kinnitasid investeerimisjuhtumit, kuigi uusi finantseesmärke ei antud. Tänane ~7% tõus langeb ajaliselt kokku sündmusega, kuid otsest põhjust allikad ei nimeta.",
-      "sources": [
-        {
-          "title": "Gubra: 2030 strategy puts numbers on the ambition – Inderes",
-          "url": "https://www.inderes.fi/en/analyst-comments/gubra-2030-strategy-puts-numbers-on-the-ambition-while-near-term-value-drivers-are-unchanged"
-        },
-        {
-          "title": "Gubra outlines 2030 strategy – TradingView News",
-          "url": "https://www.tradingview.com/news/modular_finance:a4a0dee10b5ff:0-gubra-outlines-2030-strategy-to-scale-innovation-and-expand-its-clinical-stage-pipeline/"
-        }
-      ],
-      "at": "2026-10-28T10:09:08Z"
-    },
-    {
-      "fmp": "DVYSR.ST",
-      "sym": "dvysr-se",
-      "name": "Devyser Diagnostics AB",
-      "pct": 8.73,
-      "short": "Tänast uudist ei leidnud; III kvartali tulemused tulevad 2. novembril",
-      "text": "Devyseri aktsia tõusis täna Stockholmis ~5,8% (55-lt 58,2 kroonini) väikese käibega. Tänast börsiteadet ega analüütiku kommentaari ma ei leidnud. Järgmine oluline sündmus on III kvartali tulemused 2. novembril; põhjus on teadmata.",
-      "sources": [
-        {
-          "title": "Invitation to Devyser's Q3 2026 results presentation – TradingView News",
-          "url": "https://www.tradingview.com/news/modular_finance:27d12efb02cc9:0-invitation-to-devyser-s-q3-2026-results-presentation/"
-        }
-      ],
-      "at": "2026-10-28T10:09:08Z"
-    },
-    {
-      "fmp": "CDA.PA",
-      "sym": "cda-par",
-      "name": "Compagnie des Alpes SA",
-      "pct": 7.78,
-      "short": "Aastakäive +2,6% ja EBO kasvu prognoos tõsteti ~6%-le (varem 2–5%)",
-      "text": "Compagnie des Alpes avaldas eile õhtul majandusaasta 2025/26 käibe: 1,433 mld eurot, +2,6% (võrreldaval baasil +2,2%); suusa- ja välitegevuste segment kasvas 6,5%, teemapargid langesid 0,5%. Firma tõstis EBO (EBITDA) kasvu prognoosi ligikaudu 6%-le (Tignes'i varamüügi kasumita), varem oli siht +2…+5%. Tänane ~7,7% tõus on suure tõenäosusega seotud just prognoosi tõstmisega.",
-      "sources": [
-        {
-          "title": "Compagnie des Alpes affiche un chiffre d'affaires annuel en hausse et relève sa prévision – ABC Bourse",
-          "url": "https://www.abcbourse.com/marches/compagnie-des-alpes-affiche-un-chiffre-daffaires-annuel-en-hausse-et-releve-sa_705036"
-        },
-        {
-          "title": "Compagnie des Alpes : chiffre d'affaires en légère hausse pour 2025/26 – Finanzwire",
-          "url": "https://www.finanzwire.fr/article/compagnie-des-alpes-epa-cda-compagnie-des-alpes-chiffre-daffaires-en-legere-hausse-pour-202526-Cjp07hX8BdQ"
-        }
-      ],
-      "at": "2026-10-28T10:09:08Z"
-    },
-    {
-      "fmp": "KRU.WA",
-      "sym": "kru-pl",
-      "name": "Kruk S.A",
-      "pct": -6.98,
-      "short": "Eile õhtul avaldatud III kv kasum langes 32% (198 mln zł)",
-      "text": "Kruk avaldas eile (27.10) õhtul III kvartali aruande: kontserni puhaskasum langes aastaga 32% 198 mln zlotini ja tegevustulu 10% 727 mln zlotini; üheksa kuu kasum oli 753 mln zlotti (−14%). Tulemused olid üldiselt kooskõlas varem (9.10) avaldatud eelinfoga ning juht Piotr Krupa ütles, et nad pole tänavuse kasumitasemega rahul. Tänast eraldi uudist ega analüütiku kommentaari ma ei leidnud; ~5% langus tuleb tõenäoliselt aruande järel, kuid seos on mõõdukalt kindel.",
-      "sources": [
-        {
-          "title": "Wiadomości KRUK (KRU) – BiznesRadar.pl",
-          "url": "https://www.biznesradar.pl/wiadomosci/KRUK"
-        },
-        {
-          "title": "Mocne spadki kursu akcji Kruka. Spłaty „poniżej operacyjnych oczekiwań” – XYZ (9.10.2026)",
-          "url": "https://xyz.pl/dzieje-sie/mocne-spadki-kursu-akcji-kruka-splaty-ponizej-operacyjnych-oczekiwan2213-2213"
-        }
-      ],
-      "at": "2026-10-28T12:11:38Z"
-    },
-    {
-      "fmp": "SPZ.AX",
-      "sym": "spz-aus",
-      "name": "Smart Parking Limited",
-      "pct": 6.52,
-      "short": "Tänast ettevõtte uudist ei leidnud; käib aktsiate tagasiost",
-      "text": "Smart Parkingu aktsia tõusis täna Austraalia börsil ~6,5% (0,69-lt 0,735 AUD-ni). Tänase kohta ei leidnud ma ühtegi börsiteadet ega analüütiku kommentaari. Ettevõttel käib turult aktsiate tagasiost (nt 16. oktoobril osteti 150 000 aktsiat), mis võib hinda toetada, kuid otsest seost tänase tõusuga allikad ei kinnita. Väikese ja odava aktsia puhul on sellised liikumised ilma uudisteta tavalised, seega põhjus on teadmata.",
-      "sources": [
-        {
-          "title": "Smart Parking Limited Executes On-Market Buy-Back of 150,000 Shares on 16 October 2026 – Kalkine Media",
-          "url": "https://kalkinemedia.com/au/news/announcements/smart-parking-limited-executes-on-market-buy-back-of-150000-shares-on-16-october-2026"
-        }
-      ],
-      "at": "2026-10-28T06:06:53Z"
-    },
-    {
-      "fmp": "TGYM.MI",
-      "sym": "tgym-mil",
-      "name": "Technogym S.p.A",
-      "pct": 6.38,
-      "short": "Täna avaldati 9 kuu käive: 752 mln eurot, +6,1%",
-      "text": "Technogym avaldas täna 9 kuu käibe: 752 mln eurot, +6,1% (püsivas valuutas +6,9%), kasvu vedas B2B äri; kasv oli lai, v.a Aasia-Vaikse ookeani piirkonnas, ja Ameerika taastus esimese poolaastaga võrreldes. Juht Nerio Alessandri nimetas 2026. aastat üleminekuaastaks rekordiliste investeeringutega. Tõus langeb ajaliselt kokku käibe avaldamisega, kuid analüütikute ootusi ega turu kommentaari ma ei leidnud, seega on seos mõõdukalt kindel.",
-      "sources": [
-        {
-          "title": "Technogym, ricavi 9 mesi in aumento a 752 milioni di euro – Teleborsa",
-          "url": "https://www.teleborsa.it/News/2026/10/28/technogym-ricavi-9-mesi-in-aumento-a-752-milioni-di-euro-141.html"
-        }
-      ],
-      "at": "2026-10-28T14:15:34Z"
-    },
-    {
-      "fmp": "ENT.L",
-      "sym": "ent-lon",
-      "name": "Entain PLC",
-      "pct": 5.63,
-      "short": "Tänast ettevõtte uudist ei leidnud",
-      "text": "Entaini aktsia tõusis täna Londonis ~5,6% (452,7-lt ~478 pennini). Tänast börsiteadet ega analüütiku kommentaari ma ei leidnud. Viimane suurem uudis oli 21. oktoobril, kui BetMGM teatas III kvartali tulude kasvust ja Entain kinnitas aasta prognoosi; seost tänase tõusuga allikad ei kinnita, seega põhjus on teadmata.",
-      "sources": [
-        {
-          "title": "Entain Shares Rise 4.5% as BetMGM Reports Higher Revenue and EBITDA – Yahoo Finance (21.10.2026)",
-          "url": "https://uk.finance.yahoo.com/news/entain-shares-rise-4-5-092058878.html"
-        }
-      ],
-      "at": "2026-10-28T14:15:34Z"
-    },
-    {
-      "fmp": "SALME.OL",
-      "sym": "salme-no",
-      "name": "Salmon Evolution ASA",
-      "pct": -5.18,
-      "short": "III kv aruanne: 2026 saagiprognoos kärbiti ~5500 tonnini",
-      "text": "Salmon Evolution avaldas täna III kvartali aruande: käive 104,8 mln krooni, kontserni EBITDA −20 mln krooni, saak 1597 tonni ja hind 64 kr/kg. Ettevõte kärpis 2026. aasta saagiprognoosi ~5500 tonnini (osa saagist lükkub 2027. aasta I kvartalisse ja ~150 tonni läks kaotsi nõrgalt kasvanud kalade grupis); 2027. aastaks oodatakse 11 000–12 000 tonni. Langus tuleb tõenäoliselt aruande ja prognoosi kärpe järel, kuid otsest turukommentaari ma ei leidnud.",
-      "sources": [
-        {
-          "title": "Earnings call transcript: Salmon Evolution Q3 2026 loss narrows on ramp-up – Investing.com",
-          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-salmon-evolution-q3-2026-loss-narrows-on-rampup-93CH-4977643"
-        },
-        {
-          "title": "Salmon Evolution ASA: Invitation to presentation of Q3 2026 financial results – Inderes",
-          "url": "https://www.inderes.fi/en/releases/salmon-evolution-asa-invitation-to-presentation-of-q3-2026-financial-results"
-        }
-      ],
-      "at": "2026-10-28T14:15:34Z"
+      "at": "2026-10-29T09:08:07Z"
     }
   ]
 }
