@@ -1,12 +1,12 @@
 {
   "date": "2026-10-30",
-  "updated": "2026-10-30T17:08:44Z",
+  "updated": "2026-10-30T20:07:36Z",
   "items": [
     {
       "fmp": "ATEC",
       "sym": "atec",
       "name": "Alphatec Holdings, Inc.",
-      "pct": -38.39,
+      "pct": -38.04,
       "short": "Langetas aastaprognoosi: biokirurgia (luusiirdame) müük jäi nõrgaks",
       "text": "Alphatec avaldas 29. oktoobril III kvartali tulemused (käive 221 mln $, EPS 0,09 $ vs oodatud 0,11 $) ja alandas kogu aasta prognoosi. Põhjusteks nimetati nõrgemat biologics-müüki, vähenenud lülisamba operatsioonide mahtu ja ajutist rahvusvahelist tarnepiirangut. Seos hinnalangusega on väga tugev.",
       "sources": [
@@ -37,21 +37,6 @@
       "at": "2026-10-30T09:08:51Z"
     },
     {
-      "fmp": "GFS",
-      "sym": "gfs",
-      "name": "GlobalFoundries Inc.",
-      "pct": -9.66,
-      "short": "Kiipide müügilaine; ettevõttespetsiifilist uudist ei leitud",
-      "text": "GlobalFoundriesi kohta ei leidnud ma tänast ettevõttespetsiifilist põhjust. Täna müüdi laialdaselt kiibiaktsiaid, sest Inteli nõrk prognoos ja Amazoni kulutuste mure suurendasid AI-taristu nõudluse kartust. Seos sektoriliikumisega on tõenäoline, kuid kinnitamata.",
-      "sources": [
-        {
-          "title": "Why Intel, AMD and Broadcom are falling on Friday – Invezz",
-          "url": "https://invezz.com/news/2026/10/30/why-intel-amd-and-broadcom-are-falling-on-friday/"
-        }
-      ],
-      "at": "2026-10-30T17:08:44Z"
-    },
-    {
       "fmp": "SALME.OL",
       "sym": "salme-no",
       "name": "Salmon Evolution ASA",
@@ -62,6 +47,21 @@
         {
           "title": "Salmon Evolution Q3 2026 – Investing.com",
           "url": "https://www.investing.com/news/company-news/salmon-evolution-q3-2026-slides-losses-narrow-as-phase-2-nears-93CH-4977672"
+        }
+      ],
+      "at": "2026-10-30T17:08:44Z"
+    },
+    {
+      "fmp": "GFS",
+      "sym": "gfs",
+      "name": "GlobalFoundries Inc.",
+      "pct": -8.65,
+      "short": "Kiipide müügilaine; ettevõttespetsiifilist uudist ei leitud",
+      "text": "GlobalFoundriesi kohta ei leidnud ma tänast ettevõttespetsiifilist põhjust. Täna müüdi laialdaselt kiibiaktsiaid, sest Inteli nõrk prognoos ja Amazoni kulutuste mure suurendasid AI-taristu nõudluse kartust. Seos sektoriliikumisega on tõenäoline, kuid kinnitamata.",
+      "sources": [
+        {
+          "title": "Why Intel, AMD and Broadcom are falling on Friday – Invezz",
+          "url": "https://invezz.com/news/2026/10/30/why-intel-amd-and-broadcom-are-falling-on-friday/"
         }
       ],
       "at": "2026-10-30T17:08:44Z"
@@ -92,40 +92,6 @@
         {
           "title": "Shawbrook Group – Yahoo Finance",
           "url": "https://finance.yahoo.com/markets/stocks/articles/shawbrook-group-lse-shaw-shares-043023346.html"
-        }
-      ],
-      "at": "2026-10-30T17:08:44Z"
-    },
-    {
-      "fmp": "NVMI",
-      "sym": "nvmi",
-      "name": "Nova Ltd.",
-      "pct": -8.17,
-      "short": "Kiipide müügilaine; Nova-spetsiifilist uudist ei leitud",
-      "text": "Novale ei leidnud ma tänast ettevõttespetsiifilist uudist. Täna langesid kiibiaktsiad laiemalt (Inteli nõrk prognoos, mure AI-taristu kulude pärast), mis on tõenäoline taust.",
-      "sources": [
-        {
-          "title": "Why Intel, AMD and Broadcom are falling on Friday – Invezz",
-          "url": "https://invezz.com/news/2026/10/30/why-intel-amd-and-broadcom-are-falling-on-friday/"
-        }
-      ],
-      "at": "2026-10-30T17:08:44Z"
-    },
-    {
-      "fmp": "IDCC",
-      "sym": "idcc",
-      "name": "InterDigital, Inc.",
-      "pct": -8.03,
-      "short": "Tulemused ületasid ootusi, kuid aktsia langes; põhjust ei leitud",
-      "text": "InterDigital avaldas 29. oktoobril III kvartali tulemused: EPS 3,11 $ vs oodatud 1,96 $, käive +17%, aastaprognoos tõsteti. Hoolimata heast aruandest aktsia langes ~8%; selgitust allikad ei anna (võimalik kasumi fikseerimine või sektorimüük, kinnitamata).",
-      "sources": [
-        {
-          "title": "InterDigital Q3 2026 results – GlobeNewswire",
-          "url": "https://www.globenewswire.com/news-release/2026/10/29/3391273/24691/en/interdigital-announces-financial-results-for-third-quarter-2026.html"
-        },
-        {
-          "title": "InterDigital Q3 Earnings Top Estimates – Zacks",
-          "url": "https://www.zacks.com/stock/news/3018656/interdigital-idcc-q3-earnings-and-revenues-top-estimates?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|yseop_template_4-3018656"
         }
       ],
       "at": "2026-10-30T17:08:44Z"
@@ -194,6 +160,35 @@
       "at": "2026-10-30T17:08:44Z"
     },
     {
+      "fmp": "IDCC",
+      "sym": "idcc",
+      "name": "InterDigital, Inc.",
+      "pct": -6.74,
+      "short": "Tulemused ületasid ootusi, kuid aktsia langes; põhjust ei leitud",
+      "text": "InterDigital avaldas 29. oktoobril III kvartali tulemused: EPS 3,11 $ vs oodatud 1,96 $, käive +17%, aastaprognoos tõsteti. Hoolimata heast aruandest aktsia langes ~8%; selgitust allikad ei anna (võimalik kasumi fikseerimine või sektorimüük, kinnitamata).",
+      "sources": [
+        {
+          "title": "InterDigital Q3 2026 results – GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/10/29/3391273/24691/en/interdigital-announces-financial-results-for-third-quarter-2026.html"
+        },
+        {
+          "title": "InterDigital Q3 Earnings Top Estimates – Zacks",
+          "url": "https://www.zacks.com/stock/news/3018656/interdigital-idcc-q3-earnings-and-revenues-top-estimates?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|yseop_template_4-3018656"
+        }
+      ],
+      "at": "2026-10-30T17:08:44Z"
+    },
+    {
+      "fmp": "VITL",
+      "sym": "vitl",
+      "name": "Vital Farms, Inc.",
+      "pct": -6.67,
+      "short": "Põhjust ei leitud",
+      "text": "Vital Farmsi kohta ei leidnud ma tänast allikaga kinnitatud põhjust -6,5% langusele. Aktsia on 52 nädala madalseisu lähedal ja ~77% aasta tipust madalamal.",
+      "sources": [],
+      "at": "2026-10-30T17:08:44Z"
+    },
+    {
       "fmp": "WAVE.PA",
       "sym": "wave-par",
       "name": "Wavestone SA",
@@ -209,14 +204,34 @@
       "at": "2026-10-30T09:08:51Z"
     },
     {
-      "fmp": "VITL",
-      "sym": "vitl",
-      "name": "Vital Farms, Inc.",
-      "pct": -6.46,
-      "short": "Põhjust ei leitud",
-      "text": "Vital Farmsi kohta ei leidnud ma tänast allikaga kinnitatud põhjust -6,5% langusele. Aktsia on 52 nädala madalseisu lähedal ja ~77% aasta tipust madalamal.",
-      "sources": [],
+      "fmp": "NVMI",
+      "sym": "nvmi",
+      "name": "Nova Ltd.",
+      "pct": -6.51,
+      "short": "Kiipide müügilaine; Nova-spetsiifilist uudist ei leitud",
+      "text": "Novale ei leidnud ma tänast ettevõttespetsiifilist uudist. Täna langesid kiibiaktsiad laiemalt (Inteli nõrk prognoos, mure AI-taristu kulude pärast), mis on tõenäoline taust.",
+      "sources": [
+        {
+          "title": "Why Intel, AMD and Broadcom are falling on Friday – Invezz",
+          "url": "https://invezz.com/news/2026/10/30/why-intel-amd-and-broadcom-are-falling-on-friday/"
+        }
+      ],
       "at": "2026-10-30T17:08:44Z"
+    },
+    {
+      "fmp": "AVAV",
+      "sym": "avav",
+      "name": "AeroVironment, Inc.",
+      "pct": -6.49,
+      "short": "Droonide ja kaitsetehnoloogia aktsiad langesid laiemas riskikartlikus turus",
+      "text": "AeroVironment langes ~6,5%. 24/7 Wall Streeti 30. oktoobri ülevaate järgi olid droonikaitse aktsiad riskikartliku turu kõige hullemini tabatud segmente (Unusual Machines -12%, Red Cat -10%, Ondas -9%). AeroVironmenti enda kohta täna uut ettevõttespetsiifilist uudist ei leitud, seos sektoriliikumisega on tõenäoline.",
+      "sources": [
+        {
+          "title": "Unusual Machines Sinks 12%, Red Cat Tumbles 10% as High-Beta Drone Stocks Slide; AeroVironment Falls 6% – 24/7 Wall St",
+          "url": "https://247wallst.com/investing/2026/10/30/unusual-machines-sinks-12-red-cat-tumbles-10-as-high-beta-drone-stocks-slide-ondas-drops-9-aerovironment-falls-6/"
+        }
+      ],
+      "at": "2026-10-30T20:07:36Z"
     },
     {
       "fmp": "RDC.DE",
@@ -234,6 +249,119 @@
       "at": "2026-10-30T17:08:44Z"
     },
     {
+      "fmp": "VCEL",
+      "sym": "vcel",
+      "name": "Vericel Corporation",
+      "pct": -6.2,
+      "short": "Ettevõttespetsiifilist põhjust ei leitud; III kvartali tulemused 5. novembril",
+      "text": "Vericel langes ~6,2%. Täna ei leitud ühtegi ettevõtte uudist, mis langust selgitaks. Ettevõte avaldab III kvartali tulemused alles 5. novembril, nii et liikumine on tõenäoliselt turu- või sektoripõhine. Põhjus on kinnitamata.",
+      "sources": [
+        {
+          "title": "Vericel to Report Third Quarter 2026 Financial Results on November 5, 2026 – GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/10/22/3386353/34447/en/vericel-to-report-third-quarter-2026-financial-results-on-november-5-2026.html"
+        }
+      ],
+      "at": "2026-10-30T20:07:36Z"
+    },
+    {
+      "fmp": "GMED",
+      "sym": "gmed",
+      "name": "Globus Medical Inc Class A",
+      "pct": -5.85,
+      "short": "Ettevõttespetsiifilist põhjust ei leitud; III kvartali tulemused alles ees",
+      "text": "Globus Medical langes ~5,8%. Täna ei leitud ettevõtte uudist, mis langust selgitaks. Ettevõtte III kvartali tulemused on MarketBeati andmetel plaanis 5. novembril, nii et põhjus pole tulemused. Võimalik, et liikumist mõjutas Alphatecu (ATEC) jõuline langus samas lülisamba-implantaatide sektoris, kuid seda allikas otseselt ei kinnita.",
+      "sources": [
+        {
+          "title": "Globus Medical (GMED) Q3 2026 Earnings Date – MarketBeat",
+          "url": "https://www.marketbeat.com/earnings/reports/2026-11-5-globus-medical-inc-stock/"
+        }
+      ],
+      "at": "2026-10-30T20:07:36Z"
+    },
+    {
+      "fmp": "AVGO",
+      "sym": "avgo",
+      "name": "Broadcom Inc.",
+      "pct": -5.49,
+      "short": "Kiipide aktsiate müügilaine pärast Inteli nõrka prognoosi ja Amazoni kulude muret",
+      "text": "Broadcom langes ~5,5% laiemas pooljuhtide müügilaines. Invezzi andmetel langesid Intel, AMD ja Broadcom pärast Inteli oodatust nõrgemat prognoosi, Amazoni tulemused tõstsid aga muret tehisintellekti taristu kulude pärast. DA Davidsoni positiivne analüütikusoovitus (Anthropicu ja OpenAI börsiplaanide teemal) ei suutnud langust takistada. Seos sektoriliikumisega on tugev, ettevõttespetsiifilist uudist langusele ei leitud.",
+      "sources": [
+        {
+          "title": "Why Intel, AMD and Broadcom are falling on Friday? – Invezz",
+          "url": "https://invezz.com/news/2026/10/30/why-intel-amd-and-broadcom-are-falling-on-friday/"
+        },
+        {
+          "title": "Broadcom Falls 5% Despite DA Davidson Upgrade – 24/7 Wall St",
+          "url": "https://247wallst.com/investing/2026/10/30/broadcom-falls-5-despite-da-davidson-upgrade-on-anthropic-and-openai-ipo-hopes-arm-and-qualcomm-sink-10-marvell-drops-8/"
+        }
+      ],
+      "at": "2026-10-30T20:07:36Z"
+    },
+    {
+      "fmp": "TATT",
+      "sym": "tatt",
+      "name": "TAT Technologies Ltd.",
+      "pct": -5.43,
+      "short": "Ettevõttespetsiifilist põhjust ei leitud; III kvartali tulemused 2. novembril",
+      "text": "TAT Technologies langes ~5,4% ja on lähedal 52 nädala madalaimale tasemele. Täna uut ettevõtte uudist ei leitud; ettevõte avaldab III kvartali tulemused 2. novembril, mistõttu võib langus olla tulemuste-eelne positsioonide vähendamine või turu üldine riskikartlikkus. Põhjus on kinnitamata.",
+      "sources": [
+        {
+          "title": "TAT Technologies to Report Third Quarter Results on November 2 – TAT Technologies",
+          "url": "https://tat-technologies.com/tat-technologies-to-report-third-quarter-results-on-november-2-and-host-webcast/"
+        }
+      ],
+      "at": "2026-10-30T20:07:36Z"
+    },
+    {
+      "fmp": "RERE",
+      "sym": "rere",
+      "name": "ATRenew Inc. Sponsored ADR",
+      "pct": -5.34,
+      "short": "Ettevõttespetsiifilist uudist ei leitud; Hiina aktsiaturu nõrkus",
+      "text": "ATRenew langes ~5,3%. Täna ei leitud ettevõtte enda uudist. CNNi 30. oktoobri ülevaate järgi on Hiina aktsiaturg tehisintellekti müügilaine keskel surve all, mis võib mõjutada ka Hiina ADR-e, kuid otsest seost ATRenewiga allikad ei kinnita. Põhjus on kinnitamata.",
+      "sources": [
+        {
+          "title": "Why isn't China's AI and tech boom saving its stock markets? – CNN",
+          "url": "https://www.cnn.com/2026/10/30/markets/china-ai-stocks-selloff-intl-hnk"
+        }
+      ],
+      "at": "2026-10-30T20:07:36Z"
+    },
+    {
+      "fmp": "ALNY",
+      "sym": "alny",
+      "name": "Alnylam Pharmaceuticals, Inc",
+      "pct": -5.33,
+      "short": "Jätkuv langus pärast III kvartali tulemusi: Amvuttra patsientide juurdekasv aeglustub",
+      "text": "Alnylam avaldas 29. oktoobril III kvartali tulemused: netotulu u 1,3 mld $ (+52% aastaga), kasum aktsia kohta ületas ootusi. Zacksi andmetel kukkus aktsia sellest hoolimata ~25% aeglasema Amvuttra uute patsientide juurdekasvu ja nõudlusemure tõttu. Tänane -5% on selle languse jätk; seos tulemustega on tugev.",
+      "sources": [
+        {
+          "title": "ALNY Stock Down 25% Despite Q3 Earnings Beat on Demand Growth Concerns – Zacks",
+          "url": "https://www.zacks.com/stock/news/3019865/alny-stock-down-25-despite-q3-earnings-beat-on-demand-growth-concerns"
+        },
+        {
+          "title": "Alnylam Q3 Earnings Call Highlights – MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/transcript-alnylam-pharmaceuticals-q3-earnings-call-highlights-2026-10-29/"
+        }
+      ],
+      "at": "2026-10-30T20:07:36Z"
+    },
+    {
+      "fmp": "DVYSR.ST",
+      "sym": "dvysr-se",
+      "name": "Devyser Diagnostics AB",
+      "pct": -5.17,
+      "short": "Ettevõttespetsiifilist põhjust ei leitud; väike käive",
+      "text": "Devyser langes ~5,2% (58 kr -> 55 kr) väikese kauplemismahu juures. Täna ei leitud uudist, mis langust selgitaks; ettevõte on välja kuulutanud III kvartali tulemuste esitluse, kuid tulemuste kuupäeva allikatest kinnitada ei õnnestunud. Põhjus on kinnitamata.",
+      "sources": [
+        {
+          "title": "Invitation to Devyser's Q3 2026 results presentation – Inderes",
+          "url": "https://www.inderes.fi/en/releases/invitation-to-devysers-q3-2026-results-presentation"
+        }
+      ],
+      "at": "2026-10-30T20:07:36Z"
+    },
+    {
       "fmp": "DOM.MC",
       "sym": "dom-es",
       "name": "Global Dominion Access SA",
@@ -247,6 +375,36 @@
         }
       ],
       "at": "2026-10-30T09:08:51Z"
+    },
+    {
+      "fmp": "THG.L",
+      "sym": "thg-lon",
+      "name": "THG Plc",
+      "pct": -5.04,
+      "short": "Ettevõttespetsiifilist põhjust ei leitud; 15. okt prognoosi tõstmine ei seleta täna",
+      "text": "THG langes ~5,0%. Täna uut ettevõtte uudist ei leitud. Ettevõte avaldas 15. oktoobril III kvartali kauplemisülevaate ja tõstis aasta kasumiprognoosi, mis tõi tookord tõusu; tänane langus võib olla osaline kasumivõtt, kuid seda allikas ei kinnita.",
+      "sources": [
+        {
+          "title": "THG PLC Q3 2026 Trading Statement – ADVFN",
+          "url": "https://uk.advfn.com/stock-market/london/thg-THG/share-news/THG-PLC-Q3-2026-Trading-Statement/99495082"
+        }
+      ],
+      "at": "2026-10-30T20:07:36Z"
+    },
+    {
+      "fmp": "TRE.MC",
+      "sym": "tre-es",
+      "name": "Tecnicas Reunidas SA",
+      "pct": -5.02,
+      "short": "Ettevõttespetsiifilist põhjust ei leitud",
+      "text": "Técnicas Reunidas langes ~5,0%. Täna ei leitud uudist ega allikat, mis langust selgitaks. Põhjus on kinnitamata.",
+      "sources": [
+        {
+          "title": "Técnicas Reunidas – Estrategias de Inversión",
+          "url": "https://www.estrategiasdeinversion.com/cotizacion/tecnicas-reunidas/analisis/"
+        }
+      ],
+      "at": "2026-10-30T20:07:36Z"
     }
   ]
 }
