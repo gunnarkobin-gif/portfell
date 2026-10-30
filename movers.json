@@ -1,335 +1,85 @@
 {
-  "date": "2026-10-29",
-  "updated": "2026-10-29T20:08:24Z",
+  "date": "2026-10-30",
+  "updated": "2026-10-30T09:08:51Z",
   "items": [
     {
-      "fmp": "ALNY",
-      "sym": "alny",
-      "name": "Alnylam Pharmaceuticals, Inc",
-      "pct": -25.13,
-      "short": "III kvartali tulemus ületas ootusi, kuid aktsia langes ~24%; põhjust allikad ei selgita",
-      "text": "Alnylam teatas täna III kvartali tulemused: globaalne toodete netokäive ~1,3 mld USD (+52% aastaga) ja EPS 16,26 USD vs konsensus 2,19 USD. Leitud allikad ei selgita, miks aktsia sellest hoolimata ~24% langes (võimalik, et kasumit mõjutas ühekordne kirje või investorid reageerisid juhtkonna kommentaaridele/prognoosile) – seos on kinnitamata. Taust: juulis langes aktsia ~30% pärast Amvuttra müügiprognoosi kärpimist ja konkurentsi kasvu.",
+      "fmp": "UMG.AS",
+      "sym": "umg-ams",
+      "name": "Universal Music Group N.V.",
+      "pct": 12.38,
+      "short": "III kvartali EBITDA ületas ootusi; tellimustulu kasvas tugevalt",
+      "text": "UMG avaldas 29. oktoobri õhtul III kvartali tulemused: korrigeeritud EBITDA 729 mln € (konsensus ~691 mln €), marginaal 21,5% (oodatud 20,7%) ja tellimustulu 1,42 mld € (+19% püsivas valuutas). Aktsia oli aasta alguses langenud ~29% ja tegi septembris rekordmadala, seega tulemuste ületamine ning eelmisel nädalal ilmunud teated eraomanikega erastamisest rääkimisest toetasid ilmselt tõusu. Seos tulemustega on tugev, erastamisjutu osakaal on kinnitamata.",
       "sources": [
         {
-          "title": "Alnylam (ALNY) Q3 Earnings and Revenues Top Estimates – Zacks",
-          "url": "https://www.zacks.com/stock/news/3018671/alnylam-pharmaceuticals-alny-q3-earnings-and-revenues-top-estimates"
+          "title": "Universal Music Q3 Subscription Surge Sparks Buyout Talk – Briefs",
+          "url": "https://www.briefs.co/news/universal-music-s-q3-subscription-surge-fuels-fresh-talk-of/"
         },
         {
-          "title": "Alnylam Q3 Earnings Call Highlights – MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/transcript-alnylam-pharmaceuticals-q3-earnings-call-highlights-2026-10-29/"
-        },
-        {
-          "title": "Alnylam plunges as earnings deliver 'one-two punch' (juuli) – BioPharma Dive",
-          "url": "https://www.biopharmadive.com/news/alnylam-earnings-stock-amvuttra-onpattro-sales-pfizer-ionis/826654/"
+          "title": "Report: UMG has 'discussed going private' – Music Ally",
+          "url": "https://musically.com/2026/10/27/report-umg-has-discussed-going-private-with-investment-firms/"
         }
       ],
-      "at": "2026-10-29T17:09:38Z"
+      "at": "2026-10-30T09:08:51Z"
     },
     {
-      "fmp": "BOOT",
-      "sym": "boot",
-      "name": "Boot Barn Holdings, Inc.",
-      "pct": 15.16,
-      "short": "II kvartali tulemused ületasid ootusi: müük +15%, EPS 1,73 USD",
-      "text": "Boot Barn teatas eile õhtul II finantskvartali müügiks 582 mln USD (+15%) ja EPS-iks 1,73 USD (+26%), mis ületas ettevõtte enda prognoosi ülemist otsa. Ettevõte tõstis ka uute poodide eesmärgi 80-ni; analüütikud kärpisid siiski hinnasihte, sest FY2027 prognoosi vähendati. Seos tulemustega on tugev, sest tõus tuli kohe pärast aruannet.",
+      "fmp": "EQS.PA",
+      "sym": "eqs-par",
+      "name": "Equasens SA",
+      "pct": -11.15,
+      "short": "9 kuu käive: III kvartali orgaaniline kasv -0,2%, kasv aeglustus",
+      "text": "Equasens avaldas 29. oktoobri õhtul 9 kuu käibe 181,8 mln € (+5,6% avaldatud, +0,9% orgaaniliselt). III kvartali käive 57,3 mln € oli +2%, orgaaniliselt aga -0,2%, mis on aeglustumine poolaastast (+1,4% orgaaniliselt). Prognoosi ei antud; Ségur vague 2 juurutusi oodatakse IV kvartalis. Seos languse ja nõrga orgaanilise kasvu vahel on tõenäoline, kuid allikas seda otse ei kinnita.",
       "sources": [
         {
-          "title": "What Boot Barn (BOOT) Said on Its Q2 Earnings Call – MarketBeat",
-          "url": "https://www.marketbeat.com/instant-alerts/transcript-what-boot-barn-boot-said-on-its-q2-earnings-call-2026-10-29/"
-        },
-        {
-          "title": "These Analysts Slash Their Forecasts On Boot Barn After Q2 Results – Benzinga",
-          "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/10/62694699/these-analysts-slash-their-forecasts-on-boot-barn-after-q2-results"
-        },
-        {
-          "title": "Boot Barn (BOOT) Beats Q2 Earnings and Revenue Estimates – Zacks",
-          "url": "https://www.zacks.com/stock/news/3017879/boot-barn-boot-beats-q2-earnings-and-revenue-estimates"
+          "title": "La croissance d'Equasens marque le pas au troisième trimestre – Zonebourse",
+          "url": "https://www.zonebourse.com/actualite-bourse/la-croissance-d-equasens-marque-le-pas-au-troisieme-trimestre-ce785fdada8af42d"
         }
       ],
-      "at": "2026-10-29T17:09:38Z"
+      "at": "2026-10-30T09:08:51Z"
     },
     {
-      "fmp": "INSM",
-      "sym": "insm",
-      "name": "Insmed Incorporated",
-      "pct": 15.06,
-      "short": "III kvartali käive 524 mln USD, Brinsupri ja Arikayce prognoosid tõsteti",
-      "text": "Insmed teatas täna III kvartali kogukäibeks 524,4 mln USD, millest Brinsupri 400,1 mln USD (+29% eelmise kvartaliga võrreldes). Ettevõte tõstis 2026. aasta Brinsupri käibeprognoosi 1,35–1,4 mld USD-ni ja Arikayce'i prognoosi 460–470 mln USD-ni; lisaks algas Brinsupri müük Jaapanis. Seos hinnaliikumisega on tugev.",
+      "fmp": "ADOC.PA",
+      "sym": "adoc-par",
+      "name": "Adocia SA",
+      "pct": 8.5,
+      "short": "Tänaseks konkreetset põhjust ei leitud; taustaks oktoobri rahastamine",
+      "text": "Tänase tõusu kohta ei leidnud ma ettevõttespetsiifilist uudist. Taustaks: 20. oktoobril teatas Adocia 3 mln € kapitalitõusust (2,04 € aktsia kohta) ja aktsionärilaenu tõstmisest 6-lt 10 mln €-le, mis pikendab rahavoogude horisonti 2028. I kvartalini. Tõus võib olla nende uudiste järelmõju või spekulatiivne, seos on kinnitamata.",
       "sources": [
         {
-          "title": "Insmed Reports Third-Quarter 2026 Financial Results – PR Newswire",
-          "url": "https://www.prnewswire.com/news-releases/insmed-reports-third-quarter-2026-financial-results-and-provides-business-update-302922707.html"
-        },
-        {
-          "title": "Insmed (INSM) Reports Q3 Loss, Tops Revenue Estimates – Zacks",
-          "url": "https://www.zacks.com/stock/news/3018075/insmed-insm-reports-q3-loss-tops-revenue-estimates"
+          "title": "Adocia: kapitalitõus ja Vester Finance'i laenu suurendamine (20.10) – ABC Bourse",
+          "url": "https://www.abcbourse.com/marches/adocia-realise-une-augmentation-de-capital-de-3-millions-deuros-et-releve-a-10_704482"
         }
       ],
-      "at": "2026-10-29T17:09:38Z"
+      "at": "2026-10-30T09:08:51Z"
     },
     {
-      "fmp": "ENVIP.OL",
-      "sym": "envi-ams",
-      "name": "Envipco Holding N.V.",
-      "pct": 9.82,
-      "short": "Tänast konkreetset uudist ei leidnud; aktsia taastub aasta madalaimate tasemete lähedalt",
-      "text": "Envipco aktsia tõusis täna Oslos ~9% (33,6-lt 36,6 Norra kroonini). Tänast ettevõttespetsiifilist teadet, tellimust ega analüütiku kommentaari ma ei leidnud. Taust: 2026. aasta II kvartali aruanne näitas käibe kasvu (~13%), kuid jätkuvaid investeerimisfaasi kahjumeid ning aktsia reageeris tollal languse ja käibe prognoosi möödalaskmisega; täna on tõus tõenäoliselt tehniline tagasipõrge, kuid seost ei saa allikatega kinnitada.",
+      "fmp": "WAVE.PA",
+      "sym": "wave-par",
+      "name": "Wavestone SA",
+      "pct": 6.48,
+      "short": "Tänaseks põhjust ei leitud; aktsia on aasta algusest ~-43%",
+      "text": "Tänase tõusu kohta ei leidnud ma ettevõttespetsiifilist uudist ega allikat, mis selle põhjust selgitaks. Taustaks: aktsia on aasta algusest umbes 43% madalamal ning ettevõttel on käimas aktsiate tagasiost (9,07% kapitalist), mis võib toetada kursi taastumist. Tegemist võib olla tehnilise põrkega pärast pikka langust; seos on kinnitamata.",
       "sources": [
         {
-          "title": "Envipco Q2 2026 slides: revenue rises 13% amid investment phase losses (Investing.com)",
-          "url": "https://www.investing.com/news/company-news/envipco-q2-2026-slides-revenue-rises-13-amid-investment-phase-losses-93CH-4853807"
-        },
-        {
-          "title": "Earnings call transcript: Envipco shares fall on Q2 2026 revenue miss (Investing.com)",
-          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-envipco-shares-fall-on-q2-2026-revenue-miss-93CH-4853783"
+          "title": "Wavestone – Zonebourse",
+          "url": "https://www.zonebourse.com/cours/action/WAVESTONE-45568714/"
         }
       ],
-      "at": "2026-10-29T09:08:07Z"
+      "at": "2026-10-30T09:08:51Z"
     },
     {
-      "fmp": "GVA",
-      "sym": "gva",
-      "name": "Granite Construction Incorporated",
-      "pct": 9.07,
-      "short": "III kvartali kohandatud EPS 3,81 USD ületas ootusi; uued 2029. a eesmärgid",
-      "text": "Granite teatas täna III kvartali kohandatud EPS-iks 3,81 USD (konsensus 3,22 USD, aasta tagasi 2,70 USD) ja tutvustas 2029. aasta eesmärke. Raporteeritud puhaskasum oli vaid 3 mln USD, sest konverteeritavate võlakirjade arveldamisega kaasnesid 162 mln USD mitteoperatiivseid kulusid. Tõus on tõenäoliselt seotud tulemuste ja uute eesmärkidega.",
+      "fmp": "DOM.MC",
+      "sym": "dom-es",
+      "name": "Global Dominion Access SA",
+      "pct": -5.16,
+      "short": "9 kuu kasum +35%, kuid käive nõrk ja juhtkonna vahetus",
+      "text": "Dominion avaldas 29. oktoobri õhtul 9 kuu tulemused: puhaskasum 8,2 mln € (+35,5%), käive 758,8 mln € (orgaaniliselt +2,0%, müükide mõju -7,0%). Samal ajal teatati juhtkonna vahetusest: asutaja Mikel Barandiaran saab 2027. algusest tegevesimeheks ja Germán Pradera tegevjuhiks. Allikad ei selgita otseselt, miks aktsia langes; põhjus võib olla nõrk käive või juhtkonna uudis, seos on kinnitamata.",
       "sources": [
         {
-          "title": "Granite Reports Third Quarter 2026 Results and Introduces 2029 Targets – Business Wire",
-          "url": "https://www.businesswire.com/news/home/20261028427810/en/Granite-Reports-Third-Quarter-2026-Results-and-Introduces-2029-Targets/"
-        },
-        {
-          "title": "Granite Construction (GVA) Q3 Earnings and Revenues Beat Estimates – Zacks",
-          "url": "https://www.zacks.com/stock/news/3018078/granite-construction-gva-q3-earnings-and-revenues-beat-estimates"
+          "title": "Dominion gana 8,2 millones hasta septiembre – Bolsamania",
+          "url": "https://www.bolsamania.com/noticias/resultados-anuncios/dominion-gana-82-millones-septiembre-355-renueva-cupula-directiva--23953991.html"
         }
       ],
-      "at": "2026-10-29T17:09:38Z"
-    },
-    {
-      "fmp": "APG",
-      "sym": "apg",
-      "name": "APi Group Corporation",
-      "pct": 8.85,
-      "short": "Rekordiline III kvartal ja tõstetud 2026. a prognoos",
-      "text": "APi Group teatas täna rekordilisest III kvartalist: kohandatud EPS 0,50 USD (konsensus 0,47), kahekohaline orgaaniline kasv ja EBITDA marginaali paranemine; ettevõte tõstis 2026. aasta prognoosi. Tõus langeb kokku tulemustega ning seos on tugev.",
-      "sources": [
-        {
-          "title": "APi Group Reports Record Third Quarter 2026 Financial Results – Business Wire",
-          "url": "https://www.businesswire.com/news/home/20261029212570/en/APi-Group-Reports-Record-Third-Quarter-2026-Financial-Results-and-Raises-Full-Year-2026-Outlook/"
-        },
-        {
-          "title": "APi (APG) Tops Q3 Earnings and Revenue Estimates – Zacks",
-          "url": "https://www.zacks.com/stock/news/3018665/api-apg-tops-q3-earnings-and-revenue-estimates"
-        }
-      ],
-      "at": "2026-10-29T17:09:38Z"
-    },
-    {
-      "fmp": "GUBRA.CO",
-      "sym": "gubra-dk",
-      "name": "Gubra A/S",
-      "pct": -7.82,
-      "short": "Tänast põhjust ei leidnud; aktsia on aasta madalaimate tasemete lähedal",
-      "text": "Gubra langes täna Kopenhaagenis ~7,8% (327,2-lt 301,6 DKK-ni). Tänast ettevõttespetsiifilist teadet ega analüütikukommentaari ma ei leidnud, seega põhjus on selgitamata. Aktsia on ka varem langenud ning kauples päeva lõpus aasta madalaima taseme (272 DKK) lähedal.",
-      "sources": [
-        {
-          "title": "Gubra aktie – Nordnet",
-          "url": "https://www.nordnet.dk/markedet/aktiekurser/18007269-gubra"
-        }
-      ],
-      "at": "2026-10-29T17:09:38Z"
-    },
-    {
-      "fmp": "EYE",
-      "sym": "eye",
-      "name": "National Vision Holdings, Inc.",
-      "pct": 7.63,
-      "short": "National Vision +7,6%: tänast põhjust ei leidnud",
-      "text": "National Vision tõusis täna 7,6% 16,64 USD-ni. Otsingutes ei leidnud ma täna avaldatud tulemusi, prognoosimuudatust ega muud ettevõttespetsiifilist uudist, mis liikumist selgitaks. Põhjus jääb kinnitamata; võimalik seos on jaekaubandussektori laiema tõusuga, kuid see on vaid oletus.",
-      "sources": [],
-      "at": "2026-10-29T20:08:24Z"
-    },
-    {
-      "fmp": "SALME.OL",
-      "sym": "salme-no",
-      "name": "Salmon Evolution ASA",
-      "pct": -7.34,
-      "short": "III kvartali tulemus: alaperforman­seeriv kalagrupp, 2. faasi esimene lõikus lükkus 2027",
-      "text": "Salmon Evolution teatas III kvartali kasumlikkuse paranemisest (kontsern EBITDA -20,2 mln NOK), kuid ühe alaperformeeriva kalagrupi tõttu oli keskmine lõikekaal 3,0 kg ning kulu kasvas ~3 NOK/kg. 2026. a lõikeprognoos langetati ~5500 tonnile ja 2. faasi esimene lõikus lükkus 2027. a I kvartalisse; lisaks on lõheturg nõrk. Need uudised on tõenäoline põhjus langusele.",
-      "sources": [
-        {
-          "title": "Salmon Evolution Q3 2026 slides: losses narrow as phase 2 nears – Investing.com",
-          "url": "https://www.investing.com/news/company-news/salmon-evolution-q3-2026-slides-losses-narrow-as-phase-2-nears-93CH-4977672"
-        }
-      ],
-      "at": "2026-10-29T17:09:38Z"
-    },
-    {
-      "fmp": "OSW",
-      "sym": "osw",
-      "name": "OneSpaWorld Holdings Ltd.",
-      "pct": 7.23,
-      "short": "Rekordiline III kvartal, 100 mln $ tagasiost ja dividendi tõus 25%",
-      "text": "OneSpaWorld teatas eile rekordilisest III kvartalist: käive +7%, kohandatud EBITDA +12%, EPS 0,34 USD (konsensus 0,32). Ettevõte tõstis aasta prognoosi keskmist, kinnitas uue 100 mln USD aktsiate tagasiostu programmi ja tõstis kvartaalset dividendi 25%. Tõus jätkub tulemuste järel ning seos on tugev.",
-      "sources": [
-        {
-          "title": "OneSpaWorld Reports Record Third Quarter Fiscal 2026 Results – Business Wire",
-          "url": "https://www.businesswire.com/news/home/20261028384783/en/OneSpaWorld-Reports-Record-Third-Quarter-Fiscal-2026-Results/"
-        },
-        {
-          "title": "Why OneSpaWorld Stock Is Up Today – Motley Fool",
-          "url": "https://www.fool.com/investing/2026/10/28/why-onespaworld-stock-is-up-today/"
-        }
-      ],
-      "at": "2026-10-29T17:09:38Z"
-    },
-    {
-      "fmp": "AVAV",
-      "sym": "avav",
-      "name": "AeroVironment, Inc.",
-      "pct": 7.09,
-      "short": "Tänast ettevõttespetsiifilist uudist ei leidnud; aktsia taastub aasta madalaimalt tasemelt",
-      "text": "AeroVironment tõusis täna ~9%, kuid tänast ettevõtte teadet, tellimust ega analüütiku sammu ma ei leidnud. Taust: kaitsesektor oli septembris kogenud rekordilist languste jada ning AVAV on aasta algusest oluliselt langenud, seega võib tegu olla sektori ja põrke taastumisega – see on oletus, mida allikad otseselt ei kinnita.",
-      "sources": [
-        {
-          "title": "9 Defense Stocks to Watch Before the Next Big Rally – InvestorPlace",
-          "url": "https://investorplace.com/2026/10/9-defense-stocks-to-watch/"
-        }
-      ],
-      "at": "2026-10-29T17:09:38Z"
-    },
-    {
-      "fmp": "THEON.AS",
-      "sym": "theon-ams",
-      "name": "Theon International Plc",
-      "pct": 6.98,
-      "short": "MERIO 80% ülevõtmine lõpule viidud, uus ~5 mln € droonitellimus",
-      "text": "THEON sai kõik vajalikud load MERIO 80% osaluse omandamiseks ja tehing viiakse lõpule. MERIO sai ~5 mln € suuruse tellimuse droonilahendustele (ligi kolmandik 2026. a prognoositud käibest); lisaks viimistletakse Safraniga gimbalite ühisettevõtet. Seos tõusuga on tõenäoline.",
-      "sources": [
-        {
-          "title": "THEON completes MERIO acquisition; new orders already awarded – GlobeNewswire",
-          "url": "https://www.globenewswire.com/news-release/2026/10/29/3390980/0/en/theon-moves-to-completes-merio-acquisition-following-receipt-of-required-approvals-new-orders-already-awarded.html"
-        }
-      ],
-      "at": "2026-10-29T17:09:38Z"
-    },
-    {
-      "fmp": "LHX",
-      "sym": "lhx",
-      "name": "L3Harris Technologies Inc",
-      "pct": 6.92,
-      "short": "III kvartali tulemused ja rekordiline tellimuste portfell",
-      "text": "L3Harris avaldas täna III kvartali tulemused pealkirjaga „rekordiline tellimuste portfell ja tugevad tulemused“. Täpseid arve ega prognoosimuutusi ma lehelt ei saanud kätte, seega ulatuse kohta kindlust pole; ajaline kokkulangevus tulemustega viitab siiski tugevale seosele.",
-      "sources": [
-        {
-          "title": "L3Harris Delivers Record Backlog and Strong Third-Quarter Results – Business Wire",
-          "url": "https://www.financialcontent.com/article/bizwire-2026-10-29-l3harris-delivers-record-backlog-and-strong-third-quarter-results"
-        },
-        {
-          "title": "L3Harris Q3 2026 Earnings Call Transcript – Benzinga",
-          "url": "https://www.benzinga.com/news/26/10/62705244/l3harris-technologies-q3-2026-earnings-call-transcript"
-        }
-      ],
-      "at": "2026-10-29T17:09:38Z"
-    },
-    {
-      "fmp": "RDC.DE",
-      "sym": "rdc-etr",
-      "name": "Redcare Pharmacy N.V.",
-      "pct": -6.25,
-      "short": "Kasumivõtmine pärast Q3 tulemusi, mis ületasid ootusi vaid napilt",
-      "text": "Redcare'i III kvartali käive kasvas 18% 847 mln €-ni (retseptiravimid Saksamaal +56%) ja kohandatud EBITDA 28,7 mln €-ni; tulemused ületasid analüütikute hinnanguid vaid veidi ja aastaprognoos kinnitati. Meediakajastuse järgi on langus kasumivõtmine pärast ~57% tõusu septembri madalpunktist; seos on tõenäoline, kuid hinnang on meedia tõlgendus.",
-      "sources": [
-        {
-          "title": "Redcare Pharmacy-Aktie sinkt wegen Gewinnmitnahmen – finanzen.at",
-          "url": "https://www.finanzen.at/nachrichten/aktien/redcare-pharmacy-aktie-sinkt-wegen-gewinnmitnahmen-umsatz-und-ergebnis-schlagen-analystenschatzungen-leicht-1036682998"
-        }
-      ],
-      "at": "2026-10-29T17:09:38Z"
-    },
-    {
-      "fmp": "TPR",
-      "sym": "tpr",
-      "name": "Tapestry, Inc.",
-      "pct": 5.91,
-      "short": "Tapestry +5,9%: tänast põhjust ei leidnud; tulemused on alles ees",
-      "text": "Tapestry tõusis täna ligi 6%, kuid tänast ettevõttespetsiifilist uudist ei leidnud. Zacksi artiklite järgi avaldab ettevõte järgmise kvartali tulemused alles järgmisel nädalal, seega ei ole tegu tulemuste reaktsiooniga. Samal päeval tõusid ka teised riide- ja jaekaubandusaktsiad (nt Boot Barn, Levi's), mistõttu võib olla tegu sektoriliikumisega, kuid seda ei õnnestunud allikatega kinnitada.",
-      "sources": [
-        {
-          "title": "Zacks: Tapestry earnings expected to grow",
-          "url": "https://www.zacks.com/stock/news/3018531/tapestry-tpr-earnings-expected-to-grow-what-to-know-ahead-of-next-week-s-release"
-        }
-      ],
-      "at": "2026-10-29T20:08:24Z"
-    },
-    {
-      "fmp": "2590.HK",
-      "sym": "2590-hk",
-      "name": "Beijing Geekplus Technology Co., Ltd. Class H",
-      "pct": -5.8,
-      "short": "Tänast põhjust ei leidnud; aktsia on rekordmadalate lähedal, ettevõte teeb tagasiostu",
-      "text": "Geekplus langes täna Hongkongis ~5,8% (6,55-lt 6,17 HKD-ni), jõudes aasta madalaima taseme (5,95) lähedale; aktsia on aastahiglt kukkunud ~80%. Tänast ettevõttespetsiifilist uudist ma ei leidnud. Ettevõte on aktsiaid tagasi ostnud (27. oktoobril 100 000 aktsiat summas ~0,64 mln HKD), mis ei ole langust peatanud. Põhjuse seos hinnaliikumisega on kinnitamata – tõenäoliselt jätkuv müügisurve ja nõrk üldine tehnoloogiasektori meeleolu.",
-      "sources": [
-        {
-          "title": "极智嘉-W(02590)10月27日斥资63.91万港元回购10万股 (Futu)",
-          "url": "https://news.futunn.com/post/1002447176/geekplus-w-02590-repurchased-100000-shares-for-hkd-639100-on"
-        }
-      ],
-      "at": "2026-10-29T09:08:07Z"
-    },
-    {
-      "fmp": "NXPI",
-      "sym": "nxpi",
-      "name": "NXP Semiconductors NV",
-      "pct": 5.69,
-      "short": "NXP: tulemused 27.10, tänane tõus +5,7% tundub taastumisena eilsele langusele",
-      "text": "NXP teatas III kvartali tulemused 27. oktoobri õhtul: käive 3,79 mld USD (+19% a/a), EPS 4,20 USD ületas konsensust (4,14). Aktsia langes pärast tulemusi nõrgema prognoosi tõttu ning analüütikud langetasid hinnasihte. Tänase +5,7% kohta ei leidnud ma eraldi uudist; tõenäoliselt on tegu eilse languse osalise tagasipöördumisega, kuid seda allikad otseselt ei kinnita.",
-      "sources": [
-        {
-          "title": "Zacks: NXPI Q3 Earnings Beat Estimates",
-          "url": "https://www.zacks.com/stock/news/3017462/nxpi-q3-earnings-beat-estimates-on-auto-and-industrial-growth"
-        },
-        {
-          "title": "247wallst: NXP drops 4% as soft guidance revives auto chip worries",
-          "url": "https://247wallst.com/investing/2026/10/28/on-semiconductor-falls-5-nxp-semiconductors-drops-4-as-soft-guidance-revives-auto-chip-worries-skyworks-ticks-up-qualcomm-and-texas-instruments-dip/"
-        }
-      ],
-      "at": "2026-10-29T20:08:24Z"
-    },
-    {
-      "fmp": "HEI",
-      "sym": "hei",
-      "name": "HEICO Corporation",
-      "pct": 5.02,
-      "short": "HEICO +5,0%: tänast põhjust ei leidnud; kaitse-/lennundussektor tugev",
-      "text": "HEICO tõusis täna 5,0% 326,41 USD-ni. Tänast ettevõttespetsiifilist uudist ei leidnud. Samal päeval tõusid tugevalt ka teised kaitse- ja lennundusaktsiad (L3Harris +6,9%, AeroVironment +7,1%), mis viitab sektoriliikumisele, kuid sektori põhjust ei õnnestunud allikatega kinnitada.",
-      "sources": [],
-      "at": "2026-10-29T20:08:24Z"
-    },
-    {
-      "fmp": "VU.PA",
-      "sym": "vu-par",
-      "name": "VusionGroup S.A.",
-      "pct": 5.01,
-      "short": "VusionGroup +5,0%: tänast uudist ei leidnud; III kvartali käive oli 20.10",
-      "text": "VusionGroup tõusis täna 5,0% 134,2 euroni. Tänast uudist ei leidnud. Ettevõte avaldas 20. oktoobril III kvartali käibe ja kinnitas aasta eesmärgid, seega tänane liikumine ei tulene sellest; põhjus jääb kinnitamata.",
-      "sources": [
-        {
-          "title": "Option Finance: Vusion croissance soutenue au troisième trimestre",
-          "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-10-20-vusion-croissance-soutenue-au-troisieme-trimestre-et-objectifs-annuels-confirmes.html"
-        }
-      ],
-      "at": "2026-10-29T20:08:24Z"
-    },
-    {
-      "fmp": "VSURE.ST",
-      "sym": "vsure-se",
-      "name": "Verisure Plc",
-      "pct": 5,
-      "short": "Verisure +5,0%: tänast põhjust ei leidnud",
-      "text": "Verisure tõusis täna 5,0% 10,50 Rootsi kroonini (Stockholm). Otsingutes ei leidnud ma täna avaldatud aruannet ega muud uudist, mis tõusu selgitaks. Põhjus jääb kinnitamata.",
-      "sources": [],
-      "at": "2026-10-29T20:08:24Z"
+      "at": "2026-10-30T09:08:51Z"
     }
   ]
 }
