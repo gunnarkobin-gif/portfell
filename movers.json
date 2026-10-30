@@ -1,31 +1,31 @@
 {
   "date": "2026-10-30",
-  "updated": "2026-10-30T09:08:51Z",
+  "updated": "2026-10-30T17:08:44Z",
   "items": [
     {
-      "fmp": "UMG.AS",
-      "sym": "umg-ams",
-      "name": "Universal Music Group N.V.",
-      "pct": 12.38,
-      "short": "III kvartali EBITDA ületas ootusi; tellimustulu kasvas tugevalt",
-      "text": "UMG avaldas 29. oktoobri õhtul III kvartali tulemused: korrigeeritud EBITDA 729 mln € (konsensus ~691 mln €), marginaal 21,5% (oodatud 20,7%) ja tellimustulu 1,42 mld € (+19% püsivas valuutas). Aktsia oli aasta alguses langenud ~29% ja tegi septembris rekordmadala, seega tulemuste ületamine ning eelmisel nädalal ilmunud teated eraomanikega erastamisest rääkimisest toetasid ilmselt tõusu. Seos tulemustega on tugev, erastamisjutu osakaal on kinnitamata.",
+      "fmp": "ATEC",
+      "sym": "atec",
+      "name": "Alphatec Holdings, Inc.",
+      "pct": -38.39,
+      "short": "Langetas aastaprognoosi: biokirurgia (luusiirdame) müük jäi nõrgaks",
+      "text": "Alphatec avaldas 29. oktoobril III kvartali tulemused (käive 221 mln $, EPS 0,09 $ vs oodatud 0,11 $) ja alandas kogu aasta prognoosi. Põhjusteks nimetati nõrgemat biologics-müüki, vähenenud lülisamba operatsioonide mahtu ja ajutist rahvusvahelist tarnepiirangut. Seos hinnalangusega on väga tugev.",
       "sources": [
         {
-          "title": "Universal Music Q3 Subscription Surge Sparks Buyout Talk – Briefs",
-          "url": "https://www.briefs.co/news/universal-music-s-q3-subscription-surge-fuels-fresh-talk-of/"
+          "title": "Alphatec Plunges 32% – Barron's",
+          "url": "https://www.barrons.com/articles/alphatec-earnings-stock-price-f19daa2d"
         },
         {
-          "title": "Report: UMG has 'discussed going private' – Music Ally",
-          "url": "https://musically.com/2026/10/27/report-umg-has-discussed-going-private-with-investment-firms/"
+          "title": "Alphatec Q3 Earnings Call Highlights – MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/transcript-alphatec-q3-earnings-call-highlights-2026-10-29/"
         }
       ],
-      "at": "2026-10-30T09:08:51Z"
+      "at": "2026-10-30T17:08:44Z"
     },
     {
       "fmp": "EQS.PA",
       "sym": "eqs-par",
       "name": "Equasens SA",
-      "pct": -11.15,
+      "pct": -10.98,
       "short": "9 kuu käive: III kvartali orgaaniline kasv -0,2%, kasv aeglustus",
       "text": "Equasens avaldas 29. oktoobri õhtul 9 kuu käibe 181,8 mln € (+5,6% avaldatud, +0,9% orgaaniliselt). III kvartali käive 57,3 mln € oli +2%, orgaaniliselt aga -0,2%, mis on aeglustumine poolaastast (+1,4% orgaaniliselt). Prognoosi ei antud; Ségur vague 2 juurutusi oodatakse IV kvartalis. Seos languse ja nõrga orgaanilise kasvu vahel on tõenäoline, kuid allikas seda otse ei kinnita.",
       "sources": [
@@ -35,6 +35,36 @@
         }
       ],
       "at": "2026-10-30T09:08:51Z"
+    },
+    {
+      "fmp": "GFS",
+      "sym": "gfs",
+      "name": "GlobalFoundries Inc.",
+      "pct": -9.66,
+      "short": "Kiipide müügilaine; ettevõttespetsiifilist uudist ei leitud",
+      "text": "GlobalFoundriesi kohta ei leidnud ma tänast ettevõttespetsiifilist põhjust. Täna müüdi laialdaselt kiibiaktsiaid, sest Inteli nõrk prognoos ja Amazoni kulutuste mure suurendasid AI-taristu nõudluse kartust. Seos sektoriliikumisega on tõenäoline, kuid kinnitamata.",
+      "sources": [
+        {
+          "title": "Why Intel, AMD and Broadcom are falling on Friday – Invezz",
+          "url": "https://invezz.com/news/2026/10/30/why-intel-amd-and-broadcom-are-falling-on-friday/"
+        }
+      ],
+      "at": "2026-10-30T17:08:44Z"
+    },
+    {
+      "fmp": "SALME.OL",
+      "sym": "salme-no",
+      "name": "Salmon Evolution ASA",
+      "pct": -8.68,
+      "short": "Põhjust ei leitud; Q3 aruanne ilmus 28. okt, aktsia aasta madalaimas lähedal",
+      "text": "Salmon Evolution esitles III kvartali tulemused 28. oktoobril (lõikus 1597 t, +15%; kontsern EBITDA -20,2 mln NOK). Tänase languse konkreetset põhjust allikad ei kinnita. Aktsia on lähedal 52 nädala põhjale ja ~40% aasta algusest madalamal.",
+      "sources": [
+        {
+          "title": "Salmon Evolution Q3 2026 – Investing.com",
+          "url": "https://www.investing.com/news/company-news/salmon-evolution-q3-2026-slides-losses-narrow-as-phase-2-nears-93CH-4977672"
+        }
+      ],
+      "at": "2026-10-30T17:08:44Z"
     },
     {
       "fmp": "ADOC.PA",
@@ -52,10 +82,122 @@
       "at": "2026-10-30T09:08:51Z"
     },
     {
+      "fmp": "SHAW.L",
+      "sym": "shaw-lon",
+      "name": "Shawbrook Group Plc",
+      "pct": -8.5,
+      "short": "Tänast põhjust ei leitud; aktsia uuel 52 nädala madalseisul",
+      "text": "Shawbrooki kohta ei leidnud ma tänast uudist, mis -8,5% langust selgitaks. Aktsia on tänase seisuga aasta madalaimas punktis ja aasta algusest umbes 40% miinuses. Põhjus on kinnitamata.",
+      "sources": [
+        {
+          "title": "Shawbrook Group – Yahoo Finance",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/shawbrook-group-lse-shaw-shares-043023346.html"
+        }
+      ],
+      "at": "2026-10-30T17:08:44Z"
+    },
+    {
+      "fmp": "NVMI",
+      "sym": "nvmi",
+      "name": "Nova Ltd.",
+      "pct": -8.17,
+      "short": "Kiipide müügilaine; Nova-spetsiifilist uudist ei leitud",
+      "text": "Novale ei leidnud ma tänast ettevõttespetsiifilist uudist. Täna langesid kiibiaktsiad laiemalt (Inteli nõrk prognoos, mure AI-taristu kulude pärast), mis on tõenäoline taust.",
+      "sources": [
+        {
+          "title": "Why Intel, AMD and Broadcom are falling on Friday – Invezz",
+          "url": "https://invezz.com/news/2026/10/30/why-intel-amd-and-broadcom-are-falling-on-friday/"
+        }
+      ],
+      "at": "2026-10-30T17:08:44Z"
+    },
+    {
+      "fmp": "IDCC",
+      "sym": "idcc",
+      "name": "InterDigital, Inc.",
+      "pct": -8.03,
+      "short": "Tulemused ületasid ootusi, kuid aktsia langes; põhjust ei leitud",
+      "text": "InterDigital avaldas 29. oktoobril III kvartali tulemused: EPS 3,11 $ vs oodatud 1,96 $, käive +17%, aastaprognoos tõsteti. Hoolimata heast aruandest aktsia langes ~8%; selgitust allikad ei anna (võimalik kasumi fikseerimine või sektorimüük, kinnitamata).",
+      "sources": [
+        {
+          "title": "InterDigital Q3 2026 results – GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/10/29/3391273/24691/en/interdigital-announces-financial-results-for-third-quarter-2026.html"
+        },
+        {
+          "title": "InterDigital Q3 Earnings Top Estimates – Zacks",
+          "url": "https://www.zacks.com/stock/news/3018656/interdigital-idcc-q3-earnings-and-revenues-top-estimates?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|yseop_template_4-3018656"
+        }
+      ],
+      "at": "2026-10-30T17:08:44Z"
+    },
+    {
+      "fmp": "AMBA",
+      "sym": "amba",
+      "name": "Ambarella, Inc.",
+      "pct": -7.94,
+      "short": "Kiipide müügilaine; Ambarella-spetsiifilist uudist ei leitud",
+      "text": "Ambarella kohta ei leidnud ma tänast ettevõttespetsiifilist põhjust. Täna oli kiibisektoris suur müük (Inteli nõrk prognoos, AI-taristu kulude mure), mis on tõenäoline taust.",
+      "sources": [
+        {
+          "title": "Why Intel, AMD and Broadcom are falling on Friday – Invezz",
+          "url": "https://invezz.com/news/2026/10/30/why-intel-amd-and-broadcom-are-falling-on-friday/"
+        }
+      ],
+      "at": "2026-10-30T17:08:44Z"
+    },
+    {
+      "fmp": "UMG.AS",
+      "sym": "umg-ams",
+      "name": "Universal Music Group N.V.",
+      "pct": 7.89,
+      "short": "III kvartali tulemused ja erastamisjutt; hommikune tõus on osaliselt hajunud",
+      "text": "UMG avaldas 29. oktoobri õhtul III kvartali tulemused: korrigeeritud EBITDA 729 mln € (konsensus ~691 mln €) ja tellimustulu +19% püsivas valuutas. Ajakirjanduses on liikunud ka erastamisläbirääkimiste jutt. Tõus on päeva jooksul vähenenud 12%-lt ~8%-ni; seos tulemustega on tugev, erastamise osakaal kinnitamata.",
+      "sources": [
+        {
+          "title": "Universal Music Q3 Subscription Surge Sparks Buyout Talk – Briefs",
+          "url": "https://www.briefs.co/news/universal-music-s-q3-subscription-surge-fuels-fresh-talk-of/"
+        },
+        {
+          "title": "Report: UMG has 'discussed going private' – Music Ally",
+          "url": "https://musically.com/2026/10/27/report-umg-has-discussed-going-private-with-investment-firms/"
+        }
+      ],
+      "at": "2026-10-30T17:08:44Z"
+    },
+    {
+      "fmp": "AZN.L",
+      "sym": "azn-lon",
+      "name": "AstraZeneca PLC",
+      "pct": 6.96,
+      "short": "III kvartali kasum +23%, prognoos kinnitati, 1,5 mld $ kokkuhoiuplaan",
+      "text": "AstraZeneca teatas 30. oktoobril III kvartali kasumi kasvust 23% (3,12 mld $) ja käibe kasvust 7% (16,2 mld $), onkoloogia +17%. Aastaprognoos kinnitati ning avaldati 1,5 mld $ aastase kokkuhoiu programm. Seos hinnatõusuga on tugev.",
+      "sources": [
+        {
+          "title": "AstraZeneca profit jumps 23% – Euronews",
+          "url": "https://www.euronews.com/2026/10/30/astrazeneca-profit-jumps-23-on-cancer-drugs-as-it-unveils-major-savings-plan"
+        },
+        {
+          "title": "AstraZeneca rises 4% as Jefferies and UBS assess profit beat",
+          "url": "https://www.proactiveinvestors.com/companies/news/1100992/astrazeneca-rises-4-as-jefferies-and-ubs-assess-profit-beat-1100992.html"
+        }
+      ],
+      "at": "2026-10-30T17:08:44Z"
+    },
+    {
+      "fmp": "SHLS",
+      "sym": "shls",
+      "name": "Shoals Technologies Group, Inc. Class A",
+      "pct": -6.95,
+      "short": "Põhjust ei leitud; taustaks nõrk sektorimeeleolu",
+      "text": "Shoalsi kohta ei leidnud ma tänast ettevõttespetsiifilist uudist, mis -7% langust selgitaks. Põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-10-30T17:08:44Z"
+    },
+    {
       "fmp": "WAVE.PA",
       "sym": "wave-par",
       "name": "Wavestone SA",
-      "pct": 6.48,
+      "pct": 6.64,
       "short": "Tänaseks põhjust ei leitud; aktsia on aasta algusest ~-43%",
       "text": "Tänase tõusu kohta ei leidnud ma ettevõttespetsiifilist uudist ega allikat, mis selle põhjust selgitaks. Taustaks: aktsia on aasta algusest umbes 43% madalamal ning ettevõttel on käimas aktsiate tagasiost (9,07% kapitalist), mis võib toetada kursi taastumist. Tegemist võib olla tehnilise põrkega pärast pikka langust; seos on kinnitamata.",
       "sources": [
@@ -65,6 +207,31 @@
         }
       ],
       "at": "2026-10-30T09:08:51Z"
+    },
+    {
+      "fmp": "VITL",
+      "sym": "vitl",
+      "name": "Vital Farms, Inc.",
+      "pct": -6.46,
+      "short": "Põhjust ei leitud",
+      "text": "Vital Farmsi kohta ei leidnud ma tänast allikaga kinnitatud põhjust -6,5% langusele. Aktsia on 52 nädala madalseisu lähedal ja ~77% aasta tipust madalamal.",
+      "sources": [],
+      "at": "2026-10-30T17:08:44Z"
+    },
+    {
+      "fmp": "RDC.DE",
+      "sym": "rdc-etr",
+      "name": "Redcare Pharmacy N.V.",
+      "pct": -6.33,
+      "short": "Q3 oli ootustest parem, kuid aktsia langes kasumi fikseerimise tõttu",
+      "text": "Redcare Pharmacy avaldas 29. oktoobril III kvartali: käive +18% (847 mln €, oodatud 839), korrigeeritud EBITDA 28,7 mln € (oodatud 28,1). Aktsia langes hoolimata heast aruandest; Der Aktionär nimetab põhjuseks esimest kasumi fikseerimist pärast tugevat tõusu. Seos on mõistlik, kuid kinnitamata.",
+      "sources": [
+        {
+          "title": "Redcare Pharmacy mit Zahlen – Der Aktionär",
+          "url": "https://www.deraktionaer.de/artikel/aktien/redcare-pharmacy-mit-zahlen-prognosen-geschlagen-aktie-faellt-trotzdem-20427739.html"
+        }
+      ],
+      "at": "2026-10-30T17:08:44Z"
     },
     {
       "fmp": "DOM.MC",
