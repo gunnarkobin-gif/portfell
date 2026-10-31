@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T06:39:34Z",
+  "updated": "2026-10-31T00:22:49Z",
   "items": [
     {
       "isin": "USU45709AB58",
@@ -9,7 +9,7 @@
       "prevPrice": null,
       "source": null,
       "url": null,
-      "note": "uut hinda ei leitud 2026-10-28: FactSet ja IBKR ühendused vajavad uuesti ühendamist (pole selles seansis saadaval); stockevents.app näitab hinda 0 (andmed puuduvad); onvista rate-limit; cbonds, Deutsche Börse, bondblox lehti ei saanud laadida; otsing hinda ei andnud"
+      "note": "uut hinda ei leitud 2026-10-31: FactSet ja IBKR pole saadaval; cbonds/TradingView ei laadinud, finanzen.net/Deutsche Börse hinda ei näita, otsing tulemust ei andnud"
     },
     {
       "isin": "USU6203KAE48",
@@ -19,7 +19,7 @@
       "prevPrice": null,
       "source": null,
       "url": null,
-      "note": "uut hinda ei leitud 2026-10-28: FactSet ja IBKR ühendused vajavad uuesti ühendamist (pole selles seansis saadaval); stockevents.app hind 0; finanzen.net: 'aktuell keinen Kurs'; TradingView FINRA hinda ei näita; Deutsche Börse/Börse Frankfurt/bondblox ei laadinud"
+      "note": "uut hinda ei leitud 2026-10-31: FactSet ja IBKR pole saadaval; cbonds/TradingView ei laadinud, finanzen.net/Deutsche Börse hinda ei näita, otsing tulemust ei andnud"
     },
     {
       "isin": "USU37027AB27",
@@ -29,16 +29,16 @@
       "prevPrice": null,
       "source": null,
       "url": null,
-      "note": "uut hinda ei leitud 2026-10-28: FactSet ja IBKR ühendused vajavad uuesti ühendamist (pole selles seansis saadaval); stockevents.app hind 0; cbonds ei laadinud; otsing (TradingView, finanzen, onvista, Börse) hinda ei leidnud"
+      "note": "uut hinda ei leitud 2026-10-31: FactSet ja IBKR pole saadaval; cbonds/TradingView ei laadinud, finanzen.net/Deutsche Börse hinda ei näita, otsing tulemust ei andnud"
     },
     {
       "isin": "USU98401AE97",
       "name": "Xerox Holdings Corporation 8.875% 30-NOV-2029",
-      "price": 30.16,
-      "priceDate": "2026-10-27",
+      "price": 13.99,
+      "priceDate": "2026-10-30",
       "prevPrice": 30.16,
-      "source": "stockevents.app",
-      "url": "https://stockevents.app/en/stock/USU98401AE97.BOND"
+      "source": "onvista / finanzen.net (gettex)",
+      "url": "https://www.onvista.de/anleihen/chart/XEROX-HLDGS-24-29-REGS-Anleihe-USU98401AE97"
     },
     {
       "isin": "USP46214AJ49",
@@ -48,7 +48,7 @@
       "prevPrice": null,
       "source": null,
       "url": null,
-      "note": "uut hinda ei leitud 2026-10-28: FactSet ja IBKR ühendused vajavad uuesti ühendamist (pole selles seansis saadaval); stockevents.app hind 0; cbonds/TradingView BCBA lehed ilma hinnata; otsing hinda ei leidnud"
+      "note": "uut hinda ei leitud 2026-10-31: FactSet ja IBKR pole saadaval; cbonds/TradingView ei laadinud, finanzen.net/Deutsche Börse hinda ei näita, otsing tulemust ei andnud"
     }
   ]
 }
