@@ -1,21 +1,21 @@
 {
   "date": "2026-11-02",
-  "updated": "2026-11-02T09:07:42Z",
+  "updated": "2026-11-02T17:10:26Z",
   "items": [
     {
       "fmp": "DVYSR.ST",
       "sym": "dvysr-se",
       "name": "Devyser Diagnostics AB",
-      "pct": 8.55,
-      "short": "Põhjust ei leitud; III kv aruanne tuleb homme, reedese languse põrge?",
-      "text": "Täna (2. nov) Stockholmis kerkinud kaup ei ole seotud ühegi leitud ettevõttepoolse uudisega. Devyser avaldab III kvartali aruande homme, 3. novembril kell 07:30, mistõttu liikumine võib olla aruandeeelne positsioneerumine või reedese languse (ca -5%) põrge – see on oletus, mitte allikaga kinnitatud põhjus. Seos hinnaliikumisega on nõrk.",
+      "pct": 11.82,
+      "short": "Põhjust ei leitud; III kv aruanne tuleb homme (3. nov), tõus ca 12%",
+      "text": "Täna ettevõttepoolset uudist ei leitud. Devyser avaldab III kvartali aruande varasema teabe järgi homme, 3. novembril; tõus võib olla aruandeeelne positsioneerumine, kuid see on oletus, mitte allikaga kinnitatud. Eelmine kvartal oli oodatust nõrgem.",
       "sources": [
         {
-          "title": "Invitation to Devyser's Q3 2026 results presentation – TradingView",
-          "url": "https://www.tradingview.com/news/modular_finance:27d12efb02cc9:0-invitation-to-devyser-s-q3-2026-results-presentation/"
+          "title": "Devyser: Q2 2026 sales weaker than expected",
+          "url": "https://www.placera.se/pressmeddelanden/devyser-diagnostics-sales-in-the-second-quarter-of-2026-weaker-than-expected-20260702"
         }
       ],
-      "at": "2026-11-02T09:07:42Z"
+      "at": "2026-11-02T17:10:26Z"
     },
     {
       "fmp": "VU.PA",
@@ -36,7 +36,7 @@
       "fmp": "ASG.AX",
       "sym": "asg-aus",
       "name": "Autosports Group Ltd",
-      "pct": 5,
+      "pct": 5.0,
       "short": "Tõus 1,00 → 1,05 A$ ilma leitud uudiseta (väike hinnasamm)",
       "text": "Autosports Group tõusis ASX-il 1,00 dollarilt 1,05 dollarile (+5%), kuid tänast ettevõttepoolset teadaannet ega muud põhjust ma ei leidnud. Tegu on väikese hinnaga aktsiaga, kus üks hinnasamm annab suure protsendi, seega võib tegu olla pelgalt tavapärase kõikumisega.",
       "sources": [
@@ -46,6 +46,158 @@
         }
       ],
       "at": "2026-11-02T09:07:42Z"
+    },
+    {
+      "fmp": "IDXX",
+      "sym": "idxx",
+      "name": "IDEXX Laboratories, Inc.",
+      "pct": 19.28,
+      "short": "III kv tulemused ületasid ootusi, aastaprognoosi tõsteti",
+      "text": "IDEXX avaldas täna (2. nov) III kvartali tulemused: tulu kasvas ca 10% umbes 1,21 mld USD-ni, korduv diagnostikatulu müügist loomaarstidele +11%. Ettevõte tõstis 2026. a tulu- ja kasumiprognoosi. Seos hinnaliikumisega on kindel, sest aktsia tõusis tulemuste päeval; Motley Fool märgib, et kasumiprognoosi tõus ei tulene testide nõudlusest ja marginaaliprognoos on nõrgem.",
+      "sources": [
+        {
+          "title": "Reuters: IDEXX raises forecast",
+          "url": "https://www.reuters.com/business/healthcare-pharmaceuticals/idexx-raises-forecast-betting-diagnostics-can-offset-weak-vet-visits-2026-11-02/"
+        },
+        {
+          "title": "Motley Fool: IDEXX Sales Rise 10%",
+          "url": "https://www.fool.com/investing/2026/11/02/idexx-sales-rise-10-as-margin-outlook-slips-rapid-earnings-reaction/"
+        }
+      ],
+      "at": "2026-11-02T17:10:26Z"
+    },
+    {
+      "fmp": "NXT",
+      "sym": "nxt",
+      "name": "Nextpower Inc.",
+      "pct": 16.37,
+      "short": "Põhjust ei leitud; tulemused olid juba 28. okt",
+      "text": "Täna avaldatud ettevõttepoolset uudist ei leitud. Nextpower avaldas II kvartali 2027. a tulemused 28. oktoobril, seega tänane +16% ei ole selgelt seotud värske aruandega. Seos päevauudisega puudub; põhjus jääb kinnitamata.",
+      "sources": [
+        {
+          "title": "Nextpower: Q2 FY2027 results (8-K)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001852131/000185213126000055/ex991_q227.htm"
+        }
+      ],
+      "at": "2026-11-02T17:10:26Z"
+    },
+    {
+      "fmp": "TATT",
+      "sym": "tatt",
+      "name": "TAT Technologies Ltd.",
+      "pct": 15.24,
+      "short": "Rekordiline III kvartal: tulu +20%, korrigeeritud EBITDA +61%",
+      "text": "TAT Technologies avaldas täna rekordilised III kvartali tulemused: tulu kasvas 20,2%, korrigeeritud EBITDA 60,9% ja lahjendatud EPS 57,8%. Kasvu vedasid APU-äri, soojusvahetid ning kauplemis-/rendiäri. Seos hinnatõusuga on kindel, aktsia oli Benzinga tõusjate nimekirjas.",
+      "sources": [
+        {
+          "title": "TAT Technologies: Record Q3 2026 results",
+          "url": "https://www.prnewswire.com/news-releases/tat-technologies-reports-record-third-quarter-2026-results-302926360.html"
+        },
+        {
+          "title": "Benzinga: stocks moving higher Monday",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/11/62781525/idexx-laboratories-perion-network-tat-technologies-and-other-big-stocks-moving-higher-on-monday"
+        }
+      ],
+      "at": "2026-11-02T17:10:26Z"
+    },
+    {
+      "fmp": "NSSC",
+      "sym": "nssc",
+      "name": "NAPCO Security Technologies, Inc.",
+      "pct": -14.87,
+      "short": "I kv (2027) aruanne: seadmemüük -7,3%, EPS ilma kohtukrediidita stabiilne",
+      "text": "NAPCO avaldas täna 2027. a I kvartali tulemused. Seadmemüük langes 7,3%, korduv teenusetulu kasvas 11,5%; ilma kohtuvaidluse krediidita langes tegevuskasum ca 4% ja EPS jäi samaks (0,34 USD). Langus tuleneb tõenäoliselt aruandest ja nõrgast riistvaramüügist.",
+      "sources": [
+        {
+          "title": "NAPCO: Fiscal Q1 2027 results",
+          "url": "https://www.prnewswire.com/news-releases/napco-security-technologies-inc-reports-fiscal-q1-2027-results-302925823.html"
+        },
+        {
+          "title": "Motley Fool: Napco equipment sales fall 7.3%",
+          "url": "https://www.fool.com/investing/2026/11/02/napco-security-equipment-sales-fall-7-3-rapid-earnings-reaction/"
+        }
+      ],
+      "at": "2026-11-02T17:10:26Z"
+    },
+    {
+      "fmp": "ALGT",
+      "sym": "algt",
+      "name": "Allegiant Travel Company",
+      "pct": 9.83,
+      "short": "Põhjust ei leitud; ainus täna leitud uudis on koolituspartnerlus",
+      "text": "Täna leitud ainus Allegianti uudis oli koostöö UNLV-ga lennusaatjate koolituseks, mis ei seleta +10% tõusu. Tulemuste, prognoosi ega M&A uudist ei leitud. Põhjus jääb teadmata.",
+      "sources": [
+        {
+          "title": "Allegiant & UNLV partnership",
+          "url": "https://www.prnewswire.com/news-releases/allegiant-partners-with-unlvs-college-of-hospitality-to-launch-customer-experience-training-for-flight-attendants-302924505.html"
+        }
+      ],
+      "at": "2026-11-02T17:10:26Z"
+    },
+    {
+      "fmp": "RDC.DE",
+      "sym": "rdc-etr",
+      "name": "Redcare Pharmacy N.V.",
+      "pct": 9.05,
+      "short": "Põhjust ei kinnitatud; tõus ca 9%",
+      "text": "Täna kuupäevaga kinnitatud ettevõttepoolset uudist ei leitud. Otsingus oli Redcare'i varasemaid teateid prognoosi tõstmisest ja Rx-müügi kasvust, kuid nende kuupäev jäi kinnitamata, seega ei saa neid tänase liikumise põhjuseks pidada.",
+      "sources": [],
+      "at": "2026-11-02T17:10:26Z"
+    },
+    {
+      "fmp": "SHLS",
+      "sym": "shls",
+      "name": "Shoals Technologies Group, Inc. Class A",
+      "pct": 7.29,
+      "short": "Põhjust ei leitud; tõus ca 7%",
+      "text": "Shoalsi kohta täna uudist ei leitud (viimane leitud tulemuste teade oli 4. augustist). Liikumine võib olla sektori- või turupõhine, kuid allikaga seda kinnitada ei saanud.",
+      "sources": [],
+      "at": "2026-11-02T17:10:26Z"
+    },
+    {
+      "fmp": "GRAB",
+      "sym": "grab",
+      "name": "Grab Holdings Limited Class A",
+      "pct": 7.19,
+      "short": "Põhjust ei leitud; tõus ca 7%",
+      "text": "Grabi kohta täna ettevõttepoolset uudist ei leitud, ainult analüütiku arvamusartikkel (Seeking Alpha), mis ei seleta hinnaliikumist. Põhjus jääb teadmata.",
+      "sources": [
+        {
+          "title": "Seeking Alpha: Grab discount to Uber",
+          "url": "https://seekingalpha.com/article/4960995-grab-discount-to-uber-makes-little-sense"
+        }
+      ],
+      "at": "2026-11-02T17:10:26Z"
+    },
+    {
+      "fmp": "THG.L",
+      "sym": "thg-lon",
+      "name": "THG Plc",
+      "pct": 7.1,
+      "short": "Põhjust ei leitud; tõus ca 7%",
+      "text": "Täna avaldatud THG uudist ei leitud; leitud artiklid olid varasemast ajast. Põhjus jääb kinnitamata.",
+      "sources": [],
+      "at": "2026-11-02T17:10:26Z"
+    },
+    {
+      "fmp": "JBTM",
+      "sym": "jbtm",
+      "name": "JBT Marel Corporation",
+      "pct": 7.07,
+      "short": "Põhjust ei leitud; tõus ca 7%",
+      "text": "JBT Marel'i kohta täna uudist ei leitud, otsingutulemused olid 2025. a III kvartali kohta. Põhjus jääb kinnitamata.",
+      "sources": [],
+      "at": "2026-11-02T17:10:26Z"
+    },
+    {
+      "fmp": "HLLY",
+      "sym": "hlly",
+      "name": "Holley Inc.",
+      "pct": 7.03,
+      "short": "Põhjust ei leitud; tõus ca 7%",
+      "text": "Holley kohta täna uudist ei leitud. Põhjus jääb kinnitamata.",
+      "sources": [],
+      "at": "2026-11-02T17:10:26Z"
     }
   ]
 }
