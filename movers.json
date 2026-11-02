@@ -1,57 +1,12 @@
 {
   "date": "2026-11-02",
-  "updated": "2026-11-02T17:10:26Z",
+  "updated": "2026-11-02T20:08:09Z",
   "items": [
-    {
-      "fmp": "DVYSR.ST",
-      "sym": "dvysr-se",
-      "name": "Devyser Diagnostics AB",
-      "pct": 11.82,
-      "short": "Põhjust ei leitud; III kv aruanne tuleb homme (3. nov), tõus ca 12%",
-      "text": "Täna ettevõttepoolset uudist ei leitud. Devyser avaldab III kvartali aruande varasema teabe järgi homme, 3. novembril; tõus võib olla aruandeeelne positsioneerumine, kuid see on oletus, mitte allikaga kinnitatud. Eelmine kvartal oli oodatust nõrgem.",
-      "sources": [
-        {
-          "title": "Devyser: Q2 2026 sales weaker than expected",
-          "url": "https://www.placera.se/pressmeddelanden/devyser-diagnostics-sales-in-the-second-quarter-of-2026-weaker-than-expected-20260702"
-        }
-      ],
-      "at": "2026-11-02T17:10:26Z"
-    },
-    {
-      "fmp": "VU.PA",
-      "sym": "vu-par",
-      "name": "VusionGroup S.A.",
-      "pct": 5.86,
-      "short": "Täna konkreetset uudist ei leitud; aktsia tõusis Pariisis ~6%",
-      "text": "VusionGroupi kohta ei leidnud ma tänast (2. nov) uudist, mis tõusu selgitaks – ei tulemusi, prognoosimuutust ega analüütikusoovitust. Aktsia kerkis ligi 6% 142,7 euroni, mis on tema 50-päeva keskmisest (ca 125 €) kõrgemal. Põhjus on teadmata.",
-      "sources": [
-        {
-          "title": "VusionGroup shares jump 14% to 15-week high as Q3 sales surge – Investing.com",
-          "url": "https://www.investing.com/news/earnings/vusiongroup-shares-jump-14-to-15week-high-as-q3-sales-surge-4961812"
-        }
-      ],
-      "at": "2026-11-02T09:07:42Z"
-    },
-    {
-      "fmp": "ASG.AX",
-      "sym": "asg-aus",
-      "name": "Autosports Group Ltd",
-      "pct": 5.0,
-      "short": "Tõus 1,00 → 1,05 A$ ilma leitud uudiseta (väike hinnasamm)",
-      "text": "Autosports Group tõusis ASX-il 1,00 dollarilt 1,05 dollarile (+5%), kuid tänast ettevõttepoolset teadaannet ega muud põhjust ma ei leidnud. Tegu on väikese hinnaga aktsiaga, kus üks hinnasamm annab suure protsendi, seega võib tegu olla pelgalt tavapärase kõikumisega.",
-      "sources": [
-        {
-          "title": "Autosports Group (ASX: ASG) – Market Index",
-          "url": "https://www.marketindex.com.au/asx/asg"
-        }
-      ],
-      "at": "2026-11-02T09:07:42Z"
-    },
     {
       "fmp": "IDXX",
       "sym": "idxx",
       "name": "IDEXX Laboratories, Inc.",
-      "pct": 19.28,
+      "pct": 20.99,
       "short": "III kv tulemused ületasid ootusi, aastaprognoosi tõsteti",
       "text": "IDEXX avaldas täna (2. nov) III kvartali tulemused: tulu kasvas ca 10% umbes 1,21 mld USD-ni, korduv diagnostikatulu müügist loomaarstidele +11%. Ettevõte tõstis 2026. a tulu- ja kasumiprognoosi. Seos hinnaliikumisega on kindel, sest aktsia tõusis tulemuste päeval; Motley Fool märgib, et kasumiprognoosi tõus ei tulene testide nõudlusest ja marginaaliprognoos on nõrgem.",
       "sources": [
@@ -67,25 +22,10 @@
       "at": "2026-11-02T17:10:26Z"
     },
     {
-      "fmp": "NXT",
-      "sym": "nxt",
-      "name": "Nextpower Inc.",
-      "pct": 16.37,
-      "short": "Põhjust ei leitud; tulemused olid juba 28. okt",
-      "text": "Täna avaldatud ettevõttepoolset uudist ei leitud. Nextpower avaldas II kvartali 2027. a tulemused 28. oktoobril, seega tänane +16% ei ole selgelt seotud värske aruandega. Seos päevauudisega puudub; põhjus jääb kinnitamata.",
-      "sources": [
-        {
-          "title": "Nextpower: Q2 FY2027 results (8-K)",
-          "url": "https://www.sec.gov/Archives/edgar/data/0001852131/000185213126000055/ex991_q227.htm"
-        }
-      ],
-      "at": "2026-11-02T17:10:26Z"
-    },
-    {
       "fmp": "TATT",
       "sym": "tatt",
       "name": "TAT Technologies Ltd.",
-      "pct": 15.24,
+      "pct": 20.85,
       "short": "Rekordiline III kvartal: tulu +20%, korrigeeritud EBITDA +61%",
       "text": "TAT Technologies avaldas täna rekordilised III kvartali tulemused: tulu kasvas 20,2%, korrigeeritud EBITDA 60,9% ja lahjendatud EPS 57,8%. Kasvu vedasid APU-äri, soojusvahetid ning kauplemis-/rendiäri. Seos hinnatõusuga on kindel, aktsia oli Benzinga tõusjate nimekirjas.",
       "sources": [
@@ -104,7 +44,7 @@
       "fmp": "NSSC",
       "sym": "nssc",
       "name": "NAPCO Security Technologies, Inc.",
-      "pct": -14.87,
+      "pct": -15.7,
       "short": "I kv (2027) aruanne: seadmemüük -7,3%, EPS ilma kohtukrediidita stabiilne",
       "text": "NAPCO avaldas täna 2027. a I kvartali tulemused. Seadmemüük langes 7,3%, korduv teenusetulu kasvas 11,5%; ilma kohtuvaidluse krediidita langes tegevuskasum ca 4% ja EPS jäi samaks (0,34 USD). Langus tuleneb tõenäoliselt aruandest ja nõrgast riistvaramüügist.",
       "sources": [
@@ -120,16 +60,31 @@
       "at": "2026-11-02T17:10:26Z"
     },
     {
-      "fmp": "ALGT",
-      "sym": "algt",
-      "name": "Allegiant Travel Company",
-      "pct": 9.83,
-      "short": "Põhjust ei leitud; ainus täna leitud uudis on koolituspartnerlus",
-      "text": "Täna leitud ainus Allegianti uudis oli koostöö UNLV-ga lennusaatjate koolituseks, mis ei seleta +10% tõusu. Tulemuste, prognoosi ega M&A uudist ei leitud. Põhjus jääb teadmata.",
+      "fmp": "NXT",
+      "sym": "nxt",
+      "name": "Nextpower Inc.",
+      "pct": 15.16,
+      "short": "Põhjust ei leitud; tulemused olid juba 28. okt",
+      "text": "Täna avaldatud ettevõttepoolset uudist ei leitud. Nextpower avaldas II kvartali 2027. a tulemused 28. oktoobril, seega tänane +16% ei ole selgelt seotud värske aruandega. Seos päevauudisega puudub; põhjus jääb kinnitamata.",
       "sources": [
         {
-          "title": "Allegiant & UNLV partnership",
-          "url": "https://www.prnewswire.com/news-releases/allegiant-partners-with-unlvs-college-of-hospitality-to-launch-customer-experience-training-for-flight-attendants-302924505.html"
+          "title": "Nextpower: Q2 FY2027 results (8-K)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001852131/000185213126000055/ex991_q227.htm"
+        }
+      ],
+      "at": "2026-11-02T17:10:26Z"
+    },
+    {
+      "fmp": "DVYSR.ST",
+      "sym": "dvysr-se",
+      "name": "Devyser Diagnostics AB",
+      "pct": 11.82,
+      "short": "Põhjust ei leitud; III kv aruanne tuleb homme (3. nov), tõus ca 12%",
+      "text": "Täna ettevõttepoolset uudist ei leitud. Devyser avaldab III kvartali aruande varasema teabe järgi homme, 3. novembril; tõus võib olla aruandeeelne positsioneerumine, kuid see on oletus, mitte allikaga kinnitatud. Eelmine kvartal oli oodatust nõrgem.",
+      "sources": [
+        {
+          "title": "Devyser: Q2 2026 sales weaker than expected",
+          "url": "https://www.placera.se/pressmeddelanden/devyser-diagnostics-sales-in-the-second-quarter-of-2026-weaker-than-expected-20260702"
         }
       ],
       "at": "2026-11-02T17:10:26Z"
@@ -145,29 +100,34 @@
       "at": "2026-11-02T17:10:26Z"
     },
     {
-      "fmp": "SHLS",
-      "sym": "shls",
-      "name": "Shoals Technologies Group, Inc. Class A",
-      "pct": 7.29,
-      "short": "Põhjust ei leitud; tõus ca 7%",
-      "text": "Shoalsi kohta täna uudist ei leitud (viimane leitud tulemuste teade oli 4. augustist). Liikumine võib olla sektori- või turupõhine, kuid allikaga seda kinnitada ei saanud.",
-      "sources": [],
-      "at": "2026-11-02T17:10:26Z"
-    },
-    {
-      "fmp": "GRAB",
-      "sym": "grab",
-      "name": "Grab Holdings Limited Class A",
-      "pct": 7.19,
-      "short": "Põhjust ei leitud; tõus ca 7%",
-      "text": "Grabi kohta täna ettevõttepoolset uudist ei leitud, ainult analüütiku arvamusartikkel (Seeking Alpha), mis ei seleta hinnaliikumist. Põhjus jääb teadmata.",
+      "fmp": "ALGT",
+      "sym": "algt",
+      "name": "Allegiant Travel Company",
+      "pct": 7.67,
+      "short": "Põhjust ei leitud; ainus täna leitud uudis on koolituspartnerlus",
+      "text": "Täna leitud ainus Allegianti uudis oli koostöö UNLV-ga lennusaatjate koolituseks, mis ei seleta +10% tõusu. Tulemuste, prognoosi ega M&A uudist ei leitud. Põhjus jääb teadmata.",
       "sources": [
         {
-          "title": "Seeking Alpha: Grab discount to Uber",
-          "url": "https://seekingalpha.com/article/4960995-grab-discount-to-uber-makes-little-sense"
+          "title": "Allegiant & UNLV partnership",
+          "url": "https://www.prnewswire.com/news-releases/allegiant-partners-with-unlvs-college-of-hospitality-to-launch-customer-experience-training-for-flight-attendants-302924505.html"
         }
       ],
       "at": "2026-11-02T17:10:26Z"
+    },
+    {
+      "fmp": "CWK",
+      "sym": "cwk",
+      "name": "Cushman & Wakefield Ltd.",
+      "pct": 7.63,
+      "short": "Täna ei leitud selget põhjust; ainus täna leitud uudis on rutiinne laenutehing",
+      "text": "Cushman & Wakefieldi kohta ei leidnud ma täna (2. nov) tulemusi, prognoosimuutust ega analüütikusoovitust, mis tõusu selgitaks. Ainus täna leitud pressiteade on Floridas Hollywoodi kortermaja 109,2 mln USD Freddie Maci laenu vahendamine, mis on tavapärane tehing ega seleta 7,6% tõusu. Põhjus on teadmata.",
+      "sources": [
+        {
+          "title": "Cushman & Wakefield and Greystone Close $109.2 Million Freddie Mac Loan – GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/11/02/3393501/30865/en/cushman-wakefield-and-greystone-close-109-2-million-freddie-mac-loan-for-a-multifamily-property-in-hollywood-florida.html"
+        }
+      ],
+      "at": "2026-11-02T20:08:09Z"
     },
     {
       "fmp": "THG.L",
@@ -180,24 +140,244 @@
       "at": "2026-11-02T17:10:26Z"
     },
     {
+      "fmp": "HLMN",
+      "sym": "hlmn",
+      "name": "Hillman Solutions Corp.",
+      "pct": 6.9,
+      "short": "Põhjust ei leitud; täna ettevõtte uudiseid ei ilmunud, tõus ca 7%",
+      "text": "Hillmani kohta ei leidnud ma täna uudist, mis tõusu selgitaks. Viimased leitud materjalid on 28.–29. oktoobri analüütikute kommentaarid, mis ei puuduta tänast päeva. III kvartali tulemuste kuupäev on teadmata. Põhjus on teadmata.",
+      "sources": [
+        {
+          "title": "I Would Be Crazy To Downgrade Hillman Solutions Here – Seeking Alpha",
+          "url": "https://seekingalpha.com/article/4958627-i-would-be-crazy-to-downgrade-hillman-solutions-here"
+        }
+      ],
+      "at": "2026-11-02T20:08:09Z"
+    },
+    {
+      "fmp": "VYX",
+      "sym": "vyx",
+      "name": "NCR Voyix Corporation",
+      "pct": 6.84,
+      "short": "Võimalik seos Ahold Delhaize USA poesüsteemide uuendusprojektiga",
+      "text": "NCR Voyix tõusis ca 6,8%. Täna avaldas Ahold Delhaize USA pressiteate, et uuendab toidupoodide põhitehnoloogiat koostöös NCR Voyixiga, mis võib tõusu osaliselt toetada. Hinnaliikumise ja teate seos on oletuslik, kuna allikad seda otseselt ei kinnita.",
+      "sources": [
+        {
+          "title": "Ahold Delhaize USA Advances Next-Generation In-Store Experience – GlobeNewswire",
+          "url": "https://www.globenewswire.com/news-release/2026/11/02/3393348/0/en/ahold-delhaize-usa-advances-next-generation-in-store-experience.html"
+        }
+      ],
+      "at": "2026-11-02T20:08:09Z"
+    },
+    {
+      "fmp": "GRAB",
+      "sym": "grab",
+      "name": "Grab Holdings Limited Class A",
+      "pct": 6.81,
+      "short": "Põhjust ei leitud; tõus ca 7%",
+      "text": "Grabi kohta täna ettevõttepoolset uudist ei leitud, ainult analüütiku arvamusartikkel (Seeking Alpha), mis ei seleta hinnaliikumist. Põhjus jääb teadmata.",
+      "sources": [
+        {
+          "title": "Seeking Alpha: Grab discount to Uber",
+          "url": "https://seekingalpha.com/article/4960995-grab-discount-to-uber-makes-little-sense"
+        }
+      ],
+      "at": "2026-11-02T17:10:26Z"
+    },
+    {
+      "fmp": "OTB.L",
+      "sym": "otb-lon",
+      "name": "On The Beach Group PLC",
+      "pct": 6.81,
+      "short": "Põhjust ei leitud; viimane teadaanne oli aasta eelne kauplemisülevaade",
+      "text": "On the Beach tõusis Londonis ca 6,8%. Täna ei leidnud ma ettevõtte uudist ega analüütikumuutust, mis tõusu selgitaks. Sama päeva TUI tõus (+5,9%) viitab võimalikule reisisektori toetusele, kuid see on oletus, mida allikas ei kinnita.",
+      "sources": [
+        {
+          "title": "On The Beach Group – 2026 Pre-Close Trading Update – Investegate",
+          "url": "https://www.investegate.co.uk/announcement/rns/on-the-beach-group--otb/2026-pre-close-trading-update/9787942"
+        }
+      ],
+      "at": "2026-11-02T20:08:09Z"
+    },
+    {
+      "fmp": "DOV.MI",
+      "sym": "dov-mil",
+      "name": "doValue S.p.A.",
+      "pct": 6.58,
+      "short": "Põhjust ei leitud; käimas on aktsiate tagasiostuprogramm",
+      "text": "doValue tõusis ca 6,6% 1,78 euroni. Täna uudist ei leitud. Taustaks: ettevõte on alates 19. oktoobrist ostnud tagasi oma aktsiaid (20.–23. okt ca 1,1 mln aktsiat hinnaga ca 1,61 €), mis võib hinda toetada, kuid tänase hüppe põhjust see ei kinnita.",
+      "sources": [
+        {
+          "title": "doValue: buyback per quasi 1,8 milioni di euro – Teleborsa / Borsa Italiana",
+          "url": "https://www.borsaitaliana.it/borsa/notizie/teleborsa/finanza/dovalue-buyback-per-quasi-18-milioni-di-euro-225_2026-10-26_TLB.html?lang=it"
+        }
+      ],
+      "at": "2026-11-02T20:08:09Z"
+    },
+    {
+      "fmp": "SHLS",
+      "sym": "shls",
+      "name": "Shoals Technologies Group, Inc. Class A",
+      "pct": 6.46,
+      "short": "Põhjust ei leitud; tõus ca 7%",
+      "text": "Shoalsi kohta täna uudist ei leitud (viimane leitud tulemuste teade oli 4. augustist). Liikumine võib olla sektori- või turupõhine, kuid allikaga seda kinnitada ei saanud.",
+      "sources": [],
+      "at": "2026-11-02T17:10:26Z"
+    },
+    {
       "fmp": "JBTM",
       "sym": "jbtm",
       "name": "JBT Marel Corporation",
-      "pct": 7.07,
+      "pct": 6.44,
       "short": "Põhjust ei leitud; tõus ca 7%",
       "text": "JBT Marel'i kohta täna uudist ei leitud, otsingutulemused olid 2025. a III kvartali kohta. Põhjus jääb kinnitamata.",
       "sources": [],
       "at": "2026-11-02T17:10:26Z"
     },
     {
+      "fmp": "AIR",
+      "sym": "air",
+      "name": "AAR CORP.",
+      "pct": 6.06,
+      "short": "AAR kuulutas välja 1,9 mld USD võlakirjaemissiooni; tõusu põhjus ebaselge",
+      "text": "AAR teatas täna (2. nov) kavandatavast 955 mln USD 2031. a ja 960 mln USD 2034. a tähtajaga vanemvõlakirjade emissioonist. Teade ei näita, miks aktsia ca 6% tõusis; seos hinnaga on ebaselge ning täpsemat põhjust ei leitud.",
+      "sources": [
+        {
+          "title": "AAR announces proposed offering of senior notes due 2031 and 2034 – PRNewswire",
+          "url": "https://www.prnewswire.com/news-releases/aar-announces-proposed-offering-of-955-million-of-senior-notes-due-2031-and-960-million-of-senior-notes-due-2034-302926390.html"
+        }
+      ],
+      "at": "2026-11-02T20:08:09Z"
+    },
+    {
+      "fmp": "TUI1.DE",
+      "sym": "TUI1-DE",
+      "name": "TUI AG",
+      "pct": 5.94,
+      "short": "Põhjust ei leitud; reisisektori tõus (OTB samuti +7%)",
+      "text": "TUI tõusis ca 5,9% 7,38 euroni. Täna ei leidnud ma ettevõttespetsiifilist uudist. Samal päeval tõusid ka On the Beach (+6,8%) ja Entain, mis viitab võimalikule sektoritoele, kuid allikas seda ei kinnita. Põhjus on teadmata.",
+      "sources": [
+        {
+          "title": "TUI Aktie – Börse Express",
+          "url": "https://www.boerse-express.com/news/articles/tui-aktie-kursrally-trifft-schluesselmarke-932870"
+        }
+      ],
+      "at": "2026-11-02T20:08:09Z"
+    },
+    {
       "fmp": "HLLY",
       "sym": "hlly",
       "name": "Holley Inc.",
-      "pct": 7.03,
+      "pct": 5.89,
       "short": "Põhjust ei leitud; tõus ca 7%",
       "text": "Holley kohta täna uudist ei leitud. Põhjus jääb kinnitamata.",
       "sources": [],
       "at": "2026-11-02T17:10:26Z"
+    },
+    {
+      "fmp": "VU.PA",
+      "sym": "vu-par",
+      "name": "VusionGroup S.A.",
+      "pct": 5.86,
+      "short": "Täna konkreetset uudist ei leitud; aktsia tõusis Pariisis ~6%",
+      "text": "VusionGroupi kohta ei leidnud ma tänast (2. nov) uudist, mis tõusu selgitaks – ei tulemusi, prognoosimuutust ega analüütikusoovitust. Aktsia kerkis ligi 6% 142,7 euroni, mis on tema 50-päeva keskmisest (ca 125 €) kõrgemal. Põhjus on teadmata.",
+      "sources": [
+        {
+          "title": "VusionGroup shares jump 14% to 15-week high as Q3 sales surge – Investing.com",
+          "url": "https://www.investing.com/news/earnings/vusiongroup-shares-jump-14-to-15week-high-as-q3-sales-surge-4961812"
+        }
+      ],
+      "at": "2026-11-02T09:07:42Z"
+    },
+    {
+      "fmp": "STN.TO",
+      "sym": "stn-ca",
+      "name": "Stantec Inc",
+      "pct": 5.74,
+      "short": "Põhjust ei leitud; ca 5,7% tõus, ka WSP (+5,1%) ja AtkinsRéalis (+5,1%) tõusid",
+      "text": "Stantec tõusis ca 5,7%. Täna ei leidnud ma ettevõttespetsiifilist uudist. Samal päeval tõusid ka konkurendid WSP Global ja AtkinsRéalis ligi 5%, mis viitab sektoriülesele liikumisele, kuid selle põhjust allikad ei kinnita.",
+      "sources": [
+        {
+          "title": "Stantec Inc. (STN) – StockAnalysis",
+          "url": "https://stockanalysis.com/stocks/STN"
+        }
+      ],
+      "at": "2026-11-02T20:08:09Z"
+    },
+    {
+      "fmp": "BUR.L",
+      "sym": "bur-lon",
+      "name": "Burford Capital Limited",
+      "pct": 5.69,
+      "short": "Põhjust ei leitud; ca 5,7% tõus pärast pikka langust",
+      "text": "Burford Capital tõusis Londonis ca 5,7% 274,8 pennini, kuid on endiselt kaugel aastatipust (764,5). Täna ei leidnud ma uudist ega analüütikumuutust, mis tõusu selgitaks. Taustaks: ettevõtte kohtuvaidluse kaotus (YPF) on varem vähendanud varade väärtust. Tänase tõusu põhjus on teadmata.",
+      "sources": [
+        {
+          "title": "Burford Says YPF Court Loss Caused $2.4 Billion Asset Drop – Bloomberg Law",
+          "url": "https://news.bloomberglaw.com/business-and-practice/burford-says-ypf-court-loss-caused-2-4-billion-asset-drop"
+        }
+      ],
+      "at": "2026-11-02T20:08:09Z"
+    },
+    {
+      "fmp": "VCT.PA",
+      "sym": "vct-par",
+      "name": "Vicat SA",
+      "pct": 5.67,
+      "short": "Põhjust ei leitud; ca 5,7% tõus, tulemused juba juulis",
+      "text": "Vicat tõusis Pariisis ca 5,7% 63,4 euroni. Täna uudist ei leitud. Taustaks: ettevõte tõstis 29. juulil 2026. a eesmärke pärast tugevat esimest poolaastat; 9 kuu käive pole veel leitud. Tänase hüppe põhjus on teadmata.",
+      "sources": [
+        {
+          "title": "Vicat relève ses objectifs 2026 – Option Finance",
+          "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-07-29-vicat-releve-ses-objectifs-2026.html"
+        }
+      ],
+      "at": "2026-11-02T20:08:09Z"
+    },
+    {
+      "fmp": "AX",
+      "sym": "ax",
+      "name": "Axos Financial, Inc.",
+      "pct": 5.52,
+      "short": "Põhjust ei leitud; I kv tulemused olid 29.–30. okt, ca 5,5% tõus",
+      "text": "Axos Financial tõusis ca 5,5%. Täna uudist ei leitud. Taustaks: ettevõte esitas eelmisel nädalal I kvartali (FY2027) tulemused ning ootab laenukasvu madalate kuni keskmiste teismeliste protsentideni, kuid tänast liikumist see otseselt ei seleta.",
+      "sources": [
+        {
+          "title": "What Axos Financial (AX) Said on Its Q1 Earnings Call – MarketBeat",
+          "url": "https://www.marketbeat.com/instant-alerts/transcript-what-axos-financial-ax-said-on-its-q1-earnings-call-2026-10-30/"
+        }
+      ],
+      "at": "2026-11-02T20:08:09Z"
+    },
+    {
+      "fmp": "SRC.L",
+      "sym": "src-lon",
+      "name": "SigmaRoc Plc",
+      "pct": 5.43,
+      "short": "Põhjust ei leitud; 21. okt III kv uuendus oli langusega, nüüd ca 5,4% tagasipõrge",
+      "text": "SigmaRoc tõusis ca 5,4% 130 pennini. Täna uudist ei leitud. 21. oktoobril avaldatud III kvartali uuendus (9 kuu käive +2,5%, EBITDA +7,5%, prognoos muutmata) viis aktsia sel päeval ca 6% alla, seega võib tänane tõus olla tagasipõrge, kuid see on oletus.",
+      "sources": [
+        {
+          "title": "SigmaRoc maintains outlook following revenue and earnings growth – AJ Bell",
+          "url": "https://www.ajbell.co.uk/news/articles/sigmaroc-maintains-outlook-following-revenue-and-earnings-growth"
+        }
+      ],
+      "at": "2026-11-02T20:08:09Z"
+    },
+    {
+      "fmp": "ASG.AX",
+      "sym": "asg-aus",
+      "name": "Autosports Group Ltd",
+      "pct": 5.0,
+      "short": "Tõus 1,00 → 1,05 A$ ilma leitud uudiseta (väike hinnasamm)",
+      "text": "Autosports Group tõusis ASX-il 1,00 dollarilt 1,05 dollarile (+5%), kuid tänast ettevõttepoolset teadaannet ega muud põhjust ma ei leidnud. Tegu on väikese hinnaga aktsiaga, kus üks hinnasamm annab suure protsendi, seega võib tegu olla pelgalt tavapärase kõikumisega.",
+      "sources": [
+        {
+          "title": "Autosports Group (ASX: ASG) – Market Index",
+          "url": "https://www.marketindex.com.au/asx/asg"
+        }
+      ],
+      "at": "2026-11-02T09:07:42Z"
     }
   ]
 }
