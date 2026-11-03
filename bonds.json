@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T00:22:49Z",
+  "updated": "2026-11-03T00:17:34Z",
   "items": [
     {
       "isin": "USU45709AB58",
@@ -9,7 +9,7 @@
       "prevPrice": null,
       "source": null,
       "url": null,
-      "note": "uut hinda ei leitud 2026-10-31: FactSet ja IBKR pole saadaval; cbonds/TradingView ei laadinud, finanzen.net/Deutsche Börse hinda ei näita, otsing tulemust ei andnud"
+      "note": "uut hinda ei leitud 2026-11-03: FactSet/IBKR pole saadaval; Deutsche Börse, bondblox, cbonds, TradingView, finanzen.net ei näidanud hinda"
     },
     {
       "isin": "USU6203KAE48",
@@ -19,7 +19,7 @@
       "prevPrice": null,
       "source": null,
       "url": null,
-      "note": "uut hinda ei leitud 2026-10-31: FactSet ja IBKR pole saadaval; cbonds/TradingView ei laadinud, finanzen.net/Deutsche Börse hinda ei näita, otsing tulemust ei andnud"
+      "note": "uut hinda ei leitud 2026-11-03: FactSet/IBKR pole saadaval; Deutsche Börse, bondblox, cbonds, TradingView, finanzen.net ei näidanud hinda"
     },
     {
       "isin": "USU37027AB27",
@@ -29,7 +29,7 @@
       "prevPrice": null,
       "source": null,
       "url": null,
-      "note": "uut hinda ei leitud 2026-10-31: FactSet ja IBKR pole saadaval; cbonds/TradingView ei laadinud, finanzen.net/Deutsche Börse hinda ei näita, otsing tulemust ei andnud"
+      "note": "uut hinda ei leitud 2026-11-03: FactSet/IBKR pole saadaval; Deutsche Börse, bondblox, cbonds, TradingView, finanzen.net ei näidanud hinda"
     },
     {
       "isin": "USU98401AE97",
@@ -38,7 +38,8 @@
       "priceDate": "2026-10-30",
       "prevPrice": 30.16,
       "source": "onvista / finanzen.net (gettex)",
-      "url": "https://www.onvista.de/anleihen/chart/XEROX-HLDGS-24-29-REGS-Anleihe-USU98401AE97"
+      "url": "https://www.onvista.de/anleihen/chart/XEROX-HLDGS-24-29-REGS-Anleihe-USU98401AE97",
+      "note": "uut hinda ei leitud 2026-11-03: FactSet/IBKR pole saadaval; Deutsche Börse, bondblox, cbonds, TradingView, finanzen.net ei näidanud hinda; bondblox artikkel (63.8, kuupäevata) lükati tagasi >25 punkti hüppe tõttu"
     },
     {
       "isin": "USP46214AJ49",
@@ -48,7 +49,7 @@
       "prevPrice": null,
       "source": null,
       "url": null,
-      "note": "uut hinda ei leitud 2026-10-31: FactSet ja IBKR pole saadaval; cbonds/TradingView ei laadinud, finanzen.net/Deutsche Börse hinda ei näita, otsing tulemust ei andnud"
+      "note": "uut hinda ei leitud 2026-11-03: FactSet/IBKR pole saadaval; Deutsche Börse, bondblox, cbonds, TradingView, finanzen.net ei näidanud hinda"
     }
   ]
 }
