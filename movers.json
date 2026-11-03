@@ -1,21 +1,88 @@
 {
   "date": "2026-11-03",
-  "updated": "2026-11-03T17:07:29Z",
+  "updated": "2026-11-03T20:07:37Z",
   "items": [
     {
-      "fmp": "ASG.AX",
-      "sym": "asg-aus",
-      "name": "Autosports Group Ltd",
-      "pct": 8.1,
-      "short": "Põhjust ei leitud: ettevõttespetsiifilist uudist täna pole",
-      "text": "Autosports Groupi aktsia tõusis täna ASX-il umbes 8%, kuid tänast ettevõttespetsiifilist uudist ega maaklerisoovitust ei leitud. Viimane teadaolev sündmus on lõppdividendi ex-kuupäev 29. oktoobril. Aktsia on lähedal aasta madalaimale tasemele (1,135 AUD vs aasta madalaim 0,99), nii et tõus võib olla tehniline taastumine, kuid seda allikad ei kinnita.",
+      "fmp": "NBIX",
+      "sym": "nbix",
+      "name": "Neurocrine Biosciences, Inc.",
+      "pct": 15.46,
+      "short": "III kvartali rekordtulemus ja tõstetud INGREZZA müügiprognoos",
+      "text": "Neurocrine teatas III kvartali tulust 1,1 mld USD (+41% aastaga) ja EPS-ist 3,29 USD, mis ületas Zacksi konsensuse 2,54 USD. INGREZZA 2026. a müügiprognoos tõsteti 2,9–2,925 mld USD-ni. Seos hinnatõusuga on tugev.",
       "sources": [
         {
-          "title": "Kalkine: Autosports Group final distribution",
-          "url": "https://kalkine.com.au/news/consumer/autosports-group-asxasg-sets-final-distribution-ahead-of-29-october-ex-date"
+          "title": "PRNewswire: Neurocrine III kvartali tulemused",
+          "url": "https://www.prnewswire.com/news-releases/neurocrine-biosciences-reports-third-quarter-2026-financial-results-302926995.html"
+        },
+        {
+          "title": "Zacks: NBIX Q3 earnings top estimates",
+          "url": "https://www.zacks.com/stock/news/3021247/neurocrine-biosciences-nbix-q3-earnings-and-revenues-top-estimates"
         }
       ],
-      "at": "2026-11-03T09:07:32Z"
+      "at": "2026-11-03T17:07:29Z"
+    },
+    {
+      "fmp": "MWH",
+      "sym": "mwh",
+      "name": "SOLV Energy Inc Class A",
+      "pct": 12.69,
+      "short": "Võimalik seos ASB Energy Services'i omandamisega",
+      "text": "SOLV Energy teatas 2. novembril Texase alajaamade ja akusalvestite ehitaja ASB Energy Services'i omandamise lõpuleviimisest. Muud tänast uudist ei leitud, seega seos ligi 11% tõusuga on võimalik, kuid mitte kinnitatud.",
+      "sources": [
+        {
+          "title": "GlobeNewswire: SOLV omandab ASB",
+          "url": "https://www.globenewswire.com/news-release/2026/11/02/3393736/0/en/solv-energy-expands-high-voltage-infrastructure-capabilities-with-acquisition-of-asb-energy-services.html"
+        }
+      ],
+      "at": "2026-11-03T17:07:29Z"
+    },
+    {
+      "fmp": "VITL",
+      "sym": "vitl",
+      "name": "Vital Farms, Inc.",
+      "pct": 10.89,
+      "short": "Tõus vaatamata III kvartali kahjumile ja langetatud prognoosile",
+      "text": "Vital Farms teatas III kvartali kahjumist (−0,15 USD aktsia kohta vs oodatud −0,13) ja tulust 182,2 mln USD (−8,4% aastaga, +9,7% kvartaliga) ning langetas aasta prognoosi. Aktsia tõusis siiski ~7%, tõenäoliselt tulemuste järjestikuse paranemise tõttu, kuid allikad seda otse ei kinnita.",
+      "sources": [
+        {
+          "title": "Business Wire: Vital Farms III kvartal 2026",
+          "url": "https://www.businesswire.com/news/home/20261103981948/en/Vital-Farms-Reports-Third-Quarter-2026-Financial-Results/"
+        },
+        {
+          "title": "MarketBeat: Vital Farms call highlights",
+          "url": "https://www.marketbeat.com/instant-alerts/transcript-vital-farms-q3-earnings-call-highlights-2026-11-03/"
+        }
+      ],
+      "at": "2026-11-03T17:07:29Z"
+    },
+    {
+      "fmp": "SHLS",
+      "sym": "shls",
+      "name": "Shoals Technologies Group, Inc. Class A",
+      "pct": 9.21,
+      "short": "Põhjust ei leitud: tänast uudist allikatest ei leidnud",
+      "text": "Shoalsi aktsia tõusis täna umbes 7%, kuid tänast põhjust toetavat allikat ei leitud. Ettevõtte III kvartali tulemuste kuupäeva kohta kinnitust ei saanud, seega seost tulemustega ei saa väita.",
+      "sources": [],
+      "at": "2026-11-03T17:07:29Z"
+    },
+    {
+      "fmp": "DD",
+      "sym": "dd",
+      "name": "DuPont de Nemours, Inc.",
+      "pct": 8.86,
+      "short": "III kvartal ületas ootusi, 2026. a prognoos tõsteti, uus tagasiost",
+      "text": "DuPont teatas korrigeeritud EPS-ist 2,09 USD, müügist 1,9 mld USD (+4%, orgaaniliselt +5%) ja tõstis aasta prognoosi tervishoiu- ja lennundusnõudluse najal. Plaanis on 250 mln USD aktsiate tagasiost IV kvartalis. Seos hinnatõusuga on tugev.",
+      "sources": [
+        {
+          "title": "PRNewswire: DuPont III kvartal 2026",
+          "url": "https://www.prnewswire.com/news-releases/dupont-reports-third-quarter-2026-results-302927030.html"
+        },
+        {
+          "title": "Reuters: DuPont tõstab prognoosi",
+          "url": "https://www.reuters.com/business/dupont-raises-full-year-profit-forecasts-strong-healthcare-aerospace-demand-2026-11-03/"
+        }
+      ],
+      "at": "2026-11-03T17:07:29Z"
     },
     {
       "fmp": "IWG.L",
@@ -33,34 +100,87 @@
       "at": "2026-11-03T09:07:32Z"
     },
     {
-      "fmp": "ADOC.PA",
-      "sym": "adoc-par",
-      "name": "Adocia SA",
-      "pct": -6.09,
-      "short": "Täna uut uudist ei leitud; taustaks nullkäive ja napp raha",
-      "text": "Adocia aktsia langes täna ligi 6%, kuid tänast otsest põhjust ei leitud. Taustaks: 29. oktoobril avaldatud III kvartali tulu oli null (aasta tagasi 406 000 €), raha 8,4 mln € ja 20. oktoobril teatati 7 mln € rahastamisest, mis pikendab tegevusraha 2028. a I kvartalini. Seos täna toimunud languse ja nende uudiste vahel on ebakindel.",
+      "fmp": "GRAB",
+      "sym": "grab",
+      "name": "Grab Holdings Limited Class A",
+      "pct": 8.57,
+      "short": "III kvartal: rekordiline korrigeeritud EBITDA, prognoosid tõsteti",
+      "text": "Grab teatas III kvartali korrigeeritud EBITDA-st 237 mln USD (+73% aastaga) ning et kõik kolm põhisegmenti olid esimest korda kasumlikud. Ettevõte tõstis ka 2026. a prognoose. EPS oli 0,00 vs oodatud 0,02 USD, kuid turg reageeris prognoosile ja segmentide kasumlikkusele. Seos hinnatõusuga on tugev.",
       "sources": [
         {
-          "title": "AbcBourse: Adocia nullkäive T3 2026",
-          "url": "https://www.abcbourse.com/marches/adocia-affiche-un-chiffre-daffaires-nul-au-t3-2026-et-prolonge-son-horizon-de-t_705222"
+          "title": "Reuters: Grab tõstab 2026. a prognoose",
+          "url": "https://www.reuters.com/business/retail-consumer/grab-holdings-boosts-2026-forecasts-strong-delivery-ride-hailing-demand-2026-11-02/"
+        },
+        {
+          "title": "MarketBeat: Grab Q3 call highlights",
+          "url": "https://www.marketbeat.com/instant-alerts/transcript-grab-q3-earnings-call-highlights-2026-11-02/"
+        }
+      ],
+      "at": "2026-11-03T17:07:29Z"
+    },
+    {
+      "fmp": "ASG.AX",
+      "sym": "asg-aus",
+      "name": "Autosports Group Ltd",
+      "pct": 8.1,
+      "short": "Põhjust ei leitud: ettevõttespetsiifilist uudist täna pole",
+      "text": "Autosports Groupi aktsia tõusis täna ASX-il umbes 8%, kuid tänast ettevõttespetsiifilist uudist ega maaklerisoovitust ei leitud. Viimane teadaolev sündmus on lõppdividendi ex-kuupäev 29. oktoobril. Aktsia on lähedal aasta madalaimale tasemele (1,135 AUD vs aasta madalaim 0,99), nii et tõus võib olla tehniline taastumine, kuid seda allikad ei kinnita.",
+      "sources": [
+        {
+          "title": "Kalkine: Autosports Group final distribution",
+          "url": "https://kalkine.com.au/news/consumer/autosports-group-asxasg-sets-final-distribution-ahead-of-29-october-ex-date"
         }
       ],
       "at": "2026-11-03T09:07:32Z"
     },
     {
-      "fmp": "0780.HK",
-      "sym": "780-hk",
-      "name": "Tongcheng Travel Holdings Limited",
-      "pct": 5.98,
+      "fmp": "ENVIP.OL",
+      "sym": "envi-ams",
+      "name": "Envipco Holding N.V.",
+      "pct": 8.07,
       "short": "Põhjust ei leitud: tänast ettevõttespetsiifilist uudist pole",
-      "text": "Tongcheng Traveli aktsia tõusis Hongkongis ligi 6%, kuid tänast ettevõtte- või sektoriuudist, mis tõusu selgitaks, ei leitud. Aktsia on aasta madalaimale tasemele lähedal (10,81 HKD vs aasta madalaim 9,56), mistõttu võib tegu olla tehnilise tagasipõrkega, mida allikad ei kinnita.",
+      "text": "Envipco aktsia tõusis täna Oslos ligi 8%, kuid tänast ettevõttespetsiifilist uudist ega maaklerisoovitust ei leitud. Põhjus on teadmata.",
+      "sources": [],
+      "at": "2026-11-03T17:07:29Z"
+    },
+    {
+      "fmp": "CALX",
+      "sym": "calx",
+      "name": "Calix, Inc.",
+      "pct": -8.05,
+      "short": "III kvartali tulemused avaldatud, languse põhjus pole kinnitatud",
+      "text": "Calix teatas 2. novembril III kvartali EPS-i 0,44 USD, mis ületas konsensuse 0,42 USD. Aktsia langes siiski ~6,6%; langust selgitavat allikat (nt prognoos) ei leitud, seega põhjus on kinnitamata.",
       "sources": [
         {
-          "title": "Tiger Brokers: Tongcheng Travel news",
-          "url": "https://www.itiger.com/news/1132131695"
+          "title": "Zacks: Calix Q3 earnings beat",
+          "url": "https://www.zacks.com/stock/news/3021270/calix-calx-q3-earnings-beat-estimates"
+        },
+        {
+          "title": "Business Wire: Calix III kvartal 2026",
+          "url": "https://www.businesswire.com/news/home/20261102311308/en/Calix-Releases-Third-Quarter-2026-Financial-Results/"
         }
       ],
-      "at": "2026-11-03T09:07:32Z"
+      "at": "2026-11-03T17:07:29Z"
+    },
+    {
+      "fmp": "ECG",
+      "sym": "ecg",
+      "name": "Everus Construction Group, Inc.",
+      "pct": 7.36,
+      "short": "Põhjust ei leitud: tänast uudist pole",
+      "text": "Everus Constructioni aktsia tõusis täna umbes 6%. Tänast III kvartali tulemuste ega muud uudist ei leitud, seega põhjus on teadmata.",
+      "sources": [],
+      "at": "2026-11-03T17:07:29Z"
+    },
+    {
+      "fmp": "VER.ST",
+      "sym": "ver-se",
+      "name": "Verve Group Media SE Class A",
+      "pct": -7.07,
+      "short": "Põhjust ei leitud: aktsia langes aasta madalaimale tasemele",
+      "text": "Verve Groupi aktsia langes täna Stockholmis umbes 7% ja puudutas aasta madalaimat taset (9,15 SEK). Tänast ettevõttespetsiifilist uudist ei leitud, seega põhjus on teadmata.",
+      "sources": [],
+      "at": "2026-11-03T17:07:29Z"
     },
     {
       "fmp": "ZAL.DE",
@@ -82,144 +202,19 @@
       "at": "2026-11-03T09:07:32Z"
     },
     {
-      "fmp": "NBIX",
-      "sym": "nbix",
-      "name": "Neurocrine Biosciences, Inc.",
-      "pct": 15.35,
-      "short": "III kvartali rekordtulemus ja tõstetud INGREZZA müügiprognoos",
-      "text": "Neurocrine teatas III kvartali tulust 1,1 mld USD (+41% aastaga) ja EPS-ist 3,29 USD, mis ületas Zacksi konsensuse 2,54 USD. INGREZZA 2026. a müügiprognoos tõsteti 2,9–2,925 mld USD-ni. Seos hinnatõusuga on tugev.",
+      "fmp": "ADOC.PA",
+      "sym": "adoc-par",
+      "name": "Adocia SA",
+      "pct": -6.09,
+      "short": "Täna uut uudist ei leitud; taustaks nullkäive ja napp raha",
+      "text": "Adocia aktsia langes täna ligi 6%, kuid tänast otsest põhjust ei leitud. Taustaks: 29. oktoobril avaldatud III kvartali tulu oli null (aasta tagasi 406 000 €), raha 8,4 mln € ja 20. oktoobril teatati 7 mln € rahastamisest, mis pikendab tegevusraha 2028. a I kvartalini. Seos täna toimunud languse ja nende uudiste vahel on ebakindel.",
       "sources": [
         {
-          "title": "PRNewswire: Neurocrine III kvartali tulemused",
-          "url": "https://www.prnewswire.com/news-releases/neurocrine-biosciences-reports-third-quarter-2026-financial-results-302926995.html"
-        },
-        {
-          "title": "Zacks: NBIX Q3 earnings top estimates",
-          "url": "https://www.zacks.com/stock/news/3021247/neurocrine-biosciences-nbix-q3-earnings-and-revenues-top-estimates"
+          "title": "AbcBourse: Adocia nullkäive T3 2026",
+          "url": "https://www.abcbourse.com/marches/adocia-affiche-un-chiffre-daffaires-nul-au-t3-2026-et-prolonge-son-horizon-de-t_705222"
         }
       ],
-      "at": "2026-11-03T17:07:29Z"
-    },
-    {
-      "fmp": "MWH",
-      "sym": "mwh",
-      "name": "SOLV Energy Inc Class A",
-      "pct": 10.79,
-      "short": "Võimalik seos ASB Energy Services'i omandamisega",
-      "text": "SOLV Energy teatas 2. novembril Texase alajaamade ja akusalvestite ehitaja ASB Energy Services'i omandamise lõpuleviimisest. Muud tänast uudist ei leitud, seega seos ligi 11% tõusuga on võimalik, kuid mitte kinnitatud.",
-      "sources": [
-        {
-          "title": "GlobeNewswire: SOLV omandab ASB",
-          "url": "https://www.globenewswire.com/news-release/2026/11/02/3393736/0/en/solv-energy-expands-high-voltage-infrastructure-capabilities-with-acquisition-of-asb-energy-services.html"
-        }
-      ],
-      "at": "2026-11-03T17:07:29Z"
-    },
-    {
-      "fmp": "GRAB",
-      "sym": "grab",
-      "name": "Grab Holdings Limited Class A",
-      "pct": 10.14,
-      "short": "III kvartal: rekordiline korrigeeritud EBITDA, prognoosid tõsteti",
-      "text": "Grab teatas III kvartali korrigeeritud EBITDA-st 237 mln USD (+73% aastaga) ning et kõik kolm põhisegmenti olid esimest korda kasumlikud. Ettevõte tõstis ka 2026. a prognoose. EPS oli 0,00 vs oodatud 0,02 USD, kuid turg reageeris prognoosile ja segmentide kasumlikkusele. Seos hinnatõusuga on tugev.",
-      "sources": [
-        {
-          "title": "Reuters: Grab tõstab 2026. a prognoose",
-          "url": "https://www.reuters.com/business/retail-consumer/grab-holdings-boosts-2026-forecasts-strong-delivery-ride-hailing-demand-2026-11-02/"
-        },
-        {
-          "title": "MarketBeat: Grab Q3 call highlights",
-          "url": "https://www.marketbeat.com/instant-alerts/transcript-grab-q3-earnings-call-highlights-2026-11-02/"
-        }
-      ],
-      "at": "2026-11-03T17:07:29Z"
-    },
-    {
-      "fmp": "DD",
-      "sym": "dd",
-      "name": "DuPont de Nemours, Inc.",
-      "pct": 9.61,
-      "short": "III kvartal ületas ootusi, 2026. a prognoos tõsteti, uus tagasiost",
-      "text": "DuPont teatas korrigeeritud EPS-ist 2,09 USD, müügist 1,9 mld USD (+4%, orgaaniliselt +5%) ja tõstis aasta prognoosi tervishoiu- ja lennundusnõudluse najal. Plaanis on 250 mln USD aktsiate tagasiost IV kvartalis. Seos hinnatõusuga on tugev.",
-      "sources": [
-        {
-          "title": "PRNewswire: DuPont III kvartal 2026",
-          "url": "https://www.prnewswire.com/news-releases/dupont-reports-third-quarter-2026-results-302927030.html"
-        },
-        {
-          "title": "Reuters: DuPont tõstab prognoosi",
-          "url": "https://www.reuters.com/business/dupont-raises-full-year-profit-forecasts-strong-healthcare-aerospace-demand-2026-11-03/"
-        }
-      ],
-      "at": "2026-11-03T17:07:29Z"
-    },
-    {
-      "fmp": "ENVIP.OL",
-      "sym": "envi-ams",
-      "name": "Envipco Holding N.V.",
-      "pct": 8.07,
-      "short": "Põhjust ei leitud: tänast ettevõttespetsiifilist uudist pole",
-      "text": "Envipco aktsia tõusis täna Oslos ligi 8%, kuid tänast ettevõttespetsiifilist uudist ega maaklerisoovitust ei leitud. Põhjus on teadmata.",
-      "sources": [],
-      "at": "2026-11-03T17:07:29Z"
-    },
-    {
-      "fmp": "SHLS",
-      "sym": "shls",
-      "name": "Shoals Technologies Group, Inc. Class A",
-      "pct": 7.43,
-      "short": "Põhjust ei leitud: tänast uudist allikatest ei leidnud",
-      "text": "Shoalsi aktsia tõusis täna umbes 7%, kuid tänast põhjust toetavat allikat ei leitud. Ettevõtte III kvartali tulemuste kuupäeva kohta kinnitust ei saanud, seega seost tulemustega ei saa väita.",
-      "sources": [],
-      "at": "2026-11-03T17:07:29Z"
-    },
-    {
-      "fmp": "VER.ST",
-      "sym": "ver-se",
-      "name": "Verve Group Media SE Class A",
-      "pct": -7.07,
-      "short": "Põhjust ei leitud: aktsia langes aasta madalaimale tasemele",
-      "text": "Verve Groupi aktsia langes täna Stockholmis umbes 7% ja puudutas aasta madalaimat taset (9,15 SEK). Tänast ettevõttespetsiifilist uudist ei leitud, seega põhjus on teadmata.",
-      "sources": [],
-      "at": "2026-11-03T17:07:29Z"
-    },
-    {
-      "fmp": "VITL",
-      "sym": "vitl",
-      "name": "Vital Farms, Inc.",
-      "pct": 6.97,
-      "short": "Tõus vaatamata III kvartali kahjumile ja langetatud prognoosile",
-      "text": "Vital Farms teatas III kvartali kahjumist (−0,15 USD aktsia kohta vs oodatud −0,13) ja tulust 182,2 mln USD (−8,4% aastaga, +9,7% kvartaliga) ning langetas aasta prognoosi. Aktsia tõusis siiski ~7%, tõenäoliselt tulemuste järjestikuse paranemise tõttu, kuid allikad seda otse ei kinnita.",
-      "sources": [
-        {
-          "title": "Business Wire: Vital Farms III kvartal 2026",
-          "url": "https://www.businesswire.com/news/home/20261103981948/en/Vital-Farms-Reports-Third-Quarter-2026-Financial-Results/"
-        },
-        {
-          "title": "MarketBeat: Vital Farms call highlights",
-          "url": "https://www.marketbeat.com/instant-alerts/transcript-vital-farms-q3-earnings-call-highlights-2026-11-03/"
-        }
-      ],
-      "at": "2026-11-03T17:07:29Z"
-    },
-    {
-      "fmp": "CALX",
-      "sym": "calx",
-      "name": "Calix, Inc.",
-      "pct": -6.62,
-      "short": "III kvartali tulemused avaldatud, languse põhjus pole kinnitatud",
-      "text": "Calix teatas 2. novembril III kvartali EPS-i 0,44 USD, mis ületas konsensuse 0,42 USD. Aktsia langes siiski ~6,6%; langust selgitavat allikat (nt prognoos) ei leitud, seega põhjus on kinnitamata.",
-      "sources": [
-        {
-          "title": "Zacks: Calix Q3 earnings beat",
-          "url": "https://www.zacks.com/stock/news/3021270/calix-calx-q3-earnings-beat-estimates"
-        },
-        {
-          "title": "Business Wire: Calix III kvartal 2026",
-          "url": "https://www.businesswire.com/news/home/20261102311308/en/Calix-Releases-Third-Quarter-2026-Financial-Results/"
-        }
-      ],
-      "at": "2026-11-03T17:07:29Z"
+      "at": "2026-11-03T09:07:32Z"
     },
     {
       "fmp": "BFF.MI",
@@ -232,6 +227,21 @@
       "at": "2026-11-03T17:07:29Z"
     },
     {
+      "fmp": "0780.HK",
+      "sym": "780-hk",
+      "name": "Tongcheng Travel Holdings Limited",
+      "pct": 5.98,
+      "short": "Põhjust ei leitud: tänast ettevõttespetsiifilist uudist pole",
+      "text": "Tongcheng Traveli aktsia tõusis Hongkongis ligi 6%, kuid tänast ettevõtte- või sektoriuudist, mis tõusu selgitaks, ei leitud. Aktsia on aasta madalaimale tasemele lähedal (10,81 HKD vs aasta madalaim 9,56), mistõttu võib tegu olla tehnilise tagasipõrkega, mida allikad ei kinnita.",
+      "sources": [
+        {
+          "title": "Tiger Brokers: Tongcheng Travel news",
+          "url": "https://www.itiger.com/news/1132131695"
+        }
+      ],
+      "at": "2026-11-03T09:07:32Z"
+    },
+    {
       "fmp": "EVD.DE",
       "sym": "evd-etr",
       "name": "CTS Eventim AG & Co. KGaA",
@@ -242,14 +252,63 @@
       "at": "2026-11-03T17:07:29Z"
     },
     {
-      "fmp": "ECG",
-      "sym": "ecg",
-      "name": "Everus Construction Group, Inc.",
-      "pct": 5.84,
-      "short": "Põhjust ei leitud: tänast uudist pole",
-      "text": "Everus Constructioni aktsia tõusis täna umbes 6%. Tänast III kvartali tulemuste ega muud uudist ei leitud, seega põhjus on teadmata.",
+      "fmp": "THG.L",
+      "sym": "thg-lon",
+      "name": "THG Plc",
+      "pct": -5.53,
+      "short": "Põhjust ei leitud: tänast ettevõttespetsiifilist uudist pole",
+      "text": "THG aktsia langes täna Londonis umbes 5,5%, kuid tänast ettevõttespetsiifilist uudist ega maaklerisoovitust ei leidnud. Langus tuleb pärast hiljutist tugevat tõusu (hind on oluliselt üle 50-päeva keskmise), seega võib tegu olla kasumi realiseerimisega, kuid seda ükski allikas ei kinnita.",
       "sources": [],
-      "at": "2026-11-03T17:07:29Z"
+      "at": "2026-11-03T20:07:37Z"
+    },
+    {
+      "fmp": "DVYSR.ST",
+      "sym": "dvysr-se",
+      "name": "Devyser Diagnostics AB",
+      "pct": 5.37,
+      "short": "Põhjust ei leitud: tänast ettevõttespetsiifilist uudist pole",
+      "text": "Devyser Diagnosticsi aktsia tõusis täna Stockholmis umbes 5,4%, kuid tänast ettevõttespetsiifilist uudist ei leidnud. Viimased leitud teated (nõrgem Q2 müük, uue finantsjuhi nimetamine) pole tänased, seega tõusu põhjus on teadmata.",
+      "sources": [
+        {
+          "title": "Devyser: Sales in Q2 2026 weaker than expected",
+          "url": "https://mfn.se/a/devyser-diagnostics/sales-in-the-second-quarter-of-2026-weaker-than-expected"
+        }
+      ],
+      "at": "2026-11-03T20:07:37Z"
+    },
+    {
+      "fmp": "NXT",
+      "sym": "nxt",
+      "name": "Nextpower Inc.",
+      "pct": 5.17,
+      "short": "Hinnasihtmärgi tõstmine (GLJ Research) ja tugev Q2 toetasid tõusu",
+      "text": "Nextpoweri aktsia tõusis täna umbes 5%. Benzinga andmetel tõstis GLJ Research täna aktsia hinnasihtmärki, jätkates hiljutise tulemuste ületamise ja kõrgema FY2027 prognoosi hoogu. Lisaks tõstis Zacks täna aktsia reitingu tasemele #2 (Osta). Seos hinnaliikumisega on usutav, kuid mitte kindel.",
+      "sources": [
+        {
+          "title": "Benzinga: Nextpower Stock Climbs as Strong Q2 Sparks Wall Street Forecast Divide",
+          "url": "https://www.benzinga.com/markets/earnings/26/11/62833992/nextpower-stock-climbs-as-strong-q2-sparks-wall-street-forecast-divide"
+        },
+        {
+          "title": "Zacks: Nextpower (NXT) Rating Upgrade to Buy",
+          "url": "https://www.zacks.com/stock/news/3022060/all-you-need-to-know-about-nextpower-nxt-rating-upgrade-to-buy"
+        }
+      ],
+      "at": "2026-11-03T20:07:37Z"
+    },
+    {
+      "fmp": "AMRC",
+      "sym": "amrc",
+      "name": "Ameresco, Inc. Class A",
+      "pct": 5.13,
+      "short": "Põhjust ei leitud: tänast ettevõttespetsiifilist uudist pole",
+      "text": "Ameresco aktsia tõusis täna USA-s umbes 5,1%, kuid tänast ettevõttespetsiifilist uudist ei leidnud; ainus värske teade on osalemine Cantori konverentsil 10. novembril, mis tõusu tõenäoliselt ei seleta. Põhjus on teadmata.",
+      "sources": [
+        {
+          "title": "Business Wire: Ameresco to Participate at Upcoming Conference",
+          "url": "https://www.businesswire.com/news/home/20261102748210/en/Ameresco-to-Participate-at-Upcoming-Conference/"
+        }
+      ],
+      "at": "2026-11-03T20:07:37Z"
     }
   ]
 }
