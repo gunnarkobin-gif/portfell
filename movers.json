@@ -1,7 +1,274 @@
 {
   "date": "2026-11-04",
-  "updated": "2026-11-04T17:13:27Z",
+  "updated": "2026-11-04T20:14:00Z",
   "items": [
+    {
+      "fmp": "ECG",
+      "sym": "ecg",
+      "name": "Everus Construction Group, Inc.",
+      "pct": -28.32,
+      "short": "Tugev III kvartal ja kõrgem prognoos, aga aktsia müüdi maha",
+      "text": "Everus teatas III kvartali käibeks 1,38 mld USD (+40%) ja EPS-iks 1,79 USD, tõstis 2026. a käibeprognoosi 5,0–5,1 mld USD-ni ja EBITDA prognoosi 485–495 mln USD-ni. Aktsia langes sellest hoolimata ligi veerandi. Allikas ei nimeta ühte põhjust; märgitakse, et prognoosi marginaal (~9,7%) on peaaegu sama mis seni, 2027. aasta prognoos tuleb alles veebruaris ja marginaali tõusu aitas 7,6 mln USD kokkulepe. Seos on ebakindel.",
+      "sources": [
+        {
+          "title": "Investing.com: Everus Q3 2026 call",
+          "url": "https://www.investing.com/news/transcripts/earnings-call-transcript-everus-construction-beats-q3-2026-estimates-as-stock-sinks-93CH-5000720"
+        },
+        {
+          "title": "Business Wire: Everus Q3 2026",
+          "url": "https://www.businesswire.com/news/home/20261103103156/en/Everus-Reports-Third-Quarter-2026-Results-Raises-2026-Guidance/"
+        }
+      ],
+      "at": "2026-11-04T20:14:00Z"
+    },
+    {
+      "fmp": "YOU",
+      "sym": "you",
+      "name": "Clear Secure, Inc. Class A",
+      "pct": 25.15,
+      "short": "III kvartal ületas ootusi, tagasiostuprogrammi suurendati",
+      "text": "Clear Secure teatas III kvartali käibeks 292,9 mln USD (+27,8%) ja korrigeeritud EPS-iks 0,63 USD (konsensus 0,56). Juhatus suurendas tagasiostuprogrammi 175 mln USD võrra ja tõstis 2026. a vaba rahavoo prognoosi vähemalt 490 mln USD-ni. Seos hinnatõusuga on tugev.",
+      "sources": [
+        {
+          "title": "PRNewswire: CLEAR Q3 2026",
+          "url": "https://www.prnewswire.com/news-releases/clear-announces-third-quarter-2026-financial-results-302928702.html"
+        },
+        {
+          "title": "Zacks: Clear Secure Q3",
+          "url": "https://www.zacks.com/stock/news/3022612/clear-secure-you-surpasses-q3-earnings-and-revenue-estimates"
+        }
+      ],
+      "at": "2026-11-04T20:14:00Z"
+    },
+    {
+      "fmp": "AHCO",
+      "sym": "ahco",
+      "name": "AdaptHealth Corp.",
+      "pct": 17.04,
+      "short": "Q3 ületas käibe ja EBITDA juhiseid; suure lepingu paranemine",
+      "text": "AdaptHealth teatas 3. novembril III kvartali tulemused, mis ületasid ettevõtte enda käibe ja korrigeeritud EBITDA juhised; juhtkond tõi esile suurima kapitatsioonilepingu paranemise, orgaanilise kasvu ja kulude kontrolli. Tõus on tõenäoliselt reaktsioon sellele aruandele, kuid täpne ajastus (aruanne eile) jätab seose veidi ebakindlaks.",
+      "sources": [
+        {
+          "title": "AdaptHealth Q3 2026 tulemused",
+          "url": "https://www.businesswire.com/news/home/20261103608966/en/AdaptHealth-Corp.-Announces-Third-Quarter-2026-Results/"
+        },
+        {
+          "title": "MarketBeat: AdaptHealth Q3 call",
+          "url": "https://www.marketbeat.com/instant-alerts/transcript-what-adapthealth-ahco-said-on-its-q3-earnings-call-2026-11-03/"
+        }
+      ],
+      "at": "2026-11-04T17:13:27Z"
+    },
+    {
+      "fmp": "MTZ",
+      "sym": "mtz",
+      "name": "MasTec, Inc.",
+      "pct": -16.47,
+      "short": "Q3 järel torujuhtmete viivitused ja marginaalisurve 2027. a väljavaates",
+      "text": "Zacksi kokkuvõtte järgi näitas MasTeci Q3 aruanne rekordilist 24,5 mld dollari tellimuste portfelli ja kasvavat elektrivõrkude nõudlust, kuid torujuhtmeprojektide viivitused ja marginaalisurve mõjutavad 2027. a väljavaadet. See on tõenäoline languse põhjus, kuid täna avaldatud konkreetset allikat ei leidnud.",
+      "sources": [
+        {
+          "title": "Zacks: MTZ Q3 call highlights",
+          "url": "https://www.zacks.com/stock/news/3021841/mtz-q3-earnings-call-highlights-power-growth-and-pipeline-delays?cid=CS-STOCKNEWSAPI-FT-analyst_blog_plus|earnings_call_takeaways-3021841"
+        }
+      ],
+      "at": "2026-11-04T17:13:27Z"
+    },
+    {
+      "fmp": "TRMB",
+      "sym": "trmb",
+      "name": "Trimble Inc.",
+      "pct": -15.57,
+      "short": "III kvartali aruanne ja uuendatud aastaprognoos; langus selgitamata",
+      "text": "Trimble avaldas täna III kvartali tulemused ja uuendas aastaprognoosi; kasum aktsia kohta oli 0,86 dollarit, mis vastas konsensusele, ning ettevõte kirjeldas tulemusi ootusi ületavatena ja kordusjooksva tulu rekordina. Tõenäoliselt reageeris turg prognoosile või kasvutempole, kuid täpset põhjust ma allikatest ei leidnud. Seos on tõenäoline, aga kinnitamata.",
+      "sources": [
+        {
+          "title": "Trimble Q3 2026 pressiteade",
+          "url": "https://www.prnewswire.com/news-releases/trimble-announces-third-quarter-2026-results-and-updates-full-year-guidance-302928841.html"
+        },
+        {
+          "title": "Zacks: Trimble Q3 vastas prognoosile",
+          "url": "https://www.zacks.com/stock/news/3022670/trimble-navigation-trmb-q3-earnings-match-estimates?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|yseop_template_4-3022670"
+        }
+      ],
+      "at": "2026-11-04T17:13:27Z"
+    },
+    {
+      "fmp": "VST",
+      "sym": "vst",
+      "name": "Vistra Corp.",
+      "pct": -15.03,
+      "short": "Täna konkreetset põhjust ei leitud",
+      "text": "Vistra languse kohta ei leidnud ma tänase kuupäevaga ettevõttespetsiifilist uudist; allikate järgi on ettevõtte aruanne alles tulemas (6. novembril). Aktsia on 52 nädala madalaimal tasemel. Põhjus on kinnitamata.",
+      "sources": [
+        {
+          "title": "TIKR: Vistra ja 6. novembri aruanne",
+          "url": "https://www.tikr.com/blog/vistra-stock-fell-6-in-a-day-after-a-20-run-heres-what-its-november-6-report-needs-to-show"
+        }
+      ],
+      "at": "2026-11-04T17:13:27Z"
+    },
+    {
+      "fmp": "PFGC",
+      "sym": "pfgc",
+      "name": "Performance Food Group Co",
+      "pct": 13.51,
+      "short": "FY27 I kvartal ületas kasumi- ja käibeootusi",
+      "text": "Performance Food Group teatas täna I kvartali (FY2027) kasumiks aktsia kohta 1,32 dollarit vs konsensus 1,26 (aasta tagasi 1,18) ning käive ületas samuti ootusi. Seos hinnatõusuga on tugev.",
+      "sources": [
+        {
+          "title": "PFGC I kvartali tulemused",
+          "url": "https://www.businesswire.com/news/home/20261104581022/en/Performance-Food-Group-Company-Reports-First-Quarter-Fiscal-2027-Results/"
+        },
+        {
+          "title": "Zacks: PFGC ületas Q1 prognoose",
+          "url": "https://www.zacks.com/stock/news/3022719/performance-food-group-pfgc-tops-q1-earnings-and-revenue-estimates?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|yseop_template_4-3022719"
+        }
+      ],
+      "at": "2026-11-04T17:13:27Z"
+    },
+    {
+      "fmp": "NXT",
+      "sym": "nxt",
+      "name": "Nextpower Inc.",
+      "pct": 13.16,
+      "short": "Täna selget uudist ei leitud; hiljutine tugev aruanne ja analüütikute tõstmised",
+      "text": "Tänase +12% kohta ei leidnud ma ettevõttespetsiifilist uudist. Taustaks: Nextpower tõstis oktoobri lõpus FY2027 väljavaadet pärast rekordilist Q2 tulemust ning 3. novembril tõstis GLJ Research hinnasihti ja Zacks tõstis reitingu tasemele Buy. Seos tänase tõusuga on ebakindel.",
+      "sources": [
+        {
+          "title": "Benzinga: Nextpower tõuseb, GLJ tõstis sihtkurssi",
+          "url": "https://www.benzinga.com/markets/earnings/26/11/62833992/nextpower-stock-climbs-as-strong-q2-sparks-wall-street-forecast-divide"
+        },
+        {
+          "title": "TaiyangNews: Nextpower tõstis FY2027 väljavaadet",
+          "url": "https://taiyangnews.info/business/nextpower-q2-fy-2027-financial-results"
+        }
+      ],
+      "at": "2026-11-04T17:13:27Z"
+    },
+    {
+      "fmp": "MLCO",
+      "sym": "mlco",
+      "name": "Melco Resorts & Entertainment Ltd. Sponsored ADR",
+      "pct": 11.55,
+      "short": "III kvartali kasum ületas ootusi",
+      "text": "Melco teatas III kvartali EPS-iks 0,02 USD, kui konsensus oli kahjum 0,03 USD; korrigeeritud kinnisvara EBITDA oli ligikaudu 288 mln USD. Juhtkond rõhutas kulukontrolli ja kapitali tagastamist konkurentsitihedal Macau turul. Seos hinnatõusuga on tõenäoline.",
+      "sources": [
+        {
+          "title": "Zacks: Melco tops Q3 estimates",
+          "url": "https://www.zacks.com/stock/news/3023087/melco-resorts-mlco-tops-q3-earnings-estimates"
+        },
+        {
+          "title": "MarketBeat: Melco Q3 call",
+          "url": "https://www.marketbeat.com/instant-alerts/transcript-what-melco-resorts-entertainment-mlco-said-on-its-q3-earnings-call-2026-11-04/"
+        }
+      ],
+      "at": "2026-11-04T20:14:00Z"
+    },
+    {
+      "fmp": "OMCL",
+      "sym": "omcl",
+      "name": "Omnicell, Inc.",
+      "pct": 11.04,
+      "short": "Tänast konkreetset põhjust ei leitud",
+      "text": "Tänase tõusu kohta ei leidnud ma usaldusväärset allikat, mis põhjuse selgitaks. Põhjus on seetõttu teadmata.",
+      "sources": [],
+      "at": "2026-11-04T20:14:00Z"
+    },
+    {
+      "fmp": "COCO",
+      "sym": "coco",
+      "name": "Vita Coco Company, Inc.",
+      "pct": 10.96,
+      "short": "Tänast konkreetset põhjust ei leitud",
+      "text": "Tänase tõusu kohta ei leidnud ma usaldusväärset allikat, mis põhjuse selgitaks. Ettevõtte III kvartali tulemused tulid juba 22. oktoobril (käive 243,8 mln USD, +33,7%), seega tänast hüpet need ei seleta. Põhjus on seetõttu teadmata.",
+      "sources": [],
+      "at": "2026-11-04T20:14:00Z"
+    },
+    {
+      "fmp": "ATEC",
+      "sym": "atec",
+      "name": "Alphatec Holdings, Inc.",
+      "pct": 10.37,
+      "short": "Tänast konkreetset põhjust ei leitud",
+      "text": "Tänase tõusu kohta ei leidnud ma usaldusväärset allikat, mis põhjuse selgitaks. Viimane teadaolev uudis (29. okt kvartal) oli madalam käibeprognoos, mis ei seleta tõusu. Põhjus on seetõttu teadmata.",
+      "sources": [],
+      "at": "2026-11-04T20:14:00Z"
+    },
+    {
+      "fmp": "ALGT",
+      "sym": "algt",
+      "name": "Allegiant Travel Company",
+      "pct": 10.35,
+      "short": "Tänast konkreetset põhjust ei leitud",
+      "text": "Tänase tõusu kohta ei leidnud ma usaldusväärset allikat, mis põhjuse selgitaks. Põhjus on seetõttu teadmata.",
+      "sources": [],
+      "at": "2026-11-04T20:14:00Z"
+    },
+    {
+      "fmp": "GXO",
+      "sym": "gxo",
+      "name": "GXO Logistics Inc",
+      "pct": 10.32,
+      "short": "III kvartali tulemus ületas ootusi",
+      "text": "GXO teatas III kvartali EPS-iks 0,89 USD (konsensus 0,86 USD) ja käive ületas samuti ootusi. Tulemused tulid 3. novembril, tänane tõus järgib neid; täpsemat tõusu põhjust ei leidnud, seos on tõenäoline, kuid mitte kinnitatud.",
+      "sources": [
+        {
+          "title": "Zacks: GXO Q3 beat",
+          "url": "https://www.zacks.com/stock/news/3022380/gxo-logistics-gxo-q3-earnings-and-revenues-beat-estimates"
+        },
+        {
+          "title": "GlobeNewswire: GXO Q3 2026",
+          "url": "https://www.globenewswire.com/news-release/2026/11/03/3394844/0/en/gxo-reports-third-quarter-2026-results.html"
+        }
+      ],
+      "at": "2026-11-04T20:14:00Z"
+    },
+    {
+      "fmp": "GRGD.TO",
+      "sym": "grgd-ca",
+      "name": "Groupe Dynamite Inc.",
+      "pct": 10.31,
+      "short": "Täna konkreetset põhjust ei leitud",
+      "text": "Groupe Dynamite'i +12% kohta ei leidnud ma tänase kuupäevaga uudist ega allikat; tõenäoliselt on tegu kvartaliaruande ootuse või reaktsiooniga, kuid seda ma kinnitada ei saa. Põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-04T17:13:27Z"
+    },
+    {
+      "fmp": "BUR.L",
+      "sym": "bur-lon",
+      "name": "Burford Capital Limited",
+      "pct": 9.87,
+      "short": "Täna avaldas ettevõte 8-K; sisu ei õnnestunud lugeda",
+      "text": "Burford Capital esitas täna USA väärtpaberiregulaatorile 8-K aruande (tõenäoliselt kvartalitulemused), kuid ma ei saanud selle sisu lugeda, seega ei saa tõusu põhjust kinnitada. Seos on ebakindel.",
+      "sources": [
+        {
+          "title": "Burford Capital 8-K (4. nov 2026)",
+          "url": "https://www.sec.gov/Archives/edgar/data/0001714174/000171417426000111/bur-20261104xex991.htm"
+        }
+      ],
+      "at": "2026-11-04T17:13:27Z"
+    },
+    {
+      "fmp": "AORT",
+      "sym": "aort",
+      "name": "Artivion, Inc.",
+      "pct": 9.78,
+      "short": "Tänast konkreetset põhjust ei leitud",
+      "text": "Tänase tõusu kohta ei leidnud ma usaldusväärset allikat, mis põhjuse selgitaks. Põhjus on seetõttu teadmata.",
+      "sources": [],
+      "at": "2026-11-04T20:14:00Z"
+    },
+    {
+      "fmp": "AVAV",
+      "sym": "avav",
+      "name": "AeroVironment, Inc.",
+      "pct": -9.58,
+      "short": "Täna konkreetset põhjust ei leitud",
+      "text": "AeroVironmenti languse kohta ei leidnud ma tänase kuupäevaga uudist. Aktsia on 52 nädala madalaimal tasemel ja kaitsesektori aktsiad on olnud surve all, kuid tänast põhjust allikad ei kinnita.",
+      "sources": [],
+      "at": "2026-11-04T17:13:27Z"
+    },
     {
       "fmp": "HEI.DE",
       "sym": "hei-etr",
@@ -22,19 +289,24 @@
       "at": "2026-11-04T09:07:44Z"
     },
     {
-      "fmp": "9698.HK",
-      "sym": "9698-hk",
-      "name": "GDS Holdings Ltd.",
-      "pct": 6.95,
-      "short": "Täna konkreetset põhjust ei leitud; AI-andmekeskuste teema",
-      "text": "Tänaseks kuupäevaks ei leidnud ma GDS-i kohta ettevõttespetsiifilist uudist, mis tõusu selgitaks. Varasem kommentaar seostab aktsia tugevust AI-andmekeskuste nõudluse ja ettevõtte rahastustehingutega, kuid see pole tänase päeva allikas. Seos on ebakindel.",
-      "sources": [
-        {
-          "title": "Rallies.ai: GDS jumps as AI data-center demand narrative",
-          "url": "https://rallies.ai/news/gds-jumps-as-ai-data-center-demand-narrative-and-liquidity-moves-regain-focus"
-        }
-      ],
-      "at": "2026-11-04T09:07:44Z"
+      "fmp": "VCEL",
+      "sym": "vcel",
+      "name": "Vericel Corporation",
+      "pct": 8.97,
+      "short": "Tänast konkreetset põhjust ei leitud",
+      "text": "Tänase tõusu kohta ei leidnud ma usaldusväärset allikat, mis põhjuse selgitaks. Põhjus on seetõttu teadmata.",
+      "sources": [],
+      "at": "2026-11-04T20:14:00Z"
+    },
+    {
+      "fmp": "RDNT",
+      "sym": "rdnt",
+      "name": "RadNet, Inc.",
+      "pct": 8.88,
+      "short": "Tänast konkreetset põhjust ei leitud",
+      "text": "Tänase tõusu kohta ei leidnud ma usaldusväärset allikat, mis põhjuse selgitaks. Põhjus on seetõttu teadmata.",
+      "sources": [],
+      "at": "2026-11-04T20:14:00Z"
     },
     {
       "fmp": "SALME.OL",
@@ -47,6 +319,21 @@
         {
           "title": "Investing.com: Salmon Evolution Q3 2026",
           "url": "https://www.investing.com/news/company-news/salmon-evolution-q3-2026-slides-losses-narrow-as-phase-2-nears-93CH-4977672"
+        }
+      ],
+      "at": "2026-11-04T09:07:44Z"
+    },
+    {
+      "fmp": "9698.HK",
+      "sym": "9698-hk",
+      "name": "GDS Holdings Ltd.",
+      "pct": 6.95,
+      "short": "Täna konkreetset põhjust ei leitud; AI-andmekeskuste teema",
+      "text": "Tänaseks kuupäevaks ei leidnud ma GDS-i kohta ettevõttespetsiifilist uudist, mis tõusu selgitaks. Varasem kommentaar seostab aktsia tugevust AI-andmekeskuste nõudluse ja ettevõtte rahastustehingutega, kuid see pole tänase päeva allikas. Seos on ebakindel.",
+      "sources": [
+        {
+          "title": "Rallies.ai: GDS jumps as AI data-center demand narrative",
+          "url": "https://rallies.ai/news/gds-jumps-as-ai-data-center-demand-narrative-and-liquidity-moves-regain-focus"
         }
       ],
       "at": "2026-11-04T09:07:44Z"
@@ -72,202 +359,23 @@
       "at": "2026-11-04T09:07:44Z"
     },
     {
-      "fmp": "YOU",
-      "sym": "you",
-      "name": "Clear Secure, Inc. Class A",
-      "pct": 37.32,
-      "short": "III kvartali tulemused ületasid ootusi, tagasiostuprogrammi suurendati",
-      "text": "Clear Secure teatas III kvartali käibeks 292,9 mln dollarit (+27,8%) ja korrigeeritud EBITDA marginaaliks 35,5%; kohandatud kasum aktsia kohta oli 0,63 dollarit vs konsensus 0,56. Ettevõte tõstis 2026. a vaba rahavoo prognoosi vähemalt 490 mln dollarini ja suurendas aktsiate tagasiostuvolitust 175 mln dollari võrra. Seos hinnatõusuga on tugev.",
-      "sources": [
-        {
-          "title": "CLEAR Q3 2026 pressiteade",
-          "url": "https://www.prnewswire.com/news-releases/clear-announces-third-quarter-2026-financial-results-302928702.html"
-        },
-        {
-          "title": "Zacks: Clear Secure ületas Q3 prognoose",
-          "url": "https://www.zacks.com/stock/news/3022612/clear-secure-you-surpasses-q3-earnings-and-revenues-beat-estimates?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|yseop_template_4-3022612"
-        }
-      ],
-      "at": "2026-11-04T17:13:27Z"
-    },
-    {
-      "fmp": "ECG",
-      "sym": "ecg",
-      "name": "Everus Construction Group, Inc.",
-      "pct": -24.53,
-      "short": "Langus vaatamata rekordilisele Q3-le ja tõstetud prognoosile; põhjus selgusetu",
-      "text": "Everus teatas 3. novembril III kvartali käibeks 1,38 mld dollarit (+40%) ja kasumiks aktsia kohta 1,79 dollarit (konsensus 1,28) ning tõstis 2026. a prognoosi. Hoolimata heast aruandest langes aktsia täna ligi 25%. Allikatest ei leidnud ma selget põhjust (nt marginaal, tellimuste portfell või prognoosi detailid), seega seos on kinnitamata.",
-      "sources": [
-        {
-          "title": "Everus Q3 2026 tulemused",
-          "url": "https://www.businesswire.com/news/home/20261103103156/en/Everus-Reports-Third-Quarter-2026-Results-Raises-2026-Guidance/"
-        },
-        {
-          "title": "Zacks: Everus ületas Q3 prognoose",
-          "url": "https://www.zacks.com/stock/news/3022388/everus-construction-group-inc-ecg-q3-earnings-and-revenues-beat-estimates?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|yseop_template_4-3022388"
-        }
-      ],
-      "at": "2026-11-04T17:13:27Z"
-    },
-    {
-      "fmp": "TRMB",
-      "sym": "trmb",
-      "name": "Trimble Inc.",
-      "pct": -18.21,
-      "short": "III kvartali aruanne ja uuendatud aastaprognoos; langus selgitamata",
-      "text": "Trimble avaldas täna III kvartali tulemused ja uuendas aastaprognoosi; kasum aktsia kohta oli 0,86 dollarit, mis vastas konsensusele, ning ettevõte kirjeldas tulemusi ootusi ületavatena ja kordusjooksva tulu rekordina. Tõenäoliselt reageeris turg prognoosile või kasvutempole, kuid täpset põhjust ma allikatest ei leidnud. Seos on tõenäoline, aga kinnitamata.",
-      "sources": [
-        {
-          "title": "Trimble Q3 2026 pressiteade",
-          "url": "https://www.prnewswire.com/news-releases/trimble-announces-third-quarter-2026-results-and-updates-full-year-guidance-302928841.html"
-        },
-        {
-          "title": "Zacks: Trimble Q3 vastas prognoosile",
-          "url": "https://www.zacks.com/stock/news/3022670/trimble-navigation-trmb-q3-earnings-match-estimates?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|yseop_template_4-3022670"
-        }
-      ],
-      "at": "2026-11-04T17:13:27Z"
-    },
-    {
-      "fmp": "MTZ",
-      "sym": "mtz",
-      "name": "MasTec, Inc.",
-      "pct": -15.54,
-      "short": "Q3 järel torujuhtmete viivitused ja marginaalisurve 2027. a väljavaates",
-      "text": "Zacksi kokkuvõtte järgi näitas MasTeci Q3 aruanne rekordilist 24,5 mld dollari tellimuste portfelli ja kasvavat elektrivõrkude nõudlust, kuid torujuhtmeprojektide viivitused ja marginaalisurve mõjutavad 2027. a väljavaadet. See on tõenäoline languse põhjus, kuid täna avaldatud konkreetset allikat ei leidnud.",
-      "sources": [
-        {
-          "title": "Zacks: MTZ Q3 call highlights",
-          "url": "https://www.zacks.com/stock/news/3021841/mtz-q3-earnings-call-highlights-power-growth-and-pipeline-delays?cid=CS-STOCKNEWSAPI-FT-analyst_blog_plus|earnings_call_takeaways-3021841"
-        }
-      ],
-      "at": "2026-11-04T17:13:27Z"
-    },
-    {
-      "fmp": "AHCO",
-      "sym": "ahco",
-      "name": "AdaptHealth Corp.",
-      "pct": 14.33,
-      "short": "Q3 ületas käibe ja EBITDA juhiseid; suure lepingu paranemine",
-      "text": "AdaptHealth teatas 3. novembril III kvartali tulemused, mis ületasid ettevõtte enda käibe ja korrigeeritud EBITDA juhised; juhtkond tõi esile suurima kapitatsioonilepingu paranemise, orgaanilise kasvu ja kulude kontrolli. Tõus on tõenäoliselt reaktsioon sellele aruandele, kuid täpne ajastus (aruanne eile) jätab seose veidi ebakindlaks.",
-      "sources": [
-        {
-          "title": "AdaptHealth Q3 2026 tulemused",
-          "url": "https://www.businesswire.com/news/home/20261103608966/en/AdaptHealth-Corp.-Announces-Third-Quarter-2026-Results/"
-        },
-        {
-          "title": "MarketBeat: AdaptHealth Q3 call",
-          "url": "https://www.marketbeat.com/instant-alerts/transcript-what-adapthealth-ahco-said-on-its-q3-earnings-call-2026-11-03/"
-        }
-      ],
-      "at": "2026-11-04T17:13:27Z"
-    },
-    {
-      "fmp": "PFGC",
-      "sym": "pfgc",
-      "name": "Performance Food Group Co",
-      "pct": 13.93,
-      "short": "FY27 I kvartal ületas kasumi- ja käibeootusi",
-      "text": "Performance Food Group teatas täna I kvartali (FY2027) kasumiks aktsia kohta 1,32 dollarit vs konsensus 1,26 (aasta tagasi 1,18) ning käive ületas samuti ootusi. Seos hinnatõusuga on tugev.",
-      "sources": [
-        {
-          "title": "PFGC I kvartali tulemused",
-          "url": "https://www.businesswire.com/news/home/20261104581022/en/Performance-Food-Group-Company-Reports-First-Quarter-Fiscal-2027-Results/"
-        },
-        {
-          "title": "Zacks: PFGC ületas Q1 prognoose",
-          "url": "https://www.zacks.com/stock/news/3022719/performance-food-group-pfgc-tops-q1-earnings-and-revenue-estimates?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|yseop_template_4-3022719"
-        }
-      ],
-      "at": "2026-11-04T17:13:27Z"
-    },
-    {
-      "fmp": "VST",
-      "sym": "vst",
-      "name": "Vistra Corp.",
-      "pct": -13.05,
-      "short": "Täna konkreetset põhjust ei leitud",
-      "text": "Vistra languse kohta ei leidnud ma tänase kuupäevaga ettevõttespetsiifilist uudist; allikate järgi on ettevõtte aruanne alles tulemas (6. novembril). Aktsia on 52 nädala madalaimal tasemel. Põhjus on kinnitamata.",
-      "sources": [
-        {
-          "title": "TIKR: Vistra ja 6. novembri aruanne",
-          "url": "https://www.tikr.com/blog/vistra-stock-fell-6-in-a-day-after-a-20-run-heres-what-its-november-6-report-needs-to-show"
-        }
-      ],
-      "at": "2026-11-04T17:13:27Z"
-    },
-    {
-      "fmp": "NXT",
-      "sym": "nxt",
-      "name": "Nextpower Inc.",
-      "pct": 12.32,
-      "short": "Täna selget uudist ei leitud; hiljutine tugev aruanne ja analüütikute tõstmised",
-      "text": "Tänase +12% kohta ei leidnud ma ettevõttespetsiifilist uudist. Taustaks: Nextpower tõstis oktoobri lõpus FY2027 väljavaadet pärast rekordilist Q2 tulemust ning 3. novembril tõstis GLJ Research hinnasihti ja Zacks tõstis reitingu tasemele Buy. Seos tänase tõusuga on ebakindel.",
-      "sources": [
-        {
-          "title": "Benzinga: Nextpower tõuseb, GLJ tõstis sihtkurssi",
-          "url": "https://www.benzinga.com/markets/earnings/26/11/62833992/nextpower-stock-climbs-as-strong-q2-sparks-wall-street-forecast-divide"
-        },
-        {
-          "title": "TaiyangNews: Nextpower tõstis FY2027 väljavaadet",
-          "url": "https://taiyangnews.info/business/nextpower-q2-fy-2027-financial-results"
-        }
-      ],
-      "at": "2026-11-04T17:13:27Z"
-    },
-    {
-      "fmp": "GRGD.TO",
-      "sym": "grgd-ca",
-      "name": "Groupe Dynamite Inc.",
-      "pct": 12.28,
-      "short": "Täna konkreetset põhjust ei leitud",
-      "text": "Groupe Dynamite'i +12% kohta ei leidnud ma tänase kuupäevaga uudist ega allikat; tõenäoliselt on tegu kvartaliaruande ootuse või reaktsiooniga, kuid seda ma kinnitada ei saa. Põhjus on kinnitamata.",
-      "sources": [],
-      "at": "2026-11-04T17:13:27Z"
-    },
-    {
       "fmp": "SHLS",
       "sym": "shls",
       "name": "Shoals Technologies Group, Inc. Class A",
-      "pct": 9.98,
-      "short": "Ühinemine ARRAY Technologiesiga ning tugev Q3 ja tõstetud prognoos",
-      "text": "Shoals teatas täna aktsiavahetuse teel ühinemisest ARRAY Technologiesiga ning samal päeval III kvartali tulemustest: käive 195,3 mln dollarit, korrigeeritud EBITDA 39,8 mln, tellimuste portfell 791,7 mln, aastaprognoos tõsteti. Kasum aktsia kohta 0,14 vs konsensus 0,12. Seos tõusuga on tugev, kuigi ühinemistingimusi ma ei lugenud.",
+      "pct": 6.21,
+      "short": "Ühinemine ARRAYga ning III kvartali ootusi ületav tulemus",
+      "text": "Shoals ja ARRAY Technologies teatasid 4. novembril aktsiavahetusega ühinemislepingust. Samal päeval esitas Shoals III kvartali tulemused (käive 195,3 mln USD, EPS 0,14 vs 0,12 konsensus) ja tõstis aasta prognoosi. Ühinemise tingimusi ei vaadanud, seega osakaalu tõusus ei saa eraldada.",
       "sources": [
         {
-          "title": "ARRAY ja Shoals ühinemine",
+          "title": "GlobeNewswire: ARRAY ja Shoals ühinemine",
           "url": "https://www.globenewswire.com/news-release/2026/11/04/3395153/0/en/array-technologies-and-shoals-technologies-group-announce-transformative-merger-creating-an-integrated-energy-infrastructure-platform.html"
         },
         {
-          "title": "Shoals Q3 2026 tulemused",
+          "title": "GlobeNewswire: Shoals Q3 2026",
           "url": "https://www.globenewswire.com/news-release/2026/11/04/3395184/0/en/shoals-technologies-group-inc-reports-financial-results-for-third-quarter-2026.html"
         }
       ],
-      "at": "2026-11-04T17:13:27Z"
-    },
-    {
-      "fmp": "AVAV",
-      "sym": "avav",
-      "name": "AeroVironment, Inc.",
-      "pct": -9.94,
-      "short": "Täna konkreetset põhjust ei leitud",
-      "text": "AeroVironmenti languse kohta ei leidnud ma tänase kuupäevaga uudist. Aktsia on 52 nädala madalaimal tasemel ja kaitsesektori aktsiad on olnud surve all, kuid tänast põhjust allikad ei kinnita.",
-      "sources": [],
-      "at": "2026-11-04T17:13:27Z"
-    },
-    {
-      "fmp": "BUR.L",
-      "sym": "bur-lon",
-      "name": "Burford Capital Limited",
-      "pct": 9.87,
-      "short": "Täna avaldas ettevõte 8-K; sisu ei õnnestunud lugeda",
-      "text": "Burford Capital esitas täna USA väärtpaberiregulaatorile 8-K aruande (tõenäoliselt kvartalitulemused), kuid ma ei saanud selle sisu lugeda, seega ei saa tõusu põhjust kinnitada. Seos on ebakindel.",
-      "sources": [
-        {
-          "title": "Burford Capital 8-K (4. nov 2026)",
-          "url": "https://www.sec.gov/Archives/edgar/data/0001714174/000171417426000111/bur-20261104xex991.htm"
-        }
-      ],
-      "at": "2026-11-04T17:13:27Z"
+      "at": "2026-11-04T20:14:00Z"
     }
   ]
 }
