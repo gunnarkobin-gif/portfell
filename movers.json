@@ -1,12 +1,73 @@
 {
   "date": "2026-11-05",
-  "updated": "2026-11-05T09:08:43Z",
+  "updated": "2026-11-05T17:13:43Z",
   "items": [
+    {
+      "fmp": "GIL.TO",
+      "sym": "gil-ca",
+      "name": "Gildan Activewear Inc.",
+      "pct": -22.24,
+      "short": "Gildan kolmanda kvartali tulemus jäi ootustest alla; aktsia kukkus üle 22%",
+      "text": "Gildan avaldas täna kolmanda kvartali tulemused ja uuendas 2026. a prognoosi: käive oli 1,47 mld USD (+61,1%, Hanesi ülevõtmise mõjul), kuid kasum aktsia kohta 1,54 USD jäi Zacksi konsensusest (1,57 USD) allapoole. Samal ajal on käimas väärtpaberite kollektiivhagi, mis põhineb juuni lühikeseisja raportil (väidetav ~500 mln USD müügi ettevedu). Prognoosi täpseid muudatusi ma kinnitada ei saanud, seega seos languse suurusega on mõõdukas.",
+      "sources": [
+        {
+          "title": "Gildan Reports Third Quarter Results and Updates its Full Year 2026 Guidance",
+          "url": "https://www.globenewswire.com/news-release/2026/11/05/3396175/0/en/gildan-reports-third-quarter-results-and-updates-its-full-year-2026-guidance.html"
+        },
+        {
+          "title": "Gildan Activewear (GIL) Misses Q3 Earnings and Revenue Estimates",
+          "url": "https://www.zacks.com/stock/news/3023880/gildan-activewear-gil-misses-q3-earnings-and-revenue-estimates?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|yseop_template_4-3023880"
+        }
+      ],
+      "at": "2026-11-05T17:13:43Z"
+    },
+    {
+      "fmp": "BROS",
+      "sym": "bros",
+      "name": "Dutch Bros, Inc. Class A",
+      "pct": -20.78,
+      "short": "Q3 ületas ootusi, kuid kitsendatud müügiprognoos ja ettevaatlik tarbija viisid madalaimale tase",
+      "text": "Dutch Bros teatas eile õhtul Q3 tulemused: käive 549,8 mln USD (+29,8%), kasum aktsia kohta 0,25 USD (konsensus 0,24), samas poeketi võrreldav müük +5,4%. Investoreid pettis kitsendatud müügiprognoos ning juhtkonna märkused tarbija ebakindluse ja raskemate võrdlusbaaside kohta; mitu analüütikut langetas prognoose ja aktsia jõudis 52 nädala madalaimale tasemele. Seos on kindel, sest langus järgnes otse tulemusaruandele.",
+      "sources": [
+        {
+          "title": "Dutch Bros Inc. Reports Third Quarter 2026 Financial Results",
+          "url": "https://www.businesswire.com/news/home/20261104327060/en/Dutch-Bros-Inc.-Reports-Third-Quarter-2026-Financial-Results/"
+        },
+        {
+          "title": "Dutch Bros Analysts Cut Their Forecasts After Q3 Results",
+          "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/62911067/dutch-bros-analysts-cut-their-forecasts-after-q3-results"
+        },
+        {
+          "title": "Dutch Bros Stock Drops After Narrow Q3 Earnings Beat",
+          "url": "https://www.benzinga.com/markets/earnings/26/11/62895654/dutch-bros-stock-drops-after-narrow-q3-earnings-beat-what-you-need-to-know"
+        }
+      ],
+      "at": "2026-11-05T17:13:43Z"
+    },
+    {
+      "fmp": "HLLY",
+      "sym": "hlly",
+      "name": "Holley Inc.",
+      "pct": -19.48,
+      "short": "Q3 kasum ja käive jäid ootustest alla, kuigi marginaal ja võlakoormus paranesid",
+      "text": "Holley avaldas täna Q3 tulemused: kasum aktsia kohta 0,06 USD jäi Zacksi konsensusest (0,07 USD) allapoole ja ka käive jäi ootustest maha. Ettevõte ise rõhutas marginaali paranemist ning 25 mln USD võla ennetähtaegset tasumist (võlakoormuse siht 3,5x saavutati veerandi võrra varem). Nii suure languse täpset põhjust, näiteks prognoosimuudatust, ma kinnitada ei saanud.",
+      "sources": [
+        {
+          "title": "Holley Reports Third Quarter 2026 Results",
+          "url": "https://www.globenewswire.com/news-release/2026/11/05/3396418/0/en/holley-reports-third-quarter-2026-results.html"
+        },
+        {
+          "title": "Holley Inc. (HLLY) Lags Q3 Earnings and Revenue Estimates",
+          "url": "https://www.zacks.com/stock/news/3024196/holley-inc-hlly-lags-q3-earnings-and-revenue-estimates?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|yseop_template_4-3024196"
+        }
+      ],
+      "at": "2026-11-05T17:13:43Z"
+    },
     {
       "fmp": "RHM.DE",
       "sym": "rhm-etr",
       "name": "Rheinmetall AG",
-      "pct": -17.09,
+      "pct": -16.14,
       "short": "Gewinnwarnung eelmisel õhtul: aktsia aastamadalaimal tasemel",
       "text": "Rheinmetall andis 4. novembri õhtul kasumihoiatuse ja kärpis käibeeesmärgi; aktsia langes hommikul kuni 18,5% (alla 819 €), madalaim tase alates 2025. a veebruarist. JPMorgani analüütik nimetas seda viiendaks käibe- või kasumihoiatuseks 11 kuuga ja kahtles 2030. a eesmärkides; JPMorgan langetas sihthinna 1150 €-ni, Citi (Osta) 1374 €-ni. Seos hoiatuse ja languse vahel on selge; kapitaliturgude päev on 27. novembril.",
       "sources": [
@@ -41,19 +102,112 @@
       "at": "2026-11-05T09:08:43Z"
     },
     {
-      "fmp": "CAMX.ST",
-      "sym": "CAMX-SE",
-      "name": "Camurus AB",
-      "pct": 10.3,
-      "short": "III kvartali käive +28%, EBIT +40%, prognoos kinnitati",
-      "text": "Camurus avaldas 5. novembril III kvartali aruande: käive 724 mln SEK (+28%), tegevustulem 322 mln SEK (+40%). 2026. a prognoosi kinnitati, käive ja tulem peaksid jääma vahemike ülemisse poolde. Aruanne ilmus hommikul ja tõus langeb sellega kokku, seos on tõenäoline.",
+      "fmp": "AMRC",
+      "sym": "amrc",
+      "name": "Ameresco, Inc. Class A",
+      "pct": -12.54,
+      "short": "Täna ei leidnud ettevõttespetsiifilist uudist; Q3 tulemused tulevad alles 9. novembril",
+      "text": "Ameresco annab Q3 tulemused teada alles 9. novembril, seega tänane langus ei tulene tulemusaruandest. Ettevõttespetsiifilist uudist, mis -12,5% languse seletaks, ma ei leidnud. Aktsia on olnud nõrgas trendis (uus aastamadalaim päevavahemik), kuid konkreetset põhjust ma ei oska allikatega toetada.",
       "sources": [
         {
-          "title": "Inderes: Camurus Interim Report Q3 2026",
-          "url": "https://www.inderes.fi/en/releases/camurus-ab-camurus-interim-report-third-quarter-2026"
+          "title": "Ameresco to Announce Third Quarter 2026 Financial Results on November 9, 2026",
+          "url": "https://www.ameresco.com/ameresco-to-announce-third-quarter-2026-financial-results-on-november-9-2026/"
         }
       ],
-      "at": "2026-11-05T09:08:43Z"
+      "at": "2026-11-05T17:13:43Z"
+    },
+    {
+      "fmp": "VCEL",
+      "sym": "vcel",
+      "name": "Vericel Corporation",
+      "pct": 11.76,
+      "short": "Q3 tulemused ületasid ootusi ja aastaprognoosi tõsteti",
+      "text": "Vericel teatas täna Q3 käibeks 85,4 mln USD (+26%), puhaskasum kasvas 179% 14,2 mln USD-ni ja kasum aktsia kohta oli 0,27 USD (konsensus 0,02 USD). Ettevõte tõstis aasta käibeprognoosi 344–346 mln USD-ni ja korrigeeritud EBITDA marginaali 28%-ni. Seos hinnatõusuga on selge.",
+      "sources": [
+        {
+          "title": "Vericel Reports Third Quarter 2026 Financial Results and Raises Full-Year Financial Guidance",
+          "url": "https://www.globenewswire.com/news-release/2026/11/05/3396327/34447/en/vericel-reports-third-quarter-2026-financial-results-and-raises-full-year-financial-guidance.html"
+        },
+        {
+          "title": "Vericel (VCEL) Beats Q3 Earnings and Revenue Estimates",
+          "url": "https://www.zacks.com/stock/news/3024208/vericel-corporation-vcel-beats-q3-earnings-and-revenue-estimates?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|yseop_template_4-3024208"
+        }
+      ],
+      "at": "2026-11-05T17:13:43Z"
+    },
+    {
+      "fmp": "MWH",
+      "sym": "mwh",
+      "name": "SOLV Energy Inc Class A",
+      "pct": -11.57,
+      "short": "Täna ei leidnud selget põhjust; Q3 tulemused tulevad 12. novembril",
+      "text": "SOLV Energy avaldab Q3 tulemused 12. novembril, seega tänane -11,6% langus ei ole tulemusaruande tagajärg. Ettevõttespetsiifilist uudist ma ei leidnud. Võimalik, et aktsia järgib taastuvenergia/päikesesektori nõrkust, kuid seda täna kehtivate allikatega kinnitada ei saanud.",
+      "sources": [
+        {
+          "title": "SOLV Energy to report third quarter 2026 financial results on November 12, 2026",
+          "url": "https://greenstocknews.com/news/nasdaq/mwh/solv-energy-to-report-third-quarter-2026-financial-results-on-november-12-2026"
+        }
+      ],
+      "at": "2026-11-05T17:13:43Z"
+    },
+    {
+      "fmp": "NXT",
+      "sym": "nxt",
+      "name": "Nextpower Inc.",
+      "pct": -11.16,
+      "short": "Täna ei leidnud selget põhjust; päikesesektori nõrkus on võimalik taust",
+      "text": "Nextpowerile ei leidnud ma täna ettevõttespetsiifilist uudist, mis -11,2% languse seletaks. Eile teatasid päikesesektori konkurendid Shoals ja ARRAY omavahelisest ühinemisest ning Shoals langeb samuti kümnendiku võrra, kuid otsest seost Nextpoweri liikumisega allikad ei kinnita. Põhjus jääb ebaselgeks.",
+      "sources": [
+        {
+          "title": "ARRAY Technologies and Shoals Technologies Group Announce Transformative Merger",
+          "url": "https://www.globenewswire.com/news-release/2026/11/04/3395153/0/en/array-technologies-and-shoals-technologies-group-announce-transformative-merger-creating-an-integrated-energy-infrastructure-platform.html"
+        }
+      ],
+      "at": "2026-11-05T17:13:43Z"
+    },
+    {
+      "fmp": "MTZ",
+      "sym": "mtz",
+      "name": "MasTec, Inc.",
+      "pct": -10.68,
+      "short": "Täna ei leidnud uut uudist; aktsia on pikemat aega languses",
+      "text": "MasTecu kohta ei leidnud ma täna ettevõttespetsiifilist uudist; viimased tulemused avaldati 29. oktoobril ja aktsia on hiljuti teinud uusi 12 kuu madalaid. Tänane -10,7% on tõenäoliselt jätk sellele nõrkusele, kuid konkreetset tänast käivitajat ma allikatega toetada ei saa.",
+      "sources": [
+        {
+          "title": "MasTec issues earnings results (MarketBeat, 29.10.2026)",
+          "url": "https://www.marketbeat.com/instant-alerts/earnings-mastec-nyse-mtz-issues-earnings-results-2026-10-29/"
+        }
+      ],
+      "at": "2026-11-05T17:13:43Z"
+    },
+    {
+      "fmp": "VITL",
+      "sym": "vitl",
+      "name": "Vital Farms, Inc.",
+      "pct": -10.48,
+      "short": "Täna ei leidnud ettevõttespetsiifilist põhjust",
+      "text": "Vital Farmsi -10,5% languse kohta ei leidnud ma täna ühtegi uudist ega tulemusaruannet, mis seda seletaks. Põhjus on teadmata ja ma ei oska seda allikatega toetada.",
+      "sources": [],
+      "at": "2026-11-05T17:13:43Z"
+    },
+    {
+      "fmp": "SHLS",
+      "sym": "shls",
+      "name": "Shoals Technologies Group, Inc. Class A",
+      "pct": -10.32,
+      "short": "Ühinemisleping ARRAY Technologiesiga kaalub, kuigi Q3 oli ootustest parem",
+      "text": "Shoals teatas 4. novembril, et ühineb aktsiavahetusega ARRAY Technologiesiga (tehingu lõpetamine oodatud 2027. a Q1, vajalik aktsionäride ja reguleerijate heakskiit). Samal päeval ületas Shoals Q3 ootusi (kasum aktsia kohta 0,14 vs 0,12 USD, käive 195,3 mln USD) ja tõstis aasta prognoosi. Langus on ajaliselt seotud ühinemisteatega, kuid täpse mehhanismi (vahetussuhe) kohta ma kinnitust ei saanud, seega seos on mõõdukas.",
+      "sources": [
+        {
+          "title": "ARRAY Technologies and Shoals Technologies Group Announce Transformative Merger",
+          "url": "https://www.globenewswire.com/news-release/2026/11/04/3395153/0/en/array-technologies-and-shoals-technologies-group-announce-transformative-merger-creating-an-integrated-energy-infrastructure-platform.html"
+        },
+        {
+          "title": "Shoals Technologies Group Reports Financial Results for Third Quarter 2026",
+          "url": "https://www.globenewswire.com/news-release/2026/11/04/3395184/0/en/shoals-technologies-group-inc-reports-financial-results-for-third-quarter-2026.html"
+        }
+      ],
+      "at": "2026-11-05T17:13:43Z"
     },
     {
       "fmp": "EOL.AX",
@@ -69,6 +223,31 @@
         }
       ],
       "at": "2026-11-05T09:08:43Z"
+    },
+    {
+      "fmp": "IPGP",
+      "sym": "ipgp",
+      "name": "IPG Photonics Corporation",
+      "pct": -9.96,
+      "short": "Täna ei leidnud selget põhjust; Q3 käive kasvas 15%",
+      "text": "IPG Photonics avaldas Q3 käibeks 288 mln USD (+15%) ja pooljuhtlaserite müük rohkem kui kahekordistus, kuid tänase -10,0% languse konkreetset põhjust (nt prognoos) ma allikatega kinnitada ei saanud. Seos tulemusaruandega on võimalik, kuid kinnitamata.",
+      "sources": [
+        {
+          "title": "IPG Photonics: 3 Key Takeaways for Long-Term Investors",
+          "url": "https://www.fool.com/earnings/takeaways/2026/11/04/ipg-photonics-3-key-takeaways-for-long-term-investors/"
+        }
+      ],
+      "at": "2026-11-05T17:13:43Z"
+    },
+    {
+      "fmp": "AVAV",
+      "sym": "avav",
+      "name": "AeroVironment, Inc.",
+      "pct": -8.92,
+      "short": "Täna ei leidnud ettevõttespetsiifilist uudist",
+      "text": "AeroVironmenti -8,9% languse kohta ei leidnud ma täna uudist, mis seda seletaks. Aktsia on aasta jooksul kukkunud tugevalt (aastamadalaimal tasemel), kuid tänast käivitajat ma allikatega toetada ei saa.",
+      "sources": [],
+      "at": "2026-11-05T17:13:43Z"
     },
     {
       "fmp": "9896.HK",
@@ -109,6 +288,21 @@
       "at": "2026-11-05T09:08:43Z"
     },
     {
+      "fmp": "CAMX.ST",
+      "sym": "CAMX-SE",
+      "name": "Camurus AB",
+      "pct": 7.82,
+      "short": "III kvartali käive +28%, EBIT +40%, prognoos kinnitati",
+      "text": "Camurus avaldas 5. novembril III kvartali aruande: käive 724 mln SEK (+28%), tegevustulem 322 mln SEK (+40%). 2026. a prognoosi kinnitati, käive ja tulem peaksid jääma vahemike ülemisse poolde. Aruanne ilmus hommikul ja tõus langeb sellega kokku, seos on tõenäoline.",
+      "sources": [
+        {
+          "title": "Inderes: Camurus Interim Report Q3 2026",
+          "url": "https://www.inderes.fi/en/releases/camurus-ab-camurus-interim-report-third-quarter-2026"
+        }
+      ],
+      "at": "2026-11-05T09:08:43Z"
+    },
+    {
       "fmp": "0780.HK",
       "sym": "780-hk",
       "name": "Tongcheng Travel Holdings Limited",
@@ -125,6 +319,16 @@
           "url": "https://www.dimsumdaily.hk/hang-seng-opens-nearly-400-points-higher-as-tencent-and-alibaba-gain-while-energy-stocks-fall/"
         }
       ],
+      "at": "2026-11-05T09:08:43Z"
+    },
+    {
+      "fmp": "KTN.DE",
+      "sym": "ktn-etr",
+      "name": "Kontron AG",
+      "pct": -7.39,
+      "short": "Põhjust ei leitud",
+      "text": "Tänaseid Kontroni-spetsiifilisi uudiseid ega põhjendust ei leitud. Eraldi allikat languse selgitamiseks pole, seega põhjus jääb teadmata.",
+      "sources": [],
       "at": "2026-11-05T09:08:43Z"
     },
     {
@@ -185,20 +389,10 @@
       "at": "2026-11-05T09:08:43Z"
     },
     {
-      "fmp": "KTN.DE",
-      "sym": "ktn-etr",
-      "name": "Kontron AG",
-      "pct": -5.97,
-      "short": "Põhjust ei leitud",
-      "text": "Tänaseid Kontroni-spetsiifilisi uudiseid ega põhjendust ei leitud. Eraldi allikat languse selgitamiseks pole, seega põhjus jääb teadmata.",
-      "sources": [],
-      "at": "2026-11-05T09:08:43Z"
-    },
-    {
       "fmp": "PRX.AS",
       "sym": "prx-ams",
       "name": "Prosus N.V. Class N",
-      "pct": 5.73,
+      "pct": 2.77,
       "short": "Tõenäoliselt Tencenti tõusu kaasaminek",
       "text": "Tencent tõusis Hongkongis üle 6% ja Prosus on Tencenti suuraktsionär, seega tõus on tõenäoliselt sellega seotud. Prosuse-spetsiifilist uudist tänaste allikatega ei leitud; seos on kaudne.",
       "sources": [
