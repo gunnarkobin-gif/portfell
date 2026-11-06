@@ -1,6 +1,6 @@
 {
   "date": "2026-11-06",
-  "updated": "2026-11-06T09:08:16Z",
+  "updated": "2026-11-06T17:12:20Z",
   "items": [
     {
       "fmp": "9698.HK",
@@ -71,6 +71,212 @@
         }
       ],
       "at": "2026-11-06T09:08:16Z"
+    },
+    {
+      "fmp": "IRTC",
+      "sym": "irtc",
+      "name": "iRhythm Holdings, Inc.",
+      "pct": -33.4,
+      "short": "Zio AT nõudlus jäi ootustest maha, vaatamata prognoosi tõstmisele",
+      "text": "iRhythm esitas 5. novembril 3. kvartali tulemused (EPS 0,82 USD vs Zacksi konsensus 0,02 USD) ja tõstis 2026. aasta tulu- ja kasumlikkuseprognoosi. MarketBeati kokkuvõtte järgi jäi aga Zio AT telemeetriatoote nõudlus ootustest maha, mis on kõige tõenäolisem põhjus järsule langusele. Seos on mõistlikult tõenäoline, kuid täpne investorite reaktsiooni põhjus ei ole allikates otseselt kinnitatud.",
+      "sources": [
+        {
+          "title": "MarketBeat: iRhythm Q3 earnings call",
+          "url": "https://www.marketbeat.com/instant-alerts/transcript-what-irhythm-technologies-irtc-said-on-its-q3-earnings-call-2026-11-06/"
+        },
+        {
+          "title": "Zacks: iRhythm Q3 earnings",
+          "url": "https://www.zacks.com/stock/news/3025082/irhythm-holdings-inc-irtc-q3-earnings-surpass-estimates"
+        }
+      ],
+      "at": "2026-11-06T17:12:20Z"
+    },
+    {
+      "fmp": "TSU.TO",
+      "sym": "tsu-ca",
+      "name": "Trisura Group Ltd.",
+      "pct": -30.68,
+      "short": "Langus uuele aastamadalale pärast 3. kvartali tulemusi",
+      "text": "Trisura avaldas 5. novembri õhtul 3. kvartali 2026 tulemused ja aktsia jõudis 6. novembril uuele 52 nädala madalale (sulgus ca 29,3 CAD, päeva algus 36,1). Tulemuste üksikasju ma kinnitada ei saanud, seega konkreetne langetaja (nt kahjunõuded või prognoos) on teadmata. Ajaline seos tulemustega on selge, sisuline põhjus mitte.",
+      "sources": [
+        {
+          "title": "Trisura Q3 2026 tulemused (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/05/3397003/0/en/trisura-group-reports-third-quarter-2026-results.html"
+        },
+        {
+          "title": "MarketBeat: Trisura uus 52 nädala madal",
+          "url": "https://www.marketbeat.com/instant-alerts/price-trisura-group-tse-tsu-hits-new-52-week-low-heres-why-2026-11-06/"
+        }
+      ],
+      "at": "2026-11-06T17:12:20Z"
+    },
+    {
+      "fmp": "AXON",
+      "sym": "axon",
+      "name": "Axon Enterprise Inc",
+      "pct": -17.9,
+      "short": "Kvartali tulemused alla ootuste ning aastaprognoosi langetamine",
+      "text": "Axon teatas 5. novembril 3. kvartali tulu 909 mln USD (+28%), kuid EPS 1,72 USD jäi alla konsensuse 1,90 USD. Ettevõte langetas 2026. aasta tuluprognoosi, kuna kolm föderaalset droonitõrje projekti lükkusid edasi, ning teatas 1,2 mld USD lisainvesteeringust Skydio'sse. Seos hinnalangusega on väga tõenäoline; analüütikud langetasid hinnasihte.",
+      "sources": [
+        {
+          "title": "Reuters: Axon, Skydio ja prognoosi langetamine",
+          "url": "https://www.reuters.com/technology/axon-invests-12-billion-more-in-drone-maker-skydio-lowers-annual-revenue-growth-2026-11-05/"
+        },
+        {
+          "title": "Zacks: Axon Q3 miss",
+          "url": "https://www.zacks.com/stock/news/3025433/axon-enterprise-q3-earnings-miss-estimates-as-margins-narrow"
+        },
+        {
+          "title": "Benzinga: analüütikute sihtide langetamine",
+          "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/62976599/these-analysts-cut-their-forecasts-on-axon-enterprise-after-downbeat-q3-results"
+        }
+      ],
+      "at": "2026-11-06T17:12:20Z"
+    },
+    {
+      "fmp": "AORT",
+      "sym": "aort",
+      "name": "Artivion, Inc.",
+      "pct": -17.77,
+      "short": "3. kvartali kasum alla ootuste, kohandatud EBITDA langes",
+      "text": "Artivion teatas 5. novembril 3. kvartali tuluks 123,8 mln USD (+9%), kuid kohandatud EPS oli 0,08 USD vs oodatud 0,11 USD ja kohandatud EBITDA langes 8% 22,5 mln USD-ni. Kasumi mööda jäämine on tõenäoline põhjus langusele.",
+      "sources": [
+        {
+          "title": "Artivion Q3 2026 tulemused",
+          "url": "https://www.prnewswire.com/news-releases/artivion-reports-third-quarter-2026-financial-results-302931299.html"
+        },
+        {
+          "title": "Zacks: Artivion Q3",
+          "url": "https://www.zacks.com/stock/news/3024910/artivion-aort-lags-q3-earnings-estimates"
+        }
+      ],
+      "at": "2026-11-06T17:12:20Z"
+    },
+    {
+      "fmp": "HLIO",
+      "sym": "hlio",
+      "name": "Helios Technologies, Inc.",
+      "pct": -14.99,
+      "short": "Langus vaatamata rekordilisele kvartalile; põhjus selgusetu",
+      "text": "Helios teatas 5. novembril rekordilisest 3. kvartali müügist, EPS 0,80 USD (konsensus 0,75) ja tõstis 2026. aasta müügiprognoosi. Sellegipoolest langes aktsia ~15%. Leitud allikad ei selgita põhjust (võimalik, et kasumimarginaalid või kasumiprognoos), seega seost ei saa kinnitada.",
+      "sources": [
+        {
+          "title": "Helios Q3 2026 tulemused",
+          "url": "https://www.businesswire.com/news/home/20261105609106/en/Helios-Technologies-Reports-Third-Quarter-2026-Results-Consistent-Execution-Drives-Record-Third-Quarter-Sales-and-Increased-Full-Year-2026-Sales-Outlook/"
+        },
+        {
+          "title": "Zacks: Helios tops Q3",
+          "url": "https://www.zacks.com/stock/news/3025091/helios-technologies-hlio-tops-q3-earnings-and-revenue-estimates"
+        }
+      ],
+      "at": "2026-11-06T17:12:20Z"
+    },
+    {
+      "fmp": "GMED",
+      "sym": "gmed",
+      "name": "Globus Medical Inc Class A",
+      "pct": -13.14,
+      "short": "2026. aasta tuluprognoosi langetamine, seljaoperatsioonide tooted hilinevad",
+      "text": "Globus Medical ületas 3. kvartali EPS-i (1,23 vs 1,20 USD), kuid langetas 2026. aasta tuluprognoosi, kuna selgrootoodete turuletulekud lükkusid edasi ja Nevro müük oli nõrk. Samal ajal tõsteti tagasiostuprogrammi 500 mln USD võrra. Prognoosi langetamine on tõenäoline languse põhjus.",
+      "sources": [
+        {
+          "title": "Zacks: Globus Q3 call",
+          "url": "https://www.zacks.com/stock/news/3025576/gmed-q3-earnings-call-highlights-guidance-cut-and-2027-reset"
+        },
+        {
+          "title": "Globus Q3 2026 tulemused",
+          "url": "https://www.globenewswire.com/news-release/2026/11/05/3397018/0/en/globus-medical-reports-third-quarter-2026-results-and-announces-a-500-million-increase-to-the-share-repurchase-program.html"
+        }
+      ],
+      "at": "2026-11-06T17:12:20Z"
+    },
+    {
+      "fmp": "NVMI",
+      "sym": "nvmi",
+      "name": "Nova Ltd.",
+      "pct": 11.44,
+      "short": "Rekordiline 3. kvartal ja tugev nõudlus mälu- ja pakendiseadmetele",
+      "text": "Nova teatas rekordilisest 3. kvartali tulust 287,8 mln USD (+28% a/a), EPS 2,86 USD vs oodatud 2,75. Ettevõte prognoosib kasvu jätkumist 4. kvartalis ning ootab aastatulu ületamas 1 mld USD kavandatust aasta varem. Seos hinnatõusuga on tõenäoline.",
+      "sources": [
+        {
+          "title": "Nova Q3 2026 tulemused",
+          "url": "https://www.prnewswire.com/news-releases/nova-reports-record-third-quarter-2026-financial-results-302930609.html"
+        },
+        {
+          "title": "MarketBeat: Nova call",
+          "url": "https://www.marketbeat.com/instant-alerts/transcript-nova-q3-earnings-call-highlights-2026-11-06/"
+        }
+      ],
+      "at": "2026-11-06T17:12:20Z"
+    },
+    {
+      "fmp": "AMRC",
+      "sym": "amrc",
+      "name": "Ameresco, Inc. Class A",
+      "pct": 10.55,
+      "short": "Põhjust ei kinnitanud; tõus pärast tulemuste ootust",
+      "text": "Ameresco pidi avaldama 3. kvartali tulemused samal nädalal, kuid tänaseid allikaid, mis tõusu selgitaks, ma ei leidnud. Tõus võib olla seotud tulemuste või andmekeskuste teemaga, kuid seda ei saa kinnitada.",
+      "sources": [
+        {
+          "title": "Zacks: Ameresco Q3 eelvaade",
+          "url": "https://www.zacks.com/stock/news/3024072/unveiling-ameresco-amrc-q3-outlook-wall-street-estimates-for-key-metrics"
+        }
+      ],
+      "at": "2026-11-06T17:12:20Z"
+    },
+    {
+      "fmp": "VST",
+      "sym": "vst",
+      "name": "Vistra Corp.",
+      "pct": 10.01,
+      "short": "3. kvartali tulemused: Ongoing Operations kohandatud EBITDA +50%",
+      "text": "Vistra teatas 6. hommikul 3. kvartali puhaskasumiks 1,14 mld USD ja Ongoing Operations kohandatud EBITDA-ks 2,38 mld USD (üle 50% kasvu a/a). Aktsia oli eelnevalt langenud Texase poliitilise ebakindluse tõttu andmekeskuste osas, seega osaliselt on tõusus tagasipõrge. Seos tulemustega on tõenäoline.",
+      "sources": [
+        {
+          "title": "Vistra Q3 2026 tulemused",
+          "url": "https://www.prnewswire.com/news-releases/vistra-reports-third-quarter-2026-results-302931798.html"
+        },
+        {
+          "title": "Seeking Alpha: Vistra ja Texas",
+          "url": "https://seekingalpha.com/article/4962990-vistra-texas-turned-blue-and-the-2026-forecast-didnt-move"
+        }
+      ],
+      "at": "2026-11-06T17:12:20Z"
+    },
+    {
+      "fmp": "AVAV",
+      "sym": "avav",
+      "name": "AeroVironment, Inc.",
+      "pct": 8.38,
+      "short": "Põhjust ei leidnud; drooni- ja kaitsesektori tagasipõrge",
+      "text": "AeroVironmenti kohta ei leidnud ma tänast ettevõttespetsiifilist uudist. Viimase kuu jooksul on droonide/kaitsetehnoloogia aktsiad langenud, nii et tõus võib olla sektori tagasipõrge (allikas: 24/7 Wall St), kuid seos ei ole kinnitatud.",
+      "sources": [
+        {
+          "title": "24/7 Wall St: droonisektori langus",
+          "url": "https://247wallst.com/investing/2026/11/05/ondas-just-dropped-38-in-a-month-is-onds-stock-a-falling-knife-or-poised-for-a-comeback/"
+        }
+      ],
+      "at": "2026-11-06T17:12:20Z"
+    },
+    {
+      "fmp": "BUR.L",
+      "sym": "bur-lon",
+      "name": "Burford Capital Limited",
+      "pct": -7.52,
+      "short": "Põhjust ei leidnud",
+      "text": "Burford Capitali tänase languse kohta ei leidnud ma usaldusväärset allikat. Aktsia avanes 304 penni juures ja langes päeva jooksul 270,6 penni peale; konkreetset uudist ega analüütiku sammu ei saa kinnitada.",
+      "sources": [],
+      "at": "2026-11-06T17:12:20Z"
+    },
+    {
+      "fmp": "SHLS",
+      "sym": "shls",
+      "name": "Shoals Technologies Group, Inc. Class A",
+      "pct": 6.28,
+      "short": "Põhjust ei leidnud",
+      "text": "Shoalsi tänase tõusu kohta ei leidnud ma allikat, mis seda selgitaks. Seost konkreetse uudise või sektoriliikumisega ei saa kinnitada.",
+      "sources": [],
+      "at": "2026-11-06T17:12:20Z"
     }
   ]
 }
