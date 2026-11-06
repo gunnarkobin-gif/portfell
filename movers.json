@@ -1,530 +1,76 @@
 {
-  "date": "2026-11-05",
-  "updated": "2026-11-05T20:13:24Z",
+  "date": "2026-11-06",
+  "updated": "2026-11-06T09:08:16Z",
   "items": [
     {
-      "fmp": "HLLY",
-      "sym": "hlly",
-      "name": "Holley Inc.",
-      "pct": -25.69,
-      "short": "Q3 kasum ja käive jäid ootustest alla; aktsia madalaimal tasemel",
-      "text": "Holley avaldas täna Q3 tulemused: kasum aktsia kohta 0,06 USD jäi alla Zacksi konsensuse (0,07 USD) ja ka käive jäi ootustest maha. Ettevõte ise tõi esile marginaali paranemise ja 25 mln USD võla ennetähtaegse tasumise (võlakoormuse siht 3,5x saavutati veerandi võrra varem). Languse suurust need numbrid täielikult ei selgita ja prognoosimuudatust ma kinnitada ei saanud, seega seos on mõõdukas.",
-      "sources": [
-        {
-          "title": "Holley Reports Third Quarter 2026 Results",
-          "url": "https://www.globenewswire.com/news-release/2026/11/05/3396418/0/en/holley-reports-third-quarter-2026-results.html"
-        },
-        {
-          "title": "Holley Inc. (HLLY) Lags Q3 Earnings and Revenue Estimates",
-          "url": "https://www.zacks.com/stock/news/3024196/holley-inc-hlly-lags-q3-earnings-and-revenue-estimates?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|yseop_template_4-3024196"
-        }
-      ],
-      "at": "2026-11-05T20:13:24Z"
-    },
-    {
-      "fmp": "BROS",
-      "sym": "bros",
-      "name": "Dutch Bros, Inc. Class A",
-      "pct": -21.14,
-      "short": "Q3 ületas ootusi, kuid kitsendatud müügiprognoos ja ettevaatlik tarbija viisid madalaimale tase",
-      "text": "Dutch Bros teatas eile õhtul Q3 tulemused: käive 549,8 mln USD (+29,8%), kasum aktsia kohta 0,25 USD (konsensus 0,24), samas poeketi võrreldav müük +5,4%. Investoreid pettis kitsendatud müügiprognoos ning juhtkonna märkused tarbija ebakindluse ja raskemate võrdlusbaaside kohta; mitu analüütikut langetas prognoose ja aktsia jõudis 52 nädala madalaimale tasemele. Seos on kindel, sest langus järgnes otse tulemusaruandele.",
-      "sources": [
-        {
-          "title": "Dutch Bros Inc. Reports Third Quarter 2026 Financial Results",
-          "url": "https://www.businesswire.com/news/home/20261104327060/en/Dutch-Bros-Inc.-Reports-Third-Quarter-2026-Financial-Results/"
-        },
-        {
-          "title": "Dutch Bros Analysts Cut Their Forecasts After Q3 Results",
-          "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/62911067/dutch-bros-analysts-cut-their-forecasts-after-q3-results"
-        },
-        {
-          "title": "Dutch Bros Stock Drops After Narrow Q3 Earnings Beat",
-          "url": "https://www.benzinga.com/markets/earnings/26/11/62895654/dutch-bros-stock-drops-after-narrow-q3-earnings-beat-what-you-need-to-know"
-        }
-      ],
-      "at": "2026-11-05T17:13:43Z"
-    },
-    {
-      "fmp": "GIL.TO",
-      "sym": "gil-ca",
-      "name": "Gildan Activewear Inc.",
-      "pct": -18.12,
-      "short": "Gildan kolmanda kvartali tulemus jäi ootustest alla; aktsia kukkus üle 22%",
-      "text": "Gildan avaldas täna kolmanda kvartali tulemused ja uuendas 2026. a prognoosi: käive oli 1,47 mld USD (+61,1%, Hanesi ülevõtmise mõjul), kuid kasum aktsia kohta 1,54 USD jäi Zacksi konsensusest (1,57 USD) allapoole. Samal ajal on käimas väärtpaberite kollektiivhagi, mis põhineb juuni lühikeseisja raportil (väidetav ~500 mln USD müügi ettevedu). Prognoosi täpseid muudatusi ma kinnitada ei saanud, seega seos languse suurusega on mõõdukas.",
-      "sources": [
-        {
-          "title": "Gildan Reports Third Quarter Results and Updates its Full Year 2026 Guidance",
-          "url": "https://www.globenewswire.com/news-release/2026/11/05/3396175/0/en/gildan-reports-third-quarter-results-and-updates-its-full-year-2026-guidance.html"
-        },
-        {
-          "title": "Gildan Activewear (GIL) Misses Q3 Earnings and Revenue Estimates",
-          "url": "https://www.zacks.com/stock/news/3023880/gildan-activewear-gil-misses-q3-earnings-and-revenue-estimates?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|yseop_template_4-3023880"
-        }
-      ],
-      "at": "2026-11-05T17:13:43Z"
-    },
-    {
-      "fmp": "RHM.DE",
-      "sym": "rhm-etr",
-      "name": "Rheinmetall AG",
-      "pct": -16.14,
-      "short": "Gewinnwarnung eelmisel õhtul: aktsia aastamadalaimal tasemel",
-      "text": "Rheinmetall andis 4. novembri õhtul kasumihoiatuse ja kärpis käibeeesmärgi; aktsia langes hommikul kuni 18,5% (alla 819 €), madalaim tase alates 2025. a veebruarist. JPMorgani analüütik nimetas seda viiendaks käibe- või kasumihoiatuseks 11 kuuga ja kahtles 2030. a eesmärkides; JPMorgan langetas sihthinna 1150 €-ni, Citi (Osta) 1374 €-ni. Seos hoiatuse ja languse vahel on selge; kapitaliturgude päev on 27. novembril.",
-      "sources": [
-        {
-          "title": "onvista/dpa-AFX: Rheinmetall-Gewinnwarnung schockt Anleger",
-          "url": "https://www.onvista.de/news/2026/11-05-aktie-im-fokus-2-rheinmetall-gewinnwarnung-schockt-anleger-kurseinbruch-0-10-26572814"
-        },
-        {
-          "title": "wallstreet-online: Rheinmetall kappt Umsatzziel",
-          "url": "https://www.wallstreet-online.de/nachricht/21643479-aktie-crasht-10-prozent-rheinmetall-kappt-umsatzziel-boxer-auftrag-verschiebt-jahr"
-        }
-      ],
-      "at": "2026-11-05T09:08:43Z"
-    },
-    {
-      "fmp": "VCEL",
-      "sym": "vcel",
-      "name": "Vericel Corporation",
-      "pct": 13.61,
-      "short": "Q3 tulemused ületasid ootusi ja aastaprognoosi tõsteti",
-      "text": "Vericel teatas täna Q3 käibeks 85,4 mln USD (+26%), puhaskasum kasvas 179% 14,2 mln USD-ni ja kasum aktsia kohta oli 0,27 USD (konsensus 0,02 USD). Ettevõte tõstis aasta käibeprognoosi 344–346 mln USD-ni ja korrigeeritud EBITDA marginaali 28%-ni. Seos hinnatõusuga on selge.",
-      "sources": [
-        {
-          "title": "Vericel Reports Third Quarter 2026 Financial Results and Raises Full-Year Financial Guidance",
-          "url": "https://www.globenewswire.com/news-release/2026/11/05/3396327/34447/en/vericel-reports-third-quarter-2026-financial-results-and-raises-full-year-financial-guidance.html"
-        },
-        {
-          "title": "Vericel (VCEL) Beats Q3 Earnings and Revenue Estimates",
-          "url": "https://www.zacks.com/stock/news/3024208/vericel-corporation-vcel-beats-q3-earnings-and-revenue-estimates?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|yseop_template_4-3024208"
-        }
-      ],
-      "at": "2026-11-05T17:13:43Z"
-    },
-    {
-      "fmp": "XRO.AX",
-      "sym": "xro-aus",
-      "name": "Xero Limited",
-      "pct": 12.55,
-      "short": "Põhjust ei leitud; ASX tõusis laiemalt ~2,5%",
-      "text": "Täpset ettevõttespetsiifilist põhjust tänaste allikatega ei leitud. Xero poolaasta tulemused on planeeritud 12. novembrile, seega tulemused ei seleta tõusu. Aasia turuülevaate järgi tõusis Austraalia börsi indeks samal päeval ~2,5%, mis võis aidata, kuid seos on ebakindel.",
-      "sources": [
-        {
-          "title": "FinancialJuice: Aasia turuülevaade 5.11.2026",
-          "url": "https://features.financialjuice.com/2026/11/05/chips-slide-on-us-regulation-fears-china-tech-stocks-rally-asia-market-wrap/"
-        },
-        {
-          "title": "Ad-hoc-news: Xero schedules November 12 results",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/xero-schedules-november-12-results-xero-stock-was-aud-64-19-on-october-23/70405650"
-        }
-      ],
-      "at": "2026-11-05T09:08:43Z"
-    },
-    {
-      "fmp": "AMRC",
-      "sym": "amrc",
-      "name": "Ameresco, Inc. Class A",
-      "pct": -11.58,
-      "short": "Täna ei leidnud ettevõttespetsiifilist uudist; Q3 tulemused tulevad alles 9. novembril",
-      "text": "Ameresco annab Q3 tulemused teada alles 9. novembril, seega tänane langus ei tulene tulemusaruandest. Ettevõttespetsiifilist uudist, mis -12,5% languse seletaks, ma ei leidnud. Aktsia on olnud nõrgas trendis (uus aastamadalaim päevavahemik), kuid konkreetset põhjust ma ei oska allikatega toetada.",
-      "sources": [
-        {
-          "title": "Ameresco to Announce Third Quarter 2026 Financial Results on November 9, 2026",
-          "url": "https://www.ameresco.com/ameresco-to-announce-third-quarter-2026-financial-results-on-november-9-2026/"
-        }
-      ],
-      "at": "2026-11-05T17:13:43Z"
-    },
-    {
-      "fmp": "IPGP",
-      "sym": "ipgp",
-      "name": "IPG Photonics Corporation",
-      "pct": -11.21,
-      "short": "Täna ei leidnud selget põhjust; Q3 käive kasvas 15%",
-      "text": "IPG Photonics avaldas Q3 käibeks 288 mln USD (+15%) ja pooljuhtlaserite müük rohkem kui kahekordistus, kuid tänase -10,0% languse konkreetset põhjust (nt prognoos) ma allikatega kinnitada ei saanud. Seos tulemusaruandega on võimalik, kuid kinnitamata.",
-      "sources": [
-        {
-          "title": "IPG Photonics: 3 Key Takeaways for Long-Term Investors",
-          "url": "https://www.fool.com/earnings/takeaways/2026/11/04/ipg-photonics-3-key-takeaways-for-long-term-investors/"
-        }
-      ],
-      "at": "2026-11-05T17:13:43Z"
-    },
-    {
-      "fmp": "VITL",
-      "sym": "vitl",
-      "name": "Vital Farms, Inc.",
-      "pct": -10.86,
-      "short": "Täna ei leidnud ettevõttespetsiifilist põhjust",
-      "text": "Vital Farmsi -10,5% languse kohta ei leidnud ma täna ühtegi uudist ega tulemusaruannet, mis seda seletaks. Põhjus on teadmata ja ma ei oska seda allikatega toetada.",
+      "fmp": "9698.HK",
+      "sym": "9698-hk",
+      "name": "GDS Holdings Ltd.",
+      "pct": -10.62,
+      "short": "Põhjust ei leidnud; aktsia on aastamadalate lähedal",
+      "text": "Tänaseks kuupäevaks ei leidnud ma usaldusväärset allikat, mis seda langust selgitaks. Tänase päeva ettevõttespetsiifilisi uudiseid ei leitud. Aktsia on hinnavahemiku madalas otsas (aasta madalaim ca 20,8 HKD), mis viitab laiemale nõrkusele, kuid seost ei saa kinnitada.",
       "sources": [],
-      "at": "2026-11-05T17:13:43Z"
+      "at": "2026-11-06T09:08:16Z"
     },
     {
-      "fmp": "AXON",
-      "sym": "axon",
-      "name": "Axon Enterprise Inc",
-      "pct": -10.65,
-      "short": "Tulemused tulevad täna pärast börsi sulgemist; languse põhjust ei leidnud",
-      "text": "Axon avaldab Q3 tulemused täna pärast turu sulgemist (konsensus 1,90 USD aktsia kohta, käive 931 mln USD), seega päevane langus ei ole tulemuste tagajärg. Ettevõttespetsiifilist uudist ma ei leidnud; võimalik, et investorid vähendavad positsioone enne aruannet või järgivad tehnoloogiasektori nõrkust, kuid allikad seda ei kinnita.",
-      "sources": [
-        {
-          "title": "Should Axon Enterprise Stock be in Your Portfolio Pre-Q3 Earnings?",
-          "url": "https://www.zacks.com/stock/news/3023214/should-axon-enterprise-stock-be-in-your-portfolio-pre-q3-earnings?cid=CS-STOCKNEWSAPI-FT-analyst_blog|most_popular_stocks-3023214"
-        }
-      ],
-      "at": "2026-11-05T20:13:24Z"
+      "fmp": "3918.HK",
+      "sym": "3918-hk",
+      "name": "NagaCorp Ltd.",
+      "pct": -6.52,
+      "short": "Põhjust ei leidnud; aktsia uuel aastamadalikul",
+      "text": "Tänaseks kuupäevaks ei leidnud ma usaldusväärset allikat, mis seda langust selgitaks. Aktsia sulgus päeva madalaimal tasemel (2,15 HKD), mis on ühtlasi aasta madalaim hind. Tänast ettevõttespetsiifilist teadet ei leitud; seos mõne konkreetse sündmusega on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-06T09:08:16Z"
     },
     {
-      "fmp": "HLIO",
-      "sym": "hlio",
-      "name": "Helios Technologies, Inc.",
-      "pct": -10.61,
-      "short": "Täna ei leidnud ettevõttespetsiifilist põhjust",
-      "text": "Helios Technologiesele ei leidnud ma täna uudist, mis -10,6% langust seletaks. Ettevõte teatas eile vaid osalemisest Baird'i tööstuskonverentsil 11. novembril. Põhjus jääb ebaselgeks.",
-      "sources": [
-        {
-          "title": "Helios Technologies to Webcast Presentation at the Baird 2026 Global Industrial Conference",
-          "url": "https://www.businesswire.com/news/home/20261104559742/en/Helios-Technologies-to-Webcast-Presentation-at-the-Baird-2026-Global-Industrial-Conference/"
-        }
-      ],
-      "at": "2026-11-05T20:13:24Z"
+      "fmp": "0189.HK",
+      "sym": "189-hk",
+      "name": "Dongyue Group Limited",
+      "pct": -6.48,
+      "short": "Põhjust ei leidnud; aktsia aasta madalaima hinna lähedal",
+      "text": "Tänaseks kuupäevaks ei leidnud ma usaldusväärset allikat, mis seda langust selgitaks. Hind 9,23 HKD on vaid veidi üle aasta madalaima (9,02). Ettevõtte või sektori uudist tänasest ei leitud, seega põhjus jääb selgitamata.",
+      "sources": [],
+      "at": "2026-11-06T09:08:16Z"
     },
     {
-      "fmp": "SHLS",
-      "sym": "shls",
-      "name": "Shoals Technologies Group, Inc. Class A",
-      "pct": -10.32,
-      "short": "Ühinemisleping ARRAY Technologiesiga kaalub, kuigi Q3 oli ootustest parem",
-      "text": "Shoals teatas 4. novembril, et ühineb aktsiavahetusega ARRAY Technologiesiga (tehingu lõpetamine oodatud 2027. a Q1, vajalik aktsionäride ja reguleerijate heakskiit). Samal päeval ületas Shoals Q3 ootusi (kasum aktsia kohta 0,14 vs 0,12 USD, käive 195,3 mln USD) ja tõstis aasta prognoosi. Langus on ajaliselt seotud ühinemisteatega, kuid täpse mehhanismi (vahetussuhe) kohta ma kinnitust ei saanud, seega seos on mõõdukas.",
+      "fmp": "9866.HK",
+      "sym": "9866-hk",
+      "name": "NIO Inc. Class A",
+      "pct": -5.6,
+      "short": "Põhjust ei leidnud; aktsia aasta madalaima hinna lähedal",
+      "text": "Tänaseks kuupäevaks ei leidnud ma usaldusväärset allikat, mis seda langust selgitaks. Leitud NIO artiklid on varasemast ajast (2025) ega käsitle tänast päeva. Hind 25,28 HKD on lähedal aasta madalaimale (24,16); seos konkreetse uudisega puudub.",
+      "sources": [],
+      "at": "2026-11-06T09:08:16Z"
+    },
+    {
+      "fmp": "DVYSR.ST",
+      "sym": "dvysr-se",
+      "name": "Devyser Diagnostics AB",
+      "pct": -5.47,
+      "short": "Põhjust ei leidnud; Q3 raport tuli juba 3. novembril",
+      "text": "Devyseri Q3 vahearuanne avaldati 3. novembril, seega tänane langus ei ole raporti päevaga seotud. Tänast uudist ei leidnud; aktsia on väikese käibega (ca 10 tuhat tk), mistõttu liikumine võib olla likviidsuse mõjul.",
       "sources": [
         {
-          "title": "ARRAY Technologies and Shoals Technologies Group Announce Transformative Merger",
-          "url": "https://www.globenewswire.com/news-release/2026/11/04/3395153/0/en/array-technologies-and-shoals-technologies-group-announce-transformative-merger-creating-an-integrated-energy-infrastructure-platform.html"
-        },
-        {
-          "title": "Shoals Technologies Group Reports Financial Results for Third Quarter 2026",
-          "url": "https://www.globenewswire.com/news-release/2026/11/04/3395184/0/en/shoals-technologies-group-inc-reports-financial-results-for-third-quarter-2026.html"
+          "title": "Devyser: kutse Q3 2026 tulemuste presentatsioonile",
+          "url": "https://www.inderes.dk/releases/invitation-to-devysers-q3-2026-results-presentation"
         }
       ],
-      "at": "2026-11-05T17:13:43Z"
+      "at": "2026-11-06T09:08:16Z"
     },
     {
       "fmp": "EOL.AX",
       "sym": "eol-aus",
       "name": "Energy One Limited",
-      "pct": 10.14,
-      "short": "Põhjust ei leitud; ASX tõusis laiemalt",
-      "text": "Tänaseid ettevõttespetsiifilisi uudiseid ei leitud. Aasia turuülevaate järgi tõusis Austraalia börsi indeks samal päeval ~2,5%, kuid kogu 10% tõusu see ei seleta. Põhjus jääb teadmata.",
+      "pct": -5.31,
+      "short": "Põhjust ei leidnud; 5.–6.11 uusi ASX-teateid pole",
+      "text": "ASX-i teadete loendis ei ole 5.–6. novembri kuupäevaga teateid; viimased (30.10–3.11) on olulise osaluse muutused. Langus tuli väga väikese käibega (ca 17 tuhat tk), tegelik põhjus on kinnitamata.",
       "sources": [
         {
-          "title": "FinancialJuice: Aasia turuülevaade 5.11.2026",
-          "url": "https://features.financialjuice.com/2026/11/05/chips-slide-on-us-regulation-fears-china-tech-stocks-rally-asia-market-wrap/"
+          "title": "Energy One – ASX-i teated (InvestSmart)",
+          "url": "https://www.investsmart.com.au/security/asx/eol/energy-one-limited"
         }
       ],
-      "at": "2026-11-05T09:08:43Z"
-    },
-    {
-      "fmp": "AVAV",
-      "sym": "avav",
-      "name": "AeroVironment, Inc.",
-      "pct": -9.67,
-      "short": "Täna ei leidnud ettevõttespetsiifilist uudist",
-      "text": "AeroVironmenti -8,9% languse kohta ei leidnud ma täna uudist, mis seda seletaks. Aktsia on aasta jooksul kukkunud tugevalt (aastamadalaimal tasemel), kuid tänast käivitajat ma allikatega toetada ei saa.",
-      "sources": [],
-      "at": "2026-11-05T17:13:43Z"
-    },
-    {
-      "fmp": "9896.HK",
-      "sym": "9896-hkg",
-      "name": "MINISO Group Holding Ltd.",
-      "pct": 8.8,
-      "short": "Hongkongi tehnoloogia-/tarbimisrallile järgnes tõus",
-      "text": "Hongkongi tehnoloogiasektor tõusis laiemalt (Hang Seng Tech u 5%), kui investorid liikusid USA vahevalimiste järel kiipidelt Hiina tehnoloogiasse. Ettevõttespetsiifilist uudist ei leitud; tõus oli tõenäoliselt turupõhine, seos ebakindel.",
-      "sources": [
-        {
-          "title": "FinancialJuice: Aasia turuülevaade 5.11.2026",
-          "url": "https://features.financialjuice.com/2026/11/05/chips-slide-on-us-regulation-fears-china-tech-stocks-rally-asia-market-wrap/"
-        },
-        {
-          "title": "Dim Sum Daily: Hang Seng avas tugevalt",
-          "url": "https://www.dimsumdaily.hk/hang-seng-opens-nearly-400-points-higher-as-tencent-and-alibaba-gain-while-energy-stocks-fall/"
-        }
-      ],
-      "at": "2026-11-05T09:08:43Z"
-    },
-    {
-      "fmp": "AVGO",
-      "sym": "avgo",
-      "name": "Broadcom Inc.",
-      "pct": -8.59,
-      "short": "Kiibisektori müügilaine; kaasa mängisid valimistulemused ja nõrk prognoos",
-      "text": "Broadcom langes täna koos laiema kiibisektoriga: 24/7 Wall St seostab hommikust pooljuhtide müügilainet valimiste (vahevalimiste) ebakindluse ja nõrga prognoosiga. Eile jõudis uudistesse ka Marvelli ja Lumentumi 115 mld USD aktsiatehing, mis tõstab konkurentsisurvet. Ettevõttespetsiifilist uudist ma ei leidnud, seega seos on mõõdukas.",
-      "sources": [
-        {
-          "title": "The Chip Selloff Just Hit SOXL Holders Hard",
-          "url": "https://247wallst.com/investing/etf/2026/11/05/the-chip-selloff-just-hit-soxl-holders-hard-heres-what-it-cost-a-10000-position/"
-        },
-        {
-          "title": "Is Broadcom Stock a Buy After Marvell's $115 Billion Deal?",
-          "url": "https://www.fool.com/investing/2026/11/04/is-broadcom-stock-a-buy-after-marvell-s-usd115-billion-deal/"
-        }
-      ],
-      "at": "2026-11-05T20:13:24Z"
-    },
-    {
-      "fmp": "GFS",
-      "sym": "gfs",
-      "name": "GlobalFoundries Inc.",
-      "pct": -8.48,
-      "short": "Q3 ületas ootusi, kuid aktsia langes koos kiibisektoriga",
-      "text": "GlobalFoundries esitas eile Q3 tulemused, mis ületasid ootusi (kasum aktsia kohta 0,53 USD vs 0,51; käive 1,899 mld USD, +13% a/a). Täna -8,5% langus ei tulene seega uuest aruandest; tõenäoline taust on kiibisektori laiem müügilaine, kuigi otsest allikat selle seostamiseks GFS-iga ma ei leidnud. Seeking Alpha märgib ka USA valitsusele emiteeritud aktsiate lahjendust.",
-      "sources": [
-        {
-          "title": "GlobalFoundries Q3 Earnings and Revenues Beat Estimates",
-          "url": "https://www.zacks.com/stock/news/3022737/globalfoundries-inc-gfs-q3-earnings-and-revenues-beat-estimates?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|yseop_template_4-3022737"
-        },
-        {
-          "title": "Margins Improve As GlobalFoundries Secures Commitments For Future Growth",
-          "url": "https://seekingalpha.com/article/4962931-margins-improve-as-globalfoundries-secures-commitments-for-future-growth"
-        }
-      ],
-      "at": "2026-11-05T20:13:24Z"
-    },
-    {
-      "fmp": "9988.HK",
-      "sym": "9988-hkg",
-      "name": "Alibaba Group Holding Limited",
-      "pct": 8.45,
-      "short": "Hiina tehnoloogiarally, Alibaba üks vedureid",
-      "text": "Hongkongi tehnoloogiasektor tõusis laiemalt (Hang Seng Tech u 5%), kui investorid liikusid USA vahevalimiste järel kiipidelt Hiina tehnoloogiasse. Alibaba oli rallit vedavate suurte tehnoloogiaaktsiate seas; ettevõttespetsiifilist uudist ei leitud.",
-      "sources": [
-        {
-          "title": "FinancialJuice: Aasia turuülevaade 5.11.2026",
-          "url": "https://features.financialjuice.com/2026/11/05/chips-slide-on-us-regulation-fears-china-tech-stocks-rally-asia-market-wrap/"
-        },
-        {
-          "title": "Dim Sum Daily: Hang Seng avas tugevalt",
-          "url": "https://www.dimsumdaily.hk/hang-seng-opens-nearly-400-points-higher-as-tencent-and-alibaba-gain-while-energy-stocks-fall/"
-        }
-      ],
-      "at": "2026-11-05T09:08:43Z"
-    },
-    {
-      "fmp": "MWH",
-      "sym": "mwh",
-      "name": "SOLV Energy Inc Class A",
-      "pct": -8.39,
-      "short": "Täna ei leidnud selget põhjust; Q3 tulemused alles 12. novembril",
-      "text": "SOLV Energy avaldab Q3 tulemused 12. novembril, seega langus ei ole aruande tagajärg. Ettevõttespetsiifilist uudist ma ei leidnud; taustaks võib olla taastuvenergia sektori nõrkus pärast vahevalimisi, kuid seda allikatega ei kinnitanud.",
-      "sources": [
-        {
-          "title": "SOLV Energy to report third quarter 2026 financial results on November 12, 2026",
-          "url": "https://greenstocknews.com/news/nasdaq/mwh/solv-energy-to-report-third-quarter-2026-financial-results-on-november-12-2026"
-        }
-      ],
-      "at": "2026-11-05T20:13:24Z"
-    },
-    {
-      "fmp": "GVA",
-      "sym": "gva",
-      "name": "Granite Construction Incorporated",
-      "pct": -8.38,
-      "short": "Täna ei leidnud selget põhjust; eile uus 52 mln USD leping",
-      "text": "Granite teatas eile 52 mln USD lepingust Tucsoni lennujaamas, mis on positiivne uudis ega seleta -8,4% langust. Muud ettevõttespetsiifilist põhjust ma ei leidnud; taustaks võib olla ehitus-/infrastruktuurisektori nõrkus (MasTec, Everus langevad samuti), kuid seda allikatega kinnitada ei saanud.",
-      "sources": [
-        {
-          "title": "Granite Selected for $52 Million CMAR Contract at Tucson International Airport",
-          "url": "https://www.businesswire.com/news/home/20261104282450/en/Granite-Selected-for-52-Million-CMAR-Contract-on-the-Airfield-Safety-Enhancement-ASE-Program-at-the-Tucson-International-Airport/"
-        }
-      ],
-      "at": "2026-11-05T20:13:24Z"
-    },
-    {
-      "fmp": "AMBA",
-      "sym": "amba",
-      "name": "Ambarella, Inc.",
-      "pct": -8.09,
-      "short": "Täna ei leidnud selget põhjust; kiibisektor oli nõrk",
-      "text": "Ambarellale ei leidnud ma täna ettevõttespetsiifilist uudist. Samal päeval langesid laiemalt pooljuhid (nt Broadcom, GlobalFoundries), mis võib olla taust, kuid otsest kinnitust ei ole.",
-      "sources": [],
-      "at": "2026-11-05T20:13:24Z"
-    },
-    {
-      "fmp": "CAMX.ST",
-      "sym": "CAMX-SE",
-      "name": "Camurus AB",
-      "pct": 7.82,
-      "short": "III kvartali käive +28%, EBIT +40%, prognoos kinnitati",
-      "text": "Camurus avaldas 5. novembril III kvartali aruande: käive 724 mln SEK (+28%), tegevustulem 322 mln SEK (+40%). 2026. a prognoosi kinnitati, käive ja tulem peaksid jääma vahemike ülemisse poolde. Aruanne ilmus hommikul ja tõus langeb sellega kokku, seos on tõenäoline.",
-      "sources": [
-        {
-          "title": "Inderes: Camurus Interim Report Q3 2026",
-          "url": "https://www.inderes.fi/en/releases/camurus-ab-camurus-interim-report-third-quarter-2026"
-        }
-      ],
-      "at": "2026-11-05T09:08:43Z"
-    },
-    {
-      "fmp": "0780.HK",
-      "sym": "780-hk",
-      "name": "Tongcheng Travel Holdings Limited",
-      "pct": 7.79,
-      "short": "Hongkongi laiem tõus, eraldi põhjust ei leitud",
-      "text": "Hongkongi tehnoloogiasektor tõusis laiemalt (Hang Seng Tech u 5%), kui investorid liikusid USA vahevalimiste järel kiipidelt Hiina tehnoloogiasse. Ettevõttespetsiifilist uudist ei leitud; seos turuga on ebakindel.",
-      "sources": [
-        {
-          "title": "FinancialJuice: Aasia turuülevaade 5.11.2026",
-          "url": "https://features.financialjuice.com/2026/11/05/chips-slide-on-us-regulation-fears-china-tech-stocks-rally-asia-market-wrap/"
-        },
-        {
-          "title": "Dim Sum Daily: Hang Seng avas tugevalt",
-          "url": "https://www.dimsumdaily.hk/hang-seng-opens-nearly-400-points-higher-as-tencent-and-alibaba-gain-while-energy-stocks-fall/"
-        }
-      ],
-      "at": "2026-11-05T09:08:43Z"
-    },
-    {
-      "fmp": "APG",
-      "sym": "apg",
-      "name": "APi Group Corporation",
-      "pct": -7.78,
-      "short": "Täna ei leidnud ettevõttespetsiifilist põhjust",
-      "text": "APi Groupi kohta ei leidnud ma täna uudist, mis -7,8% langust seletaks. Põhjus jääb ebaselgeks.",
-      "sources": [],
-      "at": "2026-11-05T20:13:24Z"
-    },
-    {
-      "fmp": "BFF.MI",
-      "sym": "bff-mil",
-      "name": "BFF Bank SpA",
-      "pct": -7.71,
-      "short": "Täna ei leidnud uut põhjust; aktsia on pikalt languses",
-      "text": "BFF Banki kohta ei leidnud ma tänaseid allikaid, mis -7,7% langust seletaks. Aktsia on aasta jooksul kukkunud (aasta kõrgeim ~11,55 vs praegu ~1,91 EUR) varasemate negatiivsete uudiste, sh juhtkonnavahetuse ja prognoosilangetuse järel, kuid tänast käivitajat ma kinnitada ei saa.",
-      "sources": [],
-      "at": "2026-11-05T20:13:24Z"
-    },
-    {
-      "fmp": "KTN.DE",
-      "sym": "ktn-etr",
-      "name": "Kontron AG",
-      "pct": -7.39,
-      "short": "Põhjust ei leitud",
-      "text": "Tänaseid Kontroni-spetsiifilisi uudiseid ega põhjendust ei leitud. Eraldi allikat languse selgitamiseks pole, seega põhjus jääb teadmata.",
-      "sources": [],
-      "at": "2026-11-05T09:08:43Z"
-    },
-    {
-      "fmp": "NXT",
-      "sym": "nxt",
-      "name": "Nextpower Inc.",
-      "pct": -7.32,
-      "short": "Päikese-/taastuvenergia sektor midterm-tulemuste mõju all",
-      "text": "Nextpoweri kohta ei leidnud ma ettevõttespetsiifilist uudist. Zacks märgib täna, et vahevalimiste tulemused muudavad taastuvenergia sektori meeleolu ja poliitikaootusi, mis võib olla taust, kuid otsest põhjust langusele allikas ei nimeta. Seos on nõrk.",
-      "sources": [
-        {
-          "title": "Midterm Results Put These 4 Renewable, Healthcare & AI Stocks in Focus",
-          "url": "https://www.zacks.com/stock/news/3024555/midterm-results-put-these-4-renewable-healthcare-ai-stocks-in-focus?cid=CS-STOCKNEWSAPI-FT-analyst_blog|industry_focus-3024555"
-        }
-      ],
-      "at": "2026-11-05T20:13:24Z"
-    },
-    {
-      "fmp": "9626.HK",
-      "sym": "9626-hk",
-      "name": "Bilibili Inc.",
-      "pct": 7.18,
-      "short": "Hiina tehnoloogiarally, eraldi põhjust ei leitud",
-      "text": "Hongkongi tehnoloogiasektor tõusis laiemalt (Hang Seng Tech u 5%), kui investorid liikusid USA vahevalimiste järel kiipidelt Hiina tehnoloogiasse. Ettevõttespetsiifilist uudist ei leitud; tõus oli tõenäoliselt turupõhine.",
-      "sources": [
-        {
-          "title": "FinancialJuice: Aasia turuülevaade 5.11.2026",
-          "url": "https://features.financialjuice.com/2026/11/05/chips-slide-on-us-regulation-fears-china-tech-stocks-rally-asia-market-wrap/"
-        },
-        {
-          "title": "Dim Sum Daily: Hang Seng avas tugevalt",
-          "url": "https://www.dimsumdaily.hk/hang-seng-opens-nearly-400-points-higher-as-tencent-and-alibaba-gain-while-energy-stocks-fall/"
-        }
-      ],
-      "at": "2026-11-05T09:08:43Z"
-    },
-    {
-      "fmp": "GMED",
-      "sym": "gmed",
-      "name": "Globus Medical Inc Class A",
-      "pct": -7.18,
-      "short": "Täna ei leidnud ettevõttespetsiifilist põhjust",
-      "text": "Globus Medicali kohta ei leidnud ma täna uudist, mis -7,2% langust seletaks. Põhjus jääb ebaselgeks.",
-      "sources": [],
-      "at": "2026-11-05T20:13:24Z"
-    },
-    {
-      "fmp": "9866.HK",
-      "sym": "9866-hk",
-      "name": "NIO Inc.",
-      "pct": 6.95,
-      "short": "Hiina tehnoloogiarally, eraldi põhjust ei leitud",
-      "text": "Hongkongi tehnoloogiasektor tõusis laiemalt (Hang Seng Tech u 5%), kui investorid liikusid USA vahevalimiste järel kiipidelt Hiina tehnoloogiasse. Ettevõttespetsiifilist uudist ei leitud; tõus oli tõenäoliselt turupõhine.",
-      "sources": [
-        {
-          "title": "FinancialJuice: Aasia turuülevaade 5.11.2026",
-          "url": "https://features.financialjuice.com/2026/11/05/chips-slide-on-us-regulation-fears-china-tech-stocks-rally-asia-market-wrap/"
-        },
-        {
-          "title": "Dim Sum Daily: Hang Seng avas tugevalt",
-          "url": "https://www.dimsumdaily.hk/hang-seng-opens-nearly-400-points-higher-as-tencent-and-alibaba-gain-while-energy-stocks-fall/"
-        }
-      ],
-      "at": "2026-11-05T09:08:43Z"
-    },
-    {
-      "fmp": "1357.HK",
-      "sym": "1357-hk",
-      "name": "Meitu, Inc.",
-      "pct": 6.51,
-      "short": "Hiina tehnoloogiarally, eraldi põhjust ei leitud",
-      "text": "Hongkongi tehnoloogiasektor tõusis laiemalt (Hang Seng Tech u 5%), kui investorid liikusid USA vahevalimiste järel kiipidelt Hiina tehnoloogiasse. Ettevõttespetsiifilist uudist ei leitud; tõus oli tõenäoliselt turupõhine.",
-      "sources": [
-        {
-          "title": "FinancialJuice: Aasia turuülevaade 5.11.2026",
-          "url": "https://features.financialjuice.com/2026/11/05/chips-slide-on-us-regulation-fears-china-tech-stocks-rally-asia-market-wrap/"
-        },
-        {
-          "title": "Dim Sum Daily: Hang Seng avas tugevalt",
-          "url": "https://www.dimsumdaily.hk/hang-seng-opens-nearly-400-points-higher-as-tencent-and-alibaba-gain-while-energy-stocks-fall/"
-        }
-      ],
-      "at": "2026-11-05T09:08:43Z"
-    },
-    {
-      "fmp": "MTZ",
-      "sym": "mtz",
-      "name": "MasTec, Inc.",
-      "pct": -5.18,
-      "short": "Täna ei leidnud uut uudist; aktsia on pikemat aega languses",
-      "text": "MasTecu kohta ei leidnud ma täna ettevõttespetsiifilist uudist; viimased tulemused avaldati 29. oktoobril ja aktsia on hiljuti teinud uusi 12 kuu madalaid. Tänane -5,2% on tõenäoliselt jätk sellele nõrkusele, kuid konkreetset tänast käivitajat ma allikatega toetada ei saa.",
-      "sources": [
-        {
-          "title": "MasTec issues earnings results (MarketBeat, 29.10.2026)",
-          "url": "https://www.marketbeat.com/instant-alerts/earnings-mastec-nyse-mtz-issues-earnings-results-2026-10-29/"
-        }
-      ],
-      "at": "2026-11-05T17:13:43Z"
-    },
-    {
-      "fmp": "PRX.AS",
-      "sym": "prx-ams",
-      "name": "Prosus N.V. Class N",
-      "pct": 2.77,
-      "short": "Tõenäoliselt Tencenti tõusu kaasaminek",
-      "text": "Tencent tõusis Hongkongis üle 6% ja Prosus on Tencenti suuraktsionär, seega tõus on tõenäoliselt sellega seotud. Prosuse-spetsiifilist uudist tänaste allikatega ei leitud; seos on kaudne.",
-      "sources": [
-        {
-          "title": "FinancialJuice: Aasia turuülevaade 5.11.2026",
-          "url": "https://features.financialjuice.com/2026/11/05/chips-slide-on-us-regulation-fears-china-tech-stocks-rally-asia-market-wrap/"
-        }
-      ],
-      "at": "2026-11-05T09:08:43Z"
+      "at": "2026-11-06T09:08:16Z"
     }
   ]
 }
