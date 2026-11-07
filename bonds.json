@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T00:17:34Z",
+  "updated": "2026-11-07T00:18:54Z",
   "items": [
     {
       "isin": "USU45709AB58",
@@ -9,7 +9,7 @@
       "prevPrice": null,
       "source": null,
       "url": null,
-      "note": "uut hinda ei leitud 2026-11-03: FactSet/IBKR pole saadaval; Deutsche Börse, bondblox, cbonds, TradingView, finanzen.net ei näidanud hinda"
+      "note": "uut hinda ei leitud 2026-11-07: FactSet/IBKR pole saadaval; cbonds, TradingView, bondblox, Deutsche Börse ei näidanud hinda"
     },
     {
       "isin": "USU6203KAE48",
@@ -19,7 +19,7 @@
       "prevPrice": null,
       "source": null,
       "url": null,
-      "note": "uut hinda ei leitud 2026-11-03: FactSet/IBKR pole saadaval; Deutsche Börse, bondblox, cbonds, TradingView, finanzen.net ei näidanud hinda"
+      "note": "uut hinda ei leitud 2026-11-07: TradingView FINRA näitas 78.509 ilma kuupäevata (lükatud tagasi); FactSet/IBKR pole saadaval; Deutsche Börse, cbonds ei näidanud hinda"
     },
     {
       "isin": "USU37027AB27",
@@ -29,7 +29,7 @@
       "prevPrice": null,
       "source": null,
       "url": null,
-      "note": "uut hinda ei leitud 2026-11-03: FactSet/IBKR pole saadaval; Deutsche Börse, bondblox, cbonds, TradingView, finanzen.net ei näidanud hinda"
+      "note": "uut hinda ei leitud 2026-11-07: FactSet/IBKR pole saadaval; cbonds, TradingView, bondblox, Deutsche Börse ei näidanud hinda"
     },
     {
       "isin": "USU98401AE97",
@@ -39,7 +39,7 @@
       "prevPrice": 30.16,
       "source": "onvista / finanzen.net (gettex)",
       "url": "https://www.onvista.de/anleihen/chart/XEROX-HLDGS-24-29-REGS-Anleihe-USU98401AE97",
-      "note": "uut hinda ei leitud 2026-11-03: FactSet/IBKR pole saadaval; Deutsche Börse, bondblox, cbonds, TradingView, finanzen.net ei näidanud hinda; bondblox artikkel (63.8, kuupäevata) lükati tagasi >25 punkti hüppe tõttu"
+      "note": "uut hinda ei leitud 2026-11-07: finanzen.net börsid lahknevad (Frankfurt 10, gettex 18.11, Baader 47.01), bondblox/Deutsche Börse ilma hinnata; eelmine hind säilitatud"
     },
     {
       "isin": "USP46214AJ49",
@@ -49,7 +49,7 @@
       "prevPrice": null,
       "source": null,
       "url": null,
-      "note": "uut hinda ei leitud 2026-11-03: FactSet/IBKR pole saadaval; Deutsche Börse, bondblox, cbonds, TradingView, finanzen.net ei näidanud hinda"
+      "note": "uut hinda ei leitud 2026-11-07: FactSet/IBKR pole saadaval; cbonds, TradingView, bondblox, Deutsche Börse ei näidanud hinda"
     }
   ]
 }
