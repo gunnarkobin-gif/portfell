@@ -1,12 +1,12 @@
 {
   "date": "2026-11-09",
-  "updated": "2026-11-09T09:07:45Z",
+  "updated": "2026-11-09T17:07:59Z",
   "items": [
     {
       "fmp": "CICN.SW",
       "sym": "cicn-ch",
       "name": "Cicor Technologies",
-      "pct": 7.55,
+      "pct": 10.12,
       "short": "Kaks mitmeaastast kaitselepingut, ~20 mln CHF müük 2027",
       "text": "Cicor teatas 9. novembril kahest suuremast mitmeaastasest kaitseprogrammist, mis peaksid tooma 2027. aastal ligi 20 miljonit CHF käivet; tootmine toimub Prantsusmaa ja Suurbritannia tehastes. Aktsia tõusis päeva jooksul kuni ca 7,4%. Seos hinnaliikumisega on tugev, sest uudis ilmus samal päeval.",
       "sources": [
@@ -25,7 +25,7 @@
       "fmp": "ENVIP.OL",
       "sym": "envi-ams",
       "name": "Envipco Holding N.V.",
-      "pct": 5.79,
+      "pct": 5.53,
       "short": "Ettevõttespetsiifilist põhjust ei leitud",
       "text": "Täna avaldatud allikatest ei leidnud ma Envipco tõusule ettevõttespetsiifilist põhjust (tulemused, prognoos, tehing ega analüütikute otsus). Tõusu põhjus jääb kinnitamata; kauplemismaht oli väike ja liikumine võib olla tehniline.",
       "sources": [
@@ -40,7 +40,7 @@
       "fmp": "UCG.MI",
       "sym": "UCG-IT",
       "name": "UniCredit S.p.A.",
-      "pct": 5.62,
+      "pct": 6.28,
       "short": "Rekordtulemused üheksa kuuga ja Itaalia pankade rallile järgnev tõus",
       "text": "Itaalia pangad tõusid 9. novembril; Soldionline'i järgi seostati UniCrediti ca 5% tõusu rekordiliste üheksa kuu tulemustega. Samal päeval hüppas Banco BPM umbes 10% pärast Crédit Agricole Italiaga ühinemise ettepanekut, mis tõstis kogu sektori meeleolu. Seos on üsna kindel, kuid tulemuste ja sektoriuudise osakaalu pole võimalik täpselt eraldada.",
       "sources": [
@@ -69,6 +69,194 @@
         }
       ],
       "at": "2026-11-09T09:07:45Z"
+    },
+    {
+      "fmp": "HLLY",
+      "sym": "hlly",
+      "name": "Holley Inc.",
+      "pct": 17.14,
+      "short": "Põhjus selgusetu; Q3 tulemused ilmusid nädala alguses",
+      "text": "Holley teatas kolmanda kvartali tulemustest ja kitsendatud aastaprognoosist 6.–7. novembri paiku (müük kasvas, ettevõte naasis kasumisse). Tänase 17% tõusu kohta ei leidnud ma eraldi uudist, seega seos tulemustega on tõenäoline, kuid kinnitamata.",
+      "sources": [
+        {
+          "title": "Holley Q3 earnings call highlights (MarketBeat)",
+          "url": "https://www.marketbeat.com/instant-alerts/transcript-holley-q3-earnings-call-highlights-2026-11-07/"
+        }
+      ],
+      "at": "2026-11-09T17:07:59Z"
+    },
+    {
+      "fmp": "FERG",
+      "sym": "ferg-us",
+      "name": "Ferguson Enterprises Inc.",
+      "pct": 12.49,
+      "short": "Tugev Q3: mitteeluhoonete müük +15%, eluhoonete +6%",
+      "text": "Ferguson avaldas täna hommikul kolmanda kvartali tulemused: mitteeluhoonete müük kasvas 15% ja eluhoonete oma 6%, lisaks tehti sel aastal üksteist ülevõtmist (aastakäive ca 1,5 mld USD). Seos hinnaliikumisega on tugev, sest uudis ilmus samal päeval.",
+      "sources": [
+        {
+          "title": "Ferguson Reports Third Quarter (Business Wire)",
+          "url": "https://www.businesswire.com/news/home/20261109708536/en/Ferguson-Reports-Third-Quarter-Ended-September-30-2026/"
+        }
+      ],
+      "at": "2026-11-09T17:07:59Z"
+    },
+    {
+      "fmp": "SHLS",
+      "sym": "shls",
+      "name": "Shoals Technologies Group",
+      "pct": -11.26,
+      "short": "Langus ilma tänase uudiseta; hiljutine Q3 ja Arrayga ühinemine",
+      "text": "Tänaseks langusele ei leidnud ma kinnitatud põhjust. Hiljuti avaldas Shoals Q3 tulemused (müük +44%, marginaalid surve all) ja teate ühinemisest ARRAY Technologiesiga, mis võib hinda mõjutada, kuid seos tänase liikumisega on kinnitamata.",
+      "sources": [
+        {
+          "title": "Shoals' Q3 revenue up 44%, merger with ARRAY (Mercom)",
+          "url": "https://mercomindia.com/shoals-q3-revenue-up-44-announces-merger-with-array-technologies"
+        }
+      ],
+      "at": "2026-11-09T17:07:59Z"
+    },
+    {
+      "fmp": "ADOC.PA",
+      "sym": "adoc-par",
+      "name": "Adocia SA",
+      "pct": 10.47,
+      "short": "Tänast põhjust ei leidnud",
+      "text": "Tänaseid ettevõttespetsiifilisi uudiseid ei leidnud, seega põhjus jääb selgusetuks. Adocia on väike biotehnoloogiaettevõte, kus suured päevaliikumised on tavalised.",
+      "sources": [
+        {
+          "title": "Adocia (Investing.com)",
+          "url": "https://fr.investing.com/equities/adocia-sas"
+        }
+      ],
+      "at": "2026-11-09T17:07:59Z"
+    },
+    {
+      "fmp": "AVAV",
+      "sym": "avav",
+      "name": "AeroVironment, Inc.",
+      "pct": 9.59,
+      "short": "~315 mln USD lepinguosa 940 mln USD IDIQ-lepingust",
+      "text": "AeroVironment teatas mitmeaastasest IDIQ-lepingust USA kliendiga (lagi 940 mln USD), millest esimene ca 315 mln USD tellimus hõlmab tooteid ja tuge. Droonisektor tervikuna tõusis samal päeval. Seos on tugev, sest uudis ilmus tänahommikul.",
+      "sources": [
+        {
+          "title": "AV Secures ~$315 Million Award (Business Wire)",
+          "url": "https://www.businesswire.com/news/home/20261109634954/en/AV-Secures-Approximately-315-Million-Award-Under-940-Million-IDIQ-Contract/"
+        },
+        {
+          "title": "Ondas rallies, AeroVironment jumps 10% (24/7 Wall St)",
+          "url": "https://247wallst.com/investing/2026/11/09/ondas-rallies-13-ahead-of-earnings-aerovironment-jumps-10-on-315-million-award-red-cat-surges-10/"
+        }
+      ],
+      "at": "2026-11-09T17:07:59Z"
+    },
+    {
+      "fmp": "VSEC",
+      "sym": "vsec",
+      "name": "VSE Corporation",
+      "pct": 9.4,
+      "short": "Põhjus selgusetu; Q3 tulemused 5. novembril",
+      "text": "VSE avaldas Q3 tulemused 5. novembril, kuid tänase tõusu kohta uudist ei leidnud. Võimalik, et liikumine järgib laiemat turutõusu või tulemustejärgset rallit, kuid seda allikad ei kinnita.",
+      "sources": [
+        {
+          "title": "VSE Q3 2026 earnings call transcript (Seeking Alpha)",
+          "url": "https://seekingalpha.com/article/4963480-vse-corporation-vsec-q3-2026-earnings-call-transcript"
+        }
+      ],
+      "at": "2026-11-09T17:07:59Z"
+    },
+    {
+      "fmp": "ECG",
+      "sym": "ecg",
+      "name": "Everus Construction Group",
+      "pct": 8.63,
+      "short": "Tänast põhjust ei leidnud; hiljuti Q3 ja prognoosi tõstmine",
+      "text": "Everus avaldas hiljuti Q3 tulemused ja tõstis 2026. aasta prognoosi, kuid tänase tõusu kohta eraldi uudist ei leidnud. Seos on võimalik, kuid kinnitamata.",
+      "sources": [
+        {
+          "title": "Everus reports Q3 2026, raises guidance (Finviz)",
+          "url": "https://finviz.com/news/414928/everus-reports-third-quarter-2026-results-raises-2026-guidance"
+        }
+      ],
+      "at": "2026-11-09T17:07:59Z"
+    },
+    {
+      "fmp": "AVGO",
+      "sym": "avgo",
+      "name": "Broadcom Inc.",
+      "pct": 8.49,
+      "short": "Poolinvesteeringute põrge pärast eelmise nädala sügavat langust",
+      "text": "Invezzi järgi naasid investorid esmaspäeval pooljuhtidesse pärast eelmise nädala järsku müüki, mille vallandas hirm, et demokraatide kontrolli all olev Kongress võib andmekeskuste laienemist piirata; turud tõusid laiemalt ja nafta hind langes. Broadcomil endal tänast uut ettevõttespetsiifilist uudist polnud (Q4 tulemused 9. detsembril).",
+      "sources": [
+        {
+          "title": "Why is Broadcom stock surging 9% on Monday? (Invezz)",
+          "url": "https://invezz.com/news/2026/11/09/why-is-broadcom-avgo-stock-surging-9-on-monday/"
+        },
+        {
+          "title": "Broadcom to announce Q4 results Dec 9 (PRNewswire)",
+          "url": "https://www.prnewswire.com/news-releases/broadcom-inc-to-announce-fourth-quarter-and-fiscal-year-2026-financial-results-on-wednesday-december-9-2026-302932749.html"
+        }
+      ],
+      "at": "2026-11-09T17:07:59Z"
+    },
+    {
+      "fmp": "CE",
+      "sym": "ce",
+      "name": "Celanese Corporation",
+      "pct": 7.65,
+      "short": "Tänast põhjust ei leidnud; Q3 tulemused ja hinnatõusud",
+      "text": "Celanese avaldas hiljuti Q3 tulemused (müük +6%, vaba rahavoog 461 mln USD) ja teatas hinnatõusudest Aasias. Tänase tõusu kohta konkreetset uudist ei leidnud.",
+      "sources": [
+        {
+          "title": "Celanese Q3 earnings (Panabee)",
+          "url": "https://www.panabee.com/news/celanese-earnings-q3-2026-2026-11-02"
+        }
+      ],
+      "at": "2026-11-09T17:07:59Z"
+    },
+    {
+      "fmp": "ATMU",
+      "sym": "atmu",
+      "name": "Atmus Filtration Technologies",
+      "pct": 7.6,
+      "short": "Tänast põhjust ei leidnud; hiljuti Q3 ületas ootusi",
+      "text": "Atmus ületas hiljuti Q3 ootusi, tõstis aastaprognoosi ja kahekordistas tagasiostuprogrammi, kuid tänase tõusu kohta eraldi uudist ei leidnud.",
+      "sources": [
+        {
+          "title": "Atmus beats and raises again (Finviz)",
+          "url": "https://finviz.com/news/418533/atmus-beats-and-raises-again-but-flat-margins-and-a-buyback-pivot-define-a-quarter-driven-more-by-koch-filter-and-volume-than-by-pricing"
+        }
+      ],
+      "at": "2026-11-09T17:07:59Z"
+    },
+    {
+      "fmp": "AIR",
+      "sym": "air",
+      "name": "AAR Corp.",
+      "pct": 7.56,
+      "short": "Tänast põhjust ei leidnud",
+      "text": "Tänaseid ettevõttespetsiifilisi uudiseid ei leidnud, seega põhjus jääb selgusetuks.",
+      "sources": [
+        {
+          "title": "AAR press releases",
+          "url": "https://www.aarcorp.com/en/newsroom/press-releases/2026/aar-reports-second-quarter-fiscal-year-2026-results/"
+        }
+      ],
+      "at": "2026-11-09T17:07:59Z"
+    },
+    {
+      "fmp": "RVLV",
+      "sym": "rvlv",
+      "name": "Revolve Group",
+      "pct": 7.37,
+      "short": "Tänast põhjust ei leidnud; Q3 müük +20% 4. novembril",
+      "text": "Revolve avaldas 4. novembri paiku Q3 tulemused (müük ca +20%, 356 mln USD), kuid kulud ületasid müügikasvu. Tänase tõusu kohta uudist ei leidnud.",
+      "sources": [
+        {
+          "title": "Revolve reports 20 percent net sales increase (FashionUnited)",
+          "url": "https://fashionunited.com/news/business/revolve-group-reports-20-percent-net-sales-increase-in-third-quarter/2026110475539"
+        }
+      ],
+      "at": "2026-11-09T17:07:59Z"
     }
   ]
 }
