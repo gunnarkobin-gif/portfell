@@ -1,6 +1,6 @@
 {
   "date": "2026-11-10",
-  "updated": "2026-11-10T17:08:15Z",
+  "updated": "2026-11-10T20:07:32Z",
   "items": [
     {
       "fmp": "ADOC.PA",
@@ -18,68 +18,23 @@
       "at": "2026-11-10T17:08:15Z"
     },
     {
-      "fmp": "GUBRA.CO",
-      "sym": "gubra-dk",
-      "name": "Gubra A/S",
-      "pct": -5.02,
-      "short": "Langus ilma päevauudiseta; Q3 avaldati 6. nov, CRO prognoos kitsendati",
-      "text": "Täna avaldatud uudist ei leidnud. Gubra Q3 kaubandusavaldus tuli 6. novembril: tulu 447,7 mln DKK tänu AbbVie (50 mln USD) ja Boehringer Ingelheimi (10 mln EUR) vahe-etappide maksetele, kuid CRO tulu- ja marginaaliprognoosi ülemist otsa langetati (kasv 2–6%, marginaal 10–13%) ja tulu on tükiline. Võimalik, et langus on viivitusega reaktsioon sellele, kuid see on oletus, mitte allikaga kinnitatud.",
+      "fmp": "AMRC",
+      "sym": "amrc",
+      "name": "Ameresco, Inc. Class A",
+      "pct": 20.09,
+      "short": "Q3 tulemused ületasid ootusi: EPS 0,88 USD vs 0,59 oodatud",
+      "text": "Ameresco avaldas 9. novembril Q3 tulemused: kasum aktsia kohta 0,88 USD (Zacksi konsensus 0,59 USD; aasta tagasi 0,35 USD) ja käive kasvas 10%. Juhtkond märkis ühte oma tugevaimat uute projektide ja lepingute kvartalit. Aktsia tõus on täna kasvanud ligikaudu 20%-ni; seos aruandega on väga tõenäoline.",
       "sources": [
         {
-          "title": "Gubra Q3 2026 trading statement (Inderes)",
-          "url": "https://www.inderes.se/releases/trading-statement-q3-2026-significant-randd-pipeline-advancement-and-solid-cro-performance"
-        }
-      ],
-      "at": "2026-11-10T09:08:08Z"
-    },
-    {
-      "fmp": "2788.HK",
-      "sym": "2788-hk",
-      "name": "Chuangxin Industries Holdings Limited",
-      "pct": -6.28,
-      "short": "Langus, põhjust tänastest allikatest ei leidnud",
-      "text": "Täna avaldatud ettevõttespetsiifilist uudist ega usaldusväärset selgitust ei leidnud. Aktsia on olnud aasta madalate hindade lähedal (aasta madalaim 12,24 HKD), seega võib tegu olla üldise nõrkuse jätkumisega, kuid seda ei kinnita ükski allikas.",
-      "sources": [
-        {
-          "title": "Chuangxin 2788 noteering (etnet)",
-          "url": "https://www.etnet.com.hk/www/eng/stocks/realtime/quote_ci_brief.php?code=2788"
-        }
-      ],
-      "at": "2026-11-10T09:08:08Z"
-    },
-    {
-      "fmp": "ILM1.DE",
-      "sym": "ilm1-etr",
-      "name": "Medios AG",
-      "pct": -5.79,
-      "short": "Q3: prognoos jälle kitsamaks (EBITDA madalamasse otsa), kasum langes",
-      "text": "Medios avaldas täna Q3 tulemused: 9 kuu käive kasvas ligi 7% umbes 1,6 miljardi euroni, kuid korrigeeritud ärikasum langes üle 5% ehk 66,7 mln €-ni ja puhaskasum ligi kolmandiku võrra 12,8 mln €-ni. 2026. aasta korrigeeritud EBITDA oodatakse nüüd 88–92 mln € vahemiku madalas otsas (apteegitasu reegli muutus lisab Q4-le ca 1,2 mln € kulu); käibeprognoos kinnitati. Seos hinnalangusega on tugev, kuna uudis ilmus samal päeval.",
-      "sources": [
-        {
-          "title": "Medios-Aktie in Rot: Prognose erneut leicht gesenkt (finanzen.net)",
-          "url": "https://www.finanzen.net/nachricht/aktien/drittes-quartal-medios-aktie-in-rot-prognose-erneut-leicht-gesenkt-gewinn-nach-neun-monaten-ruecklaeufig-16052202"
+          "title": "Ameresco Q3 Earnings and Revenues Beat Estimates (Zacks)",
+          "url": "https://www.zacks.com/stock/news/3026839/ameresco-amrc-q3-earnings-and-revenues-beat-estimates"
         },
         {
-          "title": "Medios dämpft Prognose noch etwas ab (finanznachrichten.de)",
-          "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70082571-medios-daempft-prognose-noch-etwas-ab-gewinnrueckgang-nach-neun-monaten-016.htm"
+          "title": "Ameresco Q3 Earnings Call Highlights (MarketBeat)",
+          "url": "https://www.marketbeat.com/instant-alerts/transcript-ameresco-q3-earnings-call-highlights-2026-11-09/"
         }
       ],
-      "at": "2026-11-10T09:08:08Z"
-    },
-    {
-      "fmp": "2590.HK",
-      "sym": "2590-hk",
-      "name": "Beijing Geekplus Technology Co., Ltd. Class H",
-      "pct": 5.57,
-      "short": "Tõus, päevast põhjust allikatest ei leidnud",
-      "text": "Täna avaldatud ettevõttespetsiifilist uudist ei leidnud. Aktsia on aasta tipust (33,5 HKD) kaugel ning tõus võib olla tehniline põrge, kuid seda ei kinnita ükski allikas.",
-      "sources": [
-        {
-          "title": "Geekplus 2590 (Fintel)",
-          "url": "https://fintel.io/s/hk/2590"
-        }
-      ],
-      "at": "2026-11-10T09:08:08Z"
+      "at": "2026-11-10T20:07:32Z"
     },
     {
       "fmp": "ABDP.L",
@@ -92,25 +47,6 @@
         {
           "title": "AB Dynamics shares drop on weak outlook, margin pressure (Investing.com)",
           "url": "https://www.investing.com/news/stock-market-news/ab-dynamics-shares-drop-6-on-weak-outlook-margin-pressure-93CH-5014354"
-        }
-      ],
-      "at": "2026-11-10T17:08:15Z"
-    },
-    {
-      "fmp": "AMRC",
-      "sym": "amrc",
-      "name": "Ameresco, Inc. Class A",
-      "pct": 15.1,
-      "short": "Q3 tulemused ületasid ootusi: EPS 0,88 USD vs 0,59 oodatud",
-      "text": "Ameresco avaldas 9. novembril Q3 tulemused: kasum aktsia kohta 0,88 USD (Zacksi konsensus 0,59 USD; aasta tagasi 0,35 USD) ja käive kasvas 10%. Juhtkond märkis ühte oma tugevaimat uute projektide ja lepingute kvartalit. Seos tänase tõusuga on väga tõenäoline.",
-      "sources": [
-        {
-          "title": "Ameresco Q3 Earnings and Revenues Beat Estimates (Zacks)",
-          "url": "https://www.zacks.com/stock/news/3026839/ameresco-amrc-q3-earnings-and-revenues-beat-estimates"
-        },
-        {
-          "title": "Ameresco Q3 Earnings Call Highlights (MarketBeat)",
-          "url": "https://www.marketbeat.com/instant-alerts/transcript-ameresco-q3-earnings-call-highlights-2026-11-09/"
         }
       ],
       "at": "2026-11-10T17:08:15Z"
@@ -149,7 +85,7 @@
       "fmp": "ATEC",
       "sym": "atec",
       "name": "Alphatec Holdings, Inc.",
-      "pct": -5.89,
+      "pct": -7.01,
       "short": "Langus ilma päevauudiseta; 30. okt prognoosi langetamine pole seljatatud",
       "text": "Täna avaldatud uudist ei leidnud. Alphatec langes 30. oktoobril ligi 36-38% pärast Q3 käibe möödalaskmist ja aastaprognoosi langetamist; lisaks on ilmunud advokaadibüroode väärtpaberiuurimise teated. Tänane langus võib olla jätkuv surve, kuid see on oletus.",
       "sources": [
@@ -160,6 +96,108 @@
         {
           "title": "Alphatec securities investigation notice (PR Newswire)",
           "url": "https://www.prnewswire.com/news-releases/alphatec-holdings-atec-securities-investigation-notice---levi--korsinsky-302931075.html"
+        }
+      ],
+      "at": "2026-11-10T17:08:15Z"
+    },
+    {
+      "fmp": "SHLS",
+      "sym": "shls",
+      "name": "Shoals Technologies Group, Inc. Class A",
+      "pct": -6.78,
+      "short": "Langus ilma päevauudiseta; 4. nov teatati liitumisest Array'ga (aktsia vahetus)",
+      "text": "Täna avaldatud Shoalsi-spetsiifilist uudist ei leidnud. 4. novembril teatati Array Technologiesega aktsiate vahetuse teel liitumisest (1,6931 Array aktsiat iga Shoalsi aktsia kohta, Shoalsi aktsionärid saaksid ~65% ühendfirmast, sulgemine 2027. a I kvartalis). Kuna vahetussuhe on fikseeritud, järgib Shoalsi hind tõenäoliselt Array hinda, kuid tänase languse põhjust allikad otse ei kinnita.",
+      "sources": [
+        {
+          "title": "Array Technologies, Shoals Technologies agree to merge (PV Tech)",
+          "url": "https://www.pv-tech.org/array-shoals-technologies-agree-merger-creating-integrated-solar-infrastructure-platform/"
+        },
+        {
+          "title": "SHLS Stock Alert: Halper Sadeh LLC investigating (Business Wire)",
+          "url": "https://www.businesswire.com/news/home/20261109241631/en/SHLS-Stock-Alert-Halper-Sadeh-LLC-is-Investigating-Whether-Shoals-Technologies-Group-Inc.-is-Obtaining-a-Fair-Price-for-its-Shareholders/"
+        }
+      ],
+      "at": "2026-11-10T20:07:32Z"
+    },
+    {
+      "fmp": "IRTC",
+      "sym": "irtc",
+      "name": "iRhythm Holdings, Inc.",
+      "pct": -6.4,
+      "short": "Langus, tänast põhjust allikatest ei leidnud",
+      "text": "iRhythmi kohta ei leidnud ma 10. novembri kohta ühtegi uudist ega analüütikute sammu, mis languse selgitaks. Aktsia on ka 52 nädala madalaimas punktis, seega võib tegu olla jätkuva müügisurvega, kuid seda ei kinnita ükski allikas. Põhjus jääb selgusetuks.",
+      "sources": [
+        {
+          "title": "Why iRhythm (IRTC) shares are trading lower today (Barchart)",
+          "url": "https://www.barchart.com/story/news/3763343/why-irhythm-irtc-shares-are-trading-lower-today"
+        }
+      ],
+      "at": "2026-11-10T20:07:32Z"
+    },
+    {
+      "fmp": "2788.HK",
+      "sym": "2788-hk",
+      "name": "Chuangxin Industries Holdings Limited",
+      "pct": -6.28,
+      "short": "Langus, põhjust tänastest allikatest ei leidnud",
+      "text": "Täna avaldatud ettevõttespetsiifilist uudist ega usaldusväärset selgitust ei leidnud. Aktsia on olnud aasta madalate hindade lähedal (aasta madalaim 12,24 HKD), seega võib tegu olla üldise nõrkuse jätkumisega, kuid seda ei kinnita ükski allikas.",
+      "sources": [
+        {
+          "title": "Chuangxin 2788 noteering (etnet)",
+          "url": "https://www.etnet.com.hk/www/eng/stocks/realtime/quote_ci_brief.php?code=2788"
+        }
+      ],
+      "at": "2026-11-10T09:08:08Z"
+    },
+    {
+      "fmp": "FUTU",
+      "sym": "futu",
+      "name": "Futu Holdings Ltd. Sponsored ADR Class A",
+      "pct": -6.26,
+      "short": "Langus enne Q3 aruannet (19.11); analüütikud ootavad nõrka kvartalit",
+      "text": "Futu avaldab Q3 tulemused 19. novembril. Seeking Alphas 9. novembril ilmunud eelanalüüs ootab käibe- ja kasvu aeglustumist klientide lahkumise ja nõrgema kauplemismahu tõttu. Täna avaldatud konkreetset uudist ei leidnud, seega seos on oletuslik.",
+      "sources": [
+        {
+          "title": "Futu to report Q3 2026 results on November 19 (Finviz)",
+          "url": "https://finviz.com/news/416521/futu-to-report-third-quarter-2026-financial-results-on-november-19-2026"
+        },
+        {
+          "title": "Futu Holdings: Weighing Likely Q3 Underperformance (Seeking Alpha)",
+          "url": "https://seekingalpha.com/article/4965273-futu-holdings-weighing-likely-q3-underperformance-against-wealth-management-potential"
+        }
+      ],
+      "at": "2026-11-10T17:08:15Z"
+    },
+    {
+      "fmp": "SGI",
+      "sym": "sgi",
+      "name": "Somnigroup International Inc.",
+      "pct": -6.16,
+      "short": "Langus pärast 9. nov Q3 aruannet: tulemused alla ootuste, prognoos korrigeeritud",
+      "text": "Somnigroup teatas 9. novembril rekordkäibest (+11% 2,4 mld $), kuid korrigeeritud EPS 1,04 USD jäi alla konsensuse 1,06 ja juhtkonna sõnul jäid tulemused ootustest maha tehnoloogia sisseviimise tõttu Dreams-üksuses ning nõrga turu tõttu; aastaprognoosi korrigeeriti. Tänane langus on tõenäoliselt jätkuv reaktsioon sellele.",
+      "sources": [
+        {
+          "title": "Somnigroup Q3 Earnings Call Highlights (MarketBeat)",
+          "url": "https://www.marketbeat.com/instant-alerts/transcript-somnigroup-international-q3-earnings-call-highlights-2026-11-09/"
+        },
+        {
+          "title": "Somnigroup Lags Q3 Earnings and Revenue Estimates (Zacks)",
+          "url": "https://www.zacks.com/stock/news/3026092/somnigroup-international-sgi-lags-q3-earnings-and-revenue-estimates"
+        }
+      ],
+      "at": "2026-11-10T17:08:15Z"
+    },
+    {
+      "fmp": "NXT",
+      "sym": "nxt",
+      "name": "Nextpower Inc.",
+      "pct": -6.04,
+      "short": "Langus ilma päevauudiseta; 28. okt tulemused olid tugevad",
+      "text": "Täna avaldatud uudist ei leidnud. Nextpower avaldas Q2 tulemused 28. oktoobril (tellimuste portfell üle 6 mld $) ja Seeking Alpha analüüs 9. novembril rõhutab marginaalisurvet. Seos tänase languse ja nende vahel on ebaselge; võimalik on sektori liikumine, kuid allikat selle kohta ei leidnud.",
+      "sources": [
+        {
+          "title": "Nextpower: Its Biggest Growth Opportunity Now Lies Outside The Trackers (Seeking Alpha)",
+          "url": "https://seekingalpha.com/article/4964975-nextpower-stock-biggest-growth-opportunity-now-lies-outside-trackers"
         }
       ],
       "at": "2026-11-10T17:08:15Z"
@@ -180,23 +218,23 @@
       "at": "2026-11-10T17:08:15Z"
     },
     {
-      "fmp": "FUTU",
-      "sym": "futu",
-      "name": "Futu Holdings Ltd. Sponsored ADR Class A",
-      "pct": -5.77,
-      "short": "Langus enne Q3 aruannet (19.11); analüütikud ootavad nõrka kvartalit",
-      "text": "Futu avaldab Q3 tulemused 19. novembril. Seeking Alphas 9. novembril ilmunud eelanalüüs ootab käibe- ja kasvu aeglustumist klientide lahkumise ja nõrgema kauplemismahu tõttu. Täna avaldatud konkreetset uudist ei leidnud, seega seos on oletuslik.",
+      "fmp": "ILM1.DE",
+      "sym": "ilm1-etr",
+      "name": "Medios AG",
+      "pct": -5.79,
+      "short": "Q3: prognoos jälle kitsamaks (EBITDA madalamasse otsa), kasum langes",
+      "text": "Medios avaldas täna Q3 tulemused: 9 kuu käive kasvas ligi 7% umbes 1,6 miljardi euroni, kuid korrigeeritud ärikasum langes üle 5% ehk 66,7 mln €-ni ja puhaskasum ligi kolmandiku võrra 12,8 mln €-ni. 2026. aasta korrigeeritud EBITDA oodatakse nüüd 88–92 mln € vahemiku madalas otsas (apteegitasu reegli muutus lisab Q4-le ca 1,2 mln € kulu); käibeprognoos kinnitati. Seos hinnalangusega on tugev, kuna uudis ilmus samal päeval.",
       "sources": [
         {
-          "title": "Futu to report Q3 2026 results on November 19 (Finviz)",
-          "url": "https://finviz.com/news/416521/futu-to-report-third-quarter-2026-financial-results-on-november-19-2026"
+          "title": "Medios-Aktie in Rot: Prognose erneut leicht gesenkt (finanzen.net)",
+          "url": "https://www.finanzen.net/nachricht/aktien/drittes-quartal-medios-aktie-in-rot-prognose-erneut-leicht-gesenkt-gewinn-nach-neun-monaten-ruecklaeufig-16052202"
         },
         {
-          "title": "Futu Holdings: Weighing Likely Q3 Underperformance (Seeking Alpha)",
-          "url": "https://seekingalpha.com/article/4965273-futu-holdings-weighing-likely-q3-underperformance-against-wealth-management-potential"
+          "title": "Medios dämpft Prognose noch etwas ab (finanznachrichten.de)",
+          "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70082571-medios-daempft-prognose-noch-etwas-ab-gewinnrueckgang-nach-neun-monaten-016.htm"
         }
       ],
-      "at": "2026-11-10T17:08:15Z"
+      "at": "2026-11-10T09:08:08Z"
     },
     {
       "fmp": "MTZ",
@@ -218,38 +256,34 @@
       "at": "2026-11-10T17:08:15Z"
     },
     {
-      "fmp": "NXT",
-      "sym": "nxt",
-      "name": "Nextpower Inc.",
-      "pct": -5.61,
-      "short": "Langus ilma päevauudiseta; 28. okt tulemused olid tugevad",
-      "text": "Täna avaldatud uudist ei leidnud. Nextpower avaldas Q2 tulemused 28. oktoobril (tellimuste portfell üle 6 mld $) ja Seeking Alpha analüüs 9. novembril rõhutab marginaalisurvet. Seos tänase languse ja nende vahel on ebaselge; võimalik on sektori liikumine, kuid allikat selle kohta ei leidnud.",
+      "fmp": "2590.HK",
+      "sym": "2590-hk",
+      "name": "Beijing Geekplus Technology Co., Ltd. Class H",
+      "pct": 5.57,
+      "short": "Tõus, päevast põhjust allikatest ei leidnud",
+      "text": "Täna avaldatud ettevõttespetsiifilist uudist ei leidnud. Aktsia on aasta tipust (33,5 HKD) kaugel ning tõus võib olla tehniline põrge, kuid seda ei kinnita ükski allikas.",
       "sources": [
         {
-          "title": "Nextpower: Its Biggest Growth Opportunity Now Lies Outside The Trackers (Seeking Alpha)",
-          "url": "https://seekingalpha.com/article/4964975-nextpower-stock-biggest-growth-opportunity-now-lies-outside-trackers"
+          "title": "Geekplus 2590 (Fintel)",
+          "url": "https://fintel.io/s/hk/2590"
         }
       ],
-      "at": "2026-11-10T17:08:15Z"
+      "at": "2026-11-10T09:08:08Z"
     },
     {
-      "fmp": "SGI",
-      "sym": "sgi",
-      "name": "Somnigroup International Inc.",
-      "pct": -5.4,
-      "short": "Langus pärast 9. nov Q3 aruannet: tulemused alla ootuste, prognoos korrigeeritud",
-      "text": "Somnigroup teatas 9. novembril rekordkäibest (+11% 2,4 mld $), kuid korrigeeritud EPS 1,04 USD jäi alla konsensuse 1,06 ja juhtkonna sõnul jäid tulemused ootustest maha tehnoloogia sisseviimise tõttu Dreams-üksuses ning nõrga turu tõttu; aastaprognoosi korrigeeriti. Tänane langus on tõenäoliselt jätkuv reaktsioon sellele.",
+      "fmp": "GUBRA.CO",
+      "sym": "gubra-dk",
+      "name": "Gubra A/S",
+      "pct": -5.02,
+      "short": "Langus ilma päevauudiseta; Q3 avaldati 6. nov, CRO prognoos kitsendati",
+      "text": "Täna avaldatud uudist ei leidnud. Gubra Q3 kaubandusavaldus tuli 6. novembril: tulu 447,7 mln DKK tänu AbbVie (50 mln USD) ja Boehringer Ingelheimi (10 mln EUR) vahe-etappide maksetele, kuid CRO tulu- ja marginaaliprognoosi ülemist otsa langetati (kasv 2–6%, marginaal 10–13%) ja tulu on tükiline. Võimalik, et langus on viivitusega reaktsioon sellele, kuid see on oletus, mitte allikaga kinnitatud.",
       "sources": [
         {
-          "title": "Somnigroup Q3 Earnings Call Highlights (MarketBeat)",
-          "url": "https://www.marketbeat.com/instant-alerts/transcript-somnigroup-international-q3-earnings-call-highlights-2026-11-09/"
-        },
-        {
-          "title": "Somnigroup Lags Q3 Earnings and Revenue Estimates (Zacks)",
-          "url": "https://www.zacks.com/stock/news/3026092/somnigroup-international-sgi-lags-q3-earnings-and-revenue-estimates"
+          "title": "Gubra Q3 2026 trading statement (Inderes)",
+          "url": "https://www.inderes.se/releases/trading-statement-q3-2026-significant-randd-pipeline-advancement-and-solid-cro-performance"
         }
       ],
-      "at": "2026-11-10T17:08:15Z"
+      "at": "2026-11-10T09:08:08Z"
     }
   ]
 }
