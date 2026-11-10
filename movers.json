@@ -1,428 +1,100 @@
 {
-  "date": "2026-11-09",
-  "updated": "2026-11-09T20:07:51Z",
+  "date": "2026-11-10",
+  "updated": "2026-11-10T09:08:08Z",
   "items": [
-    {
-      "fmp": "CICN.SW",
-      "sym": "cicn-ch",
-      "name": "Cicor Technologies",
-      "pct": 10.12,
-      "short": "Kaks mitmeaastast kaitselepingut, ~20 mln CHF müük 2027",
-      "text": "Cicor teatas 9. novembril kahest suuremast mitmeaastasest kaitseprogrammist, mis peaksid tooma 2027. aastal ligi 20 miljonit CHF käivet; tootmine toimub Prantsusmaa ja Suurbritannia tehastes. Aktsia tõusis päeva jooksul kuni ca 7,4%. Seos hinnaliikumisega on tugev, sest uudis ilmus samal päeval.",
-      "sources": [
-        {
-          "title": "Cicor-Aktie legt zu: Zwei mehrjährige Rüstungsaufträge",
-          "url": "https://www.finanzen.ch/nachrichten/aktien/cicor-aktie-legt-zu-zwei-mehrjahrige-ruestungsauftrage-1036735860"
-        },
-        {
-          "title": "Cicor erhält Zuschlag für zwei bedeutende Verteidigungsprogramme",
-          "url": "https://www.onvista.de/news/2026/11-09-cicor-erhaelt-zuschlag-fuer-zwei-bedeutende-verteidigungsprogramme-0-37-26573968"
-        }
-      ],
-      "at": "2026-11-09T09:07:45Z"
-    },
-    {
-      "fmp": "ENVIP.OL",
-      "sym": "envi-ams",
-      "name": "Envipco Holding N.V.",
-      "pct": 5.53,
-      "short": "Ettevõttespetsiifilist põhjust ei leitud",
-      "text": "Täna avaldatud allikatest ei leidnud ma Envipco tõusule ettevõttespetsiifilist põhjust (tulemused, prognoos, tehing ega analüütikute otsus). Tõusu põhjus jääb kinnitamata; kauplemismaht oli väike ja liikumine võib olla tehniline.",
-      "sources": [
-        {
-          "title": "Envipco Holding (ENVIP) aksje – Nordnet",
-          "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl"
-        }
-      ],
-      "at": "2026-11-09T09:07:45Z"
-    },
-    {
-      "fmp": "UCG.MI",
-      "sym": "UCG-IT",
-      "name": "UniCredit S.p.A.",
-      "pct": 6.28,
-      "short": "Rekordtulemused üheksa kuuga ja Itaalia pankade rallile järgnev tõus",
-      "text": "Itaalia pangad tõusid 9. novembril; Soldionline'i järgi seostati UniCrediti ca 5% tõusu rekordiliste üheksa kuu tulemustega. Samal päeval hüppas Banco BPM umbes 10% pärast Crédit Agricole Italiaga ühinemise ettepanekut, mis tõstis kogu sektori meeleolu. Seos on üsna kindel, kuid tulemuste ja sektoriuudise osakaalu pole võimalik täpselt eraldada.",
-      "sources": [
-        {
-          "title": "Banco BPM vola +9,6% a Milano: cosa c'è dietro il rally delle banche",
-          "url": "https://www.soldionline.it/notizie/azioni-italia/banco-bpm-vola-96-a-milano-cosa-ce-dietro-il-rally-delle-banche"
-        },
-        {
-          "title": "Borse europee deboli, Milano in rialzo trainata da Banco BPM e Unicredit",
-          "url": "https://www.teleborsa.it/News/2026/11/09/borse-europee-deboli-milano-in-rialzo-trainata-dai-balzi-di-banco-bpm-e-unicredit-43.html"
-        }
-      ],
-      "at": "2026-11-09T09:07:45Z"
-    },
-    {
-      "fmp": "VLA.PA",
-      "sym": "vla-par",
-      "name": "Valneva SE",
-      "pct": 5.08,
-      "short": "Põhjust ei leitud",
-      "text": "Valneva tõusu kohta ei leidnud ma täna avaldatud ettevõtteuudist ega analüütikute otsust, mida saaks hinnaliikumisega siduda. Põhjus on kinnitamata; liikumine võib olla bioteaduse sektori üldine või tehniline.",
-      "sources": [
-        {
-          "title": "Valneva – Wikipedia",
-          "url": "https://en.wikipedia.org/wiki/Valneva_SE"
-        }
-      ],
-      "at": "2026-11-09T09:07:45Z"
-    },
-    {
-      "fmp": "HLLY",
-      "sym": "hlly",
-      "name": "Holley Inc.",
-      "pct": 24.05,
-      "short": "Q3 tulemused 5. nov; tänase hüppe selget põhjust ei leitud",
-      "text": "Holley teatas 5. novembril 2026 kolmanda kvartali käibekasvust ja naasmisest kasumisse, kuid kitsendas aastaprognoosi ettevaatliku tarbijakeskkonna ja toote turuletuleku viivituste tõttu. Tänase +24% liikumise kohta ei leidnud ma uut ettevõttespetsiifilist uudist, seega seos tulemustele on vaid oletuslik.",
-      "sources": [
-        {
-          "title": "Holley Q3 Earnings Call Highlights (MarketBeat)",
-          "url": "https://www.marketbeat.com/instant-alerts/transcript-holley-q3-earnings-call-highlights-2026-11-07/"
-        }
-      ],
-      "at": "2026-11-09T20:07:51Z"
-    },
-    {
-      "fmp": "FERG",
-      "sym": "ferg-us",
-      "name": "Ferguson Enterprises Inc.",
-      "pct": 13.03,
-      "short": "Tugev Q3: mitteeluhoonete müük +15%, eluhoonete +6%",
-      "text": "Ferguson avaldas täna hommikul kolmanda kvartali tulemused: mitteeluhoonete müük kasvas 15% ja eluhoonete oma 6%, lisaks tehti sel aastal üksteist ülevõtmist (aastakäive ca 1,5 mld USD). Seos hinnaliikumisega on tugev, sest uudis ilmus samal päeval.",
-      "sources": [
-        {
-          "title": "Ferguson Reports Third Quarter (Business Wire)",
-          "url": "https://www.businesswire.com/news/home/20261109708536/en/Ferguson-Reports-Third-Quarter-Ended-September-30-2026/"
-        }
-      ],
-      "at": "2026-11-09T17:07:59Z"
-    },
-    {
-      "fmp": "SHLS",
-      "sym": "shls",
-      "name": "Shoals Technologies Group",
-      "pct": -11.01,
-      "short": "Langus ilma tänase uudiseta; hiljutine Q3 ja Arrayga ühinemine",
-      "text": "Tänaseks langusele ei leidnud ma kinnitatud põhjust. Hiljuti avaldas Shoals Q3 tulemused (müük +44%, marginaalid surve all) ja teate ühinemisest ARRAY Technologiesiga, mis võib hinda mõjutada, kuid seos tänase liikumisega on kinnitamata.",
-      "sources": [
-        {
-          "title": "Shoals' Q3 revenue up 44%, merger with ARRAY (Mercom)",
-          "url": "https://mercomindia.com/shoals-q3-revenue-up-44-announces-merger-with-array-technologies"
-        }
-      ],
-      "at": "2026-11-09T17:07:59Z"
-    },
     {
       "fmp": "ADOC.PA",
       "sym": "adoc-par",
       "name": "Adocia SA",
-      "pct": 10.47,
-      "short": "Tänast põhjust ei leidnud",
-      "text": "Tänaseid ettevõttespetsiifilisi uudiseid ei leidnud, seega põhjus jääb selgusetuks. Adocia on väike biotehnoloogiaettevõte, kus suured päevaliikumised on tavalised.",
+      "pct": 8.49,
+      "short": "Tõus ilma päevauudiseta; Q3 aruanne ja rahastus olid juba varem",
+      "text": "Täna avaldatud ettevõttespetsiifilist uudist ei leidnud. Adocia avaldas Q3 aruande 29. oktoobril: sularaha 8,4 mln €, oktoobris kuulutati välja 7 mln € rahastus, mis pikendab tegevusraha 2028. aasta I kvartalini, ning Hiina partner Tonghua Dongbao valmistab ette BioChaperone Lispro müügiloa taotlust. Seos tänase liikumisega on ebaselge, väikese kapitalisatsiooniga biotehnoloogia aktsia kõigub sageli ilma uudiseta.",
       "sources": [
         {
-          "title": "Adocia (Investing.com)",
-          "url": "https://fr.investing.com/equities/adocia-sas"
+          "title": "Adocia Q3 2026 tulemused (Zonebourse)",
+          "url": "https://www.zonebourse.com/actualite-bourse/adocia-publie-ses-resultats-financiers-du-troisieme-trimestre-2026-et-fait-le-point-sur-ses-activite-ce785fdadb80f427"
         }
       ],
-      "at": "2026-11-09T17:07:59Z"
+      "at": "2026-11-10T09:08:08Z"
     },
     {
-      "fmp": "AVAV",
-      "sym": "avav",
-      "name": "AeroVironment, Inc.",
-      "pct": 13.53,
-      "short": "Uus ~315 mln USD tellimus 940 mln USD IDIQ-lepingu raames",
-      "text": "AeroVironment teatas 9. novembril mitmeaastasest IDIQ-lepingust USA kliendiga, mille lagi on 940 mln USD ja esialgne tellimus u 315 mln USD. Droonide ja kaitse aktsiad tõusid täna laiemalt, ootus on ka lähenevatele tulemustele. Seos hinnaliikumisega on tugev, sest uudis ilmus samal hommikul.",
+      "fmp": "GUBRA.CO",
+      "sym": "gubra-dk",
+      "name": "Gubra A/S",
+      "pct": -7.28,
+      "short": "Langus ilma päevauudiseta; Q3 avaldati 6. nov, CRO prognoos kitsendati",
+      "text": "Täna avaldatud uudist ei leidnud. Gubra Q3 kaubandusavaldus tuli 6. novembril: tulu 447,7 mln DKK tänu AbbVie (50 mln USD) ja Boehringer Ingelheimi (10 mln EUR) vahe-etappide maksetele, kuid CRO tulu- ja marginaaliprognoosi ülemist otsa langetati (kasv 2–6%, marginaal 10–13%) ja tulu on tükiline. Võimalik, et langus on viivitusega reaktsioon sellele, kuid see on oletus, mitte allikaga kinnitatud.",
       "sources": [
         {
-          "title": "AV Secures ~$315 Million Award (Business Wire)",
-          "url": "https://www.businesswire.com/news/home/20261109634954/en/AV-Secures-Approximately-315-Million-Award-Under-940-Million-IDIQ-Contract/"
+          "title": "Gubra Q3 2026 trading statement (Inderes)",
+          "url": "https://www.inderes.se/releases/trading-statement-q3-2026-significant-randd-pipeline-advancement-and-solid-cro-performance"
+        }
+      ],
+      "at": "2026-11-10T09:08:08Z"
+    },
+    {
+      "fmp": "2788.HK",
+      "sym": "2788-hk",
+      "name": "Chuangxin Industries Holdings Limited",
+      "pct": -6.28,
+      "short": "Langus, põhjust tänastest allikatest ei leidnud",
+      "text": "Täna avaldatud ettevõttespetsiifilist uudist ega usaldusväärset selgitust ei leidnud. Aktsia on olnud aasta madalate hindade lähedal (aasta madalaim 12,24 HKD), seega võib tegu olla üldise nõrkuse jätkumisega, kuid seda ei kinnita ükski allikas.",
+      "sources": [
+        {
+          "title": "Chuangxin 2788 noteering (etnet)",
+          "url": "https://www.etnet.com.hk/www/eng/stocks/realtime/quote_ci_brief.php?code=2788"
+        }
+      ],
+      "at": "2026-11-10T09:08:08Z"
+    },
+    {
+      "fmp": "ILM1.DE",
+      "sym": "ilm1-etr",
+      "name": "Medios AG",
+      "pct": -5.79,
+      "short": "Q3: prognoos jälle kitsamaks (EBITDA madalamasse otsa), kasum langes",
+      "text": "Medios avaldas täna Q3 tulemused: 9 kuu käive kasvas ligi 7% umbes 1,6 miljardi euroni, kuid korrigeeritud ärikasum langes üle 5% ehk 66,7 mln €-ni ja puhaskasum ligi kolmandiku võrra 12,8 mln €-ni. 2026. aasta korrigeeritud EBITDA oodatakse nüüd 88–92 mln € vahemiku madalas otsas (apteegitasu reegli muutus lisab Q4-le ca 1,2 mln € kulu); käibeprognoos kinnitati. Seos hinnalangusega on tugev, kuna uudis ilmus samal päeval.",
+      "sources": [
+        {
+          "title": "Medios-Aktie in Rot: Prognose erneut leicht gesenkt (finanzen.net)",
+          "url": "https://www.finanzen.net/nachricht/aktien/drittes-quartal-medios-aktie-in-rot-prognose-erneut-leicht-gesenkt-gewinn-nach-neun-monaten-ruecklaeufig-16052202"
         },
         {
-          "title": "Ondas rallies, AeroVironment jumps 10% (24/7 Wall Street)",
-          "url": "https://247wallst.com/investing/2026/11/09/ondas-rallies-13-ahead-of-earnings-aerovironment-jumps-10-on-315-million-award-red-cat-surges-10/"
+          "title": "Medios dämpft Prognose noch etwas ab (finanznachrichten.de)",
+          "url": "https://www.finanznachrichten.de/nachrichten-2026-11/70082571-medios-daempft-prognose-noch-etwas-ab-gewinnrueckgang-nach-neun-monaten-016.htm"
         }
       ],
-      "at": "2026-11-09T20:07:51Z"
+      "at": "2026-11-10T09:08:08Z"
     },
     {
-      "fmp": "VSEC",
-      "sym": "vsec",
-      "name": "VSE Corporation",
-      "pct": 11.83,
-      "short": "Põhjus selgusetu; Q3 tulemused 5. novembril",
-      "text": "VSE avaldas Q3 tulemused 5. novembril, kuid tänase tõusu kohta uudist ei leidnud. Võimalik, et liikumine järgib laiemat turutõusu või tulemustejärgset rallit, kuid seda allikad ei kinnita.",
+      "fmp": "2590.HK",
+      "sym": "2590-hk",
+      "name": "Beijing Geekplus Technology Co., Ltd. Class H",
+      "pct": 5.57,
+      "short": "Tõus, päevast põhjust allikatest ei leidnud",
+      "text": "Täna avaldatud ettevõttespetsiifilist uudist ei leidnud. Aktsia on aasta tipust (33,5 HKD) kaugel ning tõus võib olla tehniline põrge, kuid seda ei kinnita ükski allikas.",
       "sources": [
         {
-          "title": "VSE Q3 2026 earnings call transcript (Seeking Alpha)",
-          "url": "https://seekingalpha.com/article/4963480-vse-corporation-vsec-q3-2026-earnings-call-transcript"
+          "title": "Geekplus 2590 (Fintel)",
+          "url": "https://fintel.io/s/hk/2590"
         }
       ],
-      "at": "2026-11-09T17:07:59Z"
+      "at": "2026-11-10T09:08:08Z"
     },
     {
-      "fmp": "ECG",
-      "sym": "ecg",
-      "name": "Everus Construction Group",
-      "pct": 9.61,
-      "short": "Tänast põhjust ei leidnud; hiljuti Q3 ja prognoosi tõstmine",
-      "text": "Everus avaldas hiljuti Q3 tulemused ja tõstis 2026. aasta prognoosi, kuid tänase tõusu kohta eraldi uudist ei leidnud. Seos on võimalik, kuid kinnitamata.",
+      "fmp": "ABDP.L",
+      "sym": "abdp-lon",
+      "name": "AB Dynamics plc",
+      "pct": -5.0,
+      "short": "Langus, päevauudist ei leidnud",
+      "text": "Täna avaldatud ettevõttespetsiifilist uudist ei leidnud; viimased leitud ettevõtteteated on varasemad (jaanuari AGM-i uuendus: FY26 kasum ootuspärane, 40/60 poolaastate jaotus). Langus jätkab pikaajalist allatrendi (hind ca 755 p vs aasta tipp 1350 p), põhjus jääb selgusetuks.",
       "sources": [
         {
-          "title": "Everus reports Q3 2026, raises guidance (Finviz)",
-          "url": "https://finviz.com/news/414928/everus-reports-third-quarter-2026-results-raises-2026-guidance"
+          "title": "AB Dynamics AGM trading update (LSE)",
+          "url": "https://www.lse.co.uk/rns/ABDP/agm-trading-update-di7fsco0vgl44fu.html"
         }
       ],
-      "at": "2026-11-09T17:07:59Z"
-    },
-    {
-      "fmp": "AVGO",
-      "sym": "avgo",
-      "name": "Broadcom Inc.",
-      "pct": 9.23,
-      "short": "Poolinvesteeringute põrge pärast eelmise nädala sügavat langust",
-      "text": "Invezzi järgi naasid investorid esmaspäeval pooljuhtidesse pärast eelmise nädala järsku müüki, mille vallandas hirm, et demokraatide kontrolli all olev Kongress võib andmekeskuste laienemist piirata; turud tõusid laiemalt ja nafta hind langes. Broadcomil endal tänast uut ettevõttespetsiifilist uudist polnud (Q4 tulemused 9. detsembril).",
-      "sources": [
-        {
-          "title": "Why is Broadcom stock surging 9% on Monday? (Invezz)",
-          "url": "https://invezz.com/news/2026/11/09/why-is-broadcom-avgo-stock-surging-9-on-monday/"
-        },
-        {
-          "title": "Broadcom to announce Q4 results Dec 9 (PRNewswire)",
-          "url": "https://www.prnewswire.com/news-releases/broadcom-inc-to-announce-fourth-quarter-and-fiscal-year-2026-financial-results-on-wednesday-december-9-2026-302932749.html"
-        }
-      ],
-      "at": "2026-11-09T17:07:59Z"
-    },
-    {
-      "fmp": "CE",
-      "sym": "ce",
-      "name": "Celanese Corporation",
-      "pct": 6.58,
-      "short": "Tänast põhjust ei leidnud; Q3 tulemused ja hinnatõusud",
-      "text": "Celanese avaldas hiljuti Q3 tulemused (müük +6%, vaba rahavoog 461 mln USD) ja teatas hinnatõusudest Aasias. Tänase tõusu kohta konkreetset uudist ei leidnud.",
-      "sources": [
-        {
-          "title": "Celanese Q3 earnings (Panabee)",
-          "url": "https://www.panabee.com/news/celanese-earnings-q3-2026-2026-11-02"
-        }
-      ],
-      "at": "2026-11-09T17:07:59Z"
-    },
-    {
-      "fmp": "ATMU",
-      "sym": "atmu",
-      "name": "Atmus Filtration Technologies",
-      "pct": 9.32,
-      "short": "Tänast põhjust ei leidnud; hiljuti Q3 ületas ootusi",
-      "text": "Atmus ületas hiljuti Q3 ootusi, tõstis aastaprognoosi ja kahekordistas tagasiostuprogrammi, kuid tänase tõusu kohta eraldi uudist ei leidnud.",
-      "sources": [
-        {
-          "title": "Atmus beats and raises again (Finviz)",
-          "url": "https://finviz.com/news/418533/atmus-beats-and-raises-again-but-flat-margins-and-a-buyback-pivot-define-a-quarter-driven-more-by-koch-filter-and-volume-than-by-pricing"
-        }
-      ],
-      "at": "2026-11-09T17:07:59Z"
-    },
-    {
-      "fmp": "AIR",
-      "sym": "air",
-      "name": "AAR Corp.",
-      "pct": 7.4,
-      "short": "Tänast põhjust ei leidnud",
-      "text": "Tänaseid ettevõttespetsiifilisi uudiseid ei leidnud, seega põhjus jääb selgusetuks.",
-      "sources": [
-        {
-          "title": "AAR press releases",
-          "url": "https://www.aarcorp.com/en/newsroom/press-releases/2026/aar-reports-second-quarter-fiscal-year-2026-results/"
-        }
-      ],
-      "at": "2026-11-09T17:07:59Z"
-    },
-    {
-      "fmp": "RVLV",
-      "sym": "rvlv",
-      "name": "Revolve Group",
-      "pct": 9.47,
-      "short": "Tänast põhjust ei leidnud; Q3 müük +20% 4. novembril",
-      "text": "Revolve avaldas 4. novembri paiku Q3 tulemused (müük ca +20%, 356 mln USD), kuid kulud ületasid müügikasvu. Tänase tõusu kohta uudist ei leidnud.",
-      "sources": [
-        {
-          "title": "Revolve reports 20 percent net sales increase (FashionUnited)",
-          "url": "https://fashionunited.com/news/business/revolve-group-reports-20-percent-net-sales-increase-in-third-quarter/2026110475539"
-        }
-      ],
-      "at": "2026-11-09T17:07:59Z"
-    },
-    {
-      "fmp": "IPGP",
-      "sym": "ipgp",
-      "name": "IPG Photonics Corporation",
-      "pct": 8.77,
-      "short": "Täna uut põhjust ei leitud; Q3 tulemused avaldati hiljuti",
-      "text": "Täna avaldatud allikatest ei leidnud ma IPG Photonicsi tõusule ettevõttespetsiifilist põhjust. Ettevõte avaldas hiljuti 2026. a kolmanda kvartali tulemused, mis ületasid käibeootusi, kuid seos tänase liikumisega on kinnitamata.",
-      "sources": [
-        {
-          "title": "IPG Photonics Q3 2026 results (Finviz)",
-          "url": "https://finviz.com/news/414198/ipg-photonics-announces-third-quarter-2026-financial-results"
-        }
-      ],
-      "at": "2026-11-09T20:07:51Z"
-    },
-    {
-      "fmp": "MTZ",
-      "sym": "mtz",
-      "name": "MasTec, Inc.",
-      "pct": 8.32,
-      "short": "Täna uut põhjust ei leitud",
-      "text": "MasTecu kohta oli täna vaid teade Baird'i tööstuskonverentsil esinemisest 10. novembril. Tõusule ei leidnud ma ettevõttespetsiifilist põhjust; põhjus jääb kinnitamata.",
-      "sources": [
-        {
-          "title": "MasTec to present at Baird conference (Business Wire)",
-          "url": "https://www.businesswire.com/news/home/20261106200632/en/MasTec-Management-to-Present-at-the-Baird-2026-Global-Industrial-Conference/"
-        }
-      ],
-      "at": "2026-11-09T20:07:51Z"
-    },
-    {
-      "fmp": "VCEL",
-      "sym": "vcel",
-      "name": "Vericel Corporation",
-      "pct": 8.17,
-      "short": "Jätkuv tõus pärast Q3 ja tõstetud prognoosi",
-      "text": "Vericel tõstis 5.–6. novembril pärast kvartalikäibe 26% kasvu aastaprognoosi ja aktsia jõudis 52 nädala tipule. Tänane tõus näib olevat selle jätk; täna ilmunud uut uudist ei leidnud.",
-      "sources": [
-        {
-          "title": "Vericel Q3 Earnings Call Highlights (MarketBeat)",
-          "url": "https://www.marketbeat.com/instant-alerts/transcript-vericel-q3-earnings-call-highlights-2026-11-06/"
-        },
-        {
-          "title": "Vericel hits new 12-month high (Defense World)",
-          "url": "https://www.defenseworld.net/2026/11/06/vericel-nasdaqvcel-hits-new-12-month-high-on-strong-earnings.html"
-        }
-      ],
-      "at": "2026-11-09T20:07:51Z"
-    },
-    {
-      "fmp": "KTB",
-      "sym": "ktb",
-      "name": "Kontoor Brands, Inc.",
-      "pct": 7.86,
-      "short": "Jätk pärast Q3: tõstetud prognoos, 450 mln USD tagasiost",
-      "text": "Kontoor Brands tõstis 5. novembril 2026. a kasumiprognoosi, müüs Lee äri ja kavandab 4. kvartalis 450 mln USD aktsiate tagasiostu; 2027. a korrigeeritud EPS prognoos on vähemalt 6,60 USD. Täna uut uudist ei leidnud, tõus on tõenäoliselt tulemuste järelreaktsioon.",
-      "sources": [
-        {
-          "title": "Kontoor Brands Q3 Earnings Call Highlights (MarketBeat)",
-          "url": "https://www.marketbeat.com/instant-alerts/transcript-kontoor-brands-q3-earnings-call-highlights-2026-11-07/"
-        },
-        {
-          "title": "Kontoor raises 2026 outlook (Finviz)",
-          "url": "https://finviz.com/news/417143/kontoor-brands-raises-2026-earnings-outlook-after-q3-profit-exceeds-estimates"
-        }
-      ],
-      "at": "2026-11-09T20:07:51Z"
-    },
-    {
-      "fmp": "VITL",
-      "sym": "vitl",
-      "name": "Vital Farms, Inc.",
-      "pct": 7.29,
-      "short": "Ettevõttespetsiifilist põhjust ei leitud",
-      "text": "Vital Farms avaldas Q3 tulemused 3. novembril; täna ei leidnud ma tõusule uut uudist ega analüütikute otsust. Põhjus jääb kinnitamata.",
-      "sources": [
-        {
-          "title": "Vital Farms Q3 Earnings Call Highlights (MarketBeat)",
-          "url": "https://www.marketbeat.com/instant-alerts/transcript-vital-farms-q3-earnings-call-highlights-2026-11-03/"
-        }
-      ],
-      "at": "2026-11-09T20:07:51Z"
-    },
-    {
-      "fmp": "VST",
-      "sym": "vst",
-      "name": "Vistra Corp.",
-      "pct": 7.24,
-      "short": "Tagasipõrge pärast valimislangust; Q3 rekord, 1,5 mld USD tagasiost",
-      "text": "Vistra langes 4. novembril ligi 14% pärast demokraatide võite Texase ja Ohio kuberneerivalimistel, mis tekitasid hirmu andmekeskuste turule. 6. novembril teatas ettevõte rekordilisest Q3 korrigeeritud kasumist, tõstis prognoosi ja kiitis heaks 1,5 mld USD tagasiostu. Tänane tõus on tõenäoliselt tagasipõrge, kuid tänast otsest käivitajat ei leidnud.",
-      "sources": [
-        {
-          "title": "Vistra: Q3 confirms the midterm fear is the opportunity (Seeking Alpha)",
-          "url": "https://seekingalpha.com/article/4964555-vistra-q3-confirms-the-midterm-fear-is-the-opportunity"
-        },
-        {
-          "title": "Stock buyback program announced by Vistra (Defense World)",
-          "url": "https://www.defenseworld.net/2026/11/07/stock-buyback-program-announced-by-vistra-nysevst-board.html"
-        }
-      ],
-      "at": "2026-11-09T20:07:51Z"
-    },
-    {
-      "fmp": "EYE",
-      "sym": "eye",
-      "name": "National Vision Holdings, Inc.",
-      "pct": 7.18,
-      "short": "Täna uut põhjust ei leitud; Q3 tulemused ees",
-      "text": "Täna ilmus National Visioni kohta vaid Q3 tulemuste eelvaade, mis viitab lähenevale aruandele. Tõusule ei leidnud ma kinnitatud põhjust.",
-      "sources": [
-        {
-          "title": "Key metrics ahead of National Vision Q3 earnings (Zacks)",
-          "url": "https://www.zacks.com/stock/news/3026288/wall-street-s-insights-into-key-metrics-ahead-of-national-vision-eye-q3-earnings"
-        }
-      ],
-      "at": "2026-11-09T20:07:51Z"
-    },
-    {
-      "fmp": "PRMB",
-      "sym": "prmb",
-      "name": "Primo Brands Corporation Class A",
-      "pct": 7.1,
-      "short": "Jätk pärast Q3 ületamist ja 300 mln USD tagasiostu",
-      "text": "Primo Brands ületas 5. novembril Q3 ootused (premium-vee müük +24%), kitsendas 2026. a prognoosi ja kuulutas välja 300 mln USD tagasiostu. Täna uut uudist ei leidnud, tõus võib olla järelreaktsioon.",
-      "sources": [
-        {
-          "title": "Primo Brands Q3 earnings beat (Zacks)",
-          "url": "https://www.zacks.com/stock/news/3025706/primo-brands-q3-earnings-beat-on-premium-water-growth"
-        },
-        {
-          "title": "What Primo Brands said on its Q3 call (MarketBeat)",
-          "url": "https://www.marketbeat.com/instant-alerts/transcript-what-primo-brands-prmb-said-on-its-q3-earnings-call-2026-11-08/"
-        }
-      ],
-      "at": "2026-11-09T20:07:51Z"
-    },
-    {
-      "fmp": "GMED",
-      "sym": "gmed",
-      "name": "Globus Medical Inc Class A",
-      "pct": 7.02,
-      "short": "Täna uut põhjust ei leitud; Q3 järel prognoosi langetatud",
-      "text": "Globus Medical langetas 5.–6. novembril 2026. a käibeprognoosi (Nevro langus, spinaaltoodete viivitused). Tänase tõusu põhjust ei leidnud; võib olla tagasipõrge, kuid see on kinnitamata.",
-      "sources": [
-        {
-          "title": "GMED guidance cut and 2027 reset (Zacks)",
-          "url": "https://www.zacks.com/stock/news/3025576/gmed-q3-earnings-call-highlights-guidance-cut-and-2027-reset"
-        }
-      ],
-      "at": "2026-11-09T20:07:51Z"
-    },
-    {
-      "fmp": "ALGT",
-      "sym": "algt",
-      "name": "Allegiant Travel Company",
-      "pct": 6.95,
-      "short": "Jätk pärast Q3 (käive +71%, Sun Country)",
-      "text": "Allegiant avaldas Q3, mille käive kasvas 71,1% tänu tugevale puhkusenõudlusele, paremale hinnastamisele ja Sun Country panusele; aktsia on tulemuste järel tõusnud ligi 13%. Tänast eraldi uudist ei leidnud, seega on tegu tõenäoliselt jätkuva järelreaktsiooniga.",
-      "sources": [
-        {
-          "title": "ALGT shares rise since Q3 earnings (Zacks)",
-          "url": "https://www.zacks.com/stock/news/3026691/algt-shares-rise-12-8-since-third-quarter-2026-earnings-release"
-        }
-      ],
-      "at": "2026-11-09T20:07:51Z"
+      "at": "2026-11-10T09:08:08Z"
     }
   ]
 }
