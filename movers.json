@@ -1,12 +1,65 @@
 {
   "date": "2026-11-11",
-  "updated": "2026-11-11T09:07:31Z",
+  "updated": "2026-11-11T17:09:01Z",
   "items": [
+    {
+      "fmp": "BFF.MI",
+      "sym": "bff-mil",
+      "name": "BFF Bank SpA",
+      "pct": -22.27,
+      "short": "9 kuu tulemused alla ootuste, kapitaliprobleem 2028; Equita sihthind 1,80",
+      "text": "BFF avaldas 9 kuu tulemused: puhaskasum 92,8 mln eurot (-14%), netotulu 289,4 mln (-5%), Q3 jäi Equita sõnul tunduvalt alla ootuste nõrgema faktooringu tõttu. Ettevõte hoiatas võimaliku kapitalipuuduse eest 2028. aastal (kalendri-provisjoneerimise reegel) ning Equita langetas sihthinna 3,10 eurolt 1,80 eurole. Läbirääkimised Cerberusega jätkuvad ainuõigusega. Seos tulemuste ja kapitaliteatega on väga tõenäoline; päeva lõpuks on langus kasvanud ligi 22%-ni.",
+      "sources": [
+        {
+          "title": "BFF Bank crolla in borsa dopo i conti (Milano Finanza)",
+          "url": "https://www.milanofinanza.it/news/bff-bank-scivola-in-borsa-dopo-i-conti-ecco-perche-e-cosa-ne-pensano-gli-analisti-di-equita-202611111201493496"
+        },
+        {
+          "title": "BFF, utile nei nove mesi in calo del 14% (Teleborsa)",
+          "url": "https://www.teleborsa.it/News/2026/11/10/bff-utile-nei-nove-mesi-in-calo-del-14percent-trattative-in-esclusiva-con-cerberus-239.html"
+        }
+      ],
+      "at": "2026-11-11T17:09:01Z"
+    },
+    {
+      "fmp": "ADN1.DE",
+      "sym": "adn1-etr",
+      "name": "adesso SE",
+      "pct": 17.93,
+      "short": "Q3 EBITDA ületas ootusi (+30%), aastaprognoos kinnitati",
+      "text": "adesso avaldas täna 9 kuu tulemused: käive +13% 1,22 mld euroni, EBITDA +26% 98,4 mln euroni ja kasum aktsia kohta 2,14 eurot (aasta tagasi 0,53). Q3 EBITDA oli 52,6 mln eurot (+30%) versus analüütikute oodatud 50,4 mln; 2026. aasta prognoos (käive 1,6-1,7 mld, EBITDA 130-150 mln) jäi kinnitatuks. Aktsia on päeva jooksul tõusnud juba ligi 18%. Seos aruandega on väga tõenäoline.",
+      "sources": [
+        {
+          "title": "adesso steigert EBITDA nach neun Monaten um 26 % (EQS via onvista)",
+          "url": "https://www.onvista.de/news/2026/11-11-eqs-news-adesso-steigert-ebitda-nach-neun-monaten-um-26-auf-98-4-mio-eur-umsatz-um-13-auf-1-22-mrd-eur-kraeftig-ausgebaut-ergebnis-je-aktie-mit-2-14-eur-vorjahr-0-37-26574889"
+        },
+        {
+          "title": "Adesso beats Q3 profit expectations with 30% EBITDA surge, shares jump (Investing.com)",
+          "url": "https://in.investing.com/news/stock-market-news/adesso-beats-q3-profit-expectations-with-30-ebitda-surge-shares-jump-93CH-5696131"
+        }
+      ],
+      "at": "2026-11-11T17:09:01Z"
+    },
+    {
+      "fmp": "SALME.OL",
+      "sym": "salme-no",
+      "name": "Salmon Evolution ASA",
+      "pct": 16.9,
+      "short": "Tõus ~17%, tänast konkreetset põhjust ei leitud",
+      "text": "Salmon Evolution tõusis täna ligi 17%, kuid tänase kuupäevaga uudist ega pressiteadet, mis tõusu selgitaks, ei leitud. Viimane teadaanne oli Q3 aruanne 28. oktoobril (EBITDA -20,2 mln NOK, 2027. aasta lõheprognoos 11 000–12 000 t ja uus kuni 200 mln NOK krediidiliin DNB-lt). Põhjuse seos on tõendamata; tõenäoliselt on tegu tehnilise või sektoripõhise liikumisega madalalt tasemelt.",
+      "sources": [
+        {
+          "title": "Salmon Evolution ASA: Q3 2026 report (MFN)",
+          "url": "https://mfn.se/all/a/salmon-evolution/salmon-evolution-asa-fully-focused-on-execution"
+        }
+      ],
+      "at": "2026-11-11T17:09:01Z"
+    },
     {
       "fmp": "ADOC.PA",
       "sym": "adoc-par",
       "name": "Adocia SA",
-      "pct": 18.05,
+      "pct": 15.26,
       "short": "Tõus jätkub eilse +25% järel - kuusüsti (kord kuus) lootus",
       "text": "Adocia aktsia tõusis täna veel ligi 18%, pärast eilset ligi 25% hüpet. Boursorama/Option Finance pealkirja järgi veab tõusu lootus kord kuus tehtavale süstile (AdoXLong rasvumisravi). Täpsemat sisu artiklist lugeda ei õnnestunud ja täna avaldatud uut pressiteadet ei leitud, seega seos on kinnitatud ainult pealkirja tasemel. Väikese kapitalisatsiooniga biotehnoloogia aktsia kõigub tavaliselt tugevalt.",
       "sources": [
@@ -22,42 +75,155 @@
       "at": "2026-11-11T09:07:31Z"
     },
     {
-      "fmp": "ADN1.DE",
-      "sym": "adn1-etr",
-      "name": "adesso SE",
-      "pct": 12.54,
-      "short": "Q3 EBITDA ületas ootusi (+30%), aastaprognoos kinnitati",
-      "text": "adesso avaldas täna 9 kuu tulemused: käive +13% 1,22 mld euroni, EBITDA +26% 98,4 mln euroni ja kasum aktsia kohta 2,14 eurot (aasta tagasi 0,53). Q3 EBITDA oli 52,6 mln eurot (+30%) versus analüütikute oodatud 50,4 mln; 2026. aasta prognoos (käive 1,6-1,7 mld, EBITDA 130-150 mln) jäi kinnitatuks. Seos aruandega on väga tõenäoline.",
+      "fmp": "SHLS",
+      "sym": "shls",
+      "name": "Shoals Technologies Group, Inc. Class A",
+      "pct": 8.49,
+      "short": "Tõus ARRAY-ga ühinemise järel; täna uut uudist ei leitud",
+      "text": "Shoals tõusis täna ligi 8,5%, kuid tänast otsest põhjust ei leitud. Taust: 4. novembril ületas Shoals Q3 ootusi (käive 195,3 mln USD, +44%) ja tõstis 2026. aasta prognoosi, ning 9. novembril teatati kõigi aktsiatega ühinemisest ARRAY Technologiesega (1,6931 ARRAY aktsiat ühe Shoalsi aktsia kohta), mis kukutas mõlemad aktsiad. Tänane tõus on tõenäoliselt tagasipõrge, kuid seda allikad otseselt ei kinnita.",
       "sources": [
         {
-          "title": "adesso steigert EBITDA nach neun Monaten um 26 % (EQS via onvista)",
-          "url": "https://www.onvista.de/news/2026/11-11-eqs-news-adesso-steigert-ebitda-nach-neun-monaten-um-26-auf-98-4-mio-eur-umsatz-um-13-auf-1-22-mrd-eur-kraeftig-ausgebaut-ergebnis-je-aktie-mit-2-14-eur-vorjahr-0-37-26574889"
+          "title": "Shoals crushes Q3 estimates and raises 2026 outlook (Finviz/Earnings Whispers)",
+          "url": "https://finviz.com/news/415637/shoals-crushes-q3-estimates-and-raises-2026-outlook-but-the-array-merger-now-defines-the-investment-case"
         },
         {
-          "title": "Adesso beats Q3 profit expectations with 30% EBITDA surge, shares jump (Investing.com)",
-          "url": "https://in.investing.com/news/stock-market-news/adesso-beats-q3-profit-expectations-with-30-ebitda-surge-shares-jump-93CH-5696131"
+          "title": "Array and Shoals pitch a solar merger but shares fell (Finimize)",
+          "url": "https://finimize.com/content/array-and-shoals-pitch-a-solar-merger-but-shares-fell"
         }
       ],
-      "at": "2026-11-11T09:07:31Z"
+      "at": "2026-11-11T17:09:01Z"
     },
     {
-      "fmp": "BFF.MI",
-      "sym": "bff-mil",
-      "name": "BFF Bank SpA",
-      "pct": -12.17,
-      "short": "9 kuu kohandatud kasum -24%, kapital nõrk; Cerberusega läbirääkimised",
-      "text": "BFF avaldas eile õhtul 9 kuu tulemused: raamatupidamiskasum 92,8 mln eurot (-14%), kohandatud kasum 89,6 mln (-24%), Q3 kohandatud kasum langes 81% ja kohandatud tulu -5%. CET1 on 11,25% (nõue 10,03%) ning Itaalia keskpanga kapitalisäilitamiskava prognoosib võimalikku kapitalipuudujääki 2028. aastal. BFF alustas ka ainuõiguslikke läbirääkimisi Cerberuse sidusettevõttega strateegilise tehingu üle, tulemus pole kindel. Seos languse ja nende uudistega on tõenäoline, kuid analüütikute kommentaare ei leitud.",
+      "fmp": "RHM.DE",
+      "sym": "rhm-etr",
+      "name": "Rheinmetall AG",
+      "pct": -6.94,
+      "short": "Langus jätkub pärast prognoosi kärpimist; tänast uudist ei leitud",
+      "text": "Rheinmetall langes täna ligi 7% ja on 52 nädala madalaimal tasemel, kuid tänase kuupäevaga põhjust ei leitud. Taust: 5. novembril kukkus aktsia üle 16% pärast nõrku kvartalitulemusi ja 2026. aasta käibeprognoosi langetamist 13,2 mld euroni (varem 13,7–14,2 mld). Tänane liikumine on tõenäoliselt jätk sellele müügisurvele, kuid seda ei kinnita ükski tänane allikas.",
       "sources": [
         {
-          "title": "BFF, utile nei nove mesi in calo del 14%. Trattative in esclusiva con Cerberus (Teleborsa)",
-          "url": "https://www.teleborsa.it/News/2026/11/10/bff-utile-nei-nove-mesi-in-calo-del-14percent-trattative-in-esclusiva-con-cerberus-239.html"
-        },
-        {
-          "title": "BFF Banking 9M 2026 slides: capital rises as profit falls 24% (Investing.com)",
-          "url": "https://in.investing.com/news/stock-market-news/bff-banking-9m-2026-slides-capital-rises-as-profit-falls-24-93CH-5694820"
+          "title": "Rheinmetall Aktie (Börse Express, 9.11.2026)",
+          "url": "https://www.boerse-express.com/news/articles/rheinmetall-aktie-eilig-meldung-960833"
         }
       ],
-      "at": "2026-11-11T09:07:31Z"
+      "at": "2026-11-11T17:09:01Z"
+    },
+    {
+      "fmp": "AVGO",
+      "sym": "avgo",
+      "name": "Broadcom Inc.",
+      "pct": 6.88,
+      "short": "Kiipide ralli: CoreWeave tugevad tulemused toetasid AI-teemat",
+      "text": "Broadcom tõusis täna ligi 7% laiema pooljuhtide ralli keskel: Invezzi järgi andsid CoreWeave tugevad Q3 tulemused AI-teemale uut hoogu ning Intel, AMD ja Broadcom tõusid (kirjutamise ajal vastavalt +7,4%, +5,7% ja +5,4%). Broadcomi-spetsiifilist uudist ei leitud, seega on seos sektoriliikumisega tõenäoline, kuid mitte kinnitatud.",
+      "sources": [
+        {
+          "title": "Why Intel, Broadcom and AMD shares are gaining on Wednesday? (Invezz)",
+          "url": "https://invezz.com/news/2026/11/11/why-intel-broadcom-and-amd-shares-are-gaining-on-wednesday/"
+        }
+      ],
+      "at": "2026-11-11T17:09:01Z"
+    },
+    {
+      "fmp": "EYE",
+      "sym": "eye",
+      "name": "National Vision Holdings, Inc.",
+      "pct": -6.42,
+      "short": "Langus enne homset Q3 aruannet; konkreetset põhjust ei leitud",
+      "text": "National Vision langes täna ligi 6,4%, kuid tänast uudist ei leitud. Ettevõte avaldab Q3 tulemused alles 12. novembril (konsensus: kohandatud EPS 0,15 USD, käive 510 mln USD) ja aktsia oli juba enne seda ligi 24% allpool eelmise aruande taset. Langus on tõenäoliselt aruande-eelne positsioonide vähendamine, mida allikad otseselt ei kinnita.",
+      "sources": [
+        {
+          "title": "National Vision's margin story faces a tough comp test (Finviz/Earnings Whispers)",
+          "url": "https://finviz.com/news/415988/national-visions-margin-story-faces-a-tough-comp-test-as-traffic-keeps-sliding"
+        }
+      ],
+      "at": "2026-11-11T17:09:01Z"
+    },
+    {
+      "fmp": "GFS",
+      "sym": "gfs",
+      "name": "GlobalFoundries Inc.",
+      "pct": 6.38,
+      "short": "Pooljuhtide ralli; firmaspetsiifilist uudist ei leitud",
+      "text": "GlobalFoundries tõusis täna ligi 6,4%, kuid tänast firmaspetsiifilist uudist ei leitud. Samal päeval tõusid laialdaselt kiibiaktsiad (Invezz: Intel, AMD, Broadcom) CoreWeave tugevate tulemuste järel, mis on tõenäoline taust. Viimased tulemused (4. nov): Q3 käive 1,9 mld USD (+13%), Q4 prognoos 2,0 mld USD.",
+      "sources": [
+        {
+          "title": "GlobalFoundries reports third quarter 2026 financial results (Finviz)",
+          "url": "https://finviz.com/news/415222/globalfoundries-reports-third-quarter-2026-financial-results"
+        },
+        {
+          "title": "Why Intel, Broadcom and AMD shares are gaining on Wednesday? (Invezz)",
+          "url": "https://invezz.com/news/2026/11/11/why-intel-broadcom-and-amd-shares-are-gaining-on-wednesday/"
+        }
+      ],
+      "at": "2026-11-11T17:09:01Z"
+    },
+    {
+      "fmp": "ATEC",
+      "sym": "atec",
+      "name": "Alphatec Holdings, Inc.",
+      "pct": 6.21,
+      "short": "Tagasipõrge pärast oktoobri languse; tänast uudist ei leitud",
+      "text": "Alphatec tõusis täna ligi 6%, kuid tänast põhjust ei leitud. Taust: 29. oktoobril jäi Q3 tulemus alla ootuste (käive 221,2 mln USD, -1,4% vs konsensus), 2026. prognoosi kärbiti ja aktsia kukkus järsult. Täna avaldati lisaks mitu advokaadibüroo \"uurimise\" teadet. Tänane tõus on tõenäoliselt tehniline tagasipõrge, mida allikad ei kinnita.",
+      "sources": [
+        {
+          "title": "Alphatec matches the whisper but cuts its outlook (Finviz)",
+          "url": "https://finviz.com/news/412334/alphatec-matches-the-whisper-but-cuts-its-outlook-as-biologics-leakage-undercuts-strong-surgeon-adoption"
+        }
+      ],
+      "at": "2026-11-11T17:09:01Z"
+    },
+    {
+      "fmp": "NVMI",
+      "sym": "nvmi",
+      "name": "Nova Ltd.",
+      "pct": 6.14,
+      "short": "Pooljuhtide ralli; firmaspetsiifilist uudist ei leitud",
+      "text": "Nova tõusis täna ligi 6,1%. Firmaspetsiifilist uudist ei leitud (ainus tänane teade oli investorkonverentsidel osalemine), samal päeval tõusid aga laialdaselt kiibiaktsiad CoreWeave tugevate tulemuste järel. Seos sektoriralliga on tõenäoline, kuid mitte kinnitatud.",
+      "sources": [
+        {
+          "title": "Nova to Participate in Investor Conferences (PRNewswire)",
+          "url": "https://www.prnewswire.com/news-releases/nova-to-participate-in-investor-conferences-in-november-and-december-302934798.html"
+        },
+        {
+          "title": "Why Intel, Broadcom and AMD shares are gaining on Wednesday? (Invezz)",
+          "url": "https://invezz.com/news/2026/11/11/why-intel-broadcom-and-amd-shares-are-gaining-on-wednesday/"
+        }
+      ],
+      "at": "2026-11-11T17:09:01Z"
+    },
+    {
+      "fmp": "ENVIP.OL",
+      "sym": "envi-ams",
+      "name": "Envipco Holding N.V.",
+      "pct": -5.79,
+      "short": "Q3: käive +18%, kuid EBITDA negatiivne; 3 mln € ümberkorraldus",
+      "text": "Envipco avaldas täna Q3 tulemused: käive 26,5 mln eurot (+18%), brutomarginaal langes 33,1%-ni (35,0%), EBITDA -0,6 mln ja ärikasum -3,1 mln eurot (aasta tagasi -2,7 mln). Q4-s oodatakse 3 mln euro suurust ümberkorraldustasu (2027. aastal 4 mln säästu) ja UK peaks suurimaks kasvuallikaks saama alles 2027. Seos tulemustega on tõenäoline.",
+      "sources": [
+        {
+          "title": "ENVIPCO Q3 26 - Rising sales growth and record customer awards (Inderes)",
+          "url": "https://www.inderes.fi/en/releases/envipco-q3-26-rising-sales-growth-and-record-customer-awards"
+        }
+      ],
+      "at": "2026-11-11T17:09:01Z"
+    },
+    {
+      "fmp": "FF.MI",
+      "sym": "ff-mil",
+      "name": "Fine Foods & Pharmaceuticals N.T.M. SpA",
+      "pct": 5.51,
+      "short": "Tagasipõrge pärast nõrku 9 kuu tulemusi; tänast põhjust ei leitud",
+      "text": "Fine Foods tõusis täna ligi 5,5%, kuid tänast põhjust ei leitud. Eile avaldatud 9 kuu tulemused olid nõrgad: käive 185,6 mln eurot (-2,2%) ja netokahjum 1,7 mln eurot uue tehase kulude tõttu, Intermonte langetas sihthinna 9 eurole. Tänane tõus on seega tõenäoliselt tagasipõrge väga madalalt tasemelt, mida allikad ei kinnita.",
+      "sources": [
+        {
+          "title": "Fine Foods passa in perdita per 1,7 milioni nei 9 mesi (Teleborsa)",
+          "url": "https://www.teleborsa.it/News/2026/11/10/fine-foods-passa-in-perdita-per-1-7-milioni-di-euro-nei-9-mesi-con-costi-del-nuovo-stabilimento-107.html"
+        },
+        {
+          "title": "Fine Foods, ricavi a 185,6 mln nei 9 mesi 2026, Intermonte taglia target a 9 (Il Giornale d'Italia)",
+          "url": "https://www.ilgiornaleditalia.it/news/mondo-imprese/836920/fine-foods-ricavi-a-185-6-mln-2-2-nei-9-mesi-2026-perdita-netta-di-1-7-mln-intermonte-taglia-target-a-9.html"
+        }
+      ],
+      "at": "2026-11-11T17:09:01Z"
     }
   ]
 }
