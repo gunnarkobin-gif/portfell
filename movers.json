@@ -1,6 +1,6 @@
 {
   "date": "2026-11-11",
-  "updated": "2026-11-11T17:09:01Z",
+  "updated": "2026-11-11T20:06:23Z",
   "items": [
     {
       "fmp": "BFF.MI",
@@ -78,7 +78,7 @@
       "fmp": "SHLS",
       "sym": "shls",
       "name": "Shoals Technologies Group, Inc. Class A",
-      "pct": 8.49,
+      "pct": 7.38,
       "short": "Tõus ARRAY-ga ühinemise järel; täna uut uudist ei leitud",
       "text": "Shoals tõusis täna ligi 8,5%, kuid tänast otsest põhjust ei leitud. Taust: 4. novembril ületas Shoals Q3 ootusi (käive 195,3 mln USD, +44%) ja tõstis 2026. aasta prognoosi, ning 9. novembril teatati kõigi aktsiatega ühinemisest ARRAY Technologiesega (1,6931 ARRAY aktsiat ühe Shoalsi aktsia kohta), mis kukutas mõlemad aktsiad. Tänane tõus on tõenäoliselt tagasipõrge, kuid seda allikad otseselt ei kinnita.",
       "sources": [
@@ -112,7 +112,7 @@
       "fmp": "AVGO",
       "sym": "avgo",
       "name": "Broadcom Inc.",
-      "pct": 6.88,
+      "pct": 4.95,
       "short": "Kiipide ralli: CoreWeave tugevad tulemused toetasid AI-teemat",
       "text": "Broadcom tõusis täna ligi 7% laiema pooljuhtide ralli keskel: Invezzi järgi andsid CoreWeave tugevad Q3 tulemused AI-teemale uut hoogu ning Intel, AMD ja Broadcom tõusid (kirjutamise ajal vastavalt +7,4%, +5,7% ja +5,4%). Broadcomi-spetsiifilist uudist ei leitud, seega on seos sektoriliikumisega tõenäoline, kuid mitte kinnitatud.",
       "sources": [
@@ -127,7 +127,7 @@
       "fmp": "EYE",
       "sym": "eye",
       "name": "National Vision Holdings, Inc.",
-      "pct": -6.42,
+      "pct": -7.05,
       "short": "Langus enne homset Q3 aruannet; konkreetset põhjust ei leitud",
       "text": "National Vision langes täna ligi 6,4%, kuid tänast uudist ei leitud. Ettevõte avaldab Q3 tulemused alles 12. novembril (konsensus: kohandatud EPS 0,15 USD, käive 510 mln USD) ja aktsia oli juba enne seda ligi 24% allpool eelmise aruande taset. Langus on tõenäoliselt aruande-eelne positsioonide vähendamine, mida allikad otseselt ei kinnita.",
       "sources": [
@@ -142,7 +142,7 @@
       "fmp": "GFS",
       "sym": "gfs",
       "name": "GlobalFoundries Inc.",
-      "pct": 6.38,
+      "pct": 5.22,
       "short": "Pooljuhtide ralli; firmaspetsiifilist uudist ei leitud",
       "text": "GlobalFoundries tõusis täna ligi 6,4%, kuid tänast firmaspetsiifilist uudist ei leitud. Samal päeval tõusid laialdaselt kiibiaktsiad (Invezz: Intel, AMD, Broadcom) CoreWeave tugevate tulemuste järel, mis on tõenäoline taust. Viimased tulemused (4. nov): Q3 käive 1,9 mld USD (+13%), Q4 prognoos 2,0 mld USD.",
       "sources": [
@@ -161,7 +161,7 @@
       "fmp": "ATEC",
       "sym": "atec",
       "name": "Alphatec Holdings, Inc.",
-      "pct": 6.21,
+      "pct": 4.36,
       "short": "Tagasipõrge pärast oktoobri languse; tänast uudist ei leitud",
       "text": "Alphatec tõusis täna ligi 6%, kuid tänast põhjust ei leitud. Taust: 29. oktoobril jäi Q3 tulemus alla ootuste (käive 221,2 mln USD, -1,4% vs konsensus), 2026. prognoosi kärbiti ja aktsia kukkus järsult. Täna avaldati lisaks mitu advokaadibüroo \"uurimise\" teadet. Tänane tõus on tõenäoliselt tehniline tagasipõrge, mida allikad ei kinnita.",
       "sources": [
@@ -176,7 +176,7 @@
       "fmp": "NVMI",
       "sym": "nvmi",
       "name": "Nova Ltd.",
-      "pct": 6.14,
+      "pct": 4.77,
       "short": "Pooljuhtide ralli; firmaspetsiifilist uudist ei leitud",
       "text": "Nova tõusis täna ligi 6,1%. Firmaspetsiifilist uudist ei leitud (ainus tänane teade oli investorkonverentsidel osalemine), samal päeval tõusid aga laialdaselt kiibiaktsiad CoreWeave tugevate tulemuste järel. Seos sektoriralliga on tõenäoline, kuid mitte kinnitatud.",
       "sources": [
