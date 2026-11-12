@@ -1,6 +1,6 @@
 {
   "date": "2026-11-12",
-  "updated": "2026-11-12T17:13:07Z",
+  "updated": "2026-11-12T20:06:59Z",
   "items": [
     {
       "fmp": "GREEN.ST",
@@ -37,6 +37,25 @@
       "at": "2026-11-12T09:08:38Z"
     },
     {
+      "fmp": "ALLT",
+      "sym": "allt",
+      "name": "Allot Ltd.",
+      "pct": -11.05,
+      "short": "Langus hoolimata Q3 ootusi ületanud tulemusest; põhjus ebaselge",
+      "text": "Allot avaldas täna Q3 tulemused: käive +16%, SECaaS ARR +41% aastaga, EPS 0,09 USD (ootus 0,08) ja aasta käibeprognoosi keskpunkti tõsteti. Aktsia langes siiski ~10%. Täpset põhjust allikad ei nimeta; võimalik, et turg oli pettunud SECaaS ARR kasvu aeglustumises (varem ~60%), kuid see on oletus.",
+      "sources": [
+        {
+          "title": "Allot Announces Third Quarter 2026 Financial Results",
+          "url": "https://www.prnewswire.com/news-releases/allot-announces-third-quarter-2026-financial-results-302937688.html"
+        },
+        {
+          "title": "Allot (ALLT) Q3 Earnings Surpass Estimates (Zacks)",
+          "url": "https://www.zacks.com/stock/news/3028372/allot-communications-allt-q3-earnings-and-revenues-surpass-estimates?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|yseop_template_4-3028372"
+        }
+      ],
+      "at": "2026-11-12T17:13:07Z"
+    },
+    {
       "fmp": "REG1V.HE",
       "sym": "reg1v-hel",
       "name": "Revenio Group Oyj",
@@ -55,7 +74,7 @@
       "fmp": "YETI",
       "sym": "yeti",
       "name": "YETI Holdings, Inc.",
-      "pct": -9.61,
+      "pct": -10.7,
       "short": "Langus: YETI langetas aastaprognoosi tarbija ettevaatlikkuse tõttu",
       "text": "YETI andis täna välja Q3 tulemused: korrigeeritud EPS 0,91 USD ületas ootust (0,83), müük kasvas 4% (korrigeeritud 6%). Ettevõte langetas aasta korrigeeritud müügikasvu prognoosi ~6%-le (varem 7–8%), viidates tarbijate ettevaatlikkusele. Langus ~10% on tõenäoliselt otseselt seotud prognoosi kärpega.",
       "sources": [
@@ -71,22 +90,13 @@
       "at": "2026-11-12T17:13:07Z"
     },
     {
-      "fmp": "ALLT",
-      "sym": "allt",
-      "name": "Allot Ltd.",
-      "pct": -9.59,
-      "short": "Langus hoolimata Q3 ootusi ületanud tulemusest; põhjus ebaselge",
-      "text": "Allot avaldas täna Q3 tulemused: käive +16%, SECaaS ARR +41% aastaga, EPS 0,09 USD (ootus 0,08) ja aasta käibeprognoosi keskpunkti tõsteti. Aktsia langes siiski ~10%. Täpset põhjust allikad ei nimeta; võimalik, et turg oli pettunud SECaaS ARR kasvu aeglustumises (varem ~60%), kuid see on oletus.",
-      "sources": [
-        {
-          "title": "Allot Announces Third Quarter 2026 Financial Results",
-          "url": "https://www.prnewswire.com/news-releases/allot-announces-third-quarter-2026-financial-results-302937688.html"
-        },
-        {
-          "title": "Allot (ALLT) Q3 Earnings Surpass Estimates (Zacks)",
-          "url": "https://www.zacks.com/stock/news/3028372/allot-communications-allt-q3-earnings-and-revenues-surpass-estimates?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|yseop_template_4-3028372"
-        }
-      ],
+      "fmp": "BUR.L",
+      "sym": "bur-lon",
+      "name": "Burford Capital Limited",
+      "pct": -8.75,
+      "short": "Langus; tänast ettevõttespetsiifilist uudist ei leidnud",
+      "text": "Burford langes Londonis täna ligi 9%, kuid tänase kuupäeva kohta ei leidnud ma ettevõtte uudist ega analüütikute sammu, mida liikumisega siduda. Aktsia on aastatipust tugevalt madalamal ja kauplemine on olnud volatiilne; põhjus jääb selgusetuks.",
+      "sources": [],
       "at": "2026-11-12T17:13:07Z"
     },
     {
@@ -105,16 +115,6 @@
       "at": "2026-11-12T09:08:38Z"
     },
     {
-      "fmp": "BUR.L",
-      "sym": "bur-lon",
-      "name": "Burford Capital Limited",
-      "pct": -8.75,
-      "short": "Langus; tänast ettevõttespetsiifilist uudist ei leidnud",
-      "text": "Burford langes Londonis täna ligi 9%, kuid tänase kuupäeva kohta ei leidnud ma ettevõtte uudist ega analüütikute sammu, mida liikumisega siduda. Aktsia on aastatipust tugevalt madalamal ja kauplemine on olnud volatiilne; põhjus jääb selgusetuks.",
-      "sources": [],
-      "at": "2026-11-12T17:13:07Z"
-    },
-    {
       "fmp": "CWC.DE",
       "sym": "cwc-etr",
       "name": "CEWE Stiftung & Co. KGaA",
@@ -122,6 +122,21 @@
       "short": "Langus; tänast põhjust ei leidnud",
       "text": "CEWE langes täna ~7,5%, avanedes ja kukkudes päeva madalaimale tasemele, kuid tänast uudist ega tulemuste teadet ei leidnud. Aktsia oli tõusnud lähedale aastatipule (118,2), seega võib olla tegu kasumi realiseerimisega; see on oletus, mitte allikaga kinnitatud.",
       "sources": [],
+      "at": "2026-11-12T17:13:07Z"
+    },
+    {
+      "fmp": "RERE",
+      "sym": "rere",
+      "name": "ATRenew Inc.",
+      "pct": -7.06,
+      "short": "Langus; tänast põhjust ei leidnud (Q3 aruanne 19. novembril)",
+      "text": "ATRenew langes täna ~6%, kuid tänast ettevõttespetsiifilist uudist ei leidnud. Ettevõte avaldab Q3 tulemused 19. novembril, nii et langus võib olla enne-aruande positsioonide vähendamine või Hiina tehnoloogiasektori üldine nõrkus (Alibaba langes Hongkongis samuti ~7%); mõlemad on oletused.",
+      "sources": [
+        {
+          "title": "ATRenew to Report Third Quarter 2026 Financial Results on November 19, 2026",
+          "url": "https://stockhub.kr/en/newswire/prn/302930104"
+        }
+      ],
       "at": "2026-11-12T17:13:07Z"
     },
     {
@@ -237,7 +252,7 @@
       "fmp": "RVLV",
       "sym": "rvlv",
       "name": "Revolve Group, Inc.",
-      "pct": -6.01,
+      "pct": -5.73,
       "short": "Langus; Q3 aruanne oli 3. novembril, tänast uudist ei leidnud",
       "text": "Revolve langes täna ~6%, kuid tänast uudist ei leidnud. Taust: 3. novembri Q3 aruandes kasvas käive 20%, kuid EPS (0,20 USD) jäi ootusest alla marginaalide kahanemise, kõrgemate saatmiskulude ja negatiivse vaba rahavoo (-27 mln USD) tõttu. Tänane langus võib olla aruande järelmõju; see on oletus.",
       "sources": [
@@ -249,25 +264,20 @@
       "at": "2026-11-12T17:13:07Z"
     },
     {
-      "fmp": "RERE",
-      "sym": "rere",
-      "name": "ATRenew Inc.",
-      "pct": -5.86,
-      "short": "Langus; tänast põhjust ei leidnud (Q3 aruanne 19. novembril)",
-      "text": "ATRenew langes täna ~6%, kuid tänast ettevõttespetsiifilist uudist ei leidnud. Ettevõte avaldab Q3 tulemused 19. novembril, nii et langus võib olla enne-aruande positsioonide vähendamine või Hiina tehnoloogiasektori üldine nõrkus (Alibaba langes Hongkongis samuti ~7%); mõlemad on oletused.",
-      "sources": [
-        {
-          "title": "ATRenew to Report Third Quarter 2026 Financial Results on November 19, 2026",
-          "url": "https://stockhub.kr/en/newswire/prn/302930104"
-        }
-      ],
-      "at": "2026-11-12T17:13:07Z"
+      "fmp": "NXT",
+      "sym": "nxt",
+      "name": "Nextpower Inc.",
+      "pct": -5.47,
+      "short": "Langus ~5,5%; tänast põhjust ei leidnud",
+      "text": "Nextpower aktsia langes täna ligi 5,5% (95,09 USD), kuid tänase kuupäevaga ettevõttespetsiifilist uudist ei leidnud. Otsingus ilmusid üldised märkused sektori müügisurve kohta, kuid nende kuupäev ei ole kinnitatud, seega ei saa seost tänase liikumisega kindlaks teha.",
+      "sources": [],
+      "at": "2026-11-12T20:06:59Z"
     },
     {
       "fmp": "AVGO",
       "sym": "avgo",
       "name": "Broadcom Inc.",
-      "pct": 5.61,
+      "pct": 5.39,
       "short": "Tõus AI-kiipide sektori kõikumises; Nvidia kukkus CEO-uudise peale",
       "text": "Broadcom tõusis täna ~5,6%. Samal päeval langes Nvidia ~9% pärast WSJ teadet, et juhatus valmistab ette Jensen Huangi ametist kõrvaldamist, ja Bernstein kärpis Nvidia sihthinna 200 dollarile; 247 Wall St märgib, et mõni konkurent võib kaosest kasu saada. Otsest Broadcomi-spetsiifilist põhjust allikad ei nimeta, seega seos on tõenäoline, kuid kinnitamata.",
       "sources": [
@@ -281,6 +291,16 @@
         }
       ],
       "at": "2026-11-12T17:13:07Z"
+    },
+    {
+      "fmp": "HLLY",
+      "sym": "hlly",
+      "name": "Holley Inc.",
+      "pct": -5.38,
+      "short": "Langus ~5%; tänast põhjust ei leidnud",
+      "text": "Holley aktsia langes täna ligi 5,4% (2,375 USD), kuid tänase kuupäevaga uudist ega muutust ei leidnud. Langus võib olla jätk varasemale nõrkusele, kuid see on oletus, mida allikas ei kinnita. Põhjuse seos on seega teadmata.",
+      "sources": [],
+      "at": "2026-11-12T20:06:59Z"
     }
   ]
 }
