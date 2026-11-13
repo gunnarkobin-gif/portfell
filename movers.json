@@ -1,306 +1,46 @@
 {
-  "date": "2026-11-12",
-  "updated": "2026-11-12T20:06:59Z",
+  "date": "2026-11-13",
+  "updated": "2026-11-13T09:07:16Z",
   "items": [
     {
-      "fmp": "GREEN.ST",
-      "sym": "green-se",
-      "name": "Green Landscaping Group AB",
-      "pct": 15.79,
-      "short": "Tõus tagasilöögi järel; tänast põhjust ei leidnud",
-      "text": "Aktsia tõusis täna üle 15%, kuid tänast konkreetset uudist ei leidnud. Taust: Q3 aruandes oli tulemus nõrk (korrigeeritud EBITA 123 mln SEK vs 135 mln, ühekordsed kulud 79 mln SEK), CEO lahkub ja käivitati parendusprogramm Green Performance. Aktsia on aastatipust tugevalt madalamal, nii et tõus võib olla tehniline põrge; see on oletus, mitte allikaga kinnitatud.",
-      "sources": [
-        {
-          "title": "Green Landscaping Group delårsrapport januari–september 2026",
-          "url": "https://www.inderes.se/releases/green-landscaping-group-publ-delarsrapport-januari-september-2026"
-        }
-      ],
-      "at": "2026-11-12T17:13:07Z"
-    },
-    {
-      "fmp": "BFF.MI",
-      "sym": "bff-mil",
-      "name": "BFF Bank SpA",
-      "pct": -11.44,
-      "short": "Langus jätkub pärast eilseid nõrku 9 kuu tulemusi ja kapitalihoiatust",
-      "text": "BFF langes täna veel ligi 10%, olles eile juba tulemuste järel tugevalt kukkunud. Eile avaldatud 9 kuu kasum langes 14%, ettevõte hoiatas võimaliku kapitalipuuduse eest 2028. aastal ja Equita langetas sihthinna 1,80 euroni. Tänase liikumise kohta uut uudist ei leidnud, seega on tegu tõenäoliselt eilse uudise jätkuva müügisurvega.",
-      "sources": [
-        {
-          "title": "BFF Bank crolla in borsa dopo i conti (Milano Finanza)",
-          "url": "https://www.milanofinanza.it/news/bff-bank-scivola-in-borsa-dopo-i-conti-ecco-perche-e-cosa-ne-pensano-gli-analisti-di-equita-202611111201493496"
-        },
-        {
-          "title": "BFF, utile nei nove mesi in calo del 14% (Teleborsa)",
-          "url": "https://www.teleborsa.it/News/2026/11/10/bff-utile-nei-nove-mesi-in-calo-del-14percent-trattative-in-esclusiva-con-cerberus-239.html"
-        }
-      ],
-      "at": "2026-11-12T09:08:38Z"
-    },
-    {
-      "fmp": "ALLT",
-      "sym": "allt",
-      "name": "Allot Ltd.",
-      "pct": -11.05,
-      "short": "Langus hoolimata Q3 ootusi ületanud tulemusest; põhjus ebaselge",
-      "text": "Allot avaldas täna Q3 tulemused: käive +16%, SECaaS ARR +41% aastaga, EPS 0,09 USD (ootus 0,08) ja aasta käibeprognoosi keskpunkti tõsteti. Aktsia langes siiski ~10%. Täpset põhjust allikad ei nimeta; võimalik, et turg oli pettunud SECaaS ARR kasvu aeglustumises (varem ~60%), kuid see on oletus.",
-      "sources": [
-        {
-          "title": "Allot Announces Third Quarter 2026 Financial Results",
-          "url": "https://www.prnewswire.com/news-releases/allot-announces-third-quarter-2026-financial-results-302937688.html"
-        },
-        {
-          "title": "Allot (ALLT) Q3 Earnings Surpass Estimates (Zacks)",
-          "url": "https://www.zacks.com/stock/news/3028372/allot-communications-allt-q3-earnings-and-revenues-surpass-estimates?cid=CS-STOCKNEWSAPI-FT-fundamental_analysis|yseop_template_4-3028372"
-        }
-      ],
-      "at": "2026-11-12T17:13:07Z"
-    },
-    {
-      "fmp": "REG1V.HE",
-      "sym": "reg1v-hel",
-      "name": "Revenio Group Oyj",
-      "pct": -10.71,
-      "short": "Q3 orgaaniline müük püsis paigal, müügijuhist kitsendati alumisele otsale",
-      "text": "Revenio avaldas täna Q3 aruande: käive kasvas 58,8 mln euroni (+127,5%) vaid Visionixi ülevõtmise tõttu, orgaaniline müük oli stabiilne. Korrigeeritud EBITA marginaal langes 14,7%-ni (25,7% aasta tagasi) ja 2026. aasta müügijuhis kitsendati vahemikule 190–200 mln eurot (varem 190–205), alumine ots peegeldab nõrgemat nõudlust. Seos tulemuste ja languse vahel on väga tõenäoline.",
-      "sources": [
-        {
-          "title": "Revenio Group Corporation: Interim Report January 1 – September 30, 2026",
-          "url": "https://www.inderes.fi/en/releases/revenio-group-corporation-interim-report-january-1-september-30-2026"
-        }
-      ],
-      "at": "2026-11-12T09:08:38Z"
-    },
-    {
-      "fmp": "YETI",
-      "sym": "yeti",
-      "name": "YETI Holdings, Inc.",
-      "pct": -10.7,
-      "short": "Langus: YETI langetas aastaprognoosi tarbija ettevaatlikkuse tõttu",
-      "text": "YETI andis täna välja Q3 tulemused: korrigeeritud EPS 0,91 USD ületas ootust (0,83), müük kasvas 4% (korrigeeritud 6%). Ettevõte langetas aasta korrigeeritud müügikasvu prognoosi ~6%-le (varem 7–8%), viidates tarbijate ettevaatlikkusele. Langus ~10% on tõenäoliselt otseselt seotud prognoosi kärpega.",
-      "sources": [
-        {
-          "title": "YETI Reports Third Quarter 2026 Results (GlobeNewswire)",
-          "url": "https://www.globenewswire.com/news-release/2026/11/12/3401333/0/en/yeti-reports-third-quarter-2026-results.html"
-        },
-        {
-          "title": "Yeti Cuts Year Outlook on Consumer Caution (WSJ)",
-          "url": "https://www.wsj.com/business/earnings/yeti-cuts-year-outlook-on-consumer-caution-7c3c96a5"
-        }
-      ],
-      "at": "2026-11-12T17:13:07Z"
-    },
-    {
-      "fmp": "BUR.L",
-      "sym": "bur-lon",
-      "name": "Burford Capital Limited",
-      "pct": -8.75,
-      "short": "Langus; tänast ettevõttespetsiifilist uudist ei leidnud",
-      "text": "Burford langes Londonis täna ligi 9%, kuid tänase kuupäeva kohta ei leidnud ma ettevõtte uudist ega analüütikute sammu, mida liikumisega siduda. Aktsia on aastatipust tugevalt madalamal ja kauplemine on olnud volatiilne; põhjus jääb selgusetuks.",
+      "fmp": "SPZ.AX",
+      "sym": "spz-aus",
+      "name": "Smart Parking Limited",
+      "pct": -13.92,
+      "short": "Järsk langus; tänast põhjust ei leidnud",
+      "text": "Aktsia langes täna ligi 14%, kuid tänast konkreetset uudist ega börsiteadet ei leidnud. Viimased leitud teated (aktsiate tagasiostu lõpetamine, üldkoosolek novembris) ei selgita langust. Seos hinnaliikumisega on teadmata.",
       "sources": [],
-      "at": "2026-11-12T17:13:07Z"
+      "at": "2026-11-13T09:07:16Z"
     },
     {
-      "fmp": "GLJ.DE",
-      "sym": "glj-etr",
-      "name": "GRENKE AG",
-      "pct": 8.75,
-      "short": "Tõus; tänast konkreetset põhjust ei leidnud",
-      "text": "Grenke tõusis täna üle 7%, kuid tänast uudist (nt Q3 tulemused, analüütikute soovitused) ei leidnud. Viimane kinnitatud info on poolaasta aruanne, mille järgi kasum kasvas 24,8% ja 2026. aasta juhis kinnitati, uusi liisinguid oli aga vähem. Seost tänase liikumisega ei saa kinnitada.",
-      "sources": [
-        {
-          "title": "GRENKE increases group earnings in the first half of 2026",
-          "url": "https://www.grenke.com/en/investor-relations/news/2026/grenke-increases-group-earnings-in-the-first-half-of-2026/"
-        }
-      ],
-      "at": "2026-11-12T09:08:38Z"
-    },
-    {
-      "fmp": "CWC.DE",
-      "sym": "cwc-etr",
-      "name": "CEWE Stiftung & Co. KGaA",
-      "pct": -7.5,
+      "fmp": "9698.HK",
+      "sym": "9698-hk",
+      "name": "GDS Holdings Ltd.",
+      "pct": -8.12,
       "short": "Langus; tänast põhjust ei leidnud",
-      "text": "CEWE langes täna ~7,5%, avanedes ja kukkudes päeva madalaimale tasemele, kuid tänast uudist ega tulemuste teadet ei leidnud. Aktsia oli tõusnud lähedale aastatipule (118,2), seega võib olla tegu kasumi realiseerimisega; see on oletus, mitte allikaga kinnitatud.",
+      "text": "Aktsia langes täna üle 8%, kuid tänast firmaspetsiifilist uudist ei leidnud. Otsingutulemused viitasid vaid varasematele langustele (tulemused, Hiina tehnoloogiasektori meeleolu), mis ei ole tänase liikumise tõendatud põhjus.",
       "sources": [],
-      "at": "2026-11-12T17:13:07Z"
+      "at": "2026-11-13T09:07:16Z"
     },
     {
-      "fmp": "RERE",
-      "sym": "rere",
-      "name": "ATRenew Inc.",
-      "pct": -7.06,
-      "short": "Langus; tänast põhjust ei leidnud (Q3 aruanne 19. novembril)",
-      "text": "ATRenew langes täna ~6%, kuid tänast ettevõttespetsiifilist uudist ei leidnud. Ettevõte avaldab Q3 tulemused 19. novembril, nii et langus võib olla enne-aruande positsioonide vähendamine või Hiina tehnoloogiasektori üldine nõrkus (Alibaba langes Hongkongis samuti ~7%); mõlemad on oletused.",
-      "sources": [
-        {
-          "title": "ATRenew to Report Third Quarter 2026 Financial Results on November 19, 2026",
-          "url": "https://stockhub.kr/en/newswire/prn/302930104"
-        }
-      ],
-      "at": "2026-11-12T17:13:07Z"
-    },
-    {
-      "fmp": "9988.HK",
-      "sym": "9988-hkg",
-      "name": "Alibaba Group Holding Limited",
-      "pct": -6.76,
-      "short": "Hiina tehnoloogiasektori müük; konkreetset tänast põhjust ei kinnitanud",
-      "text": "Alibaba langes Hongkongis täna ligi 6,8% kogumahuga (196 mln aktsiat). Tänase päeva kohta usaldusväärset allikat põhjuse kohta ei leidnud; varasemad artiklid viitavad turuhirmudele tehisintellekti kulude ja e-kaubanduse regulatsiooni ümber, kuid need ei ole tänased. Põhjus jääb kinnitamata.",
-      "sources": [
-        {
-          "title": "Alibaba shares tumble as China tightens ecommerce oversight",
-          "url": "https://thearabianpost.com/alibaba-shares-tumble-as-china-tightens-ecommerce-oversight/"
-        }
-      ],
-      "at": "2026-11-12T09:08:38Z"
-    },
-    {
-      "fmp": "2590.HK",
-      "sym": "2590-hk",
-      "name": "Beijing Geekplus Technology Co., Ltd. Class H",
-      "pct": -6.72,
-      "short": "Langus; tänast ettevõttespetsiifilist põhjust ei leidnud",
-      "text": "Geekplus langes täna ligi 6,7%, kuid tänast ettevõtte uudist ei leidnud. Aktsia on aastatipust enam kui 75% madalamal ning langes samal päeval koos Hongkongi tehnoloogiaaktsiatega (nt Alibaba -6,8%), mis võib viidata sektori üldisele müügisurvele, kuid seda ei kinnitanud allikas.",
-      "sources": [
-        {
-          "title": "Geekplus – MarketInOut",
-          "url": "https://www.marketinout.com/stock/hk/2590"
-        }
-      ],
-      "at": "2026-11-12T09:08:38Z"
-    },
-    {
-      "fmp": "8583.KL",
-      "sym": "8583-kls",
-      "name": "Mah Sing Group Bhd.",
-      "pct": -6.63,
-      "short": "Uus aastamadal; Malaisia kinnisvarasektori nõrkus, tänast uudist ei leidnud",
-      "text": "Mah Sing langes täna 6,6% ja uuele 52 nädala madalale (0,845 MYR). Tänast ettevõtte uudist ei leidnud. Oktoobri sektoriülevaade viitab Malaisia kinnisvarasektori survele (nõrgem laenunõudlus, kasvavad müümata varud), mis on võimalik taust, kuid mitte kinnitatud tänane põhjus.",
-      "sources": [
-        {
-          "title": "Property Sector Drag Amid Softer Loan Demand, Rising Overhangs",
-          "url": "https://www.businesstoday.com.my/2026/10/07/property-sector-drag-amid-softer-loan-demand-rising-overhangs/"
-        }
-      ],
-      "at": "2026-11-12T09:08:38Z"
-    },
-    {
-      "fmp": "ALFA.L",
-      "sym": "alfa-lon",
-      "name": "Alfa Financial Software Holdings Plc",
-      "pct": 6.45,
-      "short": "Tõus; tänast põhjust ei leidnud",
-      "text": "Alfa tõusis täna 5,5% (170 pencet), kuid 2026. aasta novembri uudist ei leidnud (leitud Q3 uuendus oli eelmise aasta oma). Usaldusväärset põhjust tänase liikumise kohta ei saa nimetada.",
-      "sources": [
-        {
-          "title": "Alfa Financial Software – investor information",
-          "url": "https://www.investegate.co.uk/announcement/rns/alfa-financial-software-holdings--alfa/h1-trading-update/9694639"
-        }
-      ],
-      "at": "2026-11-12T09:08:38Z"
-    },
-    {
-      "fmp": "SALME.OL",
-      "sym": "salme-no",
-      "name": "Salmon Evolution ASA",
-      "pct": -6.11,
+      "fmp": "DFS.L",
+      "sym": "dfs-lon",
+      "name": "DFS Furniture PLC",
+      "pct": -5.97,
       "short": "Langus; tänast põhjust ei leidnud",
-      "text": "Salmon Evolution langes täna 6,3% (2,30 NOK, aasta madala lähedal), kuid tänast uudist ei leidnud. Viimane teadaolev info on 8. oktoobri Q3 tootmisuuendus: lõimuti 1 596 t kala hinnaga ca 65 NOK/kg, üks Phase 1 alatootev partii hoidis biomassi kasvu tagasi. Seos tänase liikumisega on kinnitamata.",
-      "sources": [
-        {
-          "title": "Salmon Evolution ASA: Q3 2026 operational update",
-          "url": "https://www.inderes.dk/en/releases/salmon-evolution-asa-q3-2026-operational-update"
-        }
-      ],
-      "at": "2026-11-12T09:08:38Z"
-    },
-    {
-      "fmp": "XRO.AX",
-      "sym": "xro-aus",
-      "name": "Xero Limited",
-      "pct": 6.08,
-      "short": "Poolaasta tulemused, tõstetud 2027 juhis ja kuni 1 mld NZ$ tagasiost",
-      "text": "Xero avaldas poolaasta (HY27) tulemused: käive +46% 1,75 mld NZ$-ni, tõstis 2027. majandusaasta käibejuhise vahemikule 3,77–3,83 mld NZ$ (varem 3,62–3,73) ja teatas kuni 1 mld NZ$ tagasiostust. Kasumlikkus oli Melio ülevõtmise tõttu nõrk (EBITDA -8%), kuid juhise tõstmist peetakse tõusu peamiseks põhjuseks. Seos on väga tõenäoline; päeva jooksul oli tõus ajutiselt ligi 12%.",
-      "sources": [
-        {
-          "title": "Why are Xero shares flying 12% higher today? (Motley Fool AU)",
-          "url": "https://www.fool.com.au/2026/11/12/why-are-xero-shares-flying-12-higher-today/"
-        },
-        {
-          "title": "Xero share price soars after HY27 result, $1 billion buyback (Rask)",
-          "url": "https://www.raskmedia.com.au/2026/11/12/xero-asxxro-share-price-soars-10-after-hy27-result-1-billion-share-buyback/"
-        }
-      ],
-      "at": "2026-11-12T09:08:38Z"
-    },
-    {
-      "fmp": "EVS.BR",
-      "sym": "evs-bru",
-      "name": "EVS Broadcast Equipment S.A.",
-      "pct": -6.04,
-      "short": "Langus; taustaks oktoobrikuine müügiprognoosi kärpimine",
-      "text": "EVS langes täna ~6%, kuid tänast uut uudist ei leidnud. Taust: 7. oktoobril kärpis EVS 2026. aasta käibeprognoosi 190–205 mln euroni (varem 220–240 mln) nõrgema septembri tellimuste mahu tõttu ja ootas kasumlikkuse prognoosi uuendamist Q3 teatega 17. novembril. Täna võib mängida ootus selle teate ees; see on oletus.",
-      "sources": [
-        {
-          "title": "EVS lowers 2026 target to 190-205 MEUR (Idéal Investisseur)",
-          "url": "https://www.ideal-investisseur.fr/en/stock-news/evs-lowers-2026-target-to-190-205-meur-down-from-220-240-meur-previously/26680.html"
-        }
-      ],
-      "at": "2026-11-12T17:13:07Z"
-    },
-    {
-      "fmp": "RVLV",
-      "sym": "rvlv",
-      "name": "Revolve Group, Inc.",
-      "pct": -5.73,
-      "short": "Langus; Q3 aruanne oli 3. novembril, tänast uudist ei leidnud",
-      "text": "Revolve langes täna ~6%, kuid tänast uudist ei leidnud. Taust: 3. novembri Q3 aruandes kasvas käive 20%, kuid EPS (0,20 USD) jäi ootusest alla marginaalide kahanemise, kõrgemate saatmiskulude ja negatiivse vaba rahavoo (-27 mln USD) tõttu. Tänane langus võib olla aruande järelmõju; see on oletus.",
-      "sources": [
-        {
-          "title": "Revolve's growth hits a multi-year high but freight, G&A and cash burn cause an earnings miss",
-          "url": "https://finviz.com/news/415035/revolves-growth-hits-a-multi-year-high-but-freight-ga-and-cash-burn-cause-an-earnings-miss"
-        }
-      ],
-      "at": "2026-11-12T17:13:07Z"
-    },
-    {
-      "fmp": "NXT",
-      "sym": "nxt",
-      "name": "Nextpower Inc.",
-      "pct": -5.47,
-      "short": "Langus ~5,5%; tänast põhjust ei leidnud",
-      "text": "Nextpower aktsia langes täna ligi 5,5% (95,09 USD), kuid tänase kuupäevaga ettevõttespetsiifilist uudist ei leidnud. Otsingus ilmusid üldised märkused sektori müügisurve kohta, kuid nende kuupäev ei ole kinnitatud, seega ei saa seost tänase liikumisega kindlaks teha.",
+      "text": "Aktsia langes täna ligi 6% (126 penni), kuid tänast uudist, kauplemisülevaadet ega analüütiku muudatust ei leidnud. Taust: tarbijanõudlus on olnud nõrk, kuid selle seost tänase liikumisega ei saa kinnitada.",
       "sources": [],
-      "at": "2026-11-12T20:06:59Z"
+      "at": "2026-11-13T09:07:16Z"
     },
     {
-      "fmp": "AVGO",
-      "sym": "avgo",
-      "name": "Broadcom Inc.",
-      "pct": 5.39,
-      "short": "Tõus AI-kiipide sektori kõikumises; Nvidia kukkus CEO-uudise peale",
-      "text": "Broadcom tõusis täna ~5,6%. Samal päeval langes Nvidia ~9% pärast WSJ teadet, et juhatus valmistab ette Jensen Huangi ametist kõrvaldamist, ja Bernstein kärpis Nvidia sihthinna 200 dollarile; 247 Wall St märgib, et mõni konkurent võib kaosest kasu saada. Otsest Broadcomi-spetsiifilist põhjust allikad ei nimeta, seega seos on tõenäoline, kuid kinnitamata.",
-      "sources": [
-        {
-          "title": "NVIDIA Sinks 9% on Reports Board Is Preparing to Oust Jensen Huang (247 Wall St)",
-          "url": "https://247wallst.com/investing/2026/11/12/nvidia-sinks-9-on-reports-board-is-preparing-to-oust-jensen-huang-intel-falls-4-amd-holds-steady/"
-        },
-        {
-          "title": "Breakfast News: What's Nvidia's Biggest Risk? (Motley Fool)",
-          "url": "https://www.fool.com/investing/breakfast-news/2026/11/12/breakfast-news/"
-        }
-      ],
-      "at": "2026-11-12T17:13:07Z"
-    },
-    {
-      "fmp": "HLLY",
-      "sym": "hlly",
-      "name": "Holley Inc.",
-      "pct": -5.38,
-      "short": "Langus ~5%; tänast põhjust ei leidnud",
-      "text": "Holley aktsia langes täna ligi 5,4% (2,375 USD), kuid tänase kuupäevaga uudist ega muutust ei leidnud. Langus võib olla jätk varasemale nõrkusele, kuid see on oletus, mida allikas ei kinnita. Põhjuse seos on seega teadmata.",
+      "fmp": "9866.HK",
+      "sym": "9866-hk",
+      "name": "NIO Inc. Class A",
+      "pct": -5.36,
+      "short": "Langus uue aasta madalamal tasemel; põhjust ei leidnud",
+      "text": "Aktsia langes täna üle 5% ja puudutas 52 nädala madalaimat taset (23,16 HKD). Tänast konkreetset uudist ei leidnud, seega põhjus jääb kinnitamata.",
       "sources": [],
-      "at": "2026-11-12T20:06:59Z"
+      "at": "2026-11-13T09:07:16Z"
     }
   ]
 }
