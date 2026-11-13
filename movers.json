@@ -1,12 +1,12 @@
 {
   "date": "2026-11-13",
-  "updated": "2026-11-13T17:08:02Z",
+  "updated": "2026-11-13T20:07:12Z",
   "items": [
     {
       "fmp": "STN.TO",
       "sym": "stn-ca",
       "name": "Stantec Inc",
-      "pct": 15.8,
+      "pct": 13.06,
       "short": "Q3 tulemused ületasid ootusi, kasumlikkuse prognoos tõsteti",
       "text": "Stantec avaldas 12. novembril 3. kvartali tulemused: puhastulu kasvas 9,4% (C$1,86 mld), korrigeeritud EBITDA marginaal 20,2% (+120 bp) ja korrigeeritud EPS +23,5% (C$1,89). Ettevõte tõstis 2026. aasta kasumlikkuse ja EPS-i kasvu prognoosi, tellimuste portfell kasvas 11,6%-ni (C$9,2 mld). Seos tänase tõusuga on väga tõenäoline.",
       "sources": [
@@ -155,7 +155,7 @@
       "fmp": "AVGO",
       "sym": "avgo",
       "name": "Broadcom Inc.",
-      "pct": -5.44,
+      "pct": -5.13,
       "short": "Redburn langetas hinnangu Neutraalseks",
       "text": "Rothschild & Co Redburn langetas Broadcomi soovituse ostust neutraalseks ja kärpis hinnasihti 33% (595 -> 398 USD), viidates kasvavale riskile tehisintellekti rahastusskeemides. Meediaraporti kohaselt langes aktsia selle peale üle 6%. Seos on tõenäoline.",
       "sources": [
@@ -190,7 +190,7 @@
       "fmp": "ALNY",
       "sym": "alny",
       "name": "Alnylam Pharmaceuticals, Inc",
-      "pct": 5.01,
+      "pct": 5.29,
       "short": "Tõus; tänast põhjust ei leidnud",
       "text": "Aktsia tõusis täna ligi 5%, kuid tänast firmaspetsiifilist uudist ei leidnud. Leitud teated (advokaadibüroo uurimisteade 12. novembril) ei selgita tõusu.",
       "sources": [],
@@ -205,6 +205,21 @@
       "text": "Aktsia langes täna ligi 6% (126 penni), kuid tänast uudist, kauplemisülevaadet ega analüütiku muudatust ei leidnud. Taust: tarbijanõudlus on olnud nõrk, kuid selle seost tänase liikumisega ei saa kinnitada.",
       "sources": [],
       "at": "2026-11-13T09:07:16Z"
+    },
+    {
+      "fmp": "VYX",
+      "sym": "vyx",
+      "name": "NCR Voyix Corporation",
+      "pct": 5.87,
+      "short": "Tõus ~6%; tänast konkreetset põhjust ei leidnud",
+      "text": "Aktsia tõusis täna ligi 6% ja on lähedal aasta tipule. Tänaseks ei leidnud ma ühtegi ettevõttespetsiifilist uudist; viimane teade (12. nov) oli vaid osalemine investorkonverentsidel 18.–19. novembril. Seos hinnaliikumisega on teadmata.",
+      "sources": [
+        {
+          "title": "NCR Voyix to Present at Upcoming Investor Conferences",
+          "url": "https://www.businesswire.com/news/home/20261112980639/en/NCR-Voyix-to-Present-at-Upcoming-Investor-Conferences/"
+        }
+      ],
+      "at": "2026-11-13T20:07:12Z"
     }
   ]
 }
