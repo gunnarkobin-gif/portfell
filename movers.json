@@ -1,7 +1,22 @@
 {
   "date": "2026-11-13",
-  "updated": "2026-11-13T09:07:16Z",
+  "updated": "2026-11-13T17:08:02Z",
   "items": [
+    {
+      "fmp": "STN.TO",
+      "sym": "stn-ca",
+      "name": "Stantec Inc",
+      "pct": 15.8,
+      "short": "Q3 tulemused ületasid ootusi, kasumlikkuse prognoos tõsteti",
+      "text": "Stantec avaldas 12. novembril 3. kvartali tulemused: puhastulu kasvas 9,4% (C$1,86 mld), korrigeeritud EBITDA marginaal 20,2% (+120 bp) ja korrigeeritud EPS +23,5% (C$1,89). Ettevõte tõstis 2026. aasta kasumlikkuse ja EPS-i kasvu prognoosi, tellimuste portfell kasvas 11,6%-ni (C$9,2 mld). Seos tänase tõusuga on väga tõenäoline.",
+      "sources": [
+        {
+          "title": "Stantec reports third quarter 2026 results",
+          "url": "https://investors.stantec.com/news-releases/news-release-details/stantec-reports-third-quarter-2026-results-strong-net-revenue"
+        }
+      ],
+      "at": "2026-11-13T17:08:02Z"
+    },
     {
       "fmp": "SPZ.AX",
       "sym": "spz-aus",
@@ -11,6 +26,46 @@
       "text": "Aktsia langes täna ligi 14%, kuid tänast konkreetset uudist ega börsiteadet ei leidnud. Viimased leitud teated (aktsiate tagasiostu lõpetamine, üldkoosolek novembris) ei selgita langust. Seos hinnaliikumisega on teadmata.",
       "sources": [],
       "at": "2026-11-13T09:07:16Z"
+    },
+    {
+      "fmp": "ADOC.PA",
+      "sym": "adoc-par",
+      "name": "Adocia SA",
+      "pct": 8.6,
+      "short": "Tõus; tänast põhjust ei leidnud",
+      "text": "Aktsia tõusis täna ligi 9%, kuid tänast firmaspetsiifilist uudist ei leidnud. 10. novembril oli aktsia juba tõusnud lootuse tõttu igakuisele süstele, kuid selle seost tänase liikumisega ei saa kinnitada.",
+      "sources": [
+        {
+          "title": "Adocia flambe, portée par l'espoir d'une injection mensuelle",
+          "url": "https://www.optionfinance.fr/info-financiere-en-continu/d/2026-11-10-adocia-flambe-portee-par-lespoir-dune-injection-mensuelle.html"
+        }
+      ],
+      "at": "2026-11-13T17:08:02Z"
+    },
+    {
+      "fmp": "SALME.OL",
+      "sym": "salme-no",
+      "name": "Salmon Evolution ASA",
+      "pct": 8.46,
+      "short": "Tõus; tänast põhjust ei leidnud",
+      "text": "Aktsia tõusis täna ligi 8,5%, kuid tänast uudist ega börsiteadet ei leidnud. Viimased teated (3. kvartali tegevusülevaade ja tulemused) pärinevad varasemast ajast ega selgita tänast liikumist.",
+      "sources": [],
+      "at": "2026-11-13T17:08:02Z"
+    },
+    {
+      "fmp": "BUR.L",
+      "sym": "bur-lon",
+      "name": "Burford Capital Limited",
+      "pct": 8.15,
+      "short": "Tõus; tänast põhjust ei leidnud",
+      "text": "Aktsia tõusis Londonis täna üle 8%, kuid tänast uudist ei leidnud. 3. kvartali tulemused avaldati 4.–5. novembril, seega ei ole need tänase liikumise tõendatud põhjus.",
+      "sources": [
+        {
+          "title": "Burford Reports 3Q26 and YTD26 Financial Results",
+          "url": "https://investors.burfordcapital.com/news/news-details/2026/Burford-Reports-3Q26-and-YTD26-Financial-Results/default.aspx"
+        }
+      ],
+      "at": "2026-11-13T17:08:02Z"
     },
     {
       "fmp": "9698.HK",
@@ -23,14 +78,93 @@
       "at": "2026-11-13T09:07:16Z"
     },
     {
-      "fmp": "DFS.L",
-      "sym": "dfs-lon",
-      "name": "DFS Furniture PLC",
-      "pct": -5.97,
-      "short": "Langus; tänast põhjust ei leidnud",
-      "text": "Aktsia langes täna ligi 6% (126 penni), kuid tänast uudist, kauplemisülevaadet ega analüütiku muudatust ei leidnud. Taust: tarbijanõudlus on olnud nõrk, kuid selle seost tänase liikumisega ei saa kinnitada.",
+      "fmp": "BFF.MI",
+      "sym": "bff-mil",
+      "name": "BFF Bank SpA",
+      "pct": 7.12,
+      "short": "Tagasipõrge pärast 10.–11. nov. järsku langust",
+      "text": "BFF langes pärast 9 kuu tulemusi 10.–11. novembril ligi 20% (kasum -14%, ainuõigusega läbirääkimised Cerberusega kuni 400 mln euro suuruse kapitalikorralduse üle). Tänast uut uudist ei leidnud, seega on tänane tõus tõenäoliselt tehniline tagasipõrge, kuid see on oletus.",
+      "sources": [
+        {
+          "title": "Bff Bank crolla in borsa dopo i conti (-20%)",
+          "url": "https://www.milanofinanza.it/news/bff-bank-scivola-in-borsa-dopo-i-conti-ecco-perche-e-cosa-ne-pensano-gli-analisti-di-equita-202611111201493496"
+        }
+      ],
+      "at": "2026-11-13T17:08:02Z"
+    },
+    {
+      "fmp": "FF.MI",
+      "sym": "ff-mil",
+      "name": "Fine Foods & Pharmaceuticals N.T.M. SpA",
+      "pct": -5.82,
+      "short": "Nõrgad 9 kuu tulemused jätkavad survet",
+      "text": "Ettevõte teatas 10. novembril 9 kuu netokahjumiks €1,7 mln uue tehase kulude tõttu (käive €185,6 mln, -2,2%) ja Intermonte kärpis sihthinda. Tänast uut uudist ei leidnud, langus on tõenäoliselt tulemuste jätkuefekt.",
+      "sources": [
+        {
+          "title": "Fine Foods passa in perdita per 1,7 milioni di euro nei 9 mesi",
+          "url": "https://www.teleborsa.it/News/2026/11/10/fine-foods-passa-in-perdita-per-1-7-milioni-di-euro-nei-9-mesi-con-costi-del-nuovo-stabilimento-107.html"
+        }
+      ],
+      "at": "2026-11-13T17:08:02Z"
+    },
+    {
+      "fmp": "EUZ.DE",
+      "sym": "euz-etr",
+      "name": "Eckert & Ziegler SE",
+      "pct": 5.79,
+      "short": "Tõus pärast Q3 tulemusi (12. nov)",
+      "text": "Ettevõte avaldas 12. novembril 3. kvartali tulemused: käive €79,6 mln (+6%), korrigeeritud EBIT €19,3 mln (+25%) ja 2026. aasta prognoos kinnitati. Tänane tõus on tõenäoliselt tulemuste järelreaktsioon, kuid tänast eraldi põhjust ei leidnud.",
+      "sources": [
+        {
+          "title": "Eckert & Ziegler: Bereinigtes EBIT im dritten Quartal +25%",
+          "url": "https://www.onvista.de/news/2026/11-12-eqs-news-eckert-ziegler-bereinigtes-ebit-im-dritten-quartal-25-prognose-2026-bestaetigt-0-37-26575433"
+        }
+      ],
+      "at": "2026-11-13T17:08:02Z"
+    },
+    {
+      "fmp": "EYE",
+      "sym": "eye",
+      "name": "National Vision Holdings, Inc.",
+      "pct": -5.76,
+      "short": "Langus päev pärast Q3 tulemusi",
+      "text": "National Vision avaldas 12. novembril 3. kvartali tulemused: EPS ületas ootusi, kuid 2026. aasta käibeprognoosi korrigeeriti madalama väärtusega tehingute surve tõttu ja külastatavus langes. Tänane langus on võimalik tulemuste järelreaktsioon, kuid tänast otsest põhjust ei leidnud.",
+      "sources": [
+        {
+          "title": "National Vision Q3 Earnings Call Highlights",
+          "url": "https://www.marketbeat.com/instant-alerts/transcript-national-vision-q3-earnings-call-highlights-2026-11-12/"
+        },
+        {
+          "title": "National Vision Holdings Reports Third Quarter 2026 Financial Results",
+          "url": "https://www.businesswire.com/news/home/20261112124731/en/National-Vision-Holdings-Inc.-Reports-Third-Quarter-2026-Financial-Results/"
+        }
+      ],
+      "at": "2026-11-13T17:08:02Z"
+    },
+    {
+      "fmp": "HLLY",
+      "sym": "hlly",
+      "name": "Holley Inc.",
+      "pct": 5.72,
+      "short": "Tõus; tänast põhjust ei leidnud",
+      "text": "Aktsia tõusis täna ligi 6%, kuid tänast uudist ei leidnud. 3. kvartali tulemused avaldati 5. novembril ega selgita tänast liikumist. Madala hinnaga aktsias on päevased kõikumised suured.",
       "sources": [],
-      "at": "2026-11-13T09:07:16Z"
+      "at": "2026-11-13T17:08:02Z"
+    },
+    {
+      "fmp": "AVGO",
+      "sym": "avgo",
+      "name": "Broadcom Inc.",
+      "pct": -5.44,
+      "short": "Redburn langetas hinnangu Neutraalseks",
+      "text": "Rothschild & Co Redburn langetas Broadcomi soovituse ostust neutraalseks ja kärpis hinnasihti 33% (595 -> 398 USD), viidates kasvavale riskile tehisintellekti rahastusskeemides. Meediaraporti kohaselt langes aktsia selle peale üle 6%. Seos on tõenäoline.",
+      "sources": [
+        {
+          "title": "Broadcom stock falls 6% as this firm flags AI financing risks",
+          "url": "https://invezz.com/news/2026/11/13/broadcom-stock-falls-6-as-this-firm-flags-ai-financing-risks/"
+        }
+      ],
+      "at": "2026-11-13T17:08:02Z"
     },
     {
       "fmp": "9866.HK",
@@ -39,6 +173,36 @@
       "pct": -5.36,
       "short": "Langus uue aasta madalamal tasemel; põhjust ei leidnud",
       "text": "Aktsia langes täna üle 5% ja puudutas 52 nädala madalaimat taset (23,16 HKD). Tänast konkreetset uudist ei leidnud, seega põhjus jääb kinnitamata.",
+      "sources": [],
+      "at": "2026-11-13T09:07:16Z"
+    },
+    {
+      "fmp": "EVT.DE",
+      "sym": "evt-etr",
+      "name": "Evotec SE",
+      "pct": -5.06,
+      "short": "Langus; tänast põhjust ei leidnud",
+      "text": "Aktsia langes täna üle 5%, kuid tänast firmaspetsiifilist uudist ei leidnud. 3. kvartali tulemused avaldati 5. novembril, seega ei ole need tänase liikumise tõendatud põhjus.",
+      "sources": [],
+      "at": "2026-11-13T17:08:02Z"
+    },
+    {
+      "fmp": "ALNY",
+      "sym": "alny",
+      "name": "Alnylam Pharmaceuticals, Inc",
+      "pct": 5.01,
+      "short": "Tõus; tänast põhjust ei leidnud",
+      "text": "Aktsia tõusis täna ligi 5%, kuid tänast firmaspetsiifilist uudist ei leidnud. Leitud teated (advokaadibüroo uurimisteade 12. novembril) ei selgita tõusu.",
+      "sources": [],
+      "at": "2026-11-13T17:08:02Z"
+    },
+    {
+      "fmp": "DFS.L",
+      "sym": "dfs-lon",
+      "name": "DFS Furniture PLC",
+      "pct": -3.73,
+      "short": "Langus; tänast põhjust ei leidnud",
+      "text": "Aktsia langes täna ligi 6% (126 penni), kuid tänast uudist, kauplemisülevaadet ega analüütiku muudatust ei leidnud. Taust: tarbijanõudlus on olnud nõrk, kuid selle seost tänase liikumisega ei saa kinnitada.",
       "sources": [],
       "at": "2026-11-13T09:07:16Z"
     }
