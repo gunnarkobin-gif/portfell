@@ -1,16 +1,31 @@
 {
   "date": "2026-11-16",
-  "updated": "2026-11-16T09:07:33Z",
+  "updated": "2026-11-16T17:12:09Z",
   "items": [
     {
-      "fmp": "VU.PA",
-      "sym": "vu-par",
-      "name": "VusionGroup S.A.",
-      "pct": 7.07,
-      "short": "Tõus ~7%; tänast põhjust ei leidnud",
-      "text": "Aktsia tõusis täna hommikul ligi 7% (hind 160,6 EUR). Tänase kuupäevaga uudist, aktsiaanalüütiku soovitust ega ettevõtte teadet ei leidnud, mistõttu põhjus on teadmata. Viimased leitud teated (kolmanda kvartali müügi kasv) ei pärine tänasest päevast.",
+      "fmp": "ADOC.PA",
+      "sym": "adoc-par",
+      "name": "Adocia SA",
+      "pct": -9.71,
+      "short": "Langus ~10%; tänast põhjust ei leidnud, eelmisel nädalal järsk tõus",
+      "text": "Aktsia langes täna ligi 9,7% hinnani 4,22 EUR. Tänast uudist ei leidnud. 10. novembril oli aktsia kuu aja süstimise lootusest järsult tõusnud, seega võib tegu olla kasumi realiseerimisega, kuid see on oletus, mida allikad tänase päeva kohta ei kinnita.",
+      "sources": [
+        {
+          "title": "Adocia flambe, portée par l'espoir d'une injection mensuelle",
+          "url": "https://www.easybourse.com/international/news/1541437/adocia-flambe-portee-par-espoir-une-injection-mensuelle.html"
+        }
+      ],
+      "at": "2026-11-16T17:12:09Z"
+    },
+    {
+      "fmp": "MAMA",
+      "sym": "mama",
+      "name": "Mama's Creations, Inc.",
+      "pct": -6.46,
+      "short": "Langus ~6%; tänast põhjust ei leidnud",
+      "text": "Aktsia langes täna ligi 6,5% hinnani 12,16 USD. Tänase kuupäevaga ettevõtte uudist, analüütikute muudatust ega muud selget põhjust ei leidnud, seega põhjus on teadmata.",
       "sources": [],
-      "at": "2026-11-16T09:07:33Z"
+      "at": "2026-11-16T17:12:09Z"
     },
     {
       "fmp": "9698.HK",
@@ -21,6 +36,51 @@
       "text": "Hongkongi börsil langes aktsia täna ligi 6,4% (18,65 HKD) ja jõudis aasta madalaimale tasemele. Tänast konkreetset ettevõtteuudist ei leidnud; varasemates ülevaadetes on langust seostatud kasumimarginaalide ja suurte investeeringute muredega, kuid seos tänase liikumisega on kinnitamata.",
       "sources": [],
       "at": "2026-11-16T09:07:33Z"
+    },
+    {
+      "fmp": "AMBA",
+      "sym": "amba",
+      "name": "Ambarella, Inc.",
+      "pct": -5.81,
+      "short": "Langus ~6%; kiibisektor nõrk, ettevõtte-põhjust ei leidnud",
+      "text": "Aktsia langes täna ligi 5,8% hinnani 56,63 USD. Ettevõttespetsiifilist tänast uudist ei leidnud. Samal päeval langesid ka kiibi- ja tarkvarapeerid (Broadcom ca -3,3%, Cadence ca -3,2%), mis viitab sektori nõrkusele, kuid tänast allikat selle seose kinnitamiseks ei leidnud.",
+      "sources": [],
+      "at": "2026-11-16T17:12:09Z"
+    },
+    {
+      "fmp": "GLJ.DE",
+      "sym": "glj-etr",
+      "name": "GRENKE AG",
+      "pct": 5.56,
+      "short": "Tõus ~5,6%; tänast põhjust ei leidnud",
+      "text": "Aktsia tõusis täna ligi 5,6% hinnani 12,52 EUR. Tänase kuupäevaga uudist ega analüütiku soovitust ei leidnud, seega põhjus on teadmata.",
+      "sources": [],
+      "at": "2026-11-16T17:12:09Z"
+    },
+    {
+      "fmp": "VU.PA",
+      "sym": "vu-par",
+      "name": "VusionGroup S.A.",
+      "pct": 5.4,
+      "short": "Tõus ~7%; tänast põhjust ei leidnud",
+      "text": "Aktsia tõusis täna hommikul ligi 7% (hind 160,6 EUR). Tänase kuupäevaga uudist, aktsiaanalüütiku soovitust ega ettevõtte teadet ei leidnud, mistõttu põhjus on teadmata. Viimased leitud teated (kolmanda kvartali müügi kasv) ei pärine tänasest päevast.",
+      "sources": [],
+      "at": "2026-11-16T09:07:33Z"
+    },
+    {
+      "fmp": "GXO",
+      "sym": "gxo",
+      "name": "GXO Logistics Inc",
+      "pct": 5.25,
+      "short": "Tõus ~5%; investoripäev ja 2030. a finantseesmärgid",
+      "text": "GXO pidas täna New Yorgi börsil investoripäeva ja avaldas 2030. aasta finantseesmärgid. Aktsia tõusis ligi 5% hinnani 57,5 USD. Ajaline kokkulangevus teatega on selge, kuid eesmärkide täpseid numbreid ei õnnestunud kinnitada, seega seos on tõenäoline, mitte kindel.",
+      "sources": [
+        {
+          "title": "GXO Announces 2030 Financial Targets at Investor Day",
+          "url": "https://www.globenewswire.com/news-release/2026/11/16/3403349/0/en/gxo-announces-2030-financial-targets-at-investor-day.html"
+        }
+      ],
+      "at": "2026-11-16T17:12:09Z"
     },
     {
       "fmp": "SPZ.AX",
