@@ -1,7 +1,17 @@
 {
   "date": "2026-11-16",
-  "updated": "2026-11-16T17:12:09Z",
+  "updated": "2026-11-16T20:06:36Z",
   "items": [
+    {
+      "fmp": "MAMA",
+      "sym": "mama",
+      "name": "Mama's Creations, Inc.",
+      "pct": -9.85,
+      "short": "Langus ~10%; ettevõttespetsiifilist põhjust ei leidnud",
+      "text": "Aktsia langes täna ligi 9,9% hinnani 11,72 USD (päeva madalaim 11,16). Tänase kuupäevaga ettevõtte uudist, analüütikute muudatust ega muud selget põhjust ei leidnud, seega põhjus on teadmata.",
+      "sources": [],
+      "at": "2026-11-16T20:06:36Z"
+    },
     {
       "fmp": "ADOC.PA",
       "sym": "adoc-par",
@@ -18,14 +28,29 @@
       "at": "2026-11-16T17:12:09Z"
     },
     {
-      "fmp": "MAMA",
-      "sym": "mama",
-      "name": "Mama's Creations, Inc.",
-      "pct": -6.46,
-      "short": "Langus ~6%; tänast põhjust ei leidnud",
-      "text": "Aktsia langes täna ligi 6,5% hinnani 12,16 USD. Tänase kuupäevaga ettevõtte uudist, analüütikute muudatust ega muud selget põhjust ei leidnud, seega põhjus on teadmata.",
+      "fmp": "AMBA",
+      "sym": "amba",
+      "name": "Ambarella, Inc.",
+      "pct": -6.86,
+      "short": "Langus ~6%; kiibisektor nõrk, ettevõtte-põhjust ei leidnud",
+      "text": "Aktsia langes täna ligi 5,8% hinnani 56,63 USD. Ettevõttespetsiifilist tänast uudist ei leidnud. Samal päeval langesid ka kiibi- ja tarkvarapeerid (Broadcom ca -3,3%, Cadence ca -3,2%), mis viitab sektori nõrkusele, kuid tänast allikat selle seose kinnitamiseks ei leidnud.",
       "sources": [],
       "at": "2026-11-16T17:12:09Z"
+    },
+    {
+      "fmp": "AVAV",
+      "sym": "avav",
+      "name": "AeroVironment, Inc.",
+      "pct": -6.39,
+      "short": "Droonide ja kasvuaktsiate müügilaine; langus ~6%",
+      "text": "AeroVironmenti aktsia langes täna ligi 6,4% hinnani 110,01 USD. Tänase kuupäeva FMP uudise järgi jätkasid droonisektori aktsiad kukkumist (Ondas -8%, Red Cat -5%, Unusual Machines -4%), kuna investorid vähendasid positsioone tehisintellektiga seotud kasvuaktsiates. AeroVironmenti enda kohta tänast uudist ei leidnud, seega on seos sektorilangusega tõenäoline, kuid mitte kindel.",
+      "sources": [
+        {
+          "title": "Ondas Falls 8% Despite $1.1 Billion 2027 Revenue Target as Drone Stocks Extend Losses",
+          "url": "https://247wallst.com/investing/2026/11/16/ondas-falls-8-despite-1-1-billion-2027-revenue-target-as-drone-stocks-extend-losses-red-cat-drops-5-unusual-machines-slides-4/"
+        }
+      ],
+      "at": "2026-11-16T20:06:36Z"
     },
     {
       "fmp": "9698.HK",
@@ -38,14 +63,14 @@
       "at": "2026-11-16T09:07:33Z"
     },
     {
-      "fmp": "AMBA",
-      "sym": "amba",
-      "name": "Ambarella, Inc.",
-      "pct": -5.81,
-      "short": "Langus ~6%; kiibisektor nõrk, ettevõtte-põhjust ei leidnud",
-      "text": "Aktsia langes täna ligi 5,8% hinnani 56,63 USD. Ettevõttespetsiifilist tänast uudist ei leidnud. Samal päeval langesid ka kiibi- ja tarkvarapeerid (Broadcom ca -3,3%, Cadence ca -3,2%), mis viitab sektori nõrkusele, kuid tänast allikat selle seose kinnitamiseks ei leidnud.",
+      "fmp": "IPGP",
+      "sym": "ipgp",
+      "name": "IPG Photonics Corporation",
+      "pct": -5.99,
+      "short": "Langus ~6%; ettevõtte uudist ei leidnud, tehnoloogiasektor nõrk",
+      "text": "Aktsia langes täna ligi 6,0% hinnani 63,72 USD, aastamadalikule lähedal. Tänast ettevõtte uudist ei leidnud. Samal päeval langesid ka teised tehnoloogia- ja pooljuhtaktsiad (Broadcom -3,7%, Cadence -4,4%), seega võib tegu olla sektori nõrkusega, kuid seda konkreetse põhjusena ükski allikas ei kinnita.",
       "sources": [],
-      "at": "2026-11-16T17:12:09Z"
+      "at": "2026-11-16T20:06:36Z"
     },
     {
       "fmp": "GLJ.DE",
