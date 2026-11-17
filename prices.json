@@ -1,13 +1,13 @@
 {
-  "updated": "2026-11-14T00:16:58Z",
+  "updated": "2026-11-17T00:16:57Z",
   "items": [
     {
       "sym": "obck-etr",
       "name": "Ottobock SE & Co. KGaA",
-      "price": 40.05,
+      "price": 39.4,
       "currency": "EUR",
-      "priceDate": "2026-11-13",
-      "source": "wallstreet-online.de (Tradegate)",
+      "priceDate": "2026-11-16",
+      "source": "wallstreet-online.de (Tradegate BSX; FMP ei kata)",
       "url": "https://www.wallstreet-online.de/aktien/ottobock-aktie"
     }
   ]
