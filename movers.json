@@ -1,7 +1,32 @@
 {
   "date": "2026-11-17",
-  "updated": "2026-11-17T17:07:30Z",
+  "updated": "2026-11-17T20:11:54Z",
   "items": [
+    {
+      "fmp": "GRGD.TO",
+      "sym": "grgd-ca",
+      "name": "Groupe Dynamite Inc.",
+      "pct": -13.22,
+      "short": "Langus ~13%; täna ettevõtte-põhist põhjust kinnitatud allikast ei leidnud",
+      "text": "Aktsia langes täna 13,22% hinnani 49,15 CAD ja on lähedal aasta madalaimale tasemele. Tänast ettevõtte uudist ega analüütikute muudatust ei leidnud, seega põhjus on teadmata. Eelmine kontroll näitas -9,3%, nii et langus süvenes päeva jooksul.",
+      "sources": [],
+      "at": "2026-11-17T20:11:54Z"
+    },
+    {
+      "fmp": "NXT",
+      "sym": "nxt",
+      "name": "Nextpower Inc.",
+      "pct": -10.99,
+      "short": "Langus ~11%; täna toimunud investoripäev uute 2030. a. eesmärkidega, reaktsioon negatiivne",
+      "text": "Aktsia langes täna 10,99% hinnani 79,50 USD. Ettevõte pidas täna Capital Markets Day ja uuendas 2030. aasta väljavaadet (üle 7,5 mld USD tulu, üle 1,6 mld USD korrigeeritud EBITDA, korrigeeritud EPS üle 8 USD). Miks turg sellele langusega reageeris, allikad ei selgita; seos on tõenäoline ajaliselt, aga põhjus pole kinnitatud.",
+      "sources": [
+        {
+          "title": "Nextpower Hosts Capital Markets Day (Business Wire, via FMP)",
+          "url": "https://www.businesswire.com/news/home/20261117426961/en/Nextpower-Hosts-Capital-Markets-Day/"
+        }
+      ],
+      "at": "2026-11-17T20:11:54Z"
+    },
     {
       "fmp": "9698.HK",
       "sym": "9698-hk",
@@ -62,16 +87,6 @@
       "at": "2026-11-17T17:07:30Z"
     },
     {
-      "fmp": "GRGD.TO",
-      "sym": "grgd-ca",
-      "name": "Groupe Dynamite Inc.",
-      "pct": -9.32,
-      "short": "Langus ~9%; põhjust ei leidnud",
-      "text": "Aktsia langes täna 9,32% hinnani 51,36 CAD. Täna avaldatud ettevõtte uudist, tulemust ega analüütikumuudatust ei leidnud, seega põhjus on teadmata. Aktsia on olnud aasta jooksul tugevas languses ja kauples täna lähedal aasta madalaimale tasemele.",
-      "sources": [],
-      "at": "2026-11-17T17:07:30Z"
-    },
-    {
       "fmp": "9626.HK",
       "sym": "9626-hk",
       "name": "Bilibili Inc. Class Z",
@@ -95,6 +110,16 @@
         }
       ],
       "at": "2026-11-17T17:07:30Z"
+    },
+    {
+      "fmp": "AMRC",
+      "sym": "amrc",
+      "name": "Ameresco, Inc. Class A",
+      "pct": -8.35,
+      "short": "Langus ~8%; täna põhjust ei leidnud",
+      "text": "Aktsia langes täna 8,35% hinnani 22,62 USD. Tänast ettevõtte uudist ega analüütikute muudatust ei leidnud, seega põhjus on teadmata.",
+      "sources": [],
+      "at": "2026-11-17T20:11:54Z"
     },
     {
       "fmp": "AS",
@@ -152,6 +177,16 @@
         }
       ],
       "at": "2026-11-17T17:07:30Z"
+    },
+    {
+      "fmp": "CHWY",
+      "sym": "chwy",
+      "name": "Chewy, Inc. Class A",
+      "pct": -5.78,
+      "short": "Langus ~6%; täna põhjust ei leidnud",
+      "text": "Aktsia langes täna 5,78% hinnani 20,37 USD. Tänast ettevõtte-põhist uudist ei leidnud; ainsad värsked teated olid juhi AI-agentide intervjuu ja üldine võrdlusartikkel, mis ei seleta liikumist.",
+      "sources": [],
+      "at": "2026-11-17T20:11:54Z"
     },
     {
       "fmp": "AOF.DE",
