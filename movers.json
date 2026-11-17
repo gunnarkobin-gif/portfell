@@ -1,6 +1,6 @@
 {
   "date": "2026-11-17",
-  "updated": "2026-11-17T09:06:48Z",
+  "updated": "2026-11-17T17:07:30Z",
   "items": [
     {
       "fmp": "9698.HK",
@@ -13,6 +13,65 @@
       "at": "2026-11-17T09:06:48Z"
     },
     {
+      "fmp": "ADOC.PA",
+      "sym": "adoc-par",
+      "name": "Adocia SA",
+      "pct": -10.14,
+      "short": "Langus ~9%; tänast põhjust ei leidnud",
+      "text": "Aktsia langes täna 8,77% hinnani 3,85 EUR. Tänast uudist ei leidnud. 10. novembril oli aktsia tõusnud lootuse peale kord kuus manustatavale süstile, seega võib tegu olla kasumi realiseerimisega, kuid see on oletus, mida allikad tänase päeva kohta ei kinnita.",
+      "sources": [
+        {
+          "title": "Adocia flambe, portée par l'espoir d'une injection mensuelle",
+          "url": "https://www.easybourse.com/international/news/1541437/adocia-flambe-portee-par-espoir-une-injection-mensuelle.html"
+        }
+      ],
+      "at": "2026-11-17T09:06:48Z"
+    },
+    {
+      "fmp": "SALME.OL",
+      "sym": "salme-no",
+      "name": "Salmon Evolution ASA",
+      "pct": 10.04,
+      "short": "Tõus ~10%; täna põhjust ei leidnud",
+      "text": "Aktsia tõusis täna 10,04% hinnani 2,63 NOK. Täna avaldatud ettevõtte uudist ega analüütikumuudatust ei leidnud; viimane tulemusaruanne (Q3, 28. okt) näitas lõikust 15% kasvu 1 597 tonnini ja väiksemat kahjumit, kuid see ei selgita tänast hüpet. Põhjus on teadmata.",
+      "sources": [
+        {
+          "title": "Salmon Evolution Q3 2026 slides – Investing.com",
+          "url": "https://www.investing.com/news/company-news/salmon-evolution-q3-2026-slides-losses-narrow-as-phase-2-nears-93CH-4977672"
+        }
+      ],
+      "at": "2026-11-17T17:07:30Z"
+    },
+    {
+      "fmp": "BFF.MI",
+      "sym": "bff-mil",
+      "name": "BFF Bank SpA",
+      "pct": -9.93,
+      "short": "Langus ~10%; jätkuv Cerberuse/Bankitalia ebakindlus, täna uut uudist ei leidnud",
+      "text": "Aktsia langes täna 9,93% hinnani 1,261 EUR, mis on aasta madalaim tase. Täna avaldatud uut uudist ei leidnud. Taust: pank teatas 10. novembril kolme kvartali tulemused ja peab Cerberusega ainuõiguslikke läbirääkimisi, et vältida ettevõtte tükeldamist; Itaalia meedia kirjeldab ka kapitaliinimeste muret. Seos tänase liikumisega on tõenäoline, kuid allikaga kinnitamata.",
+      "sources": [
+        {
+          "title": "Forbes Italia: BFF ja Cerberus (11.11.2026)",
+          "url": "https://forbes.it/2026/11/11/azioni-bff-affondano-dopo-i-conti-la-banca-tratta-in-esclusiva-con-cerberus-per-evitare-lo-spezzatino"
+        },
+        {
+          "title": "Benzinga Italia: BFF, Cerberus ja kapital",
+          "url": "https://it.benzinga.com/news/italy/stocks/azioni-bff-bank-offerta-cerberus-aumento-capitale/"
+        }
+      ],
+      "at": "2026-11-17T17:07:30Z"
+    },
+    {
+      "fmp": "GRGD.TO",
+      "sym": "grgd-ca",
+      "name": "Groupe Dynamite Inc.",
+      "pct": -9.32,
+      "short": "Langus ~9%; põhjust ei leidnud",
+      "text": "Aktsia langes täna 9,32% hinnani 51,36 CAD. Täna avaldatud ettevõtte uudist, tulemust ega analüütikumuudatust ei leidnud, seega põhjus on teadmata. Aktsia on olnud aasta jooksul tugevas languses ja kauples täna lähedal aasta madalaimale tasemele.",
+      "sources": [],
+      "at": "2026-11-17T17:07:30Z"
+    },
+    {
       "fmp": "9626.HK",
       "sym": "9626-hk",
       "name": "Bilibili Inc. Class Z",
@@ -23,19 +82,91 @@
       "at": "2026-11-17T09:06:48Z"
     },
     {
-      "fmp": "ADOC.PA",
-      "sym": "adoc-par",
-      "name": "Adocia SA",
-      "pct": -8.77,
-      "short": "Langus ~9%; tänast põhjust ei leidnud",
-      "text": "Aktsia langes täna 8,77% hinnani 3,85 EUR. Tänast uudist ei leidnud. 10. novembril oli aktsia tõusnud lootuse peale kord kuus manustatavale süstile, seega võib tegu olla kasumi realiseerimisega, kuid see on oletus, mida allikad tänase päeva kohta ei kinnita.",
+      "fmp": "EKT.DE",
+      "sym": "ekt-etr",
+      "name": "EnergieKontor AG",
+      "pct": -8.59,
+      "short": "Langus ~9%; uus aasta madalaim, täna põhjust ei leidnud",
+      "text": "Aktsia langes täna 8,59% hinnani 20,75 EUR, mis on aasta madalaim tase. Täna avaldatud uut uudist ei leidnud. Taustaks: ettevõte kärpis augustis tulemusprognoosi projektide viivituste tõttu (Šotimaa tuulepargid), mis jätkuvalt aktsiat rõhub.",
       "sources": [
         {
-          "title": "Adocia flambe, portée par l'espoir d'une injection mensuelle",
-          "url": "https://www.easybourse.com/international/news/1541437/adocia-flambe-portee-par-espoir-une-injection-mensuelle.html"
+          "title": "onvista: Energiekontor kappt Prognose (14.08.2026)",
+          "url": "https://www.onvista.de/news/2026/08-14-roundup-energiekontor-kappt-prognose-projekte-verspaetet-aktie-bricht-ein-0-10-26543092"
         }
       ],
-      "at": "2026-11-17T09:06:48Z"
+      "at": "2026-11-17T17:07:30Z"
+    },
+    {
+      "fmp": "AS",
+      "sym": "as",
+      "name": "Amer Sports, Inc.",
+      "pct": 6.47,
+      "short": "Tõus ~6%; Q3 tulemused ületasid ootusi, aastaprognoosid tõsteti",
+      "text": "Amer Sports teatas täna 3. kvartali tulemused: müük kasvas 24%, EPS oli 0,42 USD (konsensus 0,34) ja ettevõte tõstis kogu aasta müügi-, marginaali- ja EPS-prognoosi. Kasvu vedasid Salomon, Arc'teryx ja Wilson. Seos hinnaliikumisega on väga tõenäoline.",
+      "sources": [
+        {
+          "title": "Amer Sports Q3 2026 – Business Wire",
+          "url": "https://www.businesswire.com/news/home/20261117651240/en/Amer-Sports-Reports-Third-Quarter-2026-Financial-Results-Raises-Full-Year-Revenue-Margin-and-EPS-Guidance/"
+        },
+        {
+          "title": "Zacks: AS beats Q3 estimates",
+          "url": "https://www.zacks.com/stock/news/3030863/amer-sports-inc-as-beats-q3-earnings-and-revenue-estimates"
+        },
+        {
+          "title": "Benzinga: stocks moving higher",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63351029/amer-sports-sellas-life-sciences-similarweb-and-other-big-stocks-moving-higher-on-tuesday"
+        }
+      ],
+      "at": "2026-11-17T17:07:30Z"
+    },
+    {
+      "fmp": "EVT.DE",
+      "sym": "evt-etr",
+      "name": "Evotec SE",
+      "pct": -6.34,
+      "short": "Langus ~6%; täna põhjust ei leidnud",
+      "text": "Aktsia langes täna 6,34% hinnani 2,75 EUR. Täna avaldatud uut uudist ei leidnud. Taustaks: Evotec langetas novembris 2026. aasta prognoosi ja aktsia on olnud surve all; otsest seost tänase languse ja selle vahel ei saa allikaga kinnitada.",
+      "sources": [
+        {
+          "title": "Evotec Aktie: Jahresziele für 2026 gesenkt – Börse Express",
+          "url": "https://www.boerse-express.com/news/articles/evotec-aktie-jahresziele-fuer-2026-gesenkt-947322"
+        },
+        {
+          "title": "wallstreet-online: Evotec rutscht ab (10.11.2026)",
+          "url": "https://www.wallstreet-online.de/nachricht/21667641-aktie-check-evotec-rutscht-markt-november-2026"
+        }
+      ],
+      "at": "2026-11-17T17:07:30Z"
+    },
+    {
+      "fmp": "ADN1.DE",
+      "sym": "adn1-etr",
+      "name": "adesso SE",
+      "pct": -6.23,
+      "short": "Langus ~6%; täna ettevõttespetsiifilist põhjust ei leidnud",
+      "text": "Aktsia langes täna 6,23% hinnani 76,7 EUR. Täna avaldatud ettevõtte uudist ega analüütikumuudatust ei leidnud. USA turud olid täna nõrgad (Dow -700 punkti), kuid seost adesso langusega allikas ei kinnita.",
+      "sources": [
+        {
+          "title": "Benzinga: Dow ca 700 punkti languses",
+          "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63351029/amer-sports-sellas-life-sciences-similarweb-and-other-big-stocks-moving-higher-on-tuesday"
+        }
+      ],
+      "at": "2026-11-17T17:07:30Z"
+    },
+    {
+      "fmp": "AOF.DE",
+      "sym": "aof-etr",
+      "name": "ATOSS Software SE",
+      "pct": -5.37,
+      "short": "Langus ~5%; täna ettevõttespetsiifilist põhjust ei leidnud",
+      "text": "Aktsia langes täna 5,37% hinnani 82,9 EUR. Täna avaldatud ettevõtte uudist ei leidnud; TecDAXis oli Atoss täna samuti languses, kuid põhjust allikad ei nimeta. Tarkvarasektori nõrkus on võimalik taust, kuid kinnitamata.",
+      "sources": [
+        {
+          "title": "finanzen.ch: TecDAX 17.11.2026",
+          "url": "https://www.finanzen.ch/nachrichten/aktien/boerse-frankfurt-tecdax-verliert-zum-start-des-dienstagshandels-1036772827"
+        }
+      ],
+      "at": "2026-11-17T17:07:30Z"
     },
     {
       "fmp": "9988.HK",
@@ -48,14 +179,14 @@
       "at": "2026-11-17T09:06:48Z"
     },
     {
-      "fmp": "EKT.DE",
-      "sym": "ekt-etr",
-      "name": "EnergieKontor AG",
-      "pct": -5.07,
-      "short": "Langus ~5%; tänast põhjust ei leidnud, uus aasta madalaim",
-      "text": "Aktsia langes täna 5,07% hinnani 21,55 EUR, mis on aasta madalaim hind. Tänast ettevõtte uudist ega analüütikute muudatust ei leidnud, seega põhjus on teadmata. Aktsia on pikemat aega langustrendis (aasta kõrgeim 50,4 EUR), seega võib tegu olla jätkuva müügisurvega, kuid see on oletus.",
+      "fmp": "VIT-B.ST",
+      "sym": "vit.b-se",
+      "name": "Vitec Software Group AB Class B",
+      "pct": -5.1,
+      "short": "Langus ~5%; täna põhjust ei leidnud",
+      "text": "Aktsia langes täna 5,10% hinnani 293,8 SEK. Täna avaldatud ettevõtte uudist ega analüütikumuudatust ei leidnud, seega põhjus on teadmata. Aktsia on siiski aasta tipu lähedal, nii et tegu võib olla kasumivõtmisega, mida allikas ei kinnita.",
       "sources": [],
-      "at": "2026-11-17T09:06:48Z"
+      "at": "2026-11-17T17:07:30Z"
     }
   ]
 }
