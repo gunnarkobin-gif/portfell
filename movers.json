@@ -1,227 +1,70 @@
 {
-  "date": "2026-11-17",
-  "updated": "2026-11-17T20:11:54Z",
+  "date": "2026-11-18",
+  "updated": "2026-11-18T09:07:21Z",
   "items": [
     {
-      "fmp": "GRGD.TO",
-      "sym": "grgd-ca",
-      "name": "Groupe Dynamite Inc.",
-      "pct": -13.22,
-      "short": "Langus ~13%; täna ettevõtte-põhist põhjust kinnitatud allikast ei leidnud",
-      "text": "Aktsia langes täna 13,22% hinnani 49,15 CAD ja on lähedal aasta madalaimale tasemele. Tänast ettevõtte uudist ega analüütikute muudatust ei leidnud, seega põhjus on teadmata. Eelmine kontroll näitas -9,3%, nii et langus süvenes päeva jooksul.",
-      "sources": [],
-      "at": "2026-11-17T20:11:54Z"
-    },
-    {
-      "fmp": "NXT",
-      "sym": "nxt",
-      "name": "Nextpower Inc.",
-      "pct": -10.99,
-      "short": "Langus ~11%; täna toimunud investoripäev uute 2030. a. eesmärkidega, reaktsioon negatiivne",
-      "text": "Aktsia langes täna 10,99% hinnani 79,50 USD. Ettevõte pidas täna Capital Markets Day ja uuendas 2030. aasta väljavaadet (üle 7,5 mld USD tulu, üle 1,6 mld USD korrigeeritud EBITDA, korrigeeritud EPS üle 8 USD). Miks turg sellele langusega reageeris, allikad ei selgita; seos on tõenäoline ajaliselt, aga põhjus pole kinnitatud.",
+      "fmp": "CTEC.L",
+      "sym": "ctec-lon",
+      "name": "ConvaTec Group Plc",
+      "pct": 8.91,
+      "short": "Tõus ~9%; 10 kuu tegevusülevaade ületas ootusi, 2026. a. käibekasvu prognoos tõsteti",
+      "text": "Aktsia tõusis täna 8,91% hinnani 268,8 pencet. Ettevõte avaldas 10 kuu tegevusülevaate, mis ületas ootusi, ja tõstis 2026. aasta käibekasvu prognoosi vahemikule 6,25–7,0% (varem 5,5–6,5%); orgaaniline käibekasv oli aasta algusest 6,6% (ilma InnovaMatrixita). Barclays tõstis sihthinna 3,10 naelani ja 200 mln USD tagasiostuprogramm lõpeb plaanipäraselt; seos hinnatõusuga on väga tõenäoline.",
       "sources": [
         {
-          "title": "Nextpower Hosts Capital Markets Day (Business Wire, via FMP)",
-          "url": "https://www.businesswire.com/news/home/20261117426961/en/Nextpower-Hosts-Capital-Markets-Day/"
+          "title": "Why is ConvaTec stock surging today? (Investing.com)",
+          "url": "https://ng.investing.com/news/stock-market-news/why-is-convatec-stock-surging-today-93CH-2815043"
         }
       ],
-      "at": "2026-11-17T20:11:54Z"
+      "at": "2026-11-18T09:07:21Z"
     },
     {
-      "fmp": "9698.HK",
-      "sym": "9698-hk",
-      "name": "GDS Holdings Ltd.",
-      "pct": -10.35,
-      "short": "Langus ~10%; põhjust ei leidnud, kogu Hiina tehnosektor languses",
-      "text": "Aktsia langes täna 10,35% hinnani 16,72 HKD ja on aasta madalaimal tasemel. Tänast ettevõtte uudist ega analüütikute muudatust ei leidnud, seega põhjus on teadmata. Samal päeval langesid ka teised Hongkongi Hiina tehnoaktsiad (Alibaba -5,2%, Bilibili -8,8%, GDS -10,3%, Meitu -3,3%, Geekplus -3,8%), mis viitab sektorilangusele, kuid põhjust allikaga ei kinnita.",
-      "sources": [],
-      "at": "2026-11-17T09:06:48Z"
-    },
-    {
-      "fmp": "ADOC.PA",
-      "sym": "adoc-par",
-      "name": "Adocia SA",
-      "pct": -10.14,
-      "short": "Langus ~9%; tänast põhjust ei leidnud",
-      "text": "Aktsia langes täna 8,77% hinnani 3,85 EUR. Tänast uudist ei leidnud. 10. novembril oli aktsia tõusnud lootuse peale kord kuus manustatavale süstile, seega võib tegu olla kasumi realiseerimisega, kuid see on oletus, mida allikad tänase päeva kohta ei kinnita.",
+      "fmp": "VU.PA",
+      "sym": "vu-par",
+      "name": "VusionGroup S.A.",
+      "pct": -7.25,
+      "short": "Langus ~7%; täna avaldati 2030. a. strateegia, tagasi järgneb Pricer-i ülevõtupakkumine",
+      "text": "Aktsia langes täna 7,25% hinnani 140,8 eurot. Täna hommikul avaldas Vusion oma 2030. aasta strateegilised eesmärgid, mille sisu ei õnnestunud kinnitada; eile langes aktsia juba 4% pärast Rootsi Pricer-i sularahapakkumist (6 SEK aktsia kohta). Seos kahe uudisega on tõenäoline, aga põhjus pole allikatega kinnitatud.",
       "sources": [
         {
-          "title": "Adocia flambe, portée par l'espoir d'une injection mensuelle",
-          "url": "https://www.easybourse.com/international/news/1541437/adocia-flambe-portee-par-espoir-une-injection-mensuelle.html"
-        }
-      ],
-      "at": "2026-11-17T09:06:48Z"
-    },
-    {
-      "fmp": "SALME.OL",
-      "sym": "salme-no",
-      "name": "Salmon Evolution ASA",
-      "pct": 10.04,
-      "short": "Tõus ~10%; täna põhjust ei leidnud",
-      "text": "Aktsia tõusis täna 10,04% hinnani 2,63 NOK. Täna avaldatud ettevõtte uudist ega analüütikumuudatust ei leidnud; viimane tulemusaruanne (Q3, 28. okt) näitas lõikust 15% kasvu 1 597 tonnini ja väiksemat kahjumit, kuid see ei selgita tänast hüpet. Põhjus on teadmata.",
-      "sources": [
-        {
-          "title": "Salmon Evolution Q3 2026 slides – Investing.com",
-          "url": "https://www.investing.com/news/company-news/salmon-evolution-q3-2026-slides-losses-narrow-as-phase-2-nears-93CH-4977672"
-        }
-      ],
-      "at": "2026-11-17T17:07:30Z"
-    },
-    {
-      "fmp": "BFF.MI",
-      "sym": "bff-mil",
-      "name": "BFF Bank SpA",
-      "pct": -9.93,
-      "short": "Langus ~10%; jätkuv Cerberuse/Bankitalia ebakindlus, täna uut uudist ei leidnud",
-      "text": "Aktsia langes täna 9,93% hinnani 1,261 EUR, mis on aasta madalaim tase. Täna avaldatud uut uudist ei leidnud. Taust: pank teatas 10. novembril kolme kvartali tulemused ja peab Cerberusega ainuõiguslikke läbirääkimisi, et vältida ettevõtte tükeldamist; Itaalia meedia kirjeldab ka kapitaliinimeste muret. Seos tänase liikumisega on tõenäoline, kuid allikaga kinnitamata.",
-      "sources": [
-        {
-          "title": "Forbes Italia: BFF ja Cerberus (11.11.2026)",
-          "url": "https://forbes.it/2026/11/11/azioni-bff-affondano-dopo-i-conti-la-banca-tratta-in-esclusiva-con-cerberus-per-evitare-lo-spezzatino"
+          "title": "Vusion dévoile ses ambitions stratégiques à l'horizon 2030 (Boursorama, 18.11.2026)",
+          "url": "https://www.boursorama.com/bourse/actualites/vusion-devoile-ses-ambitions-strategiques-a-l-horizon-2030-a62be789d218f3005bcf8fc9e08c4350"
         },
         {
-          "title": "Benzinga Italia: BFF, Cerberus ja kapital",
-          "url": "https://it.benzinga.com/news/italy/stocks/azioni-bff-bank-offerta-cerberus-aumento-capitale/"
+          "title": "Vusion sous pression en Bourse après son offensive sur Pricer (Zonebourse, 17.11.2026)",
+          "url": "https://www.zonebourse.com/actualite-bourse/vusion-sous-pression-en-bourse-apres-son-offensive-sur-pricer-ce785edfd08df225"
         }
       ],
-      "at": "2026-11-17T17:07:30Z"
+      "at": "2026-11-18T09:07:21Z"
     },
     {
-      "fmp": "9626.HK",
-      "sym": "9626-hk",
-      "name": "Bilibili Inc. Class Z",
-      "pct": -8.79,
-      "short": "Langus ~9%; põhjust ei leidnud, Hiina tehnosektor languses",
-      "text": "Aktsia langes täna 8,79% hinnani 94,95 HKD ja puudutas aasta madalaimat taset. Tänast ettevõtte uudist ega analüütikute muudatust ei leidnud, seega põhjus on teadmata. Samal päeval langesid ka teised Hongkongi Hiina tehnoaktsiad (Alibaba -5,2%, Bilibili -8,8%, GDS -10,3%, Meitu -3,3%, Geekplus -3,8%), mis viitab sektorilangusele, kuid põhjust allikaga ei kinnita.",
+      "fmp": "1378.HK",
+      "sym": "1378-hk",
+      "name": "China Hongqiao Group Ltd.",
+      "pct": -6.21,
+      "short": "Langus ~6%; täna ettevõtte-põhist põhjust ei leidnud",
+      "text": "Aktsia langes täna 6,21% hinnani 17,97 HKD ja on aasta madalaimal tasemel. Tänast ettevõtte-põhist uudist ega analüütikute muudatust usaldusväärsest allikast ei leidnud, seega põhjus on teadmata.",
       "sources": [],
-      "at": "2026-11-17T09:06:48Z"
+      "at": "2026-11-18T09:07:21Z"
     },
     {
-      "fmp": "EKT.DE",
-      "sym": "ekt-etr",
-      "name": "EnergieKontor AG",
-      "pct": -8.59,
-      "short": "Langus ~9%; uus aasta madalaim, täna põhjust ei leidnud",
-      "text": "Aktsia langes täna 8,59% hinnani 20,75 EUR, mis on aasta madalaim tase. Täna avaldatud uut uudist ei leidnud. Taustaks: ettevõte kärpis augustis tulemusprognoosi projektide viivituste tõttu (Šotimaa tuulepargid), mis jätkuvalt aktsiat rõhub.",
-      "sources": [
-        {
-          "title": "onvista: Energiekontor kappt Prognose (14.08.2026)",
-          "url": "https://www.onvista.de/news/2026/08-14-roundup-energiekontor-kappt-prognose-projekte-verspaetet-aktie-bricht-ein-0-10-26543092"
-        }
-      ],
-      "at": "2026-11-17T17:07:30Z"
-    },
-    {
-      "fmp": "AMRC",
-      "sym": "amrc",
-      "name": "Ameresco, Inc. Class A",
-      "pct": -8.35,
-      "short": "Langus ~8%; täna põhjust ei leidnud",
-      "text": "Aktsia langes täna 8,35% hinnani 22,62 USD. Tänast ettevõtte uudist ega analüütikute muudatust ei leidnud, seega põhjus on teadmata.",
-      "sources": [],
-      "at": "2026-11-17T20:11:54Z"
-    },
-    {
-      "fmp": "AS",
-      "sym": "as",
-      "name": "Amer Sports, Inc.",
-      "pct": 6.47,
-      "short": "Tõus ~6%; Q3 tulemused ületasid ootusi, aastaprognoosid tõsteti",
-      "text": "Amer Sports teatas täna 3. kvartali tulemused: müük kasvas 24%, EPS oli 0,42 USD (konsensus 0,34) ja ettevõte tõstis kogu aasta müügi-, marginaali- ja EPS-prognoosi. Kasvu vedasid Salomon, Arc'teryx ja Wilson. Seos hinnaliikumisega on väga tõenäoline.",
-      "sources": [
-        {
-          "title": "Amer Sports Q3 2026 – Business Wire",
-          "url": "https://www.businesswire.com/news/home/20261117651240/en/Amer-Sports-Reports-Third-Quarter-2026-Financial-Results-Raises-Full-Year-Revenue-Margin-and-EPS-Guidance/"
-        },
-        {
-          "title": "Zacks: AS beats Q3 estimates",
-          "url": "https://www.zacks.com/stock/news/3030863/amer-sports-inc-as-beats-q3-earnings-and-revenue-estimates"
-        },
-        {
-          "title": "Benzinga: stocks moving higher",
-          "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63351029/amer-sports-sellas-life-sciences-similarweb-and-other-big-stocks-moving-higher-on-tuesday"
-        }
-      ],
-      "at": "2026-11-17T17:07:30Z"
-    },
-    {
-      "fmp": "EVT.DE",
-      "sym": "evt-etr",
-      "name": "Evotec SE",
-      "pct": -6.34,
+      "fmp": "2788.HK",
+      "sym": "2788-hk",
+      "name": "Chuangxin Industries Holdings Limited",
+      "pct": -6.06,
       "short": "Langus ~6%; täna põhjust ei leidnud",
-      "text": "Aktsia langes täna 6,34% hinnani 2,75 EUR. Täna avaldatud uut uudist ei leidnud. Taustaks: Evotec langetas novembris 2026. aasta prognoosi ja aktsia on olnud surve all; otsest seost tänase languse ja selle vahel ei saa allikaga kinnitada.",
-      "sources": [
-        {
-          "title": "Evotec Aktie: Jahresziele für 2026 gesenkt – Börse Express",
-          "url": "https://www.boerse-express.com/news/articles/evotec-aktie-jahresziele-fuer-2026-gesenkt-947322"
-        },
-        {
-          "title": "wallstreet-online: Evotec rutscht ab (10.11.2026)",
-          "url": "https://www.wallstreet-online.de/nachricht/21667641-aktie-check-evotec-rutscht-markt-november-2026"
-        }
-      ],
-      "at": "2026-11-17T17:07:30Z"
-    },
-    {
-      "fmp": "ADN1.DE",
-      "sym": "adn1-etr",
-      "name": "adesso SE",
-      "pct": -6.23,
-      "short": "Langus ~6%; täna ettevõttespetsiifilist põhjust ei leidnud",
-      "text": "Aktsia langes täna 6,23% hinnani 76,7 EUR. Täna avaldatud ettevõtte uudist ega analüütikumuudatust ei leidnud. USA turud olid täna nõrgad (Dow -700 punkti), kuid seost adesso langusega allikas ei kinnita.",
-      "sources": [
-        {
-          "title": "Benzinga: Dow ca 700 punkti languses",
-          "url": "https://www.benzinga.com/trading-ideas/movers/26/11/63351029/amer-sports-sellas-life-sciences-similarweb-and-other-big-stocks-moving-higher-on-tuesday"
-        }
-      ],
-      "at": "2026-11-17T17:07:30Z"
-    },
-    {
-      "fmp": "CHWY",
-      "sym": "chwy",
-      "name": "Chewy, Inc. Class A",
-      "pct": -5.78,
-      "short": "Langus ~6%; täna põhjust ei leidnud",
-      "text": "Aktsia langes täna 5,78% hinnani 20,37 USD. Tänast ettevõtte-põhist uudist ei leidnud; ainsad värsked teated olid juhi AI-agentide intervjuu ja üldine võrdlusartikkel, mis ei seleta liikumist.",
+      "text": "Aktsia langes täna 6,06% hinnani 12,40 HKD ja on aasta madalaimal tasemel. Tänast ettevõtte-põhist uudist ega analüütikute muudatust usaldusväärsest allikast ei leidnud, seega põhjus on teadmata.",
       "sources": [],
-      "at": "2026-11-17T20:11:54Z"
+      "at": "2026-11-18T09:07:21Z"
     },
     {
-      "fmp": "AOF.DE",
-      "sym": "aof-etr",
-      "name": "ATOSS Software SE",
-      "pct": -5.37,
-      "short": "Langus ~5%; täna ettevõttespetsiifilist põhjust ei leidnud",
-      "text": "Aktsia langes täna 5,37% hinnani 82,9 EUR. Täna avaldatud ettevõtte uudist ei leidnud; TecDAXis oli Atoss täna samuti languses, kuid põhjust allikad ei nimeta. Tarkvarasektori nõrkus on võimalik taust, kuid kinnitamata.",
-      "sources": [
-        {
-          "title": "finanzen.ch: TecDAX 17.11.2026",
-          "url": "https://www.finanzen.ch/nachrichten/aktien/boerse-frankfurt-tecdax-verliert-zum-start-des-dienstagshandels-1036772827"
-        }
-      ],
-      "at": "2026-11-17T17:07:30Z"
-    },
-    {
-      "fmp": "9988.HK",
-      "sym": "9988-hkg",
-      "name": "Alibaba Group Holding Limited",
-      "pct": -5.21,
-      "short": "Langus ~5%; põhjust ei leidnud, Hiina tehnosektor languses",
-      "text": "Aktsia langes täna 5,21% hinnani 85,45 HKD ja puudutas aasta madalaimat taset. Tänast ettevõtte uudist ega analüütikute muudatust ei leidnud, seega põhjus on teadmata. Samal päeval langesid ka teised Hongkongi Hiina tehnoaktsiad (Alibaba -5,2%, Bilibili -8,8%, GDS -10,3%, Meitu -3,3%, Geekplus -3,8%), mis viitab sektorilangusele, kuid põhjust allikaga ei kinnita.",
+      "fmp": "9896.HK",
+      "sym": "9896-hkg",
+      "name": "MINISO Group Holding Ltd.",
+      "pct": 5.1,
+      "short": "Tõus ~5%; täna põhjust ei leidnud",
+      "text": "Aktsia tõusis täna 5,10% hinnani 23,50 HKD. Tänast ettevõtte-põhist uudist ega analüütikute muudatust usaldusväärsest allikast ei leidnud, seega põhjus on teadmata.",
       "sources": [],
-      "at": "2026-11-17T09:06:48Z"
-    },
-    {
-      "fmp": "VIT-B.ST",
-      "sym": "vit.b-se",
-      "name": "Vitec Software Group AB Class B",
-      "pct": -5.1,
-      "short": "Langus ~5%; täna põhjust ei leidnud",
-      "text": "Aktsia langes täna 5,10% hinnani 293,8 SEK. Täna avaldatud ettevõtte uudist ega analüütikumuudatust ei leidnud, seega põhjus on teadmata. Aktsia on siiski aasta tipu lähedal, nii et tegu võib olla kasumivõtmisega, mida allikas ei kinnita.",
-      "sources": [],
-      "at": "2026-11-17T17:07:30Z"
+      "at": "2026-11-18T09:07:21Z"
     }
   ]
 }
