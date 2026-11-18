@@ -1,12 +1,22 @@
 {
   "date": "2026-11-18",
-  "updated": "2026-11-18T09:07:21Z",
+  "updated": "2026-11-18T17:07:59Z",
   "items": [
+    {
+      "fmp": "VITL",
+      "sym": "vitl",
+      "name": "Vital Farms, Inc.",
+      "pct": 17.28,
+      "short": "Tõus ~17%; täna põhjust ei leidnud",
+      "text": "Tänast ettevõttespetsiifilist uudist ega analüütikute muudatust usaldusväärsest allikast ei leidnud, seega põhjus on teadmata. Craig-Hallum tõstis soovituse ostule juba 4. novembril, seega see tänast hüpet ei selgita.",
+      "sources": [],
+      "at": "2026-11-18T17:07:59Z"
+    },
     {
       "fmp": "CTEC.L",
       "sym": "ctec-lon",
       "name": "ConvaTec Group Plc",
-      "pct": 8.91,
+      "pct": 9.4,
       "short": "Tõus ~9%; 10 kuu tegevusülevaade ületas ootusi, 2026. a. käibekasvu prognoos tõsteti",
       "text": "Aktsia tõusis täna 8,91% hinnani 268,8 pencet. Ettevõte avaldas 10 kuu tegevusülevaate, mis ületas ootusi, ja tõstis 2026. aasta käibekasvu prognoosi vahemikule 6,25–7,0% (varem 5,5–6,5%); orgaaniline käibekasv oli aasta algusest 6,6% (ilma InnovaMatrixita). Barclays tõstis sihthinna 3,10 naelani ja 200 mln USD tagasiostuprogramm lõpeb plaanipäraselt; seos hinnatõusuga on väga tõenäoline.",
       "sources": [
@@ -18,23 +28,161 @@
       "at": "2026-11-18T09:07:21Z"
     },
     {
-      "fmp": "VU.PA",
-      "sym": "vu-par",
-      "name": "VusionGroup S.A.",
-      "pct": -7.25,
-      "short": "Langus ~7%; täna avaldati 2030. a. strateegia, tagasi järgneb Pricer-i ülevõtupakkumine",
-      "text": "Aktsia langes täna 7,25% hinnani 140,8 eurot. Täna hommikul avaldas Vusion oma 2030. aasta strateegilised eesmärgid, mille sisu ei õnnestunud kinnitada; eile langes aktsia juba 4% pärast Rootsi Pricer-i sularahapakkumist (6 SEK aktsia kohta). Seos kahe uudisega on tõenäoline, aga põhjus pole allikatega kinnitatud.",
+      "fmp": "IRTC",
+      "sym": "irtc",
+      "name": "iRhythm Holdings, Inc.",
+      "pct": 9.39,
+      "short": "Tõus ~9%; põhjust ei leidnud, eile teatati 100 mln $ aktsiate tagasiostust",
+      "text": "Tänast selget põhjust ei leidnud. Eile teatas ettevõte 100 mln USD kiirendatud aktsiate tagasiostulepingust JPMorganiga, mis võib tõusu toetada, kuid seos ei ole kinnitatud.",
       "sources": [
         {
-          "title": "Vusion dévoile ses ambitions stratégiques à l'horizon 2030 (Boursorama, 18.11.2026)",
-          "url": "https://www.boursorama.com/bourse/actualites/vusion-devoile-ses-ambitions-strategiques-a-l-horizon-2030-a62be789d218f3005bcf8fc9e08c4350"
-        },
-        {
-          "title": "Vusion sous pression en Bourse après son offensive sur Pricer (Zonebourse, 17.11.2026)",
-          "url": "https://www.zonebourse.com/actualite-bourse/vusion-sous-pression-en-bourse-apres-son-offensive-sur-pricer-ce785edfd08df225"
+          "title": "iRhythm Announces $100 Million Accelerated Share Repurchase Agreement (GlobeNewswire, 17.11.2026)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/17/3405212/0/en/irhythm-announces-100-million-accelerated-share-repurchase-agreement.html"
         }
       ],
-      "at": "2026-11-18T09:07:21Z"
+      "at": "2026-11-18T17:07:59Z"
+    },
+    {
+      "fmp": "EVS.BR",
+      "sym": "evs-bru",
+      "name": "EVS SA",
+      "pct": -8.8,
+      "short": "Langus ~9%; EVS langetas kasumiprognoosi ja tühistas vahedividendi",
+      "text": "EVS langetas 2026. aasta kasumiprognoosi: EBIT oodatakse nüüd 8–20 mln € ja EBITDA 26–38 mln €, käibeprognoos 190–205 mln € jäi samaks. Põhjuseks kaubandustegevuse järsk aeglustumine septembrist, kliendid lükkasid investeeringuid edasi ja osa EMEA projekte tühistati; vahedividend tühistati. Seos hinnalangusega on väga tõenäoline.",
+      "sources": [
+        {
+          "title": "EVS: commerciële terugval slaat hard in op de winst (SCE Trader, 18.11.2026)",
+          "url": "https://www.scetrader.nl/evs-broadcast-equipment/18/11/2026/evs-commerciele-terugval-slaat-hard-in-op-de-winst-wij-blijven-weg-en-oninvesteerbaar/"
+        }
+      ],
+      "at": "2026-11-18T17:07:59Z"
+    },
+    {
+      "fmp": "COCO",
+      "sym": "coco",
+      "name": "Vita Coco Company, Inc.",
+      "pct": 8.29,
+      "short": "Tõus ~8%; täna põhjust ei leidnud",
+      "text": "Tänast ettevõttespetsiifilist uudist ega analüütikute muudatust usaldusväärsest allikast ei leidnud, seega põhjus on teadmata.",
+      "sources": [],
+      "at": "2026-11-18T17:07:59Z"
+    },
+    {
+      "fmp": "ECVT",
+      "sym": "ecvt",
+      "name": "Ecovyst Inc",
+      "pct": -6.92,
+      "short": "Langus ~7%; tegevjuht vahetus, interim-CEO määrati ametisse",
+      "text": "Ecovyst teatas täna hommikul juhatuse otsusest nimetada direktor David A. Bradley ajutiseks tegevjuhiks alates 17. novembrist; samas kinnitati 2026. aasta prognoos. Hinnalanguse seos tegevjuhi vahetusega on tõenäoline, kuid allikad ei selgita investorite reaktsiooni täpsemalt.",
+      "sources": [
+        {
+          "title": "Ecovyst Announces Chief Executive Officer Transition (PRNewswire, 18.11.2026)",
+          "url": "https://www.prnewswire.com/news-releases/ecovyst-announces-chief-executive-officer-transition-and-reaffirms-full-year-2026-guidance-302943279.html"
+        }
+      ],
+      "at": "2026-11-18T17:07:59Z"
+    },
+    {
+      "fmp": "ADOC.PA",
+      "sym": "adoc-par",
+      "name": "Adocia SA",
+      "pct": -6.86,
+      "short": "Langus ~7%; täna põhjust ei leidnud",
+      "text": "Tänast ettevõttespetsiifilist uudist ega analüütikute muudatust usaldusväärsest allikast ei leidnud, seega põhjus on teadmata. Taustaks: 30.09. rahavoog 8,4 mln €, oktoobris kaasati 7 mln € lisarahastust.",
+      "sources": [
+        {
+          "title": "ADOCIA publie ses résultats du T3 2026 (Zonebourse)",
+          "url": "https://ch.zonebourse.com/actualite-bourse/adocia-publie-ses-resultats-financiers-du-troisieme-trimestre-2026-et-fait-le-point-sur-ses-activite-ce785fdadb80f427"
+        }
+      ],
+      "at": "2026-11-18T17:07:59Z"
+    },
+    {
+      "fmp": "KTB",
+      "sym": "ktb",
+      "name": "Kontoor Brands, Inc.",
+      "pct": 6.7,
+      "short": "Tõus ~7%; tõenäoliselt jaekaubandussektori ralli TJX tulemuste järel",
+      "text": "Tõus tõenäoliselt jälgib jaekaubandussektori rallit: TJX tõusis täna ~10% ja Target ~5,6% pärast tulemusi. Ettevõttespetsiifilist uudist tänaseks ei leidnud, seega seos on kaudne ega ole kinnitatud.",
+      "sources": [
+        {
+          "title": "Why TJX Companies Stock Jumped 10% Today (Motley Fool, 18.11.2026)",
+          "url": "https://www.fool.com/investing/2026/11/18/why-tjx-companies-stock-jumped-10-today/"
+        },
+        {
+          "title": "Stock Market Today Live, November 18, 2026 (StockTitan)",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
+        }
+      ],
+      "at": "2026-11-18T17:07:59Z"
+    },
+    {
+      "fmp": "BURL",
+      "sym": "burl",
+      "name": "Burlington Stores, Inc.",
+      "pct": 6.68,
+      "short": "Tõus ~7%; tõenäoliselt off-price jaeketi TJX tugevate tulemuste mõju",
+      "text": "Tõus tõenäoliselt jälgib jaekaubandussektori rallit: TJX tõusis täna ~10% ja Target ~5,6% pärast tulemusi. Burlington on TJX-i otsene konkurent (off-price), oma Q3 tulemused alles tulemas; seos on kaudne ega ole kinnitatud.",
+      "sources": [
+        {
+          "title": "Why TJX Companies Stock Jumped 10% Today (Motley Fool, 18.11.2026)",
+          "url": "https://www.fool.com/investing/2026/11/18/why-tjx-companies-stock-jumped-10-today/"
+        },
+        {
+          "title": "Stock Market Today Live, November 18, 2026 (StockTitan)",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
+        }
+      ],
+      "at": "2026-11-18T17:07:59Z"
+    },
+    {
+      "fmp": "GUBRA.CO",
+      "sym": "gubra-dk",
+      "name": "Gubra A/S",
+      "pct": -6.64,
+      "short": "Langus ~7%; täna põhjust ei leidnud",
+      "text": "Tänast ettevõttespetsiifilist uudist ega analüütikute muudatust usaldusväärsest allikast ei leidnud, seega põhjus on teadmata.",
+      "sources": [],
+      "at": "2026-11-18T17:07:59Z"
+    },
+    {
+      "fmp": "QDT.PA",
+      "sym": "qdt-par",
+      "name": "Quadient SA",
+      "pct": -6.47,
+      "short": "Langus ~6%; täna põhjust ei leidnud",
+      "text": "Tänast ettevõttespetsiifilist uudist ega analüütikute muudatust usaldusväärsest allikast ei leidnud, seega põhjus on teadmata.",
+      "sources": [],
+      "at": "2026-11-18T17:07:59Z"
+    },
+    {
+      "fmp": "BOOT",
+      "sym": "boot",
+      "name": "Boot Barn Holdings, Inc.",
+      "pct": 6.33,
+      "short": "Tõus ~6%; tõenäoliselt jaekaubandussektori ralli TJX tulemuste järel",
+      "text": "Tõus tõenäoliselt jälgib jaekaubandussektori rallit: TJX tõusis täna ~10% ja Target ~5,6% pärast tulemusi. Ettevõttespetsiifilist uudist tänaseks ei leidnud, seega seos on kaudne ega ole kinnitatud.",
+      "sources": [
+        {
+          "title": "Why TJX Companies Stock Jumped 10% Today (Motley Fool, 18.11.2026)",
+          "url": "https://www.fool.com/investing/2026/11/18/why-tjx-companies-stock-jumped-10-today/"
+        },
+        {
+          "title": "Stock Market Today Live, November 18, 2026 (StockTitan)",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
+        }
+      ],
+      "at": "2026-11-18T17:07:59Z"
+    },
+    {
+      "fmp": "ENVIP.OL",
+      "sym": "envi-ams",
+      "name": "Envipco Holding N.V.",
+      "pct": -6.32,
+      "short": "Langus ~6%; täna põhjust ei leidnud",
+      "text": "Tänast ettevõttespetsiifilist uudist ega analüütikute muudatust usaldusväärsest allikast ei leidnud, seega põhjus on teadmata.",
+      "sources": [],
+      "at": "2026-11-18T17:07:59Z"
     },
     {
       "fmp": "1378.HK",
@@ -54,6 +202,25 @@
       "short": "Langus ~6%; täna põhjust ei leidnud",
       "text": "Aktsia langes täna 6,06% hinnani 12,40 HKD ja on aasta madalaimal tasemel. Tänast ettevõtte-põhist uudist ega analüütikute muudatust usaldusväärsest allikast ei leidnud, seega põhjus on teadmata.",
       "sources": [],
+      "at": "2026-11-18T09:07:21Z"
+    },
+    {
+      "fmp": "VU.PA",
+      "sym": "vu-par",
+      "name": "VusionGroup S.A.",
+      "pct": -5.86,
+      "short": "Langus ~7%; täna avaldati 2030. a. strateegia, tagasi järgneb Pricer-i ülevõtupakkumine",
+      "text": "Aktsia langes täna 7,25% hinnani 140,8 eurot. Täna hommikul avaldas Vusion oma 2030. aasta strateegilised eesmärgid, mille sisu ei õnnestunud kinnitada; eile langes aktsia juba 4% pärast Rootsi Pricer-i sularahapakkumist (6 SEK aktsia kohta). Seos kahe uudisega on tõenäoline, aga põhjus pole allikatega kinnitatud.",
+      "sources": [
+        {
+          "title": "Vusion dévoile ses ambitions stratégiques à l'horizon 2030 (Boursorama, 18.11.2026)",
+          "url": "https://www.boursorama.com/bourse/actualites/vusion-devoile-ses-ambitions-strategiques-a-l-horizon-2030-a62be789d218f3005bcf8fc9e08c4350"
+        },
+        {
+          "title": "Vusion sous pression en Bourse après son offensive sur Pricer (Zonebourse, 17.11.2026)",
+          "url": "https://www.zonebourse.com/actualite-bourse/vusion-sous-pression-en-bourse-apres-son-offensive-sur-pricer-ce785edfd08df225"
+        }
+      ],
       "at": "2026-11-18T09:07:21Z"
     },
     {
