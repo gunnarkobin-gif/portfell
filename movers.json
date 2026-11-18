@@ -1,16 +1,16 @@
 {
   "date": "2026-11-18",
-  "updated": "2026-11-18T17:07:59Z",
+  "updated": "2026-11-18T20:07:03Z",
   "items": [
     {
       "fmp": "VITL",
       "sym": "vitl",
       "name": "Vital Farms, Inc.",
-      "pct": 17.28,
-      "short": "Tõus ~17%; täna põhjust ei leidnud",
-      "text": "Tänast ettevõttespetsiifilist uudist ega analüütikute muudatust usaldusväärsest allikast ei leidnud, seega põhjus on teadmata. Craig-Hallum tõstis soovituse ostule juba 4. novembril, seega see tänast hüpet ei selgita.",
+      "pct": 13.67,
+      "short": "Tõus ~14%; täna põhjust ei leidnud",
+      "text": "Täna avaldatud allikatest ei leidnud ma Vital Farmsi kohta ettevõttespetsiifilist uudist ega analüütikute muudatust, mis tõusu selgitaks. Põhjus on seega teadmata.",
       "sources": [],
-      "at": "2026-11-18T17:07:59Z"
+      "at": "2026-11-18T20:07:03Z"
     },
     {
       "fmp": "CTEC.L",
@@ -28,21 +28,6 @@
       "at": "2026-11-18T09:07:21Z"
     },
     {
-      "fmp": "IRTC",
-      "sym": "irtc",
-      "name": "iRhythm Holdings, Inc.",
-      "pct": 9.39,
-      "short": "Tõus ~9%; põhjust ei leidnud, eile teatati 100 mln $ aktsiate tagasiostust",
-      "text": "Tänast selget põhjust ei leidnud. Eile teatas ettevõte 100 mln USD kiirendatud aktsiate tagasiostulepingust JPMorganiga, mis võib tõusu toetada, kuid seos ei ole kinnitatud.",
-      "sources": [
-        {
-          "title": "iRhythm Announces $100 Million Accelerated Share Repurchase Agreement (GlobeNewswire, 17.11.2026)",
-          "url": "https://www.globenewswire.com/news-release/2026/11/17/3405212/0/en/irhythm-announces-100-million-accelerated-share-repurchase-agreement.html"
-        }
-      ],
-      "at": "2026-11-18T17:07:59Z"
-    },
-    {
       "fmp": "EVS.BR",
       "sym": "evs-bru",
       "name": "EVS SA",
@@ -55,16 +40,6 @@
           "url": "https://www.scetrader.nl/evs-broadcast-equipment/18/11/2026/evs-commerciele-terugval-slaat-hard-in-op-de-winst-wij-blijven-weg-en-oninvesteerbaar/"
         }
       ],
-      "at": "2026-11-18T17:07:59Z"
-    },
-    {
-      "fmp": "COCO",
-      "sym": "coco",
-      "name": "Vita Coco Company, Inc.",
-      "pct": 8.29,
-      "short": "Tõus ~8%; täna põhjust ei leidnud",
-      "text": "Tänast ettevõttespetsiifilist uudist ega analüütikute muudatust usaldusväärsest allikast ei leidnud, seega põhjus on teadmata.",
-      "sources": [],
       "at": "2026-11-18T17:07:59Z"
     },
     {
@@ -98,44 +73,6 @@
       "at": "2026-11-18T17:07:59Z"
     },
     {
-      "fmp": "KTB",
-      "sym": "ktb",
-      "name": "Kontoor Brands, Inc.",
-      "pct": 6.7,
-      "short": "Tõus ~7%; tõenäoliselt jaekaubandussektori ralli TJX tulemuste järel",
-      "text": "Tõus tõenäoliselt jälgib jaekaubandussektori rallit: TJX tõusis täna ~10% ja Target ~5,6% pärast tulemusi. Ettevõttespetsiifilist uudist tänaseks ei leidnud, seega seos on kaudne ega ole kinnitatud.",
-      "sources": [
-        {
-          "title": "Why TJX Companies Stock Jumped 10% Today (Motley Fool, 18.11.2026)",
-          "url": "https://www.fool.com/investing/2026/11/18/why-tjx-companies-stock-jumped-10-today/"
-        },
-        {
-          "title": "Stock Market Today Live, November 18, 2026 (StockTitan)",
-          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
-        }
-      ],
-      "at": "2026-11-18T17:07:59Z"
-    },
-    {
-      "fmp": "BURL",
-      "sym": "burl",
-      "name": "Burlington Stores, Inc.",
-      "pct": 6.68,
-      "short": "Tõus ~7%; tõenäoliselt off-price jaeketi TJX tugevate tulemuste mõju",
-      "text": "Tõus tõenäoliselt jälgib jaekaubandussektori rallit: TJX tõusis täna ~10% ja Target ~5,6% pärast tulemusi. Burlington on TJX-i otsene konkurent (off-price), oma Q3 tulemused alles tulemas; seos on kaudne ega ole kinnitatud.",
-      "sources": [
-        {
-          "title": "Why TJX Companies Stock Jumped 10% Today (Motley Fool, 18.11.2026)",
-          "url": "https://www.fool.com/investing/2026/11/18/why-tjx-companies-stock-jumped-10-today/"
-        },
-        {
-          "title": "Stock Market Today Live, November 18, 2026 (StockTitan)",
-          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
-        }
-      ],
-      "at": "2026-11-18T17:07:59Z"
-    },
-    {
       "fmp": "GUBRA.CO",
       "sym": "gubra-dk",
       "name": "Gubra A/S",
@@ -156,10 +93,55 @@
       "at": "2026-11-18T17:07:59Z"
     },
     {
+      "fmp": "ENVIP.OL",
+      "sym": "envi-ams",
+      "name": "Envipco Holding N.V.",
+      "pct": -6.32,
+      "short": "Langus ~6%; täna põhjust ei leidnud",
+      "text": "Tänast ettevõttespetsiifilist uudist ega analüütikute muudatust usaldusväärsest allikast ei leidnud, seega põhjus on teadmata.",
+      "sources": [],
+      "at": "2026-11-18T17:07:59Z"
+    },
+    {
+      "fmp": "PEN.OL",
+      "sym": "pen-no",
+      "name": "Panoro Energy ASA",
+      "pct": -6.27,
+      "short": "Langus ~6%; täna põhjust ei leidnud",
+      "text": "Tänaseid ettevõttespetsiifilisi uudiseid ega analüütikute muudatusi usaldusväärsest allikast ei leidnud, seega põhjus on teadmata.",
+      "sources": [],
+      "at": "2026-11-18T20:07:03Z"
+    },
+    {
+      "fmp": "SGI",
+      "sym": "sgi",
+      "name": "Somnigroup International Inc.",
+      "pct": 6.23,
+      "short": "Tõus ~6%; täna põhjust ei leidnud",
+      "text": "Tänaseid ettevõttespetsiifilisi uudiseid ega analüütikute muudatusi usaldusväärsest allikast ei leidnud, seega põhjus on teadmata. Ainus värske uudis (17.11) oli Mattress Firmi auhind klienditeeninduse edetabelis, mis hinnahüpet tõenäoliselt ei selgita.",
+      "sources": [
+        {
+          "title": "Mattress Firm Recognized Among Newsweek's America's Best Customer Service 2027 (PRNewswire, 17.11.2026)",
+          "url": "https://www.prnewswire.com/news-releases/mattress-firm-recognized-among-newsweeks-list-of-americas-best-customer-service-2027-302941227.html"
+        }
+      ],
+      "at": "2026-11-18T20:07:03Z"
+    },
+    {
+      "fmp": "1378.HK",
+      "sym": "1378-hk",
+      "name": "China Hongqiao Group Ltd.",
+      "pct": -6.21,
+      "short": "Langus ~6%; täna ettevõtte-põhist põhjust ei leidnud",
+      "text": "Aktsia langes täna 6,21% hinnani 17,97 HKD ja on aasta madalaimal tasemel. Tänast ettevõtte-põhist uudist ega analüütikute muudatust usaldusväärsest allikast ei leidnud, seega põhjus on teadmata.",
+      "sources": [],
+      "at": "2026-11-18T09:07:21Z"
+    },
+    {
       "fmp": "BOOT",
       "sym": "boot",
       "name": "Boot Barn Holdings, Inc.",
-      "pct": 6.33,
+      "pct": 6.16,
       "short": "Tõus ~6%; tõenäoliselt jaekaubandussektori ralli TJX tulemuste järel",
       "text": "Tõus tõenäoliselt jälgib jaekaubandussektori rallit: TJX tõusis täna ~10% ja Target ~5,6% pärast tulemusi. Ettevõttespetsiifilist uudist tänaseks ei leidnud, seega seos on kaudne ega ole kinnitatud.",
       "sources": [
@@ -175,26 +157,6 @@
       "at": "2026-11-18T17:07:59Z"
     },
     {
-      "fmp": "ENVIP.OL",
-      "sym": "envi-ams",
-      "name": "Envipco Holding N.V.",
-      "pct": -6.32,
-      "short": "Langus ~6%; täna põhjust ei leidnud",
-      "text": "Tänast ettevõttespetsiifilist uudist ega analüütikute muudatust usaldusväärsest allikast ei leidnud, seega põhjus on teadmata.",
-      "sources": [],
-      "at": "2026-11-18T17:07:59Z"
-    },
-    {
-      "fmp": "1378.HK",
-      "sym": "1378-hk",
-      "name": "China Hongqiao Group Ltd.",
-      "pct": -6.21,
-      "short": "Langus ~6%; täna ettevõtte-põhist põhjust ei leidnud",
-      "text": "Aktsia langes täna 6,21% hinnani 17,97 HKD ja on aasta madalaimal tasemel. Tänast ettevõtte-põhist uudist ega analüütikute muudatust usaldusväärsest allikast ei leidnud, seega põhjus on teadmata.",
-      "sources": [],
-      "at": "2026-11-18T09:07:21Z"
-    },
-    {
       "fmp": "2788.HK",
       "sym": "2788-hk",
       "name": "Chuangxin Industries Holdings Limited",
@@ -203,6 +165,54 @@
       "text": "Aktsia langes täna 6,06% hinnani 12,40 HKD ja on aasta madalaimal tasemel. Tänast ettevõtte-põhist uudist ega analüütikute muudatust usaldusväärsest allikast ei leidnud, seega põhjus on teadmata.",
       "sources": [],
       "at": "2026-11-18T09:07:21Z"
+    },
+    {
+      "fmp": "BURL",
+      "sym": "burl",
+      "name": "Burlington Stores, Inc.",
+      "pct": 6.04,
+      "short": "Tõus ~7%; tõenäoliselt off-price jaeketi TJX tugevate tulemuste mõju",
+      "text": "Tõus tõenäoliselt jälgib jaekaubandussektori rallit: TJX tõusis täna ~10% ja Target ~5,6% pärast tulemusi. Burlington on TJX-i otsene konkurent (off-price), oma Q3 tulemused alles tulemas; seos on kaudne ega ole kinnitatud.",
+      "sources": [
+        {
+          "title": "Why TJX Companies Stock Jumped 10% Today (Motley Fool, 18.11.2026)",
+          "url": "https://www.fool.com/investing/2026/11/18/why-tjx-companies-stock-jumped-10-today/"
+        },
+        {
+          "title": "Stock Market Today Live, November 18, 2026 (StockTitan)",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
+        }
+      ],
+      "at": "2026-11-18T17:07:59Z"
+    },
+    {
+      "fmp": "PRMB",
+      "sym": "prmb",
+      "name": "Primo Brands Corporation Class A",
+      "pct": -6,
+      "short": "Langus ~6%; täna põhjust ei leidnud",
+      "text": "Tänaseid ettevõttespetsiifilisi uudiseid ega analüütikute muudatusi usaldusväärsest allikast ei leidnud, seega põhjus on teadmata. Käive oli suur (~18,6 mln aktsiat).",
+      "sources": [],
+      "at": "2026-11-18T20:07:03Z"
+    },
+    {
+      "fmp": "RVLV",
+      "sym": "rvlv",
+      "name": "Revolve Group, Inc Class A",
+      "pct": 5.87,
+      "short": "Tõus ~6%; tõenäoliselt jaekaubandussektori ralli TJX tulemuste järel",
+      "text": "Tõus tõenäoliselt jälgib jaekaubandussektori rallit: TJX tõusis täna ~10% ja Target ~5,6% pärast tulemusi. Revolve'i kohta ettevõttespetsiifilist uudist tänaseks ei leidnud, seega seos on kaudne ega ole kinnitatud.",
+      "sources": [
+        {
+          "title": "Why TJX Companies Stock Jumped 10% Today (Motley Fool, 18.11.2026)",
+          "url": "https://www.fool.com/investing/2026/11/18/why-tjx-companies-stock-jumped-10-today/"
+        },
+        {
+          "title": "Stock Market Today Live, November 18, 2026 (StockTitan)",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
+        }
+      ],
+      "at": "2026-11-18T20:07:03Z"
     },
     {
       "fmp": "VU.PA",
@@ -224,6 +234,80 @@
       "at": "2026-11-18T09:07:21Z"
     },
     {
+      "fmp": "IRTC",
+      "sym": "irtc",
+      "name": "iRhythm Holdings, Inc.",
+      "pct": 5.55,
+      "short": "Tõus ~6%; võimalik seos 100 mln $ aktsiate tagasiostuga (17.11)",
+      "text": "iRhythm teatas 17. novembril 100 mln USD kiirendatud aktsiate tagasiostu lepingust JPMorganiga (osa 200 mln $ volitusest). Tänast otsest põhjust ei leidnud, seos hinnaliikumisega on võimalik, kuid kinnitamata.",
+      "sources": [
+        {
+          "title": "iRhythm Announces $100 Million Accelerated Share Repurchase Agreement (GlobeNewswire, 17.11.2026)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/17/3405212/0/en/irhythm-announces-100-million-accelerated-share-repurchase-agreement.html"
+        }
+      ],
+      "at": "2026-11-18T20:07:03Z"
+    },
+    {
+      "fmp": "COCO",
+      "sym": "coco",
+      "name": "Vita Coco Company, Inc.",
+      "pct": 5.49,
+      "short": "Tõus ~8%; täna põhjust ei leidnud",
+      "text": "Tänast ettevõttespetsiifilist uudist ega analüütikute muudatust usaldusväärsest allikast ei leidnud, seega põhjus on teadmata.",
+      "sources": [],
+      "at": "2026-11-18T17:07:59Z"
+    },
+    {
+      "fmp": "ALGT",
+      "sym": "algt",
+      "name": "Allegiant Travel Company",
+      "pct": 5.44,
+      "short": "Tõus ~5%; täna põhjust ei leidnud",
+      "text": "Täna põhjust ei leidnud. 17. novembril teatas Allegiant koos Sun Countryga 16 uuest marsruudist 2027. a. suveks, kuid see ei selgita tänast hüpet kindlalt; seos on kinnitamata.",
+      "sources": [
+        {
+          "title": "Allegiant and Sun Country Announce All-New Nonstop Routes (PRNewswire, 17.11.2026)",
+          "url": "https://www.prnewswire.com/news-releases/allegiant-and-sun-country-announce-all-new-nonstop-routes-ahead-of-summer-2027-travel-season-302941326.html"
+        }
+      ],
+      "at": "2026-11-18T20:07:03Z"
+    },
+    {
+      "fmp": "KTB",
+      "sym": "ktb",
+      "name": "Kontoor Brands, Inc.",
+      "pct": 5.4,
+      "short": "Tõus ~7%; tõenäoliselt jaekaubandussektori ralli TJX tulemuste järel",
+      "text": "Tõus tõenäoliselt jälgib jaekaubandussektori rallit: TJX tõusis täna ~10% ja Target ~5,6% pärast tulemusi. Ettevõttespetsiifilist uudist tänaseks ei leidnud, seega seos on kaudne ega ole kinnitatud.",
+      "sources": [
+        {
+          "title": "Why TJX Companies Stock Jumped 10% Today (Motley Fool, 18.11.2026)",
+          "url": "https://www.fool.com/investing/2026/11/18/why-tjx-companies-stock-jumped-10-today/"
+        },
+        {
+          "title": "Stock Market Today Live, November 18, 2026 (StockTitan)",
+          "url": "https://www.stocktitan.net/articles/stock-market-today-live-november-18-2026"
+        }
+      ],
+      "at": "2026-11-18T17:07:59Z"
+    },
+    {
+      "fmp": "VYX",
+      "sym": "vyx",
+      "name": "NCR Voyix Corporation",
+      "pct": 5.28,
+      "short": "Tõus ~5%; täna selget põhjust ei leidnud",
+      "text": "Täna teatas NCR Voyix, et Datos Insightsi uuringu järgi on ta 10. aastat järjest maailma suurim kassasüsteemide tarkvara pakkuja. Zacks kirjutas samuti tõusvatest kasumiprognoosidest, kuid selge hinnaliikumise põhjus puudub; seos on nõrk.",
+      "sources": [
+        {
+          "title": "NCR Voyix Recognized as the #1 Global POS Software Provider (Business Wire, 18.11.2026)",
+          "url": "https://www.businesswire.com/news/home/20261118974049/en/NCR-Voyix-Recognized-as-the-1-Global-POS-Software-Provider-for-the-10th-Consecutive-Year/"
+        }
+      ],
+      "at": "2026-11-18T20:07:03Z"
+    },
+    {
       "fmp": "9896.HK",
       "sym": "9896-hkg",
       "name": "MINISO Group Holding Ltd.",
@@ -232,6 +316,31 @@
       "text": "Aktsia tõusis täna 5,10% hinnani 23,50 HKD. Tänast ettevõtte-põhist uudist ega analüütikute muudatust usaldusväärsest allikast ei leidnud, seega põhjus on teadmata.",
       "sources": [],
       "at": "2026-11-18T09:07:21Z"
+    },
+    {
+      "fmp": "ALNY",
+      "sym": "alny",
+      "name": "Alnylam Pharmaceuticals, Inc",
+      "pct": -5.1,
+      "short": "Langus ~5%; täna põhjust ei leidnud",
+      "text": "Alnylam esines täna Jefferiesi tervishoiukonverentsil, kuid languse põhjuseks ei leidnud ma kinnitatud uudist ega analüütiku muudatust. Põhjus on teadmata.",
+      "sources": [
+        {
+          "title": "Alnylam presents at Jefferies Global Healthcare Conference 2026 (Seeking Alpha, 18.11.2026)",
+          "url": "https://seekingalpha.com/article/4969535-alnylam-pharmaceuticals-inc-alny-presents-at-jefferies-global-healthcare-conference-2026"
+        }
+      ],
+      "at": "2026-11-18T20:07:03Z"
+    },
+    {
+      "fmp": "PRX.AS",
+      "sym": "prx-ams",
+      "name": "Prosus N.V. Class N",
+      "pct": -5.05,
+      "short": "Langus ~5%; täna põhjust ei leidnud",
+      "text": "Tänaseid ettevõttespetsiifilisi uudiseid ega analüütikute muudatusi usaldusväärsest allikast ei leidnud, seega põhjus on teadmata.",
+      "sources": [],
+      "at": "2026-11-18T20:07:03Z"
     }
   ]
 }
