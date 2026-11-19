@@ -1,6 +1,6 @@
 {
   "date": "2026-11-19",
-  "updated": "2026-11-19T17:07:16Z",
+  "updated": "2026-11-19T20:06:33Z",
   "items": [
     {
       "fmp": "GREEN.ST",
@@ -21,16 +21,16 @@
       "fmp": "INSM",
       "sym": "insm",
       "name": "Insmed Incorporated",
-      "pct": 17.37,
-      "short": "Tõus ~17% Sanofi võimaliku ülevõtmise kuulujutu peale",
-      "text": "Barron's kirjutas täna, et aktsia hüppas pärast raportit, mille kohaselt Sanofi kaalub Insmedi ülevõtmist. Tegemist on meediaraportiga, mitte ettevõtte kinnitusega, seega on tehing ebakindel. Seos hinnaliikumisega on tugev, sest uudis ilmus samal päeval.",
+      "pct": 20.95,
+      "short": "Tõus ~21% Sanofi võimaliku ülevõtmise kuulujutu peale",
+      "text": "Barron's kirjutas täna, et Insmedi aktsia hüppas pärast raportit, mille kohaselt Sanofi kaalub biofarmaatsiaettevõtte ülevõtmist. Tegemist on meediaraportiga, mitte ettevõtte ega Sanofi kinnitusega, seega on tehing ebakindel. Seos hinnaliikumisega on tugev, sest uudis ilmus samal päeval.",
       "sources": [
         {
           "title": "Barron's: Insmed Stock Already Was Flying High. Sanofi Takeover Buzz...",
           "url": "https://www.barrons.com/articles/insmed-stock-sanofi-takeover-report-e8574321"
         }
       ],
-      "at": "2026-11-19T17:07:16Z"
+      "at": "2026-11-19T20:06:33Z"
     },
     {
       "fmp": "ILM1.DE",
@@ -46,16 +46,6 @@
         }
       ],
       "at": "2026-11-19T09:07:44Z"
-    },
-    {
-      "fmp": "AMBA",
-      "sym": "amba",
-      "name": "Ambarella, Inc.",
-      "pct": 8.53,
-      "short": "Tõus ~9%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Põhjus on seega teadmata.",
-      "sources": [],
-      "at": "2026-11-19T17:07:16Z"
     },
     {
       "fmp": "9896.HK",
@@ -75,6 +65,16 @@
         }
       ],
       "at": "2026-11-19T09:07:44Z"
+    },
+    {
+      "fmp": "AMBA",
+      "sym": "amba",
+      "name": "Ambarella, Inc.",
+      "pct": 7.81,
+      "short": "Tõus ~9%; tänast põhjust ei leidnud",
+      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Põhjus on seega teadmata.",
+      "sources": [],
+      "at": "2026-11-19T17:07:16Z"
     },
     {
       "fmp": "9698.HK",
@@ -111,6 +111,29 @@
       "at": "2026-11-19T17:07:16Z"
     },
     {
+      "fmp": "YMM",
+      "sym": "ymm",
+      "name": "Full Truck Alliance Co. Ltd. Sponsored ADR",
+      "pct": 6.62,
+      "short": "Tõus ~6,6% pärast Q3 tulemusi: kasum ja tulu üle ootuste",
+      "text": "Full Truck Alliance avaldas täna 2026. aasta III kvartali tulemused: tulu ja kasum kasvasid ning Zacksi andmetel ületas kasum aktsia kohta (0,21 USD) konsensusprognoosi (0,20 USD). Juhtkond märkis, et äärmuslik ilm ja pühade ajastus aeglustasid tellimuste kasvu. Seos tõusuga on tõenäoline, sest tulemused ilmusid samal päeval.",
+      "sources": [
+        {
+          "title": "FTA announces Q3 2026 results (PRNewswire)",
+          "url": "https://www.prnewswire.com/news-releases/full-truck-alliance-co-ltd-announces-third-quarter-2026-unaudited-financial-results-302945142.html"
+        },
+        {
+          "title": "Zacks: YMM Q3 earnings and revenues top estimates",
+          "url": "https://www.zacks.com/stock/news/3032220/full-truck-alliance-co-ltd-sponsored-adr-ymm-q3-earnings-and-revenues-top-estimates"
+        },
+        {
+          "title": "MarketBeat: Q3 earnings call highlights",
+          "url": "https://www.marketbeat.com/instant-alerts/transcript-full-truck-alliance-q3-earnings-call-highlights-2026-11-19/"
+        }
+      ],
+      "at": "2026-11-19T20:06:33Z"
+    },
+    {
       "fmp": "SPZ.AX",
       "sym": "spz-aus",
       "name": "Smart Parking Limited",
@@ -126,39 +149,55 @@
       "at": "2026-11-19T09:07:44Z"
     },
     {
-      "fmp": "NXR.L",
-      "sym": "nxr-lon",
-      "name": "Norcros plc",
-      "pct": -5.84,
+      "fmp": "YETI",
+      "sym": "yeti",
+      "name": "YETI Holdings, Inc.",
+      "pct": -6.49,
       "short": "Langus ~6%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Põhjus on seega teadmata.",
-      "sources": [],
-      "at": "2026-11-19T17:07:16Z"
-    },
-    {
-      "fmp": "FUTU",
-      "sym": "futu",
-      "name": "Futu Holdings Ltd. Sponsored ADR Class A",
-      "pct": 5.79,
-      "short": "Tõus ~6% pärast Q3 tulemusi: kontode kasv, tulu +4,5%",
-      "text": "Futu avaldas täna 2026. aasta III kvartali tulemused. Tulu kasvas 4,5% (kvartalis -7,1%), rahastatud kontosid oli 4,01 mln (+27,9%) ja kliendivarad kasvasid. Nõrgemad aktsiaturud mõjutasid kauplemist. Seos tõusuga on tõenäoline, kuid allikad ei maini otseselt turu reaktsiooni põhjust.",
+      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. 12. novembri III kvartali tulemused (müük alla ootuste, EPS-prognoos langetatud) on vanem info; täna avaldatud põhjust ei leidnud. Põhjus on seega teadmata.",
       "sources": [
         {
-          "title": "Futu Q3 2026 financial results (GlobeNewswire)",
-          "url": "https://www.globenewswire.com/news-release/2026/11/19/3406322/0/en/futu-announces-third-quarter-2026-unaudited-financial-results.html"
-        },
-        {
-          "title": "Seeking Alpha: Why Futu Holdings Is A Strong Buy After Impressive Q3 Results",
-          "url": "https://seekingalpha.com/article/4970123-why-futu-holdings-is-a-strong-buy-after-impressive-q3-results-ratings-upgrade"
+          "title": "StockStory: YETI Q3 2026 (12.11.2026)",
+          "url": "https://stockstory.org/us/stocks/nyse/yeti/news/earnings/yeti-misses-q3-2026-revenue-estimates-stock-drops"
         }
       ],
       "at": "2026-11-19T17:07:16Z"
     },
     {
-      "fmp": "MTZ",
-      "sym": "mtz",
-      "name": "MasTec, Inc.",
-      "pct": -5.73,
+      "fmp": "VYX",
+      "sym": "vyx",
+      "name": "NCR Voyix Corporation",
+      "pct": -6.09,
+      "short": "Langus ~5%; tänast põhjust ei leidnud",
+      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Põhjus on seega teadmata.",
+      "sources": [],
+      "at": "2026-11-19T17:07:16Z"
+    },
+    {
+      "fmp": "WELL.TO",
+      "sym": "well-ca",
+      "name": "WELL Health Technologies Corp.",
+      "pct": -5.95,
+      "short": "Langus ~5%; tänast põhjust ei leidnud",
+      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Põhjus on seega teadmata.",
+      "sources": [],
+      "at": "2026-11-19T17:07:16Z"
+    },
+    {
+      "fmp": "GRAB",
+      "sym": "grab",
+      "name": "Grab Holdings Limited Class A",
+      "pct": -5.91,
+      "short": "Langus ~6%; tänast põhjust ei leidnud",
+      "text": "Täna avaldatud allikatest ei leidnud ma Grabi kohta uudist, mis langust selgitaks. Samal päeval langesid ka mitmed USA tehnoloogia- ja platvormiaktsiad (nt Uber ca -5%, Amazon ca -4%), kuid seost sellega allikad ei kinnita. Põhjus on seega teadmata.",
+      "sources": [],
+      "at": "2026-11-19T20:06:33Z"
+    },
+    {
+      "fmp": "NXR.L",
+      "sym": "nxr-lon",
+      "name": "Norcros plc",
+      "pct": -5.84,
       "short": "Langus ~6%; tänast põhjust ei leidnud",
       "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Põhjus on seega teadmata.",
       "sources": [],
@@ -175,18 +214,13 @@
       "at": "2026-11-19T17:07:16Z"
     },
     {
-      "fmp": "YETI",
-      "sym": "yeti",
-      "name": "YETI Holdings, Inc.",
-      "pct": -5.52,
+      "fmp": "MTZ",
+      "sym": "mtz",
+      "name": "MasTec, Inc.",
+      "pct": -5.57,
       "short": "Langus ~6%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. 12. novembri III kvartali tulemused (müük alla ootuste, EPS-prognoos langetatud) on vanem info; täna avaldatud põhjust ei leidnud. Põhjus on seega teadmata.",
-      "sources": [
-        {
-          "title": "StockStory: YETI Q3 2026 (12.11.2026)",
-          "url": "https://stockstory.org/us/stocks/nyse/yeti/news/earnings/yeti-misses-q3-2026-revenue-estimates-stock-drops"
-        }
-      ],
+      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Põhjus on seega teadmata.",
+      "sources": [],
       "at": "2026-11-19T17:07:16Z"
     },
     {
@@ -209,10 +243,29 @@
       "at": "2026-11-19T09:07:44Z"
     },
     {
+      "fmp": "FUTU",
+      "sym": "futu",
+      "name": "Futu Holdings Ltd. Sponsored ADR Class A",
+      "pct": 5.01,
+      "short": "Tõus ~6% pärast Q3 tulemusi: kontode kasv, tulu +4,5%",
+      "text": "Futu avaldas täna 2026. aasta III kvartali tulemused. Tulu kasvas 4,5% (kvartalis -7,1%), rahastatud kontosid oli 4,01 mln (+27,9%) ja kliendivarad kasvasid. Nõrgemad aktsiaturud mõjutasid kauplemist. Seos tõusuga on tõenäoline, kuid allikad ei maini otseselt turu reaktsiooni põhjust.",
+      "sources": [
+        {
+          "title": "Futu Q3 2026 financial results (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/19/3406322/0/en/futu-announces-third-quarter-2026-unaudited-financial-results.html"
+        },
+        {
+          "title": "Seeking Alpha: Why Futu Holdings Is A Strong Buy After Impressive Q3 Results",
+          "url": "https://seekingalpha.com/article/4970123-why-futu-holdings-is-a-strong-buy-after-impressive-q3-results-ratings-upgrade"
+        }
+      ],
+      "at": "2026-11-19T17:07:16Z"
+    },
+    {
       "fmp": "MAMA",
       "sym": "mama",
       "name": "Mama's Creations, Inc.",
-      "pct": -5.32,
+      "pct": -5.01,
       "short": "Langus ~5%; tänast põhjust ei leidnud",
       "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Põhjus on seega teadmata.",
       "sources": [],
@@ -222,7 +275,7 @@
       "fmp": "POS.VI",
       "sym": "pos-at",
       "name": "PORR AG",
-      "pct": 5.26,
+      "pct": 4.95,
       "short": "Tõus ~5%: Q1–Q3 kasum +23%, prognoos kinnitatud",
       "text": "PORR avaldas täna üheksa kuu tulemused: puhaskasum kasvas ca 23% 86,2 mln euroni, EBIT +13% 122,2 mln euroni ja tellimuste portfell on ca 10 mld eurot (+4,4%). 2026. aasta prognoos kinnitati. Tõusu seos tulemustega on tõenäoline.",
       "sources": [
@@ -232,26 +285,6 @@
         }
       ],
       "at": "2026-11-19T09:07:44Z"
-    },
-    {
-      "fmp": "VYX",
-      "sym": "vyx",
-      "name": "NCR Voyix Corporation",
-      "pct": -5.26,
-      "short": "Langus ~5%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Põhjus on seega teadmata.",
-      "sources": [],
-      "at": "2026-11-19T17:07:16Z"
-    },
-    {
-      "fmp": "WELL.TO",
-      "sym": "well-ca",
-      "name": "WELL Health Technologies Corp.",
-      "pct": -5.14,
-      "short": "Langus ~5%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Põhjus on seega teadmata.",
-      "sources": [],
-      "at": "2026-11-19T17:07:16Z"
     }
   ]
 }
