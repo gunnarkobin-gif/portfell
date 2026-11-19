@@ -1,21 +1,36 @@
 {
   "date": "2026-11-19",
-  "updated": "2026-11-19T09:07:44Z",
+  "updated": "2026-11-19T17:07:16Z",
   "items": [
     {
       "fmp": "GREEN.ST",
       "sym": "green-se",
       "name": "Green Landscaping Group AB",
-      "pct": -22.06,
-      "short": "Järsk langus ~22%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma Green Landscapingu kohta uudist, mis langust selgitaks. Ettevõte teatas septembris 79 mln Rootsi krooni ühekordsetest kuludest ja parandusprogrammist, kuid see on vanem info ning seost tänase liikumisega ei saa kinnitada. Põhjus on seega teadmata.",
+      "pct": -25.87,
+      "short": "Järsk langus ~26%; tänast põhjust ei leidnud",
+      "text": "Täna avaldatud allikatest ei leidnud ma Green Landscapingu kohta uudist, mis langust selgitaks. Septembris teatas ettevõte 79 mln Rootsi krooni ühekordsetest kuludest ja parandusprogrammist \"Green Performance\", kuid see on vanem info ning seost tänase liikumisega ei saa kinnitada. Põhjus on seega teadmata.",
       "sources": [
         {
-          "title": "Green Landscaping: ühekordsed kulud Q3 2026 (22.09.2026)",
+          "title": "Green Landscaping Group: ühekordsed kulud, parandusprogramm (22.09.2026)",
           "url": "https://www.inderes.se/releases/green-landscaping-group-reports-one-off-costs-in-the-third-quarter-of-2026-launches-an-improvement-programme-and-strengthens-group-management"
         }
       ],
-      "at": "2026-11-19T09:07:44Z"
+      "at": "2026-11-19T17:07:16Z"
+    },
+    {
+      "fmp": "INSM",
+      "sym": "insm",
+      "name": "Insmed Incorporated",
+      "pct": 17.37,
+      "short": "Tõus ~17% Sanofi võimaliku ülevõtmise kuulujutu peale",
+      "text": "Barron's kirjutas täna, et aktsia hüppas pärast raportit, mille kohaselt Sanofi kaalub Insmedi ülevõtmist. Tegemist on meediaraportiga, mitte ettevõtte kinnitusega, seega on tehing ebakindel. Seos hinnaliikumisega on tugev, sest uudis ilmus samal päeval.",
+      "sources": [
+        {
+          "title": "Barron's: Insmed Stock Already Was Flying High. Sanofi Takeover Buzz...",
+          "url": "https://www.barrons.com/articles/insmed-stock-sanofi-takeover-report-e8574321"
+        }
+      ],
+      "at": "2026-11-19T17:07:16Z"
     },
     {
       "fmp": "ILM1.DE",
@@ -31,6 +46,16 @@
         }
       ],
       "at": "2026-11-19T09:07:44Z"
+    },
+    {
+      "fmp": "AMBA",
+      "sym": "amba",
+      "name": "Ambarella, Inc.",
+      "pct": 8.53,
+      "short": "Tõus ~9%; tänast põhjust ei leidnud",
+      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Põhjus on seega teadmata.",
+      "sources": [],
+      "at": "2026-11-19T17:07:16Z"
     },
     {
       "fmp": "9896.HK",
@@ -71,6 +96,21 @@
       "at": "2026-11-19T09:07:44Z"
     },
     {
+      "fmp": "BFF.MI",
+      "sym": "bff-mil",
+      "name": "BFF Bank SpA",
+      "pct": -7.21,
+      "short": "Langus ~7%; tänast põhjust ei leidnud",
+      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Panga 10. novembri üheksa kuu tulemused (kasum -14%) ja Cerberusega peetavad ainuõiguslikud läbirääkimised on vanem info; seost tänase langusega ei saa kinnitada. Põhjus on seega teadmata.",
+      "sources": [
+        {
+          "title": "Teleborsa: BFF üheksa kuu tulemused, Cerberus (10.11.2026)",
+          "url": "https://www.teleborsa.it/DettaglioNews/239_2026-11-10_TLB/BFF-utile-nei-nove-mesi-in-calo-del-14-Trattative-in-esclusiva-con-Cerberus.html"
+        }
+      ],
+      "at": "2026-11-19T17:07:16Z"
+    },
+    {
       "fmp": "SPZ.AX",
       "sym": "spz-aus",
       "name": "Smart Parking Limited",
@@ -84,6 +124,70 @@
         }
       ],
       "at": "2026-11-19T09:07:44Z"
+    },
+    {
+      "fmp": "NXR.L",
+      "sym": "nxr-lon",
+      "name": "Norcros plc",
+      "pct": -5.84,
+      "short": "Langus ~6%; tänast põhjust ei leidnud",
+      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Põhjus on seega teadmata.",
+      "sources": [],
+      "at": "2026-11-19T17:07:16Z"
+    },
+    {
+      "fmp": "FUTU",
+      "sym": "futu",
+      "name": "Futu Holdings Ltd. Sponsored ADR Class A",
+      "pct": 5.79,
+      "short": "Tõus ~6% pärast Q3 tulemusi: kontode kasv, tulu +4,5%",
+      "text": "Futu avaldas täna 2026. aasta III kvartali tulemused. Tulu kasvas 4,5% (kvartalis -7,1%), rahastatud kontosid oli 4,01 mln (+27,9%) ja kliendivarad kasvasid. Nõrgemad aktsiaturud mõjutasid kauplemist. Seos tõusuga on tõenäoline, kuid allikad ei maini otseselt turu reaktsiooni põhjust.",
+      "sources": [
+        {
+          "title": "Futu Q3 2026 financial results (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/19/3406322/0/en/futu-announces-third-quarter-2026-unaudited-financial-results.html"
+        },
+        {
+          "title": "Seeking Alpha: Why Futu Holdings Is A Strong Buy After Impressive Q3 Results",
+          "url": "https://seekingalpha.com/article/4970123-why-futu-holdings-is-a-strong-buy-after-impressive-q3-results-ratings-upgrade"
+        }
+      ],
+      "at": "2026-11-19T17:07:16Z"
+    },
+    {
+      "fmp": "MTZ",
+      "sym": "mtz",
+      "name": "MasTec, Inc.",
+      "pct": -5.73,
+      "short": "Langus ~6%; tänast põhjust ei leidnud",
+      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Põhjus on seega teadmata.",
+      "sources": [],
+      "at": "2026-11-19T17:07:16Z"
+    },
+    {
+      "fmp": "SALME.OL",
+      "sym": "salme-no",
+      "name": "Salmon Evolution ASA",
+      "pct": -5.58,
+      "short": "Langus ~6%; tänast põhjust ei leidnud",
+      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Põhjus on seega teadmata.",
+      "sources": [],
+      "at": "2026-11-19T17:07:16Z"
+    },
+    {
+      "fmp": "YETI",
+      "sym": "yeti",
+      "name": "YETI Holdings, Inc.",
+      "pct": -5.52,
+      "short": "Langus ~6%; tänast põhjust ei leidnud",
+      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. 12. novembri III kvartali tulemused (müük alla ootuste, EPS-prognoos langetatud) on vanem info; täna avaldatud põhjust ei leidnud. Põhjus on seega teadmata.",
+      "sources": [
+        {
+          "title": "StockStory: YETI Q3 2026 (12.11.2026)",
+          "url": "https://stockstory.org/us/stocks/nyse/yeti/news/earnings/yeti-misses-q3-2026-revenue-estimates-stock-drops"
+        }
+      ],
+      "at": "2026-11-19T17:07:16Z"
     },
     {
       "fmp": "9988.HK",
@@ -105,6 +209,16 @@
       "at": "2026-11-19T09:07:44Z"
     },
     {
+      "fmp": "MAMA",
+      "sym": "mama",
+      "name": "Mama's Creations, Inc.",
+      "pct": -5.32,
+      "short": "Langus ~5%; tänast põhjust ei leidnud",
+      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Põhjus on seega teadmata.",
+      "sources": [],
+      "at": "2026-11-19T17:07:16Z"
+    },
+    {
       "fmp": "POS.VI",
       "sym": "pos-at",
       "name": "PORR AG",
@@ -118,6 +232,26 @@
         }
       ],
       "at": "2026-11-19T09:07:44Z"
+    },
+    {
+      "fmp": "VYX",
+      "sym": "vyx",
+      "name": "NCR Voyix Corporation",
+      "pct": -5.26,
+      "short": "Langus ~5%; tänast põhjust ei leidnud",
+      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Põhjus on seega teadmata.",
+      "sources": [],
+      "at": "2026-11-19T17:07:16Z"
+    },
+    {
+      "fmp": "WELL.TO",
+      "sym": "well-ca",
+      "name": "WELL Health Technologies Corp.",
+      "pct": -5.14,
+      "short": "Langus ~5%; tänast põhjust ei leidnud",
+      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Põhjus on seega teadmata.",
+      "sources": [],
+      "at": "2026-11-19T17:07:16Z"
     }
   ]
 }
