@@ -1,290 +1,125 @@
 {
-  "date": "2026-11-19",
-  "updated": "2026-11-19T20:06:33Z",
+  "date": "2026-11-20",
+  "updated": "2026-11-20T09:07:32Z",
   "items": [
     {
-      "fmp": "GREEN.ST",
-      "sym": "green-se",
-      "name": "Green Landscaping Group AB",
-      "pct": -25.87,
-      "short": "Järsk langus ~26%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma Green Landscapingu kohta uudist, mis langust selgitaks. Septembris teatas ettevõte 79 mln Rootsi krooni ühekordsetest kuludest ja parandusprogrammist \"Green Performance\", kuid see on vanem info ning seost tänase liikumisega ei saa kinnitada. Põhjus on seega teadmata.",
+      "fmp": "VK.PA",
+      "sym": "vk-par",
+      "name": "Vallourec SA",
+      "pct": -12.01,
+      "short": "Langus ~12%: nõrk Q4 EBITDA juhtimine, Q3 kasum -56%",
+      "text": "Vallourec avaldas täna 3. kvartali tulemused: käive 956 mln USD (-10%), EBITDA 181 mln USD (-26%, kooskõlas prognoosiga) ja puhaskasum 66 mln USD (-56%). Aktsia kukkus, sest Q4 EBITDA juhis 170–210 mln USD jääb keskmiselt ~25% alla analüütikute konsensuse (Jefferiesi viidatud Visible Alpha järgi 253 mln USD) ning kogu aasta juhis ~8% alla. Ettevõte nimetas põhjusteks Lähis-Ida lisakulusid ja ajutist tootmishäiret USA-s. Seos hinnaliikumisega on väga tugev.",
       "sources": [
         {
-          "title": "Green Landscaping Group: ühekordsed kulud, parandusprogramm (22.09.2026)",
-          "url": "https://www.inderes.se/releases/green-landscaping-group-reports-one-off-costs-in-the-third-quarter-of-2026-launches-an-improvement-programme-and-strengthens-group-management"
-        }
-      ],
-      "at": "2026-11-19T17:07:16Z"
-    },
-    {
-      "fmp": "INSM",
-      "sym": "insm",
-      "name": "Insmed Incorporated",
-      "pct": 20.95,
-      "short": "Tõus ~21% Sanofi võimaliku ülevõtmise kuulujutu peale",
-      "text": "Barron's kirjutas täna, et Insmedi aktsia hüppas pärast raportit, mille kohaselt Sanofi kaalub biofarmaatsiaettevõtte ülevõtmist. Tegemist on meediaraportiga, mitte ettevõtte ega Sanofi kinnitusega, seega on tehing ebakindel. Seos hinnaliikumisega on tugev, sest uudis ilmus samal päeval.",
-      "sources": [
-        {
-          "title": "Barron's: Insmed Stock Already Was Flying High. Sanofi Takeover Buzz...",
-          "url": "https://www.barrons.com/articles/insmed-stock-sanofi-takeover-report-e8574321"
-        }
-      ],
-      "at": "2026-11-19T20:06:33Z"
-    },
-    {
-      "fmp": "ILM1.DE",
-      "sym": "ilm1-etr",
-      "name": "Medios AG",
-      "pct": 8.7,
-      "short": "Tõus ~9%: uus tagasiost kuni 19 mln €",
-      "text": "Medios teatas kolmapäeva õhtul uuest aktsiate tagasiostust: kuni 1,5 mln aktsiat (ca 5,9% kapitalist) kuni 19 mln euro eest, programm algas neljapäeval. Hommikuses kauplemises tõusis aktsia umbes 8%. Seos on tõenäoline, kuigi tõusu võis toetada ka eelmise nädala langusejärgne tagasipõrge.",
-      "sources": [
-        {
-          "title": "Medios kauft erneut Aktien zurück - Kurs zieht an",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/roundup-medios-kauft-erneut-aktien-zurueck-kurs-zieht-an/70534763"
-        }
-      ],
-      "at": "2026-11-19T09:07:44Z"
-    },
-    {
-      "fmp": "9896.HK",
-      "sym": "9896-hkg",
-      "name": "MINISO Group Holding Ltd.",
-      "pct": -8.43,
-      "short": "Langus ~8%; Nomura: Q4 marginaalis pööret pole",
-      "text": "Nomura tõstis Minisoo USA-noteeringu sihthinda veidi 12 dollarile, jättes hinnangu neutraalseks, ja märkis, et neljanda kvartali kasumimarginaalis pööret veel ei paista (Q3 tegevusmarginaal langes 2,6 pp). Samal päeval langes ka Hongkongi turg laiemalt (Hang Seng -1,95%). Konkreetset ühte põhjust allikad ei kinnita; seos on osaline.",
-      "sources": [
-        {
-          "title": "Nomura: Miniso sihthind 12 USD",
-          "url": "https://www.caiwennews.com/article/1708216.shtml"
+          "title": "ABC Bourse: Vallourec chute après la présentation de perspectives décevantes",
+          "url": "https://www.abcbourse.com/marches/vallourec-chute-apres-la-presentation-de-perspectives-decevantes_706430"
         },
         {
-          "title": "Hongkongi turu sulgumine 19.11",
-          "url": "https://www.caiwennews.com/article/1708530.shtml"
+          "title": "Connaissance des Énergies (AFP): Vallourec, Lähis-Ida sõda pärsib Q3 kasumlikkust",
+          "url": "https://www.connaissancedesenergies.org/afp/vallourec-la-guerre-au-moyen-orient-pese-sur-la-rentabilite-au-troisieme-trimestre-261120"
         }
       ],
-      "at": "2026-11-19T09:07:44Z"
+      "at": "2026-11-20T09:07:32Z"
     },
     {
-      "fmp": "AMBA",
-      "sym": "amba",
-      "name": "Ambarella, Inc.",
-      "pct": 7.81,
-      "short": "Tõus ~9%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Põhjus on seega teadmata.",
+      "fmp": "2590.HK",
+      "sym": "2590-hk",
+      "name": "Beijing Geekplus Technology Co., Ltd. Class H",
+      "pct": -9.31,
+      "short": "Langus ~9%; tänast põhjust ei leidnud",
+      "text": "Täna avaldatud allikatest ei leidnud ma selle languse kohta ettevõttespetsiifilist uudist. Põhjus on teadmata; sektori- või turuseost ei saa allikatega kinnitada.",
       "sources": [],
-      "at": "2026-11-19T17:07:16Z"
+      "at": "2026-11-20T09:07:32Z"
     },
     {
       "fmp": "9698.HK",
       "sym": "9698-hk",
       "name": "GDS Holdings Ltd.",
-      "pct": -7.41,
-      "short": "Langus ~7% koos Hongkongi tehnoloogiasektoriga",
-      "text": "GDS langes päeva jooksul kohati üle 10%, sulgudes umbes 7% miinuses, samal ajal kui Hongkongi tehnoloogiaaktsiad olid laiemalt languses (Hang Seng Tech -2,33%, Tencent -6,55%). Ettevõttespetsiifilist uudist ei leidnud, seega on põhjus tõenäoliselt sektori ja turu meeleolu, kuid see pole allikatega kinnitatud.",
-      "sources": [
-        {
-          "title": "万国数据盘中跌超10%",
-          "url": "https://www.caiwennews.com/article/1708080.shtml"
-        },
-        {
-          "title": "Hongkongi turu sulgumine 19.11",
-          "url": "https://www.caiwennews.com/article/1708530.shtml"
-        }
-      ],
-      "at": "2026-11-19T09:07:44Z"
+      "pct": -8.13,
+      "short": "Langus ~8%; tänast põhjust ei leidnud",
+      "text": "Täna avaldatud allikatest ei leidnud ma selle languse kohta ettevõttespetsiifilist uudist. Põhjus on teadmata; sektori- või turuseost ei saa allikatega kinnitada.",
+      "sources": [],
+      "at": "2026-11-20T09:07:32Z"
     },
     {
-      "fmp": "BFF.MI",
-      "sym": "bff-mil",
-      "name": "BFF Bank SpA",
-      "pct": -7.21,
+      "fmp": "GREEN.ST",
+      "sym": "green-se",
+      "name": "Green Landscaping Group AB",
+      "pct": -6.54,
       "short": "Langus ~7%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Panga 10. novembri üheksa kuu tulemused (kasum -14%) ja Cerberusega peetavad ainuõiguslikud läbirääkimised on vanem info; seost tänase langusega ei saa kinnitada. Põhjus on seega teadmata.",
-      "sources": [
-        {
-          "title": "Teleborsa: BFF üheksa kuu tulemused, Cerberus (10.11.2026)",
-          "url": "https://www.teleborsa.it/DettaglioNews/239_2026-11-10_TLB/BFF-utile-nei-nove-mesi-in-calo-del-14-Trattative-in-esclusiva-con-Cerberus.html"
-        }
-      ],
-      "at": "2026-11-19T17:07:16Z"
+      "text": "Täna avaldatud allikatest ei leidnud ma selle languse kohta ettevõttespetsiifilist uudist. Põhjus on teadmata; sektori- või turuseost ei saa allikatega kinnitada.",
+      "sources": [],
+      "at": "2026-11-20T09:07:32Z"
     },
     {
-      "fmp": "YMM",
-      "sym": "ymm",
-      "name": "Full Truck Alliance Co. Ltd. Sponsored ADR",
-      "pct": 6.62,
-      "short": "Tõus ~6,6% pärast Q3 tulemusi: kasum ja tulu üle ootuste",
-      "text": "Full Truck Alliance avaldas täna 2026. aasta III kvartali tulemused: tulu ja kasum kasvasid ning Zacksi andmetel ületas kasum aktsia kohta (0,21 USD) konsensusprognoosi (0,20 USD). Juhtkond märkis, et äärmuslik ilm ja pühade ajastus aeglustasid tellimuste kasvu. Seos tõusuga on tõenäoline, sest tulemused ilmusid samal päeval.",
-      "sources": [
-        {
-          "title": "FTA announces Q3 2026 results (PRNewswire)",
-          "url": "https://www.prnewswire.com/news-releases/full-truck-alliance-co-ltd-announces-third-quarter-2026-unaudited-financial-results-302945142.html"
-        },
-        {
-          "title": "Zacks: YMM Q3 earnings and revenues top estimates",
-          "url": "https://www.zacks.com/stock/news/3032220/full-truck-alliance-co-ltd-sponsored-adr-ymm-q3-earnings-and-revenues-top-estimates"
-        },
-        {
-          "title": "MarketBeat: Q3 earnings call highlights",
-          "url": "https://www.marketbeat.com/instant-alerts/transcript-full-truck-alliance-q3-earnings-call-highlights-2026-11-19/"
-        }
-      ],
-      "at": "2026-11-19T20:06:33Z"
+      "fmp": "OTB.L",
+      "sym": "otb-lon",
+      "name": "On The Beach Group PLC",
+      "pct": -6.14,
+      "short": "Langus ~6%; tänast põhjust ei leidnud",
+      "text": "Täna avaldatud allikatest ei leidnud ma selle languse kohta ettevõttespetsiifilist uudist. Põhjus on teadmata; sektori- või turuseost ei saa allikatega kinnitada.",
+      "sources": [],
+      "at": "2026-11-20T09:07:32Z"
+    },
+    {
+      "fmp": "BUR.L",
+      "sym": "bur-lon",
+      "name": "Burford Capital Limited",
+      "pct": -5.8,
+      "short": "Langus ~6%; tänast põhjust ei leidnud",
+      "text": "Täna avaldatud allikatest ei leidnud ma selle languse kohta ettevõttespetsiifilist uudist. Põhjus on teadmata; sektori- või turuseost ei saa allikatega kinnitada.",
+      "sources": [],
+      "at": "2026-11-20T09:07:32Z"
+    },
+    {
+      "fmp": "1357.HK",
+      "sym": "1357-hk",
+      "name": "Meitu, Inc",
+      "pct": -5.76,
+      "short": "Langus ~6%; tänast põhjust ei leidnud",
+      "text": "Täna avaldatud allikatest ei leidnud ma selle languse kohta ettevõttespetsiifilist uudist. Põhjus on teadmata; sektori- või turuseost ei saa allikatega kinnitada.",
+      "sources": [],
+      "at": "2026-11-20T09:07:32Z"
+    },
+    {
+      "fmp": "XRO.AX",
+      "sym": "xro-aus",
+      "name": "Xero Limited",
+      "pct": -5.65,
+      "short": "Langus ~6%; tänast põhjust ei leidnud",
+      "text": "Täna avaldatud allikatest ei leidnud ma selle languse kohta ettevõttespetsiifilist uudist. Põhjus on teadmata; sektori- või turuseost ei saa allikatega kinnitada.",
+      "sources": [],
+      "at": "2026-11-20T09:07:32Z"
+    },
+    {
+      "fmp": "G24.DE",
+      "sym": "g24-etr",
+      "name": "Scout24 SE",
+      "pct": -5.47,
+      "short": "Langus ~5%; tänast põhjust ei leidnud",
+      "text": "Täna avaldatud allikatest ei leidnud ma selle languse kohta ettevõttespetsiifilist uudist. Põhjus on teadmata; sektori- või turuseost ei saa allikatega kinnitada.",
+      "sources": [],
+      "at": "2026-11-20T09:07:32Z"
     },
     {
       "fmp": "SPZ.AX",
       "sym": "spz-aus",
       "name": "Smart Parking Limited",
-      "pct": 6.56,
-      "short": "Tõus ~6,6%; täna põhjust ei leidnud",
-      "text": "ASX-i teadetes ei ole 19. novembri kohta Smart Parkingu uudist ning 18. novembril oli ainult aktsiate tagasiostu ja noteerimise tehniline teade. Tõusu põhjus on teadmata; tegu on väga väikese hinnaga aktsiaga, kus liikumised on suured.",
-      "sources": [
-        {
-          "title": "Smart Parking ASX-i teated",
-          "url": "https://www.investsmart.com.au/security/asx/spz/smart-parking-limited/announcements"
-        }
-      ],
-      "at": "2026-11-19T09:07:44Z"
-    },
-    {
-      "fmp": "YETI",
-      "sym": "yeti",
-      "name": "YETI Holdings, Inc.",
-      "pct": -6.49,
-      "short": "Langus ~6%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. 12. novembri III kvartali tulemused (müük alla ootuste, EPS-prognoos langetatud) on vanem info; täna avaldatud põhjust ei leidnud. Põhjus on seega teadmata.",
-      "sources": [
-        {
-          "title": "StockStory: YETI Q3 2026 (12.11.2026)",
-          "url": "https://stockstory.org/us/stocks/nyse/yeti/news/earnings/yeti-misses-q3-2026-revenue-estimates-stock-drops"
-        }
-      ],
-      "at": "2026-11-19T17:07:16Z"
-    },
-    {
-      "fmp": "VYX",
-      "sym": "vyx",
-      "name": "NCR Voyix Corporation",
-      "pct": -6.09,
+      "pct": -5.38,
       "short": "Langus ~5%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Põhjus on seega teadmata.",
+      "text": "Täna avaldatud allikatest ei leidnud ma selle languse kohta ettevõttespetsiifilist uudist. Põhjus on teadmata; sektori- või turuseost ei saa allikatega kinnitada.",
       "sources": [],
-      "at": "2026-11-19T17:07:16Z"
+      "at": "2026-11-20T09:07:32Z"
     },
     {
-      "fmp": "WELL.TO",
-      "sym": "well-ca",
-      "name": "WELL Health Technologies Corp.",
-      "pct": -5.95,
+      "fmp": "SMG.SW",
+      "sym": "smg-swx",
+      "name": "SMG Swiss Marketplace Group Holding AG",
+      "pct": -5.14,
       "short": "Langus ~5%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Põhjus on seega teadmata.",
+      "text": "Täna avaldatud allikatest ei leidnud ma selle languse kohta ettevõttespetsiifilist uudist. Põhjus on teadmata; sektori- või turuseost ei saa allikatega kinnitada.",
       "sources": [],
-      "at": "2026-11-19T17:07:16Z"
-    },
-    {
-      "fmp": "GRAB",
-      "sym": "grab",
-      "name": "Grab Holdings Limited Class A",
-      "pct": -5.91,
-      "short": "Langus ~6%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma Grabi kohta uudist, mis langust selgitaks. Samal päeval langesid ka mitmed USA tehnoloogia- ja platvormiaktsiad (nt Uber ca -5%, Amazon ca -4%), kuid seost sellega allikad ei kinnita. Põhjus on seega teadmata.",
-      "sources": [],
-      "at": "2026-11-19T20:06:33Z"
-    },
-    {
-      "fmp": "NXR.L",
-      "sym": "nxr-lon",
-      "name": "Norcros plc",
-      "pct": -5.84,
-      "short": "Langus ~6%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Põhjus on seega teadmata.",
-      "sources": [],
-      "at": "2026-11-19T17:07:16Z"
-    },
-    {
-      "fmp": "SALME.OL",
-      "sym": "salme-no",
-      "name": "Salmon Evolution ASA",
-      "pct": -5.58,
-      "short": "Langus ~6%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Põhjus on seega teadmata.",
-      "sources": [],
-      "at": "2026-11-19T17:07:16Z"
-    },
-    {
-      "fmp": "MTZ",
-      "sym": "mtz",
-      "name": "MasTec, Inc.",
-      "pct": -5.57,
-      "short": "Langus ~6%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Põhjus on seega teadmata.",
-      "sources": [],
-      "at": "2026-11-19T17:07:16Z"
-    },
-    {
-      "fmp": "9988.HK",
-      "sym": "9988-hkg",
-      "name": "Alibaba Group Holding Limited",
-      "pct": -5.51,
-      "short": "Langus ~5,5% turu languses; tulemused täna",
-      "text": "Alibaba langes Hongkongi turu üldise languse taustal (Hang Seng -1,95%, Tencent -6,55% pärast tulemusi). Alibaba ise avaldab septembrikvartali tulemused täna, 19. novembril, mistõttu võis langusele aidata ka ootus tulemuste ees. Tulemuste sisu ega täpset põhjust ei leidnud.",
-      "sources": [
-        {
-          "title": "Alibaba teatab tulemused 19.11.2026",
-          "url": "https://www.nasdaq.com/press-release/alibaba-group-will-announce-september-quarter-2026-results-november-19-2026-2026-11"
-        },
-        {
-          "title": "Hongkongi turu sulgumine 19.11",
-          "url": "https://www.caiwennews.com/article/1708530.shtml"
-        }
-      ],
-      "at": "2026-11-19T09:07:44Z"
-    },
-    {
-      "fmp": "FUTU",
-      "sym": "futu",
-      "name": "Futu Holdings Ltd. Sponsored ADR Class A",
-      "pct": 5.01,
-      "short": "Tõus ~6% pärast Q3 tulemusi: kontode kasv, tulu +4,5%",
-      "text": "Futu avaldas täna 2026. aasta III kvartali tulemused. Tulu kasvas 4,5% (kvartalis -7,1%), rahastatud kontosid oli 4,01 mln (+27,9%) ja kliendivarad kasvasid. Nõrgemad aktsiaturud mõjutasid kauplemist. Seos tõusuga on tõenäoline, kuid allikad ei maini otseselt turu reaktsiooni põhjust.",
-      "sources": [
-        {
-          "title": "Futu Q3 2026 financial results (GlobeNewswire)",
-          "url": "https://www.globenewswire.com/news-release/2026/11/19/3406322/0/en/futu-announces-third-quarter-2026-unaudited-financial-results.html"
-        },
-        {
-          "title": "Seeking Alpha: Why Futu Holdings Is A Strong Buy After Impressive Q3 Results",
-          "url": "https://seekingalpha.com/article/4970123-why-futu-holdings-is-a-strong-buy-after-impressive-q3-results-ratings-upgrade"
-        }
-      ],
-      "at": "2026-11-19T17:07:16Z"
-    },
-    {
-      "fmp": "MAMA",
-      "sym": "mama",
-      "name": "Mama's Creations, Inc.",
-      "pct": -5.01,
-      "short": "Langus ~5%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma ettevõtte kohta uudist, mis liikumist selgitaks. Põhjus on seega teadmata.",
-      "sources": [],
-      "at": "2026-11-19T17:07:16Z"
-    },
-    {
-      "fmp": "POS.VI",
-      "sym": "pos-at",
-      "name": "PORR AG",
-      "pct": 4.95,
-      "short": "Tõus ~5%: Q1–Q3 kasum +23%, prognoos kinnitatud",
-      "text": "PORR avaldas täna üheksa kuu tulemused: puhaskasum kasvas ca 23% 86,2 mln euroni, EBIT +13% 122,2 mln euroni ja tellimuste portfell on ca 10 mld eurot (+4,4%). 2026. aasta prognoos kinnitati. Tõusu seos tulemustega on tõenäoline.",
-      "sources": [
-        {
-          "title": "PORR baute Gewinn deutlich aus (APA, 19.11.2026)",
-          "url": "https://www.finanzen.at/nachrichten/aktien/porr-baute-gewinn-deutlich-aus-1036782701"
-        }
-      ],
-      "at": "2026-11-19T09:07:44Z"
+      "at": "2026-11-20T09:07:32Z"
     }
   ]
 }
