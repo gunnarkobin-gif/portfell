@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T00:16:57Z",
+  "updated": "2026-11-21T00:17:11Z",
   "items": [
     {
       "isin": "USU45709AB58",
@@ -9,7 +9,7 @@
       "prevPrice": null,
       "source": null,
       "url": null,
-      "note": "uut hinda ei leitud 2026-11-17: FactSet/IBKR pole saadaval; veebiallikad (finanzen.net, TradingView FINRA, cbonds, bondblox, Deutsche Börse) ilma kuupäevata/hinnata"
+      "note": "uut hinda ei leitud 2026-11-21: FactSet/IBKR pole saadaval; veebiotsing (cbonds, TradingView FINRA, finanzen.net, Deutsche Börse) ilma hinnata"
     },
     {
       "isin": "USU6203KAE48",
@@ -19,7 +19,7 @@
       "prevPrice": null,
       "source": null,
       "url": null,
-      "note": "uut hinda ei leitud 2026-11-17: FactSet/IBKR pole saadaval; veebiallikad (finanzen.net, TradingView FINRA, cbonds, bondblox, Deutsche Börse) ilma kuupäevata/hinnata"
+      "note": "uut hinda ei leitud 2026-11-21: FactSet/IBKR pole saadaval; veebiotsing (cbonds, TradingView FINRA, finanzen.net, Deutsche Börse) ilma hinnata"
     },
     {
       "isin": "USU37027AB27",
@@ -29,17 +29,16 @@
       "prevPrice": null,
       "source": null,
       "url": null,
-      "note": "uut hinda ei leitud 2026-11-17: FactSet/IBKR pole saadaval; veebiallikad (finanzen.net, TradingView FINRA, cbonds, bondblox, Deutsche Börse) ilma kuupäevata/hinnata"
+      "note": "uut hinda ei leitud 2026-11-21: FactSet/IBKR pole saadaval; veebiotsing (cbonds, TradingView FINRA, finanzen.net, Deutsche Börse) ilma hinnata"
     },
     {
       "isin": "USU98401AE97",
       "name": "Xerox Holdings Corporation 8.875% 30-NOV-2029",
-      "price": 18.11,
-      "priceDate": "2026-11-13",
-      "prevPrice": 15.0,
-      "source": "finanzen.net (gettex 18.11; Frankfurt 10.00, München 15.00, Baader 47.01, ZKB 42.75 – hõre turg)",
-      "url": "https://www.finanzen.net/anleihen/a3lv8v-xerox-holdings-anleihe",
-      "note": "uut hinda ei leitud 2026-11-17: finanzen.net näitab endiselt 13.11 kotteeringut (gettex 18.11)"
+      "price": 10.0,
+      "priceDate": "2026-11-20",
+      "prevPrice": 18.11,
+      "source": "finanzen.net (Frankfurt FSE 10.00; hõre turg, varem gettex 18.11)",
+      "url": "https://www.finanzen.net/anleihen/a3lv8v-xerox-holdings-anleihe"
     },
     {
       "isin": "USP46214AJ49",
@@ -49,7 +48,7 @@
       "prevPrice": null,
       "source": null,
       "url": null,
-      "note": "uut hinda ei leitud 2026-11-17: FactSet/IBKR pole saadaval; veebiallikad (finanzen.net, TradingView FINRA, cbonds, bondblox, Deutsche Börse) ilma kuupäevata/hinnata"
+      "note": "uut hinda ei leitud 2026-11-21: FactSet/IBKR pole saadaval; veebiotsing (cbonds, TradingView FINRA, finanzen.net, Deutsche Börse) ilma hinnata"
     }
   ]
 }
