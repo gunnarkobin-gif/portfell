@@ -1,474 +1,85 @@
 {
-  "date": "2026-11-20",
-  "updated": "2026-11-20T20:12:37Z",
+  "date": "2026-11-23",
+  "updated": "2026-11-23T09:07:14Z",
   "items": [
     {
-      "fmp": "VK.PA",
-      "sym": "vk-par",
-      "name": "Vallourec SA",
-      "pct": -14.57,
-      "short": "Langus ~12%: nõrk Q4 EBITDA juhtimine, Q3 kasum -56%",
-      "text": "Vallourec avaldas täna 3. kvartali tulemused: käive 956 mln USD (-10%), EBITDA 181 mln USD (-26%, kooskõlas prognoosiga) ja puhaskasum 66 mln USD (-56%). Aktsia kukkus, sest Q4 EBITDA juhis 170–210 mln USD jääb keskmiselt ~25% alla analüütikute konsensuse (Jefferiesi viidatud Visible Alpha järgi 253 mln USD) ning kogu aasta juhis ~8% alla. Ettevõte nimetas põhjusteks Lähis-Ida lisakulusid ja ajutist tootmishäiret USA-s. Seos hinnaliikumisega on väga tugev.",
+      "fmp": "ABDP.L",
+      "sym": "abdp-lon",
+      "name": "AB Dynamics plc",
+      "pct": 12.83,
+      "short": "Tõus ~13%: aasta tulemused avaldatud, marginaal püsis 20%",
+      "text": "AB Dynamics avaldas 2026. majandusaasta tulemused: Investing.com andmetel langes käive 12% ja korrigeeritud marginaal püsis 20% juures. Aktsia tõusis täna ~13%, tõenäoliselt tulemuste ja juhtkonna väljavaate peale, kuid täpset tõusu põhjust allikad otseselt ei kinnita (tulemuste täpne avaldamispäev jäi kontrollimata). Seos hinnaliikumisega on keskmise kindlusega.",
       "sources": [
         {
-          "title": "ABC Bourse: Vallourec chute après la présentation de perspectives décevantes",
-          "url": "https://www.abcbourse.com/marches/vallourec-chute-apres-la-presentation-de-perspectives-decevantes_706430"
+          "title": "AB Dynamics FY 2026 slides: margin holds at 20% as revenue falls 12% (Investing.com)",
+          "url": "https://www.investing.com/news/company-news/ab-dynamics-fy-2026-slides-margin-holds-at-20-as-revenue-falls-12-93CH-5014290"
         },
         {
-          "title": "Connaissance des Énergies (AFP): Vallourec, Lähis-Ida sõda pärsib Q3 kasumlikkust",
-          "url": "https://www.connaissancedesenergies.org/afp/vallourec-la-guerre-au-moyen-orient-pese-sur-la-rentabilite-au-troisieme-trimestre-261120"
+          "title": "AB Dynamics Final Results (Investegate)",
+          "url": "https://www.investegate.co.uk/announcement/rns/ab-dynamics--abdp/final-results/9866395"
         }
       ],
-      "at": "2026-11-20T09:07:32Z"
-    },
-    {
-      "fmp": "AVGO",
-      "sym": "avgo",
-      "name": "Broadcom Inc.",
-      "pct": -12.38,
-      "short": "Langus ~11% tehisintellekti/kiipide laialdases müügilaines",
-      "text": "Broadcom langes täna ligi 11% ning kiibisektor ja tehnoloogia tervikuna on olnud surve all: AP kirjeldab tänast tehnoloogiasektori müügilainet ja CNBC nädala AI-aktsiate mahamüüki (Nasdaq kustutas aasta tõusu). Broadcomi-spetsiifilist tänast uudist ei leidnud, seega on põhjus tõenäoliselt sektori- ja AI-sentimendipõhine.",
-      "sources": [
-        {
-          "title": "AP: US stocks waver as tech sell-off continues (20.11.2026)",
-          "url": "https://www.local10.com/news/2026/11/20/us-stocks-waver-as-tech-sell-off-continues-and-anthropic-falls/"
-        },
-        {
-          "title": "CNBC: Dow in correction territory, Nasdaq wipes out 2026 gain as AI sell-off worsens",
-          "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
-        }
-      ],
-      "at": "2026-11-20T17:08:01Z"
-    },
-    {
-      "fmp": "MTZ",
-      "sym": "mtz",
-      "name": "MasTec, Inc.",
-      "pct": -11.5,
-      "short": "Langus ~11%; täna teatati Murphy Corporationi ülevõtmisest",
-      "text": "MasTec teatas täna hommikul lepingust osta mehaanikatöövõtja Murphy Corporation. Aktsia langes ligi 11%, mis viitab, et turg reageeris ostule või selle rahastusele negatiivselt, kuid allikad langust otseselt ei selgita. Seos on tõenäoline, mitte kinnitatud; taustaks on ka üldine nõrk turg.",
-      "sources": [
-        {
-          "title": "Business Wire: MasTec to acquire Murphy Corporation",
-          "url": "https://www.businesswire.com/news/home/20261119952200/en/MasTec-Enters-into-Definitive-Agreement-to-Acquire-Murphy-Corporation-a-Leading-Mechanical-Contractor-Serving-Mission-Critical-End-Markets/"
-        },
-        {
-          "title": "AP: US stocks waver as tech sell-off continues (20.11.2026)",
-          "url": "https://www.local10.com/news/2026/11/20/us-stocks-waver-as-tech-sell-off-continues-and-anthropic-falls/"
-        }
-      ],
-      "at": "2026-11-20T17:08:01Z"
-    },
-    {
-      "fmp": "AMBA",
-      "sym": "amba",
-      "name": "Ambarella, Inc.",
-      "pct": -10.37,
-      "short": "Langus ~8%; kiibisektori müügilaine, oma uudist ei leidnud",
-      "text": "Ambarella langes täna üle 8% koos laiemalt nõrkade pooljuhtidega, kui tehnoloogiasektori müük jätkus. Ettevõttespetsiifilist uudist tänaseks ei leidnud. Seos sektoriga on tõenäoline, kuid kinnitamata.",
-      "sources": [
-        {
-          "title": "AP: US stocks waver as tech sell-off continues (20.11.2026)",
-          "url": "https://www.local10.com/news/2026/11/20/us-stocks-waver-as-tech-sell-off-continues-and-anthropic-falls/"
-        },
-        {
-          "title": "CNBC: Dow in correction territory, Nasdaq wipes out 2026 gain as AI sell-off worsens",
-          "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
-        }
-      ],
-      "at": "2026-11-20T17:08:01Z"
-    },
-    {
-      "fmp": "NXT",
-      "sym": "nxt",
-      "name": "Nextpower Inc.",
-      "pct": -9.53,
-      "short": "Langus ~9%; päeva põhjust ei leidnud, päikeseenergia sektor nõrk",
-      "text": "Nextpower langes täna üle 9%, pärast 17. novembri ~12% kukkumist, mis oli seotud uute 2030. aasta eesmärkidega ja kogu päikeseenergia sektori languse ning üldise turunõrkusega. Tänase languse konkreetset põhjust allikatest ei leidnud; tõenäoliselt jätkub sama surve.",
-      "sources": [
-        {
-          "title": "Trefis: Why did Nextpower stock fall? (18.11.2026)",
-          "url": "https://www.trefis.com/stock/nxt/articles/626272/why-did-nextpower-stock-fall/2026-11-18"
-        },
-        {
-          "title": "AP: US stocks waver as tech sell-off continues (20.11.2026)",
-          "url": "https://www.local10.com/news/2026/11/20/us-stocks-waver-as-tech-sell-off-continues-and-anthropic-falls/"
-        }
-      ],
-      "at": "2026-11-20T17:08:01Z"
-    },
-    {
-      "fmp": "2590.HK",
-      "sym": "2590-hk",
-      "name": "Beijing Geekplus Technology Co., Ltd. Class H",
-      "pct": -9.31,
-      "short": "Langus ~9%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma selle languse kohta ettevõttespetsiifilist uudist. Põhjus on teadmata; sektori- või turuseost ei saa allikatega kinnitada.",
-      "sources": [],
-      "at": "2026-11-20T09:07:32Z"
-    },
-    {
-      "fmp": "MWH",
-      "sym": "mwh",
-      "name": "SOLV Energy Inc Class A",
-      "pct": -9.14,
-      "short": "Langus ~7%; täna konkreetset põhjust ei leidnud",
-      "text": "SOLV Energy langes täna ~7,3%. Tänast uudist ei leidnud; võimalik seos päikeseenergia sektori ja üldturu nõrkusega on kinnitamata.",
-      "sources": [
-        {
-          "title": "AP: US stocks waver as tech sell-off continues (20.11.2026)",
-          "url": "https://www.local10.com/news/2026/11/20/us-stocks-waver-as-tech-sell-off-continues-and-anthropic-falls/"
-        }
-      ],
-      "at": "2026-11-20T17:08:01Z"
-    },
-    {
-      "fmp": "AVAV",
-      "sym": "avav",
-      "name": "AeroVironment, Inc.",
-      "pct": -8.71,
-      "short": "Langus ~9%; droonisektor nõrk, oma uudist ei leidnud",
-      "text": "AeroVironment langes täna ligi 9%. Ettevõtte kohta ei leidnud ma täna negatiivset uudist; 24/7 Wall St kirjeldab, et kõrge beetaga droonaktsiad (Unusual Machines -11%, Ondas -7%, Red Cat -4%) on täna surve all. Seos sektorilangusega on tõenäoline, kuid mitte kinnitatud.",
-      "sources": [
-        {
-          "title": "24/7 Wall St: drooniaktsiad on täna surve all",
-          "url": "https://247wallst.com/investing/2026/11/20/unusual-machines-drops-11-despite-oppenheimers-30-target-ondas-retreats-7-red-cat-falls-4/"
-        }
-      ],
-      "at": "2026-11-20T20:12:37Z"
-    },
-    {
-      "fmp": "IPGP",
-      "sym": "ipgp",
-      "name": "IPG Photonics Corporation",
-      "pct": -8.69,
-      "short": "Langus ~9%; konkreetset põhjust ei leidnud, tehnoloogiasektor nõrk",
-      "text": "Allikatest ei selgu ettevõtte-spetsiifilist põhjust; IPG Photonics langes täna ligi 9%. Turu üldpilt on täna nõrk (AP pealkirja järgi jätkub tehnoloogiaaktsiate müük), kuid seost just selle aktsiaga ei saa kinnitada.",
-      "sources": [
-        {
-          "title": "AP: US stocks waver as tech sell-off continues (pealkiri)",
-          "url": "https://www.local10.com/news/2026/11/20/us-stocks-waver-as-tech-sell-off-continues-and-anthropic-falls/"
-        }
-      ],
-      "at": "2026-11-20T20:12:37Z"
+      "at": "2026-11-23T09:07:14Z"
     },
     {
       "fmp": "VER.ST",
       "sym": "ver-se",
       "name": "Verve Group Media SE Class A",
-      "pct": -8.6,
-      "short": "Langus ~9%; täna konkreetset põhjust ei leidnud",
-      "text": "Verve Group langes täna ~8,6% ja on ühtlasi aasta madalaimal tasemel. Tänast uudist ei leidnud ning leitud artiklid olid varasemate aastate kohta, mistõttu põhjust ei oska nimetada.",
+      "pct": -12.13,
+      "short": "Langus ~12%: täna konkreetset põhjust ei leitud",
+      "text": "Verve Group langes täna ~12% (päeva madalaim 6,0 SEK). Tänaseid uudiseid, mis langust selgitaksid, ei leitud; otsingutulemustes on vaid varasem Q3 2026 vahearuanne, mille täisaasta juhised jäid muutmata. Põhjus on seetõttu selgusetu.",
       "sources": [
         {
-          "title": "AP: US stocks waver as tech sell-off continues (20.11.2026)",
-          "url": "https://www.local10.com/news/2026/11/20/us-stocks-waver-as-tech-sell-off-continues-and-anthropic-falls/"
+          "title": "Verve Group Q3 2026 Interim Report (ad-hoc-news)",
+          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/verve-group-publishes-q3-2026-interim-report-and-maintains-full-year-guidance/70545391"
         }
       ],
-      "at": "2026-11-20T17:08:01Z"
+      "at": "2026-11-23T09:07:14Z"
     },
     {
-      "fmp": "AMRC",
-      "sym": "amrc",
-      "name": "Ameresco, Inc. Class A",
-      "pct": -8.57,
-      "short": "Langus ~7,5%; täna konkreetset põhjust ei leidnud",
-      "text": "Ameresco langes täna ~7,5%. Tänast ettevõttespetsiifilist uudist ei leidnud; taustaks on nõrk üldturg ja puhta energia sektori surve, mida allikad otseselt ei kinnita.",
+      "fmp": "ASG.AX",
+      "sym": "asg-aus",
+      "name": "Autosports Group Ltd",
+      "pct": -7.22,
+      "short": "Langus ~7%: täna konkreetset põhjust ei leitud",
+      "text": "Autosports Group langes Austraalia börsil ~7% ja uuendas aasta madalaimat taset (0,87 AUD). Tänast ettevõttespetsiifilist uudist ei leitud; otsingutulemustes on vaid varasemad artiklid nõrga poolaasta kasumi ja väljavaate kohta. Põhjus on kinnitamata.",
       "sources": [
         {
-          "title": "AP: US stocks waver as tech sell-off continues (20.11.2026)",
-          "url": "https://www.local10.com/news/2026/11/20/us-stocks-waver-as-tech-sell-off-continues-and-anthropic-falls/"
+          "title": "Autosports hits record low on lacklustre earnings outlook (Stockopedia)",
+          "url": "https://www.stockopedia.com/share-prices/autosports-ASX:ASG/news/australia-apos-s-autosports-hits-record-low-on-lacklustre-earnings-outlook-019e6dca-1668-728d-a68c-3786f238dccd/"
         }
       ],
-      "at": "2026-11-20T17:08:01Z"
+      "at": "2026-11-23T09:07:14Z"
     },
     {
-      "fmp": "ECG",
-      "sym": "ecg",
-      "name": "Everus Construction Group, Inc.",
-      "pct": -8.4,
-      "short": "Langus ~8%; täna konkreetset põhjust ei leidnud",
-      "text": "Everus Construction langes täna ~7,8% ja on aasta madalama taseme lähedal. Leidsin vaid ühe institutsionaalse omaniku positsiooni vähendamise uudise, mis päevast kukkumist ei selgita. Põhjus jääb teadmata.",
+      "fmp": "DVYSR.ST",
+      "sym": "dvysr-se",
+      "name": "Devyser Diagnostics AB",
+      "pct": 6.17,
+      "short": "Tõus ~6%: täna konkreetset põhjust ei leitud",
+      "text": "Devyser tõusis täna ~6% väikese käibega (üle 1200 aktsia) ja aktsia on endiselt kaugel aasta tipust. Tänast uudist, pressiteadet ega analüütiku sammu, mis tõusu selgitaks, ei leitud. Liikumine võib olla likviidsusest tingitud.",
       "sources": [
         {
-          "title": "Defense World: Everus (ECG) – Bessemer reduces holdings",
-          "url": "https://www.defenseworld.net/2026/11/20/everus-construction-group-inc-ecg-stock-bessemer-group-inc-reduces-holdings.html"
+          "title": "Devyser Diagnostics (Affärsvärlden)",
+          "url": "https://www.affarsvarlden.se/aktie/devyser-diagnostics"
         }
       ],
-      "at": "2026-11-20T17:08:01Z"
+      "at": "2026-11-23T09:07:14Z"
     },
     {
-      "fmp": "EVT.DE",
-      "sym": "evt-etr",
-      "name": "Evotec SE",
-      "pct": -8.21,
-      "short": "Langus ~8%; täna konkreetset põhjust ei leidnud",
-      "text": "Evotec langes täna ~8%. Tänast uudist, mis langust selgitaks, ei leidnud; leitud artiklid olid vanemad (juuli prognoosilangetus). Põhjus jääb teadmata, taust võib olla nõrk turg ja ettevõtte varasem prognoosinõrkus.",
+      "fmp": "1316.HK",
+      "sym": "1316-hk",
+      "name": "Nexteer Automotive Group Limited",
+      "pct": 5.62,
+      "short": "Tõus ~6%: täna konkreetset põhjust ei leitud",
+      "text": "Nexteer tõusis Hongkongis ~5,6% (4,415 HKD). Tänast ettevõttespetsiifilist uudist ei leitud, ka FMP uudisvoog oli tühi. Tõus võib peegeldada üldist turu- või autosektori liikumist, kuid seda ükski allikas ei kinnita.",
       "sources": [
         {
-          "title": "AP: US stocks waver as tech sell-off continues (20.11.2026)",
-          "url": "https://www.local10.com/news/2026/11/20/us-stocks-waver-as-tech-sell-off-continues-and-anthropic-falls/"
+          "title": "Nexteer Automotive Share Price (Stockopedia)",
+          "url": "https://www.stockopedia.com/share-prices/nexteer-automotive-HKG:1316"
         }
       ],
-      "at": "2026-11-20T17:08:01Z"
-    },
-    {
-      "fmp": "BUR.L",
-      "sym": "bur-lon",
-      "name": "Burford Capital Limited",
-      "pct": -8.14,
-      "short": "Langus ~6%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma selle languse kohta ettevõttespetsiifilist uudist. Põhjus on teadmata; sektori- või turuseost ei saa allikatega kinnitada.",
-      "sources": [],
-      "at": "2026-11-20T09:07:32Z"
-    },
-    {
-      "fmp": "9698.HK",
-      "sym": "9698-hk",
-      "name": "GDS Holdings Ltd.",
-      "pct": -8.13,
-      "short": "Langus ~8%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma selle languse kohta ettevõttespetsiifilist uudist. Põhjus on teadmata; sektori- või turuseost ei saa allikatega kinnitada.",
-      "sources": [],
-      "at": "2026-11-20T09:07:32Z"
-    },
-    {
-      "fmp": "G24.DE",
-      "sym": "g24-etr",
-      "name": "Scout24 SE",
-      "pct": -8.03,
-      "short": "Langus ~5%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma selle languse kohta ettevõttespetsiifilist uudist. Põhjus on teadmata; sektori- või turuseost ei saa allikatega kinnitada.",
-      "sources": [],
-      "at": "2026-11-20T09:07:32Z"
-    },
-    {
-      "fmp": "SMG.SW",
-      "sym": "smg-swx",
-      "name": "SMG Swiss Marketplace Group Holding AG",
-      "pct": -7.79,
-      "short": "Langus ~5%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma selle languse kohta ettevõttespetsiifilist uudist. Põhjus on teadmata; sektori- või turuseost ei saa allikatega kinnitada.",
-      "sources": [],
-      "at": "2026-11-20T09:07:32Z"
-    },
-    {
-      "fmp": "VITL",
-      "sym": "vitl",
-      "name": "Vital Farms, Inc.",
-      "pct": -7.79,
-      "short": "Langus ~8%; täna põhjust ei leidnud",
-      "text": "Vital Farms langes täna ligi 8%. Tänast ettevõtte uudist ega analüütiku muudatust ma ei leidnud, seega põhjus on teadmata.",
-      "sources": [],
-      "at": "2026-11-20T20:12:37Z"
-    },
-    {
-      "fmp": "DATA.L",
-      "sym": "data-lon",
-      "name": "GlobalData Plc",
-      "pct": -7.74,
-      "short": "Langus ~8%; täna konkreetset põhjust ei leidnud",
-      "text": "GlobalData langes täna ~7,7%. Tänast uudist ei leidnud; septembris langetas ettevõte aasta kasumiootust (see oli varasem sündmus). Täna jääb põhjus selgusetuks.",
-      "sources": [
-        {
-          "title": "AJ Bell: GlobalData cuts full-year earnings outlook (14.09.2026)",
-          "url": "https://www.ajbell.co.uk/news/articles/globaldata-shares-plummet-reduces-full-year-earnings-outlook"
-        }
-      ],
-      "at": "2026-11-20T17:08:01Z"
-    },
-    {
-      "fmp": "NVMI",
-      "sym": "nvmi",
-      "name": "Nova Ltd.",
-      "pct": -7.71,
-      "short": "Langus ~8%; pooljuhisektori nõrkus, oma uudist ei leidnud",
-      "text": "Allikatest ei selgu ettevõtte-spetsiifilist põhjust; Nova langes täna ligi 8%. Pooljuhtide ja tehnoloogia sektor on täna nõrk (AP pealkiri), mis võib liikumist selgitada, kuid otsest kinnitust ei ole.",
-      "sources": [
-        {
-          "title": "AP: US stocks waver as tech sell-off continues (pealkiri)",
-          "url": "https://www.local10.com/news/2026/11/20/us-stocks-waver-as-tech-sell-off-continues-and-anthropic-falls/"
-        }
-      ],
-      "at": "2026-11-20T20:12:37Z"
-    },
-    {
-      "fmp": "ALLT",
-      "sym": "allt",
-      "name": "Allot Ltd.",
-      "pct": -7.65,
-      "short": "Langus ~8%; täna põhjust ei leidnud",
-      "text": "Allot langes täna ligi 8%. Tänast ettevõtte uudist ma ei leidnud; otsingutulemused viitasid vaid vanematele sündmustele, mida täna ei saa selle liikumisega siduda.",
-      "sources": [],
-      "at": "2026-11-20T20:12:37Z"
-    },
-    {
-      "fmp": "GFS",
-      "sym": "gfs",
-      "name": "GlobalFoundries Inc.",
-      "pct": -7.33,
-      "short": "Langus ~7%; pooljuhtide sektori nõrkus",
-      "text": "GlobalFoundries langes täna ~7% pooljuhtide ja tehnoloogia laiema mahamüügi taustal. Ettevõttespetsiifilist uudist tänaseks ei leidnud. Seos sektoriga on tõenäoline, kuid allikad seda otseselt ei kinnita.",
-      "sources": [
-        {
-          "title": "AP: US stocks waver as tech sell-off continues (20.11.2026)",
-          "url": "https://www.local10.com/news/2026/11/20/us-stocks-waver-as-tech-sell-off-continues-and-anthropic-falls/"
-        },
-        {
-          "title": "CNBC: Dow in correction territory, Nasdaq wipes out 2026 gain as AI sell-off worsens",
-          "url": "https://www.cnbc.com/2026/11/19/stock-market-today-live-updates.html"
-        }
-      ],
-      "at": "2026-11-20T17:08:01Z"
-    },
-    {
-      "fmp": "HLLY",
-      "sym": "hlly",
-      "name": "Holley Inc.",
-      "pct": -7.06,
-      "short": "Langus ~7%; täna põhjust ei leidnud",
-      "text": "Holley langes täna ligi 7%. Täna avaldatud uudist ma ei leidnud, seega põhjus on teadmata.",
-      "sources": [],
-      "at": "2026-11-20T20:12:37Z"
-    },
-    {
-      "fmp": "KGX.DE",
-      "sym": "kgx-etr",
-      "name": "KION GROUP AG",
-      "pct": -6.95,
-      "short": "Langus ~7%; täna põhjust ei leidnud",
-      "text": "Kion langes täna ligi 7% (hind ~29,2 EUR, aasta madalaim). Tänast uudist ei leidnud; leitud artiklid käsitlevad varasemat prognoosi langetamist ja kapitali kaasamist, mida ei saa kinnitada tänase liikumise põhjuseks.",
-      "sources": [],
-      "at": "2026-11-20T20:12:37Z"
-    },
-    {
-      "fmp": "VST",
-      "sym": "vst",
-      "name": "Vistra Corp.",
-      "pct": -6.92,
-      "short": "Langus ~7%; AI-elektrinimede müük, oma uudist ei leidnud",
-      "text": "Vistra langes täna ligi 7%. Ettevõtte kohta täna uut katalüsaatorit ei leidnud; Seeking Alpha viitab, et taristu- ja energiaaktsiad on hiljuti järsult müüdud, ning turu üldine tehnoloogiamüük (AP) võib mõjutada ka AI-elektrinimesid. Seos on tõenäoline, mitte kinnitatud.",
-      "sources": [
-        {
-          "title": "AP: US stocks waver as tech sell-off continues (pealkiri)",
-          "url": "https://www.local10.com/news/2026/11/20/us-stocks-waver-as-tech-sell-off-continues-and-anthropic-falls/"
-        },
-        {
-          "title": "Seeking Alpha: pärast müügilainet",
-          "url": "https://seekingalpha.com/article/4970522-my-favorite-place-to-buy-income-2-strong-buys-after-the-sell-off"
-        }
-      ],
-      "at": "2026-11-20T20:12:37Z"
-    },
-    {
-      "fmp": "TATT",
-      "sym": "tatt",
-      "name": "TAT Technologies Ltd.",
-      "pct": -6.89,
-      "short": "Langus ~7%; täna põhjust ei leidnud",
-      "text": "TAT Technologies langes täna ligi 7%. Tänast ettevõtte uudist ma ei leidnud; võib olla seotud aero- ja kaitsesektori üldise nõrkusega, kuid allikas seda ei kinnita.",
-      "sources": [],
-      "at": "2026-11-20T20:12:37Z"
-    },
-    {
-      "fmp": "CDNS",
-      "sym": "cdns",
-      "name": "Cadence Design Systems, Inc.",
-      "pct": -6.87,
-      "short": "Langus ~7%; tehnoloogiasektori müük, oma uudist ei leidnud",
-      "text": "Allikatest ei selgu ettevõtte-spetsiifilist põhjust; Cadence langes täna ligi 7%. FMP uudistes oli täna vaid neutraalne analüüsiartikkel. Tõenäoline taust on tehnoloogia- ja kiibiaktsiate üldine müük (AP pealkiri).",
-      "sources": [
-        {
-          "title": "AP: US stocks waver as tech sell-off continues (pealkiri)",
-          "url": "https://www.local10.com/news/2026/11/20/us-stocks-waver-as-tech-sell-off-continues-and-anthropic-falls/"
-        }
-      ],
-      "at": "2026-11-20T20:12:37Z"
-    },
-    {
-      "fmp": "HLMA.L",
-      "sym": "hlma-lon",
-      "name": "Halma plc",
-      "pct": -6.81,
-      "short": "Langus ~7%; täna põhjust ei leidnud",
-      "text": "Halma langes täna ligi 7% (hind 3256 penni, lähedal aasta madalaimale). Tänast ettevõtte uudist ma ei leidnud; leitud artiklid on vanematest tulemustest.",
-      "sources": [],
-      "at": "2026-11-20T20:12:37Z"
-    },
-    {
-      "fmp": "ADOC.PA",
-      "sym": "adoc-par",
-      "name": "Adocia SA",
-      "pct": -6.74,
-      "short": "Langus ~7%; täna põhjust ei leidnud",
-      "text": "Adocia langes täna ligi 7%. Tänast uudist ei leidnud; väikese turuväärtusega aktsia, seega liikumine võib olla likviidsusest tingitud, kuid see on oletus.",
-      "sources": [],
-      "at": "2026-11-20T20:12:37Z"
-    },
-    {
-      "fmp": "VSEC",
-      "sym": "vsec",
-      "name": "VSE Corporation",
-      "pct": -6.17,
-      "short": "Langus ~7%; täna konkreetset põhjust ei leidnud",
-      "text": "VSE Corporation langes täna ~7,2%. Viimane leitud uudis oli analüütiku arvamusartikkel eile (väärtus ligilähedane hinnale), mis langust ei selgita. Põhjus jääb teadmata.",
-      "sources": [
-        {
-          "title": "Seeking Alpha: VSE Corporation – per-share growth slower than headlines",
-          "url": "https://seekingalpha.com/article/4970408-vse-corporation-per-share-growth-is-slower-than-the-headlines-suggest"
-        }
-      ],
-      "at": "2026-11-20T17:08:01Z"
-    },
-    {
-      "fmp": "GREEN.ST",
-      "sym": "green-se",
-      "name": "Green Landscaping Group AB",
-      "pct": -6.07,
-      "short": "Langus ~7%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma selle languse kohta ettevõttespetsiifilist uudist. Põhjus on teadmata; sektori- või turuseost ei saa allikatega kinnitada.",
-      "sources": [],
-      "at": "2026-11-20T09:07:32Z"
-    },
-    {
-      "fmp": "1357.HK",
-      "sym": "1357-hk",
-      "name": "Meitu, Inc",
-      "pct": -5.76,
-      "short": "Langus ~6%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma selle languse kohta ettevõttespetsiifilist uudist. Põhjus on teadmata; sektori- või turuseost ei saa allikatega kinnitada.",
-      "sources": [],
-      "at": "2026-11-20T09:07:32Z"
-    },
-    {
-      "fmp": "XRO.AX",
-      "sym": "xro-aus",
-      "name": "Xero Limited",
-      "pct": -5.65,
-      "short": "Langus ~6%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma selle languse kohta ettevõttespetsiifilist uudist. Põhjus on teadmata; sektori- või turuseost ei saa allikatega kinnitada.",
-      "sources": [],
-      "at": "2026-11-20T09:07:32Z"
-    },
-    {
-      "fmp": "SPZ.AX",
-      "sym": "spz-aus",
-      "name": "Smart Parking Limited",
-      "pct": -5.38,
-      "short": "Langus ~5%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma selle languse kohta ettevõttespetsiifilist uudist. Põhjus on teadmata; sektori- või turuseost ei saa allikatega kinnitada.",
-      "sources": [],
-      "at": "2026-11-20T09:07:32Z"
-    },
-    {
-      "fmp": "OTB.L",
-      "sym": "otb-lon",
-      "name": "On The Beach Group PLC",
-      "pct": -5.28,
-      "short": "Langus ~6%; tänast põhjust ei leidnud",
-      "text": "Täna avaldatud allikatest ei leidnud ma selle languse kohta ettevõttespetsiifilist uudist. Põhjus on teadmata; sektori- või turuseost ei saa allikatega kinnitada.",
-      "sources": [],
-      "at": "2026-11-20T09:07:32Z"
+      "at": "2026-11-23T09:07:14Z"
     }
   ]
 }
