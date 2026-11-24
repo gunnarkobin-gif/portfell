@@ -1,502 +1,89 @@
 {
-  "date": "2026-11-23",
-  "updated": "2026-11-23T20:07:09Z",
+  "date": "2026-11-24",
+  "updated": "2026-11-24T09:07:47Z",
   "items": [
     {
-      "fmp": "ABDP.L",
-      "sym": "abdp-lon",
-      "name": "AB Dynamics plc",
-      "pct": 20.97,
-      "short": "Tõus ~21%: Science Group kasvatas osalust ~9%-ni (kuupäev kinnitamata)",
-      "text": "AB Dynamics tõusis täna u 21%. Proactive Investors kirjutab, et aktsia hüppas pärast seda, kui Science Group suurendas osaluse ~9%-ni, ning Investegate'is on värske osaluse teade. Kas just see on tänase hüppe põhjus, ei õnnestunud kuupäeva põhjal täielikult kinnitada, seega on seos keskmise kindlusega.",
+      "fmp": "MUR.WA",
+      "sym": "mur-pl",
+      "name": "Murapol S.A.",
+      "pct": -9.09,
+      "short": "Langus ~9%: tänast põhjust ei leidnud",
+      "text": "Murapol langes täna u 9% hinnani 35 zlotti, mis on aasta madalaima taseme (34) lähedal. Tänase päeva kohta ei leidnud ma ühtegi allikat, mis langust selgitaks, seega põhjust kinnitada ei saa. Taustaks: ettevõtte 3. kvartali puhaskasum langes varasema aruande järgi tugevalt ning suuromanik Hampont on viimasel ajal omandanud täiendavaid aktsiaid.",
       "sources": [
         {
-          "title": "AB Dynamics shares jump 15% after Science Group builds 9% stake (Proactive)",
-          "url": "https://www.proactiveinvestors.com/companies/news/1102250/ab-dynamics-shares-jump-15-after-science-group-builds-9-stake-1102250.html"
+          "title": "Zysk netto Murapolu spadł w trzecim kwartale",
+          "url": "https://www.biznesradar.pl/a/141318,zysk-netto-murapolu-spadl-w-trzecim-kwartale-do-125-mln-zl"
         },
         {
-          "title": "Shareholding in AB Dynamics plc (Investegate)",
-          "url": "https://www.investegate.co.uk/announcement/rns/ab-dynamics--abdp/shareholding-in-ab-dynamics-plc/9887552"
+          "title": "Hampont odbierze kolejną transzę akcji Murapolu",
+          "url": "https://www.parkiet.com/budownictwo/art44044911-hampont-odbierze-kolejna-transze-akcji-murapolu-od-amerykanskiego-funduszu"
         }
       ],
-      "at": "2026-11-23T17:07:20Z"
+      "at": "2026-11-24T09:07:47Z"
+    },
+    {
+      "fmp": "GBG.L",
+      "sym": "gbg-lon",
+      "name": "GB Group PLC",
+      "pct": 8.01,
+      "short": "Tõus ~8%: tõenäoliselt H1 kauplemisuuendus (kuupäev kinnitamata)",
+      "text": "GB Group tõusis täna u 8%. Investegate'i lehel olev kauplemisuuendus (AI-kokkuvõtte järgi) näitab H1 käivet 139,5 mln naela (+1,4% püsivas vääringus), kohandatud tegevuskasumit u 27,0 mln (aasta tagasi 29,5 mln) ja FY27 käibekasvu juhist 1–3%, kasum kooskõlas turu konsensusega. Lehelt ei selgunud avaldamise täpne kuupäev ega aktsia reaktsioon, seega seos tänase hüppega on tõenäoline, aga mitte kinnitatud.",
+      "sources": [
+        {
+          "title": "GB Group – Trading Statement (Investegate)",
+          "url": "https://www.investegate.co.uk/announcement/rns/gb-group--gbg/trading-statement/9830627"
+        }
+      ],
+      "at": "2026-11-24T09:07:47Z"
     },
     {
       "fmp": "VER.ST",
       "sym": "ver-se",
       "name": "Verve Group Media SE Class A",
-      "pct": -12.13,
-      "short": "Langus ~12%: täna konkreetset põhjust ei leitud",
-      "text": "Verve Group langes täna ~12% (päeva madalaim 6,0 SEK). Tänaseid uudiseid, mis langust selgitaksid, ei leitud; otsingutulemustes on vaid varasem Q3 2026 vahearuanne, mille täisaasta juhised jäid muutmata. Põhjus on seetõttu selgusetu.",
+      "pct": -7.53,
+      "short": "Langus ~7,5%: põhjust täna ei kinnitanud",
+      "text": "Verve Group langes täna u 7,5% hinnani 7,12 SEK, aasta madalaima taseme lähedal. Tänast uudist, mis langust selgitaks, ei leidnud. Placera andmetel oodati ettevõttelt 19. novembri seisuga kohandatud EBITDA-ks 30,9 mln eurot, kuid kas 3. kvartali aruanne ilmus täna ja mida see näitas, ei õnnestunud kinnitada.",
       "sources": [
         {
-          "title": "Verve Group Q3 2026 Interim Report (ad-hoc-news)",
-          "url": "https://www.ad-hoc-news.de/boerse/news/corporate-news/verve-group-publishes-q3-2026-interim-report-and-maintains-full-year-guidance/70545391"
+          "title": "Verve Group väntas redovisa 30,9 miljoner euro i justerat ebitda (Placera)",
+          "url": "https://www.placera.se/telegram/verve-group-verve-group-vantas-redovisa-30-9-miljoner-euro-i-justerat-ebitda-modular-20261119"
         }
       ],
-      "at": "2026-11-23T09:07:14Z"
+      "at": "2026-11-24T09:07:47Z"
     },
     {
-      "fmp": "GFS",
-      "sym": "gfs",
-      "name": "GlobalFoundries Inc.",
-      "pct": 10.55,
-      "short": "Tõus: AI/kiibiaktsiate tagasipõrge nädalatagusele languse järel",
-      "text": "Aktsia tõusis täna u 11%, kuid ettevõttespetsiifilist uudist ei leitud. Tõus langeb kokku kiibi- ja AI-aktsiate laiema tagasipõrkega pärast eelmise nädala ränka AI-müügilainet (Nasdaq langes nädalaga ~10%). Põhjuse seos on turutaustana mõistlik, kuid ettevõttepõhiselt kinnitamata.",
+      "fmp": "BFF.MI",
+      "sym": "bff-mil",
+      "name": "BFF Bank SpA",
+      "pct": 7.24,
+      "short": "Põrge ~7% pärast järsku langust; Cerberusega läbirääkimised",
+      "text": "BFF Bank tõusis täna u 7% hinnani 1,289 eurot, kuid tänast konkreetset käivitajat ei leidnud. Milano Finanza andmetel kaotas aktsia 5. novembril 7,7% ja 12. novembril 11,4%, kui pank peab Cerberusega ainuõiguslikke läbirääkimisi (30% kapitalitõus, ainuõigus pikendatud novembri lõpuni) ning Itaalia investorite grupp pakub alternatiivi. Tänane tõus on tõenäoliselt tagasipõrge ja/või uudisvoog sellest teemast, kuid seda ei saa kinnitada.",
       "sources": [
         {
-          "title": "US stocks rebound as battered AI and chip stocks rally after correction (Fox Business)",
-          "url": "https://www.foxbusiness.com/markets/stocks-november-23-2026"
+          "title": "BFF allunga a fine novembre l'esclusiva a Cerberus (Milano Finanza)",
+          "url": "https://www.milanofinanza.it/news/bff-allunga-a-fine-novembre-l-esclusiva-a-cerberus-2723306"
         },
         {
-          "title": "U.S. chip and neocloud stocks rally premarket after last week's selloff (Investing.com)",
-          "url": "https://in.investing.com/news/stock-market-news/us-chip-and-neocloud-stocks-rally-premarket-after-last-weeks-selloff-5720487"
+          "title": "Una cordata italiana per BFF (Milano Finanza)",
+          "url": "https://www.milanofinanza.it/news/una-cordata-italiana-per-bff-2724092"
         }
       ],
-      "at": "2026-11-23T17:07:20Z"
+      "at": "2026-11-24T09:07:47Z"
     },
     {
-      "fmp": "MTZ",
-      "sym": "mtz",
-      "name": "MasTec, Inc.",
-      "pct": 10.37,
-      "short": "Tõus: AI-energeetika/taristuaktsiate tagasipõrge",
-      "text": "MasTec tõusis täna u 11%, ettevõttespetsiifilist uudist ei leitud. Tõus sobib USA energia- ja AI-taristuaktsiate tagasipõrkega pärast eelmise nädala AI-müügilainet; seos on turutaustana usutav, kuid kinnitamata.",
+      "fmp": "TEP.L",
+      "sym": "tep-lon",
+      "name": "Telecom Plus PLC",
+      "pct": -5.98,
+      "short": "Langus ~6%: tänast põhjust ei leidnud",
+      "text": "Telecom Plus langes täna u 6% hinnani 833 penni, mis on aasta madalaimale tasemele küllaltki lähedal. Tänase päeva kohta ei leidnud ma allikat, mis langust selgitaks; leitud kasumihoiatus pärineb aprillist 2026 ega seleta tänast käiku. Seos mõne konkreetse uudisega on kinnitamata.",
       "sources": [
         {
-          "title": "US stocks rebound as battered AI and chip stocks rally after correction (Fox Business)",
-          "url": "https://www.foxbusiness.com/markets/stocks-november-23-2026"
-        },
-        {
-          "title": "BUZZ-US power companies rebound after previous session's AI-linked slide",
-          "url": "https://www.itiger.com/hans/news/2506960925"
+          "title": "Telecom Plus falls on dour annual profit forecast (Stockopedia, 28.04.2026)",
+          "url": "https://www.stockopedia.com/share-prices/telecom-plus-LON:TEP/news/uk-apos-s-telecom-plus-falls-on-dour-annual-profit-forecast-019e6a20-392e-7e7d-8ad8-014a45dcd5e5/"
         }
       ],
-      "at": "2026-11-23T17:07:20Z"
-    },
-    {
-      "fmp": "NVMI",
-      "sym": "nvmi",
-      "name": "Nova Ltd.",
-      "pct": 10.1,
-      "short": "Tõus: AI/kiibiaktsiate tagasipõrge nädalatagusele languse järel",
-      "text": "Aktsia tõusis täna u 11%, kuid ettevõttespetsiifilist uudist ei leitud. Tõus langeb kokku kiibi- ja AI-aktsiate laiema tagasipõrkega pärast eelmise nädala ränka AI-müügilainet (Nasdaq langes nädalaga ~10%). Nova on pooljuhtide mõõteseadmete tootja, mis tõuseb tavaliselt sektoriga kaasa. Põhjuse seos on turutaustana mõistlik, kuid ettevõttepõhiselt kinnitamata.",
-      "sources": [
-        {
-          "title": "US stocks rebound as battered AI and chip stocks rally after correction (Fox Business)",
-          "url": "https://www.foxbusiness.com/markets/stocks-november-23-2026"
-        },
-        {
-          "title": "U.S. chip and neocloud stocks rally premarket after last week's selloff (Investing.com)",
-          "url": "https://in.investing.com/news/stock-market-news/us-chip-and-neocloud-stocks-rally-premarket-after-last-weeks-selloff-5720487"
-        }
-      ],
-      "at": "2026-11-23T17:07:20Z"
-    },
-    {
-      "fmp": "MWH",
-      "sym": "mwh",
-      "name": "SOLV Energy Inc Class A",
-      "pct": 10.09,
-      "short": "Tõus: CNBC tõstis SOLVi esile AI-energeetika languse järel",
-      "text": "SOLV Energy tõusis täna u 10%. CNBC nimetas täna SOLVi ühe aktsiana, mida kaaluda AI-energeetika aktsiate languse järel, ning laiem turg põrkas tagasi. Põhjuse seos on keskmise kindlusega.",
-      "sources": [
-        {
-          "title": "The biggest money-making energy trade looks over. What to buy instead (CNBC)",
-          "url": "https://www.cnbc.com/2026/11/23/refinery-stocks-crack-spreads.html"
-        },
-        {
-          "title": "US stocks rebound as battered AI and chip stocks rally after correction (Fox Business)",
-          "url": "https://www.foxbusiness.com/markets/stocks-november-23-2026"
-        }
-      ],
-      "at": "2026-11-23T17:07:20Z"
-    },
-    {
-      "fmp": "HLIO",
-      "sym": "hlio",
-      "name": "Helios Technologies, Inc.",
-      "pct": 9.54,
-      "short": "Tõus ~9,5%: ettevõttespetsiifilist uudist pole, turu tagasipõrge",
-      "text": "Helios Technologies tõusis täna u 9,5%, kuid tänaseid ettevõttespetsiifilisi uudiseid ei leitud. Tõus langeb kokku USA aktsiaturu laia tagasipõrkega pärast eelmise nädala languslainet. Seos turutaustaga on mõistlik, kuid kinnitamata.",
-      "sources": [
-        {
-          "title": "Where Things Stand Now (Seeking Alpha)",
-          "url": "https://seekingalpha.com/article/4971167-where-things-stand-now"
-        },
-        {
-          "title": "The Selloff Has Spread Beyond AI (Seeking Alpha)",
-          "url": "https://seekingalpha.com/article/4971072-the-selloff-has-spread-beyond-ai-im-waiting"
-        }
-      ],
-      "at": "2026-11-23T20:07:09Z"
-    },
-    {
-      "fmp": "IPGP",
-      "sym": "ipgp",
-      "name": "IPG Photonics Corporation",
-      "pct": 9.06,
-      "short": "Tõus: AI/kiibiaktsiate tagasipõrge nädalatagusele languse järel",
-      "text": "Aktsia tõusis täna u 10%, kuid ettevõttespetsiifilist uudist ei leitud. Tõus langeb kokku kiibi- ja AI-aktsiate laiema tagasipõrkega pärast eelmise nädala ränka AI-müügilainet (Nasdaq langes nädalaga ~10%). IPG on laserite tootja ja liigub tihti kiibisektoriga. Põhjuse seos on turutaustana mõistlik, kuid ettevõttepõhiselt kinnitamata.",
-      "sources": [
-        {
-          "title": "US stocks rebound as battered AI and chip stocks rally after correction (Fox Business)",
-          "url": "https://www.foxbusiness.com/markets/stocks-november-23-2026"
-        },
-        {
-          "title": "U.S. chip and neocloud stocks rally premarket after last week's selloff (Investing.com)",
-          "url": "https://in.investing.com/news/stock-market-news/us-chip-and-neocloud-stocks-rally-premarket-after-last-weeks-selloff-5720487"
-        }
-      ],
-      "at": "2026-11-23T17:07:20Z"
-    },
-    {
-      "fmp": "ECG",
-      "sym": "ecg",
-      "name": "Everus Construction Group, Inc.",
-      "pct": 8.8,
-      "short": "Tõus: täna ettevõttespetsiifilist uudist ei leitud",
-      "text": "Everus tõusis täna u 9%. Täna avaldatud ettevõtteuudist ei leitud (Q3 tulemused ja tõstetud juhtkonna prognoos tulid varem). Tõenäoliselt on tegu USA elektri- ja AI-taristuaktsiate laiema tagasipõrkega, kuid see on kinnitamata.",
-      "sources": [
-        {
-          "title": "US stocks rebound as battered AI and chip stocks rally after correction (Fox Business)",
-          "url": "https://www.foxbusiness.com/markets/stocks-november-23-2026"
-        },
-        {
-          "title": "BUZZ-US power companies rebound after previous session's AI-linked slide",
-          "url": "https://www.itiger.com/hans/news/2506960925"
-        }
-      ],
-      "at": "2026-11-23T17:07:20Z"
-    },
-    {
-      "fmp": "VST",
-      "sym": "vst",
-      "name": "Vistra Corp.",
-      "pct": 8.22,
-      "short": "Tõus: elektrifirmade tagasipõrge AI-languse järel",
-      "text": "Vistra tõusis täna u 8%. Ettevõttespetsiifilist tänast uudist ei leitud; tõus sobib USA elektritootjate tagasipõrkega pärast AI-ga seotud languspäeva ja üldise turu rallyga. Seos on turutaustana usutav.",
-      "sources": [
-        {
-          "title": "BUZZ-US power companies rebound after previous session's AI-linked slide",
-          "url": "https://www.itiger.com/hans/news/2506960925"
-        },
-        {
-          "title": "US stocks rebound as battered AI and chip stocks rally after correction (Fox Business)",
-          "url": "https://www.foxbusiness.com/markets/stocks-november-23-2026"
-        }
-      ],
-      "at": "2026-11-23T17:07:20Z"
-    },
-    {
-      "fmp": "CDNS",
-      "sym": "cdns",
-      "name": "Cadence Design Systems, Inc.",
-      "pct": 8.09,
-      "short": "Tõus: AI/kiibitarkvara tagasipõrge müügilainele järgnevalt",
-      "text": "Cadence tõusis täna u 8%. Täna ei leitud ettevõttespetsiifilist uudist; FMP uudistes on vaid soovitusartiklid. Tõus langeb kokku AI- ja kiibiaktsiate tagasipõrkega, seos on turutaustana usutav.",
-      "sources": [
-        {
-          "title": "US stocks rebound as battered AI and chip stocks rally after correction (Fox Business)",
-          "url": "https://www.foxbusiness.com/markets/stocks-november-23-2026"
-        },
-        {
-          "title": "U.S. chip and neocloud stocks rally premarket after last week's selloff (Investing.com)",
-          "url": "https://in.investing.com/news/stock-market-news/us-chip-and-neocloud-stocks-rally-premarket-after-last-weeks-selloff-5720487"
-        }
-      ],
-      "at": "2026-11-23T17:07:20Z"
-    },
-    {
-      "fmp": "ALNY",
-      "sym": "alny",
-      "name": "Alnylam Pharmaceuticals, Inc",
-      "pct": 7.81,
-      "short": "Tõus ~8%: täna konkreetset põhjust ei leitud",
-      "text": "Alnylam tõusis täna u 8%. Tänaseid ettevõttespetsiifilisi uudiseid ei leitud (leitud vaid analüütikute sihthinna uuendused). Tõusu põhjust ei saa allikatega kinnitada.",
-      "sources": [
-        {
-          "title": "Alnylam Pharmaceuticals ALNY FY2026 estimates (Defense World)",
-          "url": "https://www.defenseworld.net/2026/11/23/equities-analysts-issue-forecasts-for-alny-fy2026-earnings.html"
-        }
-      ],
-      "at": "2026-11-23T17:07:20Z"
-    },
-    {
-      "fmp": "NXPI",
-      "sym": "nxpi",
-      "name": "NXP Semiconductors NV",
-      "pct": 7.75,
-      "short": "Tõus: AI/kiibiaktsiate tagasipõrge nädalatagusele languse järel",
-      "text": "Aktsia tõusis täna u 8%, kuid ettevõttespetsiifilist uudist ei leitud. Tõus langeb kokku kiibi- ja AI-aktsiate laiema tagasipõrkega pärast eelmise nädala ränka AI-müügilainet (Nasdaq langes nädalaga ~10%). Põhjuse seos on turutaustana mõistlik, kuid ettevõttepõhiselt kinnitamata.",
-      "sources": [
-        {
-          "title": "US stocks rebound as battered AI and chip stocks rally after correction (Fox Business)",
-          "url": "https://www.foxbusiness.com/markets/stocks-november-23-2026"
-        },
-        {
-          "title": "U.S. chip and neocloud stocks rally premarket after last week's selloff (Investing.com)",
-          "url": "https://in.investing.com/news/stock-market-news/us-chip-and-neocloud-stocks-rally-premarket-after-last-weeks-selloff-5720487"
-        }
-      ],
-      "at": "2026-11-23T17:07:20Z"
-    },
-    {
-      "fmp": "VSEC",
-      "sym": "vsec",
-      "name": "VSE Corporation",
-      "pct": 7.39,
-      "short": "Tõus ~7%: uudist ei leitud, tõenäoliselt turu tagasipõrge",
-      "text": "VSE Corporation tõusis täna u 7,4%. Tänast ettevõttespetsiifilist põhjust ei leitud. USA turg põrkas täna tugevalt tagasi eelmise nädala languselt, mis võib tõusu osaliselt seletada, kuid see on kinnitamata.",
-      "sources": [
-        {
-          "title": "Where Things Stand Now (Seeking Alpha)",
-          "url": "https://seekingalpha.com/article/4971167-where-things-stand-now"
-        },
-        {
-          "title": "The Selloff Has Spread Beyond AI (Seeking Alpha)",
-          "url": "https://seekingalpha.com/article/4971072-the-selloff-has-spread-beyond-ai-im-waiting"
-        }
-      ],
-      "at": "2026-11-23T20:07:09Z"
-    },
-    {
-      "fmp": "ASG.AX",
-      "sym": "asg-aus",
-      "name": "Autosports Group Ltd",
-      "pct": -7.22,
-      "short": "Langus ~7%: täna konkreetset põhjust ei leitud",
-      "text": "Autosports Group langes Austraalia börsil ~7% ja uuendas aasta madalaimat taset (0,87 AUD). Tänast ettevõttespetsiifilist uudist ei leitud; otsingutulemustes on vaid varasemad artiklid nõrga poolaasta kasumi ja väljavaate kohta. Põhjus on kinnitamata.",
-      "sources": [
-        {
-          "title": "Autosports hits record low on lacklustre earnings outlook (Stockopedia)",
-          "url": "https://www.stockopedia.com/share-prices/autosports-ASX:ASG/news/australia-apos-s-autosports-hits-record-low-on-lacklustre-earnings-outlook-019e6dca-1668-728d-a68c-3786f238dccd/"
-        }
-      ],
-      "at": "2026-11-23T09:07:14Z"
-    },
-    {
-      "fmp": "NXT",
-      "sym": "nxt",
-      "name": "Nextpower Inc.",
-      "pct": 7.12,
-      "short": "Tõus ~7%: uudist ei leitud, tagasipõrge pärast nädalatagust langust",
-      "text": "Nextpower tõusis täna u 7%, tänast ettevõttespetsiifilist uudist ei leitud. Aktsia on aastatipust tugevalt madalamal ja tõus langeb kokku USA turu üldise tagasipõrkega. Põhjus on kinnitamata.",
-      "sources": [
-        {
-          "title": "Where Things Stand Now (Seeking Alpha)",
-          "url": "https://seekingalpha.com/article/4971167-where-things-stand-now"
-        },
-        {
-          "title": "The Selloff Has Spread Beyond AI (Seeking Alpha)",
-          "url": "https://seekingalpha.com/article/4971072-the-selloff-has-spread-beyond-ai-im-waiting"
-        }
-      ],
-      "at": "2026-11-23T20:07:09Z"
-    },
-    {
-      "fmp": "APG",
-      "sym": "apg",
-      "name": "APi Group Corporation",
-      "pct": 7.01,
-      "short": "Tõus ~7%: uudist ei leitud, turu tagasipõrge",
-      "text": "APi Group tõusis täna u 7%. Tänaste allikate põhjal ettevõttepõhist põhjust ei leitud (leitud on vaid analüütikute üldhinnangud). Tõus sobib USA turu laia tagasipõrkega, aga seos on kinnitamata.",
-      "sources": [
-        {
-          "title": "Where Things Stand Now (Seeking Alpha)",
-          "url": "https://seekingalpha.com/article/4971167-where-things-stand-now"
-        },
-        {
-          "title": "The Selloff Has Spread Beyond AI (Seeking Alpha)",
-          "url": "https://seekingalpha.com/article/4971072-the-selloff-has-spread-beyond-ai-im-waiting"
-        }
-      ],
-      "at": "2026-11-23T20:07:09Z"
-    },
-    {
-      "fmp": "ENR.DE",
-      "sym": "enr-etr",
-      "name": "Siemens Energy AG",
-      "pct": 6.88,
-      "short": "Tõus ~6,9%: ettevõtte uudist ei leitud; AI-/energeetikateemade tagasipõrge?",
-      "text": "Siemens Energy tõusis täna u 6,9%. Tänast ettevõttespetsiifilist uudist ei leitud; leitud artiklid viitavad varasematele tulemustele ja prognoosidele. Tõenäoliselt mängis rolli AI-taristuga seotud aktsiate laiem tagasipõrge, kuid see on kinnitamata.",
-      "sources": [
-        {
-          "title": "Where Things Stand Now (Seeking Alpha)",
-          "url": "https://seekingalpha.com/article/4971167-where-things-stand-now"
-        },
-        {
-          "title": "The Selloff Has Spread Beyond AI (Seeking Alpha)",
-          "url": "https://seekingalpha.com/article/4971072-the-selloff-has-spread-beyond-ai-im-waiting"
-        }
-      ],
-      "at": "2026-11-23T20:07:09Z"
-    },
-    {
-      "fmp": "GVA",
-      "sym": "gva",
-      "name": "Granite Construction Incorporated",
-      "pct": 6.85,
-      "short": "Tõus ~6,8%: uudist ei leitud, turu tagasipõrge",
-      "text": "Granite Construction tõusis täna u 6,8%. Tänast ettevõttespetsiifilist põhjust ei leitud (leitud allikad käsitlevad varasemat kvartalitulemust). Tõus langeb kokku USA turu tagasipõrkega; seos on kinnitamata.",
-      "sources": [
-        {
-          "title": "Where Things Stand Now (Seeking Alpha)",
-          "url": "https://seekingalpha.com/article/4971167-where-things-stand-now"
-        },
-        {
-          "title": "The Selloff Has Spread Beyond AI (Seeking Alpha)",
-          "url": "https://seekingalpha.com/article/4971072-the-selloff-has-spread-beyond-ai-im-waiting"
-        }
-      ],
-      "at": "2026-11-23T20:07:09Z"
-    },
-    {
-      "fmp": "HLLY",
-      "sym": "hlly",
-      "name": "Holley Inc.",
-      "pct": 6.77,
-      "short": "Tõus ~6,8%: uudist ei leitud; odav aktsia, turu tagasipõrge",
-      "text": "Holley tõusis täna u 6,8% hinnale 2,45 USD. Tänast ettevõttespetsiifilist uudist ei leitud; viimane leitud sündmus on Q3 tulemuste aruanne varem. Tõus langeb kokku turu üldise tagasipõrkega, põhjus kinnitamata.",
-      "sources": [
-        {
-          "title": "Where Things Stand Now (Seeking Alpha)",
-          "url": "https://seekingalpha.com/article/4971167-where-things-stand-now"
-        }
-      ],
-      "at": "2026-11-23T20:07:09Z"
-    },
-    {
-      "fmp": "FUTU",
-      "sym": "futu",
-      "name": "Futu Holdings Ltd. Sponsored ADR Class A",
-      "pct": 6.75,
-      "short": "Tõus ~6,8%: jätk pärast Q3 tulemusi (19.11) ja turu tagasipõrget",
-      "text": "Futu tõusis täna u 6,8%. Ettevõte avaldas Q3 tulemused 19. novembril ning aktsia reageeris tugevalt tõusuga; tänast uut uudist ei leitud. Tänane tõus on tõenäoliselt jätk koos USA turu tagasipõrkega, kuid täpne põhjus on kinnitamata.",
-      "sources": [
-        {
-          "title": "Futu announces Q3 2026 unaudited financial results (Finviz)",
-          "url": "https://finviz.com/news/424998/futu-announces-third-quarter-2026-unaudited-financial-results"
-        },
-        {
-          "title": "Where Things Stand Now (Seeking Alpha)",
-          "url": "https://seekingalpha.com/article/4971167-where-things-stand-now"
-        }
-      ],
-      "at": "2026-11-23T20:07:09Z"
-    },
-    {
-      "fmp": "GRGD.TO",
-      "sym": "grgd-ca",
-      "name": "Groupe Dynamite Inc.",
-      "pct": 6.64,
-      "short": "Tõus ~8%: täna konkreetset põhjust ei leitud",
-      "text": "Groupe Dynamite tõusis täna u 8%. Tänaseid uudiseid ei leitud (otsingus tuli vaid vanem lühikeseks müüja Spruce Pointi aruanne). Põhjust ei saa kinnitada; võimalik, et tegu on tagasipõrkega pärast pikka langust.",
-      "sources": [
-        {
-          "title": "Groupe Dynamite shares fall 10% after Spruce Point discloses short position (Investing.com)",
-          "url": "https://in.investing.com/news/stock-market-news/groupe-dynamite-shares-fall-10-after-spruce-point-discloses-short-position-5710444"
-        }
-      ],
-      "at": "2026-11-23T17:07:20Z"
-    },
-    {
-      "fmp": "ALGT",
-      "sym": "algt",
-      "name": "Allegiant Travel Company",
-      "pct": 6.22,
-      "short": "Tõus ~6%: uudist ei leitud; tõus jätkub pärast Q3 tulemusi",
-      "text": "Allegiant Travel tõusis täna u 6,2%. Tänast ettevõttespetsiifilist uudist ei leitud; aktsia on tõusnud ka pärast varasemat Q3 aruannet ja turg põrkas täna tagasi. Täpne põhjus on kinnitamata.",
-      "sources": [
-        {
-          "title": "ALGT shares rise 12.8% since Q3 2026 earnings release (Zacks)",
-          "url": "https://www.zacks.com/stock/news/3026691/algt-shares-rise-12-8-since-third-quarter-2026-earnings-release"
-        },
-        {
-          "title": "Where Things Stand Now (Seeking Alpha)",
-          "url": "https://seekingalpha.com/article/4971167-where-things-stand-now"
-        }
-      ],
-      "at": "2026-11-23T20:07:09Z"
-    },
-    {
-      "fmp": "DVYSR.ST",
-      "sym": "dvysr-se",
-      "name": "Devyser Diagnostics AB",
-      "pct": 6.17,
-      "short": "Tõus ~6%: täna konkreetset põhjust ei leitud",
-      "text": "Devyser tõusis täna ~6% väikese käibega (üle 1200 aktsia) ja aktsia on endiselt kaugel aasta tipust. Tänast uudist, pressiteadet ega analüütiku sammu, mis tõusu selgitaks, ei leitud. Liikumine võib olla likviidsusest tingitud.",
-      "sources": [
-        {
-          "title": "Devyser Diagnostics (Affärsvärlden)",
-          "url": "https://www.affarsvarlden.se/aktie/devyser-diagnostics"
-        }
-      ],
-      "at": "2026-11-23T09:07:14Z"
-    },
-    {
-      "fmp": "TRE.MC",
-      "sym": "tre-es",
-      "name": "Tecnicas Reunidas SA",
-      "pct": 6.04,
-      "short": "Tõus ~6%: uudist ei leitud",
-      "text": "Técnicas Reunidas tõusis täna u 6%. Tänast ettevõttespetsiifilist põhjust ei leitud, otsingutulemused käsitlevad varasemaid sündmusi. Põhjus on kinnitamata.",
-      "sources": [
-        {
-          "title": "Técnicas Reunidas rebota en el Ibex 35 (Estrategias de Inversión)",
-          "url": "https://www.estrategiasdeinversion.com/actualidad/noticias/bolsa-espana/tecnicas-reunidas-rebota-en-el-ibex-35-con-el-n-413019"
-        }
-      ],
-      "at": "2026-11-23T20:07:09Z"
-    },
-    {
-      "fmp": "AMRC",
-      "sym": "amrc",
-      "name": "Ameresco, Inc. Class A",
-      "pct": 5.94,
-      "short": "Tõus ~6%: uudist ei leitud, turu tagasipõrge",
-      "text": "Ameresco tõusis täna u 5,9%. Tänast ettevõttespetsiifilist uudist ei leitud (leitud on vaid võrdlusartikkel Zacksist). Tõus sobib USA turu tagasipõrkega, kuid seos on kinnitamata.",
-      "sources": [
-        {
-          "title": "Where Things Stand Now (Seeking Alpha)",
-          "url": "https://seekingalpha.com/article/4971167-where-things-stand-now"
-        }
-      ],
-      "at": "2026-11-23T20:07:09Z"
-    },
-    {
-      "fmp": "BROS",
-      "sym": "bros",
-      "name": "Dutch Bros, Inc. Class A",
-      "pct": 5.92,
-      "short": "Tõus ~6%: uudist ei leitud, turu tagasipõrge",
-      "text": "Dutch Bros tõusis täna u 5,9%. Tänast ettevõttespetsiifilist põhjust ei leitud; Zacks lisas aktsia samal päeval Rank #5 nimekirja, mis tõusu ei seleta. Seos turu tagasipõrkega on kinnitamata.",
-      "sources": [
-        {
-          "title": "New Strong Sell Stocks for November 23rd (Zacks)",
-          "url": "https://www.zacks.com/stock/news/3033545/new-strong-sell-stocks-for-november-23rd"
-        },
-        {
-          "title": "Where Things Stand Now (Seeking Alpha)",
-          "url": "https://seekingalpha.com/article/4971167-where-things-stand-now"
-        }
-      ],
-      "at": "2026-11-23T20:07:09Z"
-    },
-    {
-      "fmp": "1316.HK",
-      "sym": "1316-hk",
-      "name": "Nexteer Automotive Group Limited",
-      "pct": 5.62,
-      "short": "Tõus ~6%: täna konkreetset põhjust ei leitud",
-      "text": "Nexteer tõusis Hongkongis ~5,6% (4,415 HKD). Tänast ettevõttespetsiifilist uudist ei leitud, ka FMP uudisvoog oli tühi. Tõus võib peegeldada üldist turu- või autosektori liikumist, kuid seda ükski allikas ei kinnita.",
-      "sources": [
-        {
-          "title": "Nexteer Automotive Share Price (Stockopedia)",
-          "url": "https://www.stockopedia.com/share-prices/nexteer-automotive-HKG:1316"
-        }
-      ],
-      "at": "2026-11-23T09:07:14Z"
+      "at": "2026-11-24T09:07:47Z"
     }
   ]
 }
