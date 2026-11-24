@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T00:17:11Z",
+  "updated": "2026-11-24T00:17:49Z",
   "items": [
     {
       "isin": "USU45709AB58",
@@ -9,7 +9,7 @@
       "prevPrice": null,
       "source": null,
       "url": null,
-      "note": "uut hinda ei leitud 2026-11-21: FactSet/IBKR pole saadaval; veebiotsing (cbonds, TradingView FINRA, finanzen.net, Deutsche Börse) ilma hinnata"
+      "note": "uut hinda ei leitud 2026-11-24: FactSet/IBKR pole saadaval; veebiotsing (finanzen.net, TradingView, cbonds, bondblox, Deutsche Börse) ilma hinnata"
     },
     {
       "isin": "USU6203KAE48",
@@ -19,7 +19,7 @@
       "prevPrice": null,
       "source": null,
       "url": null,
-      "note": "uut hinda ei leitud 2026-11-21: FactSet/IBKR pole saadaval; veebiotsing (cbonds, TradingView FINRA, finanzen.net, Deutsche Börse) ilma hinnata"
+      "note": "uut hinda ei leitud 2026-11-24: FactSet/IBKR pole saadaval; veebiotsing (finanzen.net, TradingView, cbonds, bondblox, Deutsche Börse) ilma hinnata"
     },
     {
       "isin": "USU37027AB27",
@@ -29,15 +29,15 @@
       "prevPrice": null,
       "source": null,
       "url": null,
-      "note": "uut hinda ei leitud 2026-11-21: FactSet/IBKR pole saadaval; veebiotsing (cbonds, TradingView FINRA, finanzen.net, Deutsche Börse) ilma hinnata"
+      "note": "uut hinda ei leitud 2026-11-24: FactSet/IBKR pole saadaval; veebiotsing (finanzen.net, TradingView, cbonds, bondblox, Deutsche Börse) ilma hinnata"
     },
     {
       "isin": "USU98401AE97",
       "name": "Xerox Holdings Corporation 8.875% 30-NOV-2029",
       "price": 10.0,
-      "priceDate": "2026-11-20",
+      "priceDate": "2026-11-23",
       "prevPrice": 18.11,
-      "source": "finanzen.net (Frankfurt FSE 10.00; hõre turg, varem gettex 18.11)",
+      "source": "finanzen.net (Frankfurt FSE 10.00; hõre turg, 15 min viivitus)",
       "url": "https://www.finanzen.net/anleihen/a3lv8v-xerox-holdings-anleihe"
     },
     {
@@ -48,7 +48,7 @@
       "prevPrice": null,
       "source": null,
       "url": null,
-      "note": "uut hinda ei leitud 2026-11-21: FactSet/IBKR pole saadaval; veebiotsing (cbonds, TradingView FINRA, finanzen.net, Deutsche Börse) ilma hinnata"
+      "note": "uut hinda ei leitud 2026-11-24: FactSet/IBKR pole saadaval; veebiotsing (finanzen.net, TradingView, cbonds, bondblox, Deutsche Börse) ilma hinnata"
     }
   ]
 }
