@@ -1,12 +1,88 @@
 {
   "date": "2026-11-24",
-  "updated": "2026-11-24T09:07:47Z",
+  "updated": "2026-11-24T17:07:30Z",
   "items": [
+    {
+      "fmp": "INSM",
+      "sym": "insm",
+      "name": "Insmed Incorporated",
+      "pct": 14.21,
+      "short": "Sanofi ostab Insmedi $41 mld sularahatehingus ($175 aktsia kohta)",
+      "text": "Sanofi teatas täna, et ostab Insmedi sularahatehingus u 41 mld dollari eest ehk 175 dollarit aktsia kohta, mis on 46% preemia 18. novembri hinnale (enne Bloombergi esimest ülevõtuteadet). Aktsia tõusis ~14% hinnani ~170 dollarit ehk veidi alla pakkumishinna. Seos hinnaliikumisega on selge.",
+      "sources": [
+        {
+          "title": "Insmed stock surges 14% on Sanofi's $41B acquisition (Invezz)",
+          "url": "https://invezz.com/news/2026/11/24/insmed-stock-surges-14-on-sanofis-41b-acquisition-analysts-see-strategic-fit/"
+        },
+        {
+          "title": "Insmed Stock Surges on $41 Billion Sanofi Buyout (Schaeffers)",
+          "url": "https://www.schaeffersresearch.com/content/news/2026/11/24/insmed-stock-surges-on-41-billion-sanofi-buyout"
+        }
+      ],
+      "at": "2026-11-24T17:07:30Z"
+    },
+    {
+      "fmp": "VER.ST",
+      "sym": "ver-se",
+      "name": "Verve Group Media SE Class A",
+      "pct": -12.99,
+      "short": "Langus ~13%: põhjust ei kinnitanud (Q3 aruanne oli ees)",
+      "text": "Verve langes täna u 13% hinnani 6,7 krooni, mis on aasta madalaima taseme lähedal. Täna avaldatud allikaid, mis langust selgitaksid, ei leidnud. Kaudselt: analüütikud ootasid Q3 aruannet (Inderes: 'esimene test lubatud H2 kiirenemisele'; oodatud kohandatud EBITDA u 30,9 mln eurot), seega võib tegu olla aruandele reageerimisega, kuid seda ei saa kinnitada.",
+      "sources": [
+        {
+          "title": "Verve Q3'26 preview (Inderes)",
+          "url": "https://www.inderes.dk/en/analyst-comments/verve-q326-preview-first-test-of-promised-h2-acceleration"
+        },
+        {
+          "title": "Verve Group väntas redovisa 30,9 mln euro justerat ebitda (Placera)",
+          "url": "https://www.placera.se/telegram/verve-group-verve-group-vantas-redovisa-30-9-miljoner-euro-i-justerat-ebitda-modular-20261119"
+        }
+      ],
+      "at": "2026-11-24T17:07:30Z"
+    },
+    {
+      "fmp": "BURL",
+      "sym": "burl",
+      "name": "Burlington Stores, Inc.",
+      "pct": 10.57,
+      "short": "Q3 kasum ootustest parem, aktsia tõusis hoolimata prognoosi kärpest",
+      "text": "Burlington teatas Q3 müügikasvuks 8% ja kohandatud EPS-iks 1,73 dollarit (üle ettevõtte enda juhise ülemmäära ja Zacksi konsensuse 1,67). Võrreldavate poodide müük kasvas vaid 1% ja juht nimetas tulemust pettumustoovaks, ning aasta EPS-juhist alandati tasemele 11,70–11,80 dollarit kütuse- ja veokulude tõttu. Aktsia tõusis siiski ~10%, mis viitab, et turg oli kartnud hullemat; seos aruandega on selge.",
+      "sources": [
+        {
+          "title": "Burlington Stores Reports Third Quarter 2026 Earnings (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/24/3409093/0/en/burlington-stores-reports-third-quarter-2026-earnings.html"
+        },
+        {
+          "title": "Burlington Stock Soars Even as the Retailer Cuts Its Outlook (Barron's)",
+          "url": "https://www.barrons.com/articles/burlington-stores-earnings-stock-price-a45c1cd9"
+        }
+      ],
+      "at": "2026-11-24T17:07:30Z"
+    },
+    {
+      "fmp": "AMBA",
+      "sym": "amba",
+      "name": "Ambarella, Inc.",
+      "pct": -10.39,
+      "short": "Langus ~10%: täpset põhjust ei leidnud, laiem tehnoloogialangus",
+      "text": "Ambarella langes täna u 10% hinnani ~50 dollarit (aasta madalaim). Tänaseid ettevõttespetsiifilisi negatiivseid uudiseid ei leidnud; ettevõte teatas vaid koostööst Sigma Connectivityga. Samal päeval avanes Nasdaq ~1,6% madalamal, sest eilne Nvidia-ralli hääbus ja tehisintellekti aktsiad langesid, mis tõenäoliselt aitas langusele kaasa, kuid seost ei saa kinnitada.",
+      "sources": [
+        {
+          "title": "Ambarella and Sigma Connectivity collaboration (GlobeNewswire)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/24/3409246/23306/en/ambarella-and-sigma-connectivity-announce-strategic-collaboration-to-accelerate-the-development-and-industrialization-of-computer-vision-and-edge-ai-products.html"
+        },
+        {
+          "title": "Nasdaq opens 1.6% lower as Nvidia rally fades, AI stocks slide (Invezz)",
+          "url": "https://invezz.com/news/2026/11/24/nasdaq-opens-1-6-lower-as-nvidia-rally-fades-ai-stocks-slide/"
+        }
+      ],
+      "at": "2026-11-24T17:07:30Z"
+    },
     {
       "fmp": "MUR.WA",
       "sym": "mur-pl",
       "name": "Murapol S.A.",
-      "pct": -9.09,
+      "pct": -9.35,
       "short": "Langus ~9%: tänast põhjust ei leidnud",
       "text": "Murapol langes täna u 9% hinnani 35 zlotti, mis on aasta madalaima taseme (34) lähedal. Tänase päeva kohta ei leidnud ma ühtegi allikat, mis langust selgitaks, seega põhjust kinnitada ei saa. Taustaks: ettevõtte 3. kvartali puhaskasum langes varasema aruande järgi tugevalt ning suuromanik Hampont on viimasel ajal omandanud täiendavaid aktsiaid.",
       "sources": [
@@ -37,19 +113,34 @@
       "at": "2026-11-24T09:07:47Z"
     },
     {
-      "fmp": "VER.ST",
-      "sym": "ver-se",
-      "name": "Verve Group Media SE Class A",
-      "pct": -7.53,
-      "short": "Langus ~7,5%: põhjust täna ei kinnitanud",
-      "text": "Verve Group langes täna u 7,5% hinnani 7,12 SEK, aasta madalaima taseme lähedal. Tänast uudist, mis langust selgitaks, ei leidnud. Placera andmetel oodati ettevõttelt 19. novembri seisuga kohandatud EBITDA-ks 30,9 mln eurot, kuid kas 3. kvartali aruanne ilmus täna ja mida see näitas, ei õnnestunud kinnitada.",
+      "fmp": "RDC.DE",
+      "sym": "rdc-etr",
+      "name": "Redcare Pharmacy N.V.",
+      "pct": -7.74,
+      "short": "Langus ~8%: tänast põhjust ei leidnud",
+      "text": "Redcare langes täna u 7,7% hinnani ~61 eurot. Tänaseid allikaid, mis langust selgitaksid, ei leidnud, seega põhjust kinnitada ei saa. Taustaks: aktsia on viimastel nädalatel olnud volatiilne ja saksa meedia on käsitlenud selle varasemaid järske langusi.",
       "sources": [
         {
-          "title": "Verve Group väntas redovisa 30,9 miljoner euro i justerat ebitda (Placera)",
-          "url": "https://www.placera.se/telegram/verve-group-verve-group-vantas-redovisa-30-9-miljoner-euro-i-justerat-ebitda-modular-20261119"
+          "title": "Redcare Pharmacy Aktie (finanzen.net)",
+          "url": "https://www.finanzen.net/aktien/shop_apotheke_europe-aktie"
         }
       ],
-      "at": "2026-11-24T09:07:47Z"
+      "at": "2026-11-24T17:07:30Z"
+    },
+    {
+      "fmp": "ADN1.DE",
+      "sym": "adn1-etr",
+      "name": "adesso SE",
+      "pct": 7.68,
+      "short": "Tõus ~8%: tänast põhjust ei leidnud",
+      "text": "adesso tõusis täna u 7,7% hinnani ~83 eurot ja on lähedal aasta kõrgeimale tasemele. Tänast ettevõttespetsiifilist uudist ei leidnud, seega põhjust kinnitada ei saa. Taustaks on olnud tugevad 9 kuu tulemused ja kinnitatud aastaprognoos.",
+      "sources": [
+        {
+          "title": "adesso Aktie: Neunmonatsgewinn fast vervierfacht, Jahresprognose bestätigt (goldesel.de)",
+          "url": "https://goldesel.de/aktien/news/adesso-aktie-neunmonatsgewinn-fast-vervierfacht-jahresprognose-bestatigt"
+        }
+      ],
+      "at": "2026-11-24T17:07:30Z"
     },
     {
       "fmp": "BFF.MI",
@@ -69,6 +160,104 @@
         }
       ],
       "at": "2026-11-24T09:07:47Z"
+    },
+    {
+      "fmp": "ECG",
+      "sym": "ecg",
+      "name": "Everus Construction Group, Inc.",
+      "pct": -7.2,
+      "short": "Langus ~7%: täna põhjust ei leidnud, turg nõrk",
+      "text": "Everus langes täna u 7% hinnani ~78 dollarit, aasta madalaima taseme lähedale. Tänast ettevõttespetsiifilist uudist ei leidnud. Samal päeval langes Nasdaq ja tehisintellekti ning andmekeskustega seotud aktsiad olid surve all, mis võib olla osa põhjusest, kuid seos on kinnitamata.",
+      "sources": [
+        {
+          "title": "Nasdaq opens 1.6% lower as Nvidia rally fades, AI stocks slide (Invezz)",
+          "url": "https://invezz.com/news/2026/11/24/nasdaq-opens-1-6-lower-as-nvidia-rally-fades-ai-stocks-slide/"
+        },
+        {
+          "title": "Sterling vs. Everus: Which Data Center Stock Is a Smarter Buy? (Zacks)",
+          "url": "https://www.zacks.com/stock/news/3033994/sterling-vs-everus-which-data-center-stock-is-a-smarter-buy"
+        }
+      ],
+      "at": "2026-11-24T17:07:30Z"
+    },
+    {
+      "fmp": "ENVIP.OL",
+      "sym": "envi-ams",
+      "name": "Envipco Holding N.V.",
+      "pct": -6.94,
+      "short": "Langus ~7%: põhjust ei leidnud",
+      "text": "Envipco langes täna u 7% hinnani 33,5 krooni, aasta madalaima taseme (31,6) lähedal. Tänaseid uudiseid ega allikaid, mis langust selgitaksid, ei leidnud, seega põhjust kinnitada ei saa.",
+      "sources": [
+        {
+          "title": "Envipco Holding (Nordnet)",
+          "url": "https://www.nordnet.no/aksjer/kurser/envipco-holding-envip-xosl"
+        }
+      ],
+      "at": "2026-11-24T17:07:30Z"
+    },
+    {
+      "fmp": "GRGD.TO",
+      "sym": "grgd-ca",
+      "name": "Groupe Dynamite Inc.",
+      "pct": 6.88,
+      "short": "Tõus ~7%: täna põhjust ei leidnud",
+      "text": "Groupe Dynamite tõusis täna u 6,9% hinnani ~53,6 dollarit. Tänast uudist ega allikat, mis tõusu selgitaks, ei leidnud (Q3 tulemused ilmusid varasematel aastatel detsembris), seega põhjust kinnitada ei saa. Võimalik, et mängis rolli tugev USA tarbijate usaldusindeks (103,3 vs 91,9), kuid see on oletus.",
+      "sources": [
+        {
+          "title": "US consumer confidence jumps to 103.3 in November (StockAnalysis)",
+          "url": "https://stockanalysis.com/news/consumer-confidence-jumps-november-2026/"
+        }
+      ],
+      "at": "2026-11-24T17:07:30Z"
+    },
+    {
+      "fmp": "ENR.DE",
+      "sym": "enr-etr",
+      "name": "Siemens Energy AG",
+      "pct": -6.78,
+      "short": "Langus ~7%: tõenäoliselt tehisintellekti aktsiate müük (kinnitamata)",
+      "text": "Siemens Energy langes täna u 6,8% hinnani ~118 eurot. Tänast ettevõttespetsiifilist uudist ei leidnud. Samal päeval avanes USA turg madalamal, kuna eilne Nvidia-ralli hääbus ja tehisintellekti aktsiad langesid; Siemens Energy kauplemist on varem seostatud andmekeskuste ja tehisintellekti teemaga, seega on seos tõenäoline, kuid kinnitamata.",
+      "sources": [
+        {
+          "title": "Nasdaq opens 1.6% lower as Nvidia rally fades, AI stocks slide (Invezz)",
+          "url": "https://invezz.com/news/2026/11/24/nasdaq-opens-1-6-lower-as-nvidia-rally-fades-ai-stocks-slide/"
+        },
+        {
+          "title": "Siemens Energy: KI-Zweifel erwischen sie heftig (Börse Express)",
+          "url": "https://www.boerse-express.com/news/articles/siemens-energy-ki-zweifel-erwischen-sie-heftig-958091"
+        }
+      ],
+      "at": "2026-11-24T17:07:30Z"
+    },
+    {
+      "fmp": "IPGP",
+      "sym": "ipgp",
+      "name": "IPG Photonics Corporation",
+      "pct": -6.62,
+      "short": "Langus ~7%: laiem pooljuhtide/tehnoloogia müük, ettevõtte uudist pole",
+      "text": "IPG Photonics langes täna u 6,6% hinnani ~60 dollarit, aasta madalaima taseme lähedale. Ettevõttespetsiifilist uudist ei leidnud. Nasdaq avanes täna ~1,6% madalamal, sest Nvidia-ralli hääbus ja tehisintellektiga seotud aktsiad langesid; see on tõenäoline taust, aga mitte kinnitatud põhjus.",
+      "sources": [
+        {
+          "title": "Nasdaq opens 1.6% lower as Nvidia rally fades, AI stocks slide (Invezz)",
+          "url": "https://invezz.com/news/2026/11/24/nasdaq-opens-1-6-lower-as-nvidia-rally-fades-ai-stocks-slide/"
+        }
+      ],
+      "at": "2026-11-24T17:07:30Z"
+    },
+    {
+      "fmp": "NXPI",
+      "sym": "nxpi",
+      "name": "NXP Semiconductors NV",
+      "pct": -6.48,
+      "short": "Langus ~6,5%: pooljuhtide müük, ettevõtte uudist pole",
+      "text": "NXP langes täna u 6,5% hinnani ~239 dollarit. Ettevõttespetsiifilist uudist ei leidnud. Samal päeval langesid ka teised pooljuhid (GlobalFoundries ~-6%, Nova ~-5,7%, Broadcom ~-3,9%) ja Nasdaq avanes ~1,6% madalamal Nvidia-rallie hääbumise tõttu; seos sektoriliikumisega on tõenäoline.",
+      "sources": [
+        {
+          "title": "Nasdaq opens 1.6% lower as Nvidia rally fades, AI stocks slide (Invezz)",
+          "url": "https://invezz.com/news/2026/11/24/nasdaq-opens-1-6-lower-as-nvidia-rally-fades-ai-stocks-slide/"
+        }
+      ],
+      "at": "2026-11-24T17:07:30Z"
     },
     {
       "fmp": "TEP.L",
