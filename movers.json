@@ -1,16 +1,39 @@
 {
   "date": "2026-11-25",
-  "updated": "2026-11-25T09:12:09Z",
+  "updated": "2026-11-25T17:07:31Z",
   "items": [
     {
       "fmp": "HBX.MC",
       "sym": "hbx-es",
       "name": "Hbx Group International Plc",
-      "pct": -16.03,
-      "short": "Langus ~16%: tänast põhjust ei leidnud",
-      "text": "HBX Group langes täna Madridis u 16% hinnani 6,68 eurot, mis on päeva madalaim hind. Tänaseid ettevõttepõhiseid uudiseid (aruanne, prognoosi muutus, broker) ei leidnud; viimane leitud kvartaliuuendus oli III kvartali 2026 kaubandusülevaade, mis ei ole tänane. Põhjus on kinnitamata.",
+      "pct": -21.24,
+      "short": "Langus ~21%: tänast põhjust ei kinnitanud",
+      "text": "HBX Group langes täna Madridis u 21% hinnani 6,27 eurot. Tänast ettevõttepõhist uudist (aruanne, prognoos, broker) ei leidnud, mis seletaks nii suurt kukkumist. Leitud tulemuste ja 2026. a prognoosi artikkel (tulemused alla konsensuse, prognoos turu ootustest madalam) pärineb 26.11.2025, seega ei ole tänane. Põhjus on kinnitamata.",
       "sources": [],
-      "at": "2026-11-25T09:12:09Z"
+      "at": "2026-11-25T17:07:31Z"
+    },
+    {
+      "fmp": "AMBA",
+      "sym": "amba",
+      "name": "Ambarella, Inc.",
+      "pct": -19.2,
+      "short": "Q3 vastas ootustele alla, Q4 käibeprognoos järsult madalam",
+      "text": "Ambarella langes täna u 19% pärast 24.11 avaldatud III kvartali tulemusi: kasum aktsia kohta 0,28 USD jäi alla oodatud 0,32 USD. Q4 käibeprognoos 70–75 mln USD on selgelt madalam kui just aruandeperioodi 115,2 mln USD; juhtkond viitab mälukiipide puudusele, mis sunnib kliente tellimusi edasi lükkama või tühistama. Lisaks langetasid mitu analüütikut hinnasihte. Seos on kindel.",
+      "sources": [
+        {
+          "title": "Benzinga: analüütikud langetavad prognoose",
+          "url": "https://www.benzinga.com/analyst-stock-ratings/price-target/26/11/63621615/these-analysts-lower-their-forecasts-on-ambarella-after-downbeat-q3-results"
+        },
+        {
+          "title": "Schaeffers: Ambarella aktsia halvim päev",
+          "url": "https://www.schaeffersresearch.com/content/news/2026/11/25/ambarella-stock-eyes-worst-day-since-2022-after-earnings-whiff"
+        },
+        {
+          "title": "Motley Fool: mälupuuduse hoiatus",
+          "url": "https://www.fool.com/investing/2026/11/24/this-ai-chip-stock-just-crashed-38-on-a-memory-shortage-warning-its-filings-flagged-the-risk-months-ago/"
+        }
+      ],
+      "at": "2026-11-25T17:07:31Z"
     },
     {
       "fmp": "0780.HK",
@@ -23,19 +46,24 @@
       "at": "2026-11-25T09:12:09Z"
     },
     {
-      "fmp": "MEDX.SW",
-      "sym": "medx-ch",
-      "name": "medmix AG",
-      "pct": 10.52,
-      "short": "Tõus ~10,5%: põhjust ei leidnud",
-      "text": "medmix tõusis täna Zürichis 10,52% hinnani 9,79 → 10,82 CHF. Ühtegi 24.–25. novembri uudist, mis tõusu selgitaks (tulemused, prognoos, ülevõtmine, broker), ei leidnud. Põhjus on kinnitamata.",
-      "sources": [
-        {
-          "title": "finanzen.ch – medmix aktsia",
-          "url": "https://www.finanzen.ch/aktien/medmix-aktie"
-        }
-      ],
-      "at": "2026-11-25T09:12:09Z"
+      "fmp": "NYXH",
+      "sym": "nyxh-be",
+      "name": "Nyxoah SA",
+      "pct": -10.44,
+      "short": "Langus ~10%: tänast põhjust ei leidnud",
+      "text": "Nyxoah langes täna u 10% hinnani 0,69 USD, mis on aasta madalaim tase. Tänast uudist ei leidnud. Viimane aruanne (III kvartal 2026, 5.11) näitas käibe 9,2 mln eurot, mis jäi veidi alla konsensuse, ja 2026. a käibeprognoosi oli juba varem langetatud; need on taustaks, kuid tänase languse põhjuseks ei saa neid kinnitada.",
+      "sources": [],
+      "at": "2026-11-25T17:07:31Z"
+    },
+    {
+      "fmp": "CICN.SW",
+      "sym": "cicn-ch",
+      "name": "Cicor Technologies",
+      "pct": -9.13,
+      "short": "Langus ~9%: tänast põhjust ei leidnud",
+      "text": "Cicor langes täna Zürichis u 9% hinnani 125,4 CHF. Tänast ettevõttepõhist uudist ei leidnud. Põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-25T17:07:31Z"
     },
     {
       "fmp": "9698.HK",
@@ -48,6 +76,16 @@
       "at": "2026-11-25T09:12:09Z"
     },
     {
+      "fmp": "SMCP.PA",
+      "sym": "smcp-par",
+      "name": "SMCP SA",
+      "pct": 7.71,
+      "short": "Tõus ~8%: tänast põhjust ei leidnud",
+      "text": "SMCP tõusis täna Pariisis u 7,7% hinnani 4,30 eurot. Tänast uudist ei leidnud; leitud artiklid on varasemast ajast. Põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-25T17:07:31Z"
+    },
+    {
       "fmp": "2590.HK",
       "sym": "2590-hk",
       "name": "Beijing Geekplus Technology Co., Ltd. Class H",
@@ -58,6 +96,21 @@
       "at": "2026-11-25T09:12:09Z"
     },
     {
+      "fmp": "THEON.AS",
+      "sym": "theon-ams",
+      "name": "Theon International Plc",
+      "pct": -7.23,
+      "short": "Langus ~7%: tänast põhjust ei leidnud",
+      "text": "Theon langes täna Amsterdamis u 7% hinnani 24,9 eurot. Tänast uudist ei leidnud. Taustaks: 9.11 kinnitati 2026. a prognoos ja tõsteti keskpika perioodi prognoosi, 16.11 teatati u 370 mln euro suurusest öövaatlusseadmete tellimusest; need ei seleta tänast langust. Põhjus on kinnitamata.",
+      "sources": [
+        {
+          "title": "Theon: III kvartali ülevaade (9.11)",
+          "url": "https://www.globenewswire.com/news-release/2026/11/09/3398835/0/en/theon-announces-q3-2026-9m-2026-trading-update-reconfirms-previously-upgraded-fy-2026-guidance-and-revises-upwards-medium-term-guidance.html"
+        }
+      ],
+      "at": "2026-11-25T17:07:31Z"
+    },
+    {
       "fmp": "9626.HK",
       "sym": "9626-hk",
       "name": "Bilibili Inc. Class Z",
@@ -66,6 +119,81 @@
       "text": "Bilibili tõusis Hongkongis täna 7,19% hinnani 89,45 HKD. Otsingutulemustes oli sarnase pealkirjaga artikkel (Q3 tulemused ületasid ootusi, 10 languspäeva seeria katkes), kuid artiklit ei saanud avada ega selle kuupäeva kinnitada, seega seost tänase liikumisega ei kinnita.",
       "sources": [],
       "at": "2026-11-25T09:12:09Z"
+    },
+    {
+      "fmp": "GBG.L",
+      "sym": "gbg-lon",
+      "name": "GB Group PLC",
+      "pct": -6.67,
+      "short": "Langus ~7%: tänast põhjust ei leidnud",
+      "text": "GB Group langes täna Londonis u 6,7% hinnani 131,6 penni, aasta madalaimale tasemele. Tänast uudist ei leidnud. Taustaks: 14.08 langetati käibekasvu prognoos Ameerika identiteediäri nõrkuse tõttu ja aktsia kukkus siis u 25%; see ei seleta tänast liikumist. Põhjus on kinnitamata.",
+      "sources": [
+        {
+          "title": "AJ Bell: GB Group langetab prognoosi (14.08)",
+          "url": "https://www.ajbell.co.uk/news/articles/gb-group-cuts-revenue-growth-guidance-us-sales-chief-leaves"
+        }
+      ],
+      "at": "2026-11-25T17:07:31Z"
+    },
+    {
+      "fmp": "AMRC",
+      "sym": "amrc",
+      "name": "Ameresco, Inc. Class A",
+      "pct": -6.55,
+      "short": "Langus ~6,5%: UBS langetas hinnasihti (võimalik põhjus)",
+      "text": "Ameresco langes täna u 6,5% hinnani 19,84 USD, lähedale aasta madalaimale tasemele. MarketBeati andmetel langetas UBS täna aktsia hinnasihti; artiklit täpsemalt ei lugenud, seega seos on tõenäoline, aga kinnitamata.",
+      "sources": [
+        {
+          "title": "MarketBeat: UBS langetas Amerescoo ootusi",
+          "url": "https://www.marketbeat.com/instant-alerts/analyst-ubs-group-has-lowered-expectations-for-ameresco-nyse-amrc-stock-price-2026-11-25/"
+        }
+      ],
+      "at": "2026-11-25T17:07:31Z"
+    },
+    {
+      "fmp": "ADOC.PA",
+      "sym": "adoc-par",
+      "name": "Adocia SA",
+      "pct": -5.99,
+      "short": "Langus ~6%: tänast põhjust ei leidnud",
+      "text": "Adocia langes täna Pariisis u 6% hinnani 3,26 eurot. Tänast uudist ei leidnud. Viimane leitud ettevõtteteade oli III kvartali tulemused ja ObesityWeeki ettekanne, mis ei ole tänane põhjus. Põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-25T17:07:31Z"
+    },
+    {
+      "fmp": "MEDX.SW",
+      "sym": "medx-ch",
+      "name": "medmix AG",
+      "pct": 5.82,
+      "short": "Tõus ~6%: põhjust ei leidnud",
+      "text": "medmix tõusis täna Zürichis u 5,8% hinnani 10,36 CHF. Tänast uudist ei leidnud. Põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-25T17:07:31Z"
+    },
+    {
+      "fmp": "ALGT",
+      "sym": "algt",
+      "name": "Allegiant Travel Company",
+      "pct": -5.66,
+      "short": "Langus ~5,7%: tänast põhjust ei leidnud",
+      "text": "Allegiant Travel langes täna u 5,7% hinnani 89,67 USD. Tänast ettevõttepõhist uudist ei leidnud. Põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-25T17:07:31Z"
+    },
+    {
+      "fmp": "KARN.SW",
+      "sym": "karn-swx",
+      "name": "Kardex Holding AG",
+      "pct": -5.43,
+      "short": "Langus ~5,4%: tänast põhjust ei leidnud",
+      "text": "Kardex langes täna Zürichis u 5,4% hinnani 209 CHF, aasta madalaima lähedal. Tänast uudist ei leidnud. Taustaks: juunis hoiatas Kardex 2026. a esimese poolaasta EBIT-i langusest (u 60% eelmise aasta tasemest); see ei seleta tänast liikumist. Põhjus on kinnitamata.",
+      "sources": [
+        {
+          "title": "Kardex: EBIT-i prognoosi korrigeerimine (8.06)",
+          "url": "https://www.finanzen.at/nachrichten/aktien/business-update-kardex-adjusts-its-ebit-forecast-for-2026-1036230665"
+        }
+      ],
+      "at": "2026-11-25T17:07:31Z"
     }
   ]
 }
