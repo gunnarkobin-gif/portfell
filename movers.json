@@ -1,6 +1,6 @@
 {
   "date": "2026-11-25",
-  "updated": "2026-11-25T17:07:31Z",
+  "updated": "2026-11-25T20:07:11Z",
   "items": [
     {
       "fmp": "HBX.MC",
@@ -16,7 +16,7 @@
       "fmp": "AMBA",
       "sym": "amba",
       "name": "Ambarella, Inc.",
-      "pct": -19.2,
+      "pct": -18.7,
       "short": "Q3 vastas ootustele alla, Q4 käibeprognoos järsult madalam",
       "text": "Ambarella langes täna u 19% pärast 24.11 avaldatud III kvartali tulemusi: kasum aktsia kohta 0,28 USD jäi alla oodatud 0,32 USD. Q4 käibeprognoos 70–75 mln USD on selgelt madalam kui just aruandeperioodi 115,2 mln USD; juhtkond viitab mälukiipide puudusele, mis sunnib kliente tellimusi edasi lükkama või tühistama. Lisaks langetasid mitu analüütikut hinnasihte. Seos on kindel.",
       "sources": [
@@ -46,16 +46,6 @@
       "at": "2026-11-25T09:12:09Z"
     },
     {
-      "fmp": "NYXH",
-      "sym": "nyxh-be",
-      "name": "Nyxoah SA",
-      "pct": -10.44,
-      "short": "Langus ~10%: tänast põhjust ei leidnud",
-      "text": "Nyxoah langes täna u 10% hinnani 0,69 USD, mis on aasta madalaim tase. Tänast uudist ei leidnud. Viimane aruanne (III kvartal 2026, 5.11) näitas käibe 9,2 mln eurot, mis jäi veidi alla konsensuse, ja 2026. a käibeprognoosi oli juba varem langetatud; need on taustaks, kuid tänase languse põhjuseks ei saa neid kinnitada.",
-      "sources": [],
-      "at": "2026-11-25T17:07:31Z"
-    },
-    {
       "fmp": "CICN.SW",
       "sym": "cicn-ch",
       "name": "Cicor Technologies",
@@ -82,6 +72,16 @@
       "pct": 7.71,
       "short": "Tõus ~8%: tänast põhjust ei leidnud",
       "text": "SMCP tõusis täna Pariisis u 7,7% hinnani 4,30 eurot. Tänast uudist ei leidnud; leitud artiklid on varasemast ajast. Põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-25T17:07:31Z"
+    },
+    {
+      "fmp": "NYXH",
+      "sym": "nyxh-be",
+      "name": "Nyxoah SA",
+      "pct": -7.61,
+      "short": "Langus ~10%: tänast põhjust ei leidnud",
+      "text": "Nyxoah langes täna u 10% hinnani 0,69 USD, mis on aasta madalaim tase. Tänast uudist ei leidnud. Viimane aruanne (III kvartal 2026, 5.11) näitas käibe 9,2 mln eurot, mis jäi veidi alla konsensuse, ja 2026. a käibeprognoosi oli juba varem langetatud; need on taustaks, kuid tänase languse põhjuseks ei saa neid kinnitada.",
       "sources": [],
       "at": "2026-11-25T17:07:31Z"
     },
@@ -151,6 +151,21 @@
       "at": "2026-11-25T17:07:31Z"
     },
     {
+      "fmp": "AXON",
+      "sym": "axon",
+      "name": "Axon Enterprise Inc",
+      "pct": 6.33,
+      "short": "Axon +6,3%: tänast põhjust ei kinnitanud",
+      "text": "Axon Enterprise tõusis täna USA börsil u 6,3% hinnani 339,5 USD. Tänast ettevõttepõhist uudist (tulemused, prognoos, broker, leping) ei leidnud; leitud tõusuartiklid pärinevad veebruarist 2026 ja tänase liikumisega seost ei ole. Põhjus on kinnitamata.",
+      "sources": [
+        {
+          "title": "FMP: Axon uudised 24.–25.11.2026",
+          "url": "https://www.newsfilecorp.com/release/325566/Axon-Enterprise-Inc.-Investigation-Continues-Investors-May-Contact-Kirby-McInerney-LLP-a-Securities-Fraud-Law-Firm-If-You-Lost-Money-On-Your-AXON-Investments"
+        }
+      ],
+      "at": "2026-11-25T20:07:11Z"
+    },
+    {
       "fmp": "ADOC.PA",
       "sym": "adoc-par",
       "name": "Adocia SA",
@@ -194,6 +209,35 @@
         }
       ],
       "at": "2026-11-25T17:07:31Z"
+    },
+    {
+      "fmp": "VYX",
+      "sym": "vyx",
+      "name": "NCR Voyix Corporation",
+      "pct": 5.36,
+      "short": "NCR Voyix +5,4%: tänast põhjust ei kinnitanud",
+      "text": "NCR Voyix tõusis täna u 5,4% hinnani 10,42 USD. Tänast uudist ei leidnud. Viimased teadaolevad sündmused on 5.11 avaldatud III kvartali tulemused (taustaleping +151% aastas, aastaprognoos madalamas otsas) ja 23.11 Citizens JMP-i kattuse alustamine, seega need ei seleta otseselt tänast liikumist. Põhjus on kinnitamata.",
+      "sources": [
+        {
+          "title": "NCR Voyix III kvartali 2026 tulemused",
+          "url": "https://finviz.com/news/416611/ncr-voyix-reports-third-quarter-2026-results"
+        },
+        {
+          "title": "MarketBeat: Citizens JMP alustas kattust",
+          "url": "https://www.marketbeat.com/instant-alerts/analyst-ncr-voyix-nyse-vyx-coverage-initiated-by-analysts-at-citizens-jmp-2026-11-23/"
+        }
+      ],
+      "at": "2026-11-25T20:07:11Z"
+    },
+    {
+      "fmp": "GREEN.ST",
+      "sym": "green-se",
+      "name": "Green Landscaping Group AB",
+      "pct": 5.18,
+      "short": "Green Landscaping +5,2%: tänast põhjust ei leidnud",
+      "text": "Green Landscaping Group tõusis täna Stockholmis u 5,2% hinnani 13 SEK, olles siiski kaugel aasta tipust (49,1). Tänast ettevõttepõhist uudist ei leidnud, mis seletaks tõusu; see võib olla tehniline tagasipõrge pärast pikka langust. Põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-25T20:07:11Z"
     }
   ]
 }
