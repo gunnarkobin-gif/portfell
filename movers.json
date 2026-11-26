@@ -1,22 +1,22 @@
 {
   "date": "2026-11-26",
-  "updated": "2026-11-26T09:06:30Z",
+  "updated": "2026-11-26T17:06:35Z",
   "items": [
     {
       "fmp": "THEON.AS",
       "sym": "theon-ams",
       "name": "Theon International Plc",
-      "pct": 6.27,
-      "short": "Tõus ~6%: tänast põhjust ei kinnitanud",
-      "text": "Theon tõusis täna Amsterdamis u 6,3% hinnani 26,46 eurot. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker) ei leidnud ning FMP uudisvoog oli tühi. Võimalik seos kaitsesektori üldise liikumisega on tõestamata. Põhjus on kinnitamata.",
+      "pct": 9.96,
+      "short": "Tõus ~10%: tänast põhjust ei kinnitanud",
+      "text": "Theon International Plc tõusis täna u 10.0% hinnani 27.38. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker, M&A) ei leidnud ning FMP uudisvoog oli tühi. Põhjus on kinnitamata.",
       "sources": [],
-      "at": "2026-11-26T09:06:30Z"
+      "at": "2026-11-26T17:06:35Z"
     },
     {
       "fmp": "GUBRA.CO",
       "sym": "gubra-dk",
       "name": "Gubra A/S",
-      "pct": 6.02,
+      "pct": 6.22,
       "short": "Tõus ~6%: tänast põhjust ei kinnitanud",
       "text": "Gubra tõusis täna Kopenhaagenis u 6,0% hinnani 313,6 DKK. Leitud viimased ettevõtteuudised (Q3 kaubandusavaldus 6.11, juhtkonna vahetus 10.11) pärinevad varasemast ajast, seega ei seleta tänast liikumist. Põhjus on kinnitamata.",
       "sources": [],
@@ -61,6 +61,116 @@
       "text": "Adocia tõusis täna Pariisis u 5,2% hinnani 3,43 eurot. Viimane leitud suurem uudis (kuupõhise süste lootus, 10.11) on varasem ega seleta tänast liikumist. Põhjus on kinnitamata.",
       "sources": [],
       "at": "2026-11-26T09:06:30Z"
+    },
+    {
+      "fmp": "ENVIP.OL",
+      "sym": "envi-ams",
+      "name": "Envipco Holding N.V.",
+      "pct": -12.48,
+      "short": "Langus ~12%: tänast põhjust ei kinnitanud",
+      "text": "Envipco Holding N.V. langes täna u 12.5% hinnani 28.4. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker, M&A) ei leidnud ning FMP uudisvoog oli tühi. Põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-26T17:06:35Z"
+    },
+    {
+      "fmp": "VU.PA",
+      "sym": "vu-par",
+      "name": "VusionGroup S.A.",
+      "pct": 7.75,
+      "short": "Tõus ~8%: tänast põhjust ei kinnitanud",
+      "text": "VusionGroup S.A. tõusis täna u 7.8% hinnani 158.5. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker, M&A) ei leidnud ning FMP uudisvoog oli tühi. Põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-26T17:06:35Z"
+    },
+    {
+      "fmp": "ABDP.L",
+      "sym": "abdp-lon",
+      "name": "AB Dynamics plc",
+      "pct": 7.58,
+      "short": "Tõus ~8%: tänast põhjust ei kinnitanud",
+      "text": "AB Dynamics plc tõusis täna u 7.6% hinnani 908. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker, M&A) ei leidnud ning FMP uudisvoog oli tühi. Põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-26T17:06:35Z"
+    },
+    {
+      "fmp": "EKT.DE",
+      "sym": "ekt-etr",
+      "name": "EnergieKontor AG",
+      "pct": -7.17,
+      "short": "Langus ~7%: tänast põhjust ei kinnitanud",
+      "text": "EnergieKontor AG langes täna u 7.2% hinnani 18.12. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker, M&A) ei leidnud ning FMP uudisvoog oli tühi. Põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-26T17:06:35Z"
+    },
+    {
+      "fmp": "QDT.PA",
+      "sym": "qdt-par",
+      "name": "Quadient SA",
+      "pct": 6.61,
+      "short": "Tõus ~7%: tänast põhjust ei kinnitanud",
+      "text": "Quadient SA tõusis täna u 6.6% hinnani 14.52. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker, M&A) ei leidnud ning FMP uudisvoog oli tühi. Põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-26T17:06:35Z"
+    },
+    {
+      "fmp": "DIE.BR",
+      "sym": "die-be",
+      "name": "D'Ieteren Group SA/NV",
+      "pct": 6.1,
+      "short": "Tõus ~6%: tänast põhjust ei kinnitanud",
+      "text": "D'Ieteren Group SA/NV tõusis täna u 6.1% hinnani 184.3. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker, M&A) ei leidnud ning FMP uudisvoog oli tühi. Põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-26T17:06:35Z"
+    },
+    {
+      "fmp": "GBG.L",
+      "sym": "gbg-lon",
+      "name": "GB Group PLC",
+      "pct": 6.08,
+      "short": "Tõus ~6%: tänast põhjust ei kinnitanud",
+      "text": "GB Group PLC tõusis täna u 6.1% hinnani 139.6. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker, M&A) ei leidnud ning FMP uudisvoog oli tühi. Põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-26T17:06:35Z"
+    },
+    {
+      "fmp": "VER.ST",
+      "sym": "ver-se",
+      "name": "Verve Group Media SE Class A",
+      "pct": 6.06,
+      "short": "Tõus ~6%: tänast põhjust ei kinnitanud",
+      "text": "Verve Group Media SE Class A tõusis täna u 6.1% hinnani 7. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker, M&A) ei leidnud ning FMP uudisvoog oli tühi. Põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-26T17:06:35Z"
+    },
+    {
+      "fmp": "DYVOX.ST",
+      "sym": "dyvox-se",
+      "name": "Dynavox Group AB",
+      "pct": 5.4,
+      "short": "Tõus ~5%: tänast põhjust ei kinnitanud",
+      "text": "Dynavox Group AB tõusis täna u 5.4% hinnani 79. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker, M&A) ei leidnud ning FMP uudisvoog oli tühi. Põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-26T17:06:35Z"
+    },
+    {
+      "fmp": "GREEN.ST",
+      "sym": "green-se",
+      "name": "Green Landscaping Group AB",
+      "pct": 5.23,
+      "short": "Tõus ~5%: tänast põhjust ei kinnitanud",
+      "text": "Green Landscaping Group AB tõusis täna u 5.2% hinnani 13.68. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker, M&A) ei leidnud ning FMP uudisvoog oli tühi. Põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-26T17:06:35Z"
+    },
+    {
+      "fmp": "DEME.BR",
+      "sym": "deme-be",
+      "name": "DEME Group NV",
+      "pct": 5.1,
+      "short": "Tõus ~5%: tänast põhjust ei kinnitanud",
+      "text": "DEME Group NV tõusis täna u 5.1% hinnani 160.8. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker, M&A) ei leidnud ning FMP uudisvoog oli tühi. Põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-26T17:06:35Z"
     }
   ]
 }
