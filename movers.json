@@ -1,7 +1,17 @@
 {
   "date": "2026-11-27",
-  "updated": "2026-11-27T09:07:02Z",
+  "updated": "2026-11-27T17:07:15Z",
   "items": [
+    {
+      "fmp": "ENVIP.OL",
+      "sym": "envi-ams",
+      "name": "Envipco Holding N.V.",
+      "pct": -11.27,
+      "short": "Langus ~11%: tänast põhjust ei leidnud",
+      "text": "Envipco langes täna u 11,3% hinnani 25,2 NOK, mis on ühtlasi aasta madalaim tase. Täna kuupäevaga ettevõttepõhist uudist ei leidnud, seega põhjus on kinnitamata. Aktsia on aasta jooksul langenud tugevalt (aasta kõrgeim 66,2), mistõttu võib tegemist olla jätkuva müügisurvega, kuid see on oletus.",
+      "sources": [],
+      "at": "2026-11-27T17:07:15Z"
+    },
     {
       "fmp": "9698.HK",
       "sym": "9698-hk",
@@ -18,14 +28,19 @@
       "at": "2026-11-27T09:07:02Z"
     },
     {
-      "fmp": "VER.ST",
-      "sym": "ver-se",
-      "name": "Verve Group Media SE Class A",
-      "pct": 10.57,
-      "short": "Tõus ~11%: tänast põhjust ei kinnitanud",
-      "text": "Verve tõusis täna u 10,6% hinnani 7,74 (SEK). Tänast ettevõttepõhist uudist ei leidnud; leitud materjalid (Q3 aruanne, maaklerite sihthindade langetamine) on varasemad. Põhjus on kinnitamata, võib olla tehniline põrge pärast aasta madalaid hindu.",
-      "sources": [],
-      "at": "2026-11-27T09:07:02Z"
+      "fmp": "MLCO",
+      "sym": "mlco",
+      "name": "Melco Resorts & Entertainment Ltd. Sponsored ADR",
+      "pct": 9.95,
+      "short": "Tõus ~10%: tõenäoliselt Hongkongi/Hiina tururallilt, kinnitamata",
+      "text": "Melco Resorts tõusis USA kauplemises u 10% hinnani 4,585 USD. Täna kuupäevaga ettevõttepõhist uudist ei leidnud, seega põhjus on kinnitamata. Samal päeval tõusid Hongkongi aktsiad järsult (Hang Seng Tech +6,45%), mis võis Hongkongi/Macau-seotud nime üles tõmmata, kuid otsest seost allikas ei kinnita.",
+      "sources": [
+        {
+          "title": "Longbridge: HK Stocks Close (Nov 27)",
+          "url": "https://longbridge.com/en/news/306998352"
+        }
+      ],
+      "at": "2026-11-27T17:07:15Z"
     },
     {
       "fmp": "2590.HK",
@@ -40,6 +55,16 @@
           "url": "https://longbridge.com/en/news/306998352"
         }
       ],
+      "at": "2026-11-27T09:07:02Z"
+    },
+    {
+      "fmp": "VER.ST",
+      "sym": "ver-se",
+      "name": "Verve Group Media SE Class A",
+      "pct": 9.71,
+      "short": "Tõus ~11%: tänast põhjust ei kinnitanud",
+      "text": "Verve tõusis täna u 10,6% hinnani 7,74 (SEK). Tänast ettevõttepõhist uudist ei leidnud; leitud materjalid (Q3 aruanne, maaklerite sihthindade langetamine) on varasemad. Põhjus on kinnitamata, võib olla tehniline põrge pärast aasta madalaid hindu.",
+      "sources": [],
       "at": "2026-11-27T09:07:02Z"
     },
     {
@@ -73,6 +98,31 @@
       "at": "2026-11-27T09:07:02Z"
     },
     {
+      "fmp": "RERE",
+      "sym": "rere",
+      "name": "ATRenew Inc. Sponsored ADR",
+      "pct": 7.38,
+      "short": "Tõus ~7%: tõenäoliselt Hiina tehnoturu rallilt, kinnitamata",
+      "text": "ATRenew tõusis täna u 7,4% hinnani 4,295 USD. ATRenew esitas 3. kvartali tulemused 19. novembril, tänast ettevõttepõhist uudist ei leidnud. Hiina/Hongkongi tehnoaktsiad tõusid samal päeval tugevalt, mis võib olla taustaks, kuid seos on kinnitamata.",
+      "sources": [
+        {
+          "title": "Longbridge: HK Stocks Close (Nov 27)",
+          "url": "https://longbridge.com/en/news/306998352"
+        }
+      ],
+      "at": "2026-11-27T17:07:15Z"
+    },
+    {
+      "fmp": "BUR.L",
+      "sym": "bur-lon",
+      "name": "Burford Capital Limited",
+      "pct": 7.21,
+      "short": "Tõus ~7%: tänast põhjust ei kinnitanud",
+      "text": "Burford Capital tõusis Londonis täna u 7,2% hinnani 288,6 penni. Tänast uudist ei leidnud; leitud YPF-kohtuasja artiklid on varasemad. Põhjus on kinnitamata, aktsia on olnud aasta madalate hindade lähedal (aasta madalaim 215,6).",
+      "sources": [],
+      "at": "2026-11-27T17:07:15Z"
+    },
+    {
       "fmp": "9988.HK",
       "sym": "9988-hkg",
       "name": "Alibaba Group Holding Limited",
@@ -88,14 +138,64 @@
       "at": "2026-11-27T09:07:02Z"
     },
     {
-      "fmp": "ENVIP.OL",
-      "sym": "envi-ams",
-      "name": "Envipco Holding N.V.",
-      "pct": -5.81,
-      "short": "Langus ~6%: tänast põhjust ei kinnitanud",
-      "text": "Envipco langes täna u 5,8% hinnani 26,75 (NOK), aktsia on aasta madalaimal tasemel. Tänast ettevõttepõhist uudist ei leidnud. Põhjus on kinnitamata.",
+      "fmp": "AXON",
+      "sym": "axon",
+      "name": "Axon Enterprise Inc",
+      "pct": 6.7,
+      "short": "Tõus ~6,7%: tänast põhjust ei kinnitanud",
+      "text": "Axon tõusis täna u 6,7% hinnani 366,03 USD. Tänast ettevõttepõhist uudist ei leidnud (leitud on vaid eilsed analüüsiartiklid Dedrone'i kohta). Aktsia on aasta kõrgeimast hinnast u 45% madalamal, seega võib olla tegu põrkega, kuid see on oletus.",
+      "sources": [],
+      "at": "2026-11-27T17:07:15Z"
+    },
+    {
+      "fmp": "ADOC.PA",
+      "sym": "adoc-par",
+      "name": "Adocia SA",
+      "pct": 6.39,
+      "short": "Tõus ~5,7%: tänast põhjust ei kinnitanud",
+      "text": "Adocia tõusis täna u 5,7% hinnani 3,51. Tänast ettevõttepõhist uudist ei leidnud. Põhjus on kinnitamata; väikese kapitalisatsiooniga biotehnoloogia aktsia kõigub sageli ilma uudiseta.",
       "sources": [],
       "at": "2026-11-27T09:07:02Z"
+    },
+    {
+      "fmp": "NXT",
+      "sym": "nxt",
+      "name": "Nextpower Inc.",
+      "pct": 6.34,
+      "short": "Tõus ~6,3%: tänast põhjust ei kinnitanud",
+      "text": "Nextpower tõusis täna u 6,3% hinnani 73,36 USD. Tänast ettevõttepõhist uudist ei leidnud; Zacks märkis vaid, et aktsia on kasutajate seas enim otsitud. Põhjus on kinnitamata.",
+      "sources": [
+        {
+          "title": "Zacks: Nextpower (NXT) Is a Trending Stock",
+          "url": "https://www.zacks.com/stock/news/3036435/nextpower-inc-nxt-is-a-trending-stock-facts-to-know-before-betting-on-it"
+        }
+      ],
+      "at": "2026-11-27T17:07:15Z"
+    },
+    {
+      "fmp": "FLOC",
+      "sym": "floc",
+      "name": "Flowco Holdings Inc Class A",
+      "pct": 6.32,
+      "short": "Tõus ~6,3%: tänast põhjust ei leidnud",
+      "text": "Flowco Holdings tõusis täna u 6,3% hinnani 21,86 USD. Täna kuupäevaga ettevõttepõhist uudist ei leidnud, seega põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-27T17:07:15Z"
+    },
+    {
+      "fmp": "TATT",
+      "sym": "tatt",
+      "name": "TAT Technologies Ltd.",
+      "pct": 6.24,
+      "short": "Tõus ~6,2%: tänast põhjust ei kinnitanud",
+      "text": "TAT Technologies tõusis täna u 6,2% hinnani 37,21 USD. Tänast uudist ei leidnud; eile avaldas Zacks analüüsi, mille järgi analüütikute konsensuse sihthind viitab u 74% tõusupotentsiaalile. See võib toetada huvi, kuid seos tänase liikumisega on kinnitamata.",
+      "sources": [
+        {
+          "title": "Zacks: Wall Street Analysts See a 74.19% Upside in TAT Technologies",
+          "url": "https://www.zacks.com/stock/news/3035885/wall-street-analysts-see-a-74-19-upside-in-tat-technologies-tatt-can-the-stock-really-move-this-high"
+        }
+      ],
+      "at": "2026-11-27T17:07:15Z"
     },
     {
       "fmp": "THEON.AS",
@@ -123,14 +223,14 @@
       "at": "2026-11-27T09:07:02Z"
     },
     {
-      "fmp": "ADOC.PA",
-      "sym": "adoc-par",
-      "name": "Adocia SA",
+      "fmp": "FCT.MI",
+      "sym": "fct-mil",
+      "name": "Fincantieri S.p.A.",
       "pct": 5.72,
       "short": "Tõus ~5,7%: tänast põhjust ei kinnitanud",
-      "text": "Adocia tõusis täna u 5,7% hinnani 3,51. Tänast ettevõttepõhist uudist ei leidnud. Põhjus on kinnitamata; väikese kapitalisatsiooniga biotehnoloogia aktsia kõigub sageli ilma uudiseta.",
+      "text": "Fincantieri tõusis Milanos täna u 5,7% hinnani 12,105 eurot. Tänast uudist ei leidnud; leitud Itaalia artiklid (tellimused, analüütikute hinnangud) on varasemad. Põhjus on kinnitamata.",
       "sources": [],
-      "at": "2026-11-27T09:07:02Z"
+      "at": "2026-11-27T17:07:15Z"
     },
     {
       "fmp": "0189.HK",
@@ -156,6 +256,41 @@
       "text": "Rheinmetall tõusis täna u 5,6% hinnani 808,5 pärast pikka langust (aasta kõrgeim ~1966). Tänast ettevõttepõhist uudist ega kinnitatud kaitsesektori põhjust ei leidnud. Põhjus on kinnitamata, võimalik on tehniline põrge.",
       "sources": [],
       "at": "2026-11-27T09:07:02Z"
+    },
+    {
+      "fmp": "9866.HK",
+      "sym": "9866-hk",
+      "name": "NIO Inc. Class A",
+      "pct": 5.35,
+      "short": "Tõus ~5,4%: Hongkongi tehnoturu rallilt, firmauudist ei leidnud",
+      "text": "NIO tõusis Hongkongis täna u 5,4% hinnani 22,44 HKD. Hang Seng Tech indeks tõusis päeva lõpuks 6,45%, tõusu vedasid tehnoloogia- ja tehisintellekti aktsiad. Ettevõttepõhist tänast uudist ei leidnud, seega seos tururalliga on tõenäoline, kuid kinnitamata.",
+      "sources": [
+        {
+          "title": "Longbridge: HK Stocks Close (Nov 27)",
+          "url": "https://longbridge.com/en/news/306998352"
+        }
+      ],
+      "at": "2026-11-27T17:07:15Z"
+    },
+    {
+      "fmp": "HLLY",
+      "sym": "hlly",
+      "name": "Holley Inc.",
+      "pct": 5.21,
+      "short": "Tõus ~5,2%: tänast põhjust ei leidnud",
+      "text": "Holley tõusis täna u 5,2% hinnani 2,525 USD. Täna kuupäevaga ettevõttepõhist uudist ei leidnud, seega põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-27T17:07:15Z"
+    },
+    {
+      "fmp": "ALLT",
+      "sym": "allt",
+      "name": "Allot Ltd.",
+      "pct": 5.15,
+      "short": "Tõus ~5,1%: tänast põhjust ei leidnud",
+      "text": "Allot tõusis täna u 5,1% hinnani 8,19 USD. Täna kuupäevaga ettevõttepõhist uudist ei leidnud, seega põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-27T17:07:15Z"
     }
   ]
 }
