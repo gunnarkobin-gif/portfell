@@ -1,6 +1,6 @@
 {
   "date": "2026-11-27",
-  "updated": "2026-11-27T17:07:15Z",
+  "updated": "2026-11-27T20:06:38Z",
   "items": [
     {
       "fmp": "ENVIP.OL",
@@ -31,7 +31,7 @@
       "fmp": "MLCO",
       "sym": "mlco",
       "name": "Melco Resorts & Entertainment Ltd. Sponsored ADR",
-      "pct": 9.95,
+      "pct": 7.19,
       "short": "Tõus ~10%: tõenäoliselt Hongkongi/Hiina tururallilt, kinnitamata",
       "text": "Melco Resorts tõusis USA kauplemises u 10% hinnani 4,585 USD. Täna kuupäevaga ettevõttepõhist uudist ei leidnud, seega põhjus on kinnitamata. Samal päeval tõusid Hongkongi aktsiad järsult (Hang Seng Tech +6,45%), mis võis Hongkongi/Macau-seotud nime üles tõmmata, kuid otsest seost allikas ei kinnita.",
       "sources": [
@@ -101,7 +101,7 @@
       "fmp": "RERE",
       "sym": "rere",
       "name": "ATRenew Inc. Sponsored ADR",
-      "pct": 7.38,
+      "pct": 6.25,
       "short": "Tõus ~7%: tõenäoliselt Hiina tehnoturu rallilt, kinnitamata",
       "text": "ATRenew tõusis täna u 7,4% hinnani 4,295 USD. ATRenew esitas 3. kvartali tulemused 19. novembril, tänast ettevõttepõhist uudist ei leidnud. Hiina/Hongkongi tehnoaktsiad tõusid samal päeval tugevalt, mis võib olla taustaks, kuid seos on kinnitamata.",
       "sources": [
@@ -141,7 +141,7 @@
       "fmp": "AXON",
       "sym": "axon",
       "name": "Axon Enterprise Inc",
-      "pct": 6.7,
+      "pct": 5.96,
       "short": "Tõus ~6,7%: tänast põhjust ei kinnitanud",
       "text": "Axon tõusis täna u 6,7% hinnani 366,03 USD. Tänast ettevõttepõhist uudist ei leidnud (leitud on vaid eilsed analüüsiartiklid Dedrone'i kohta). Aktsia on aasta kõrgeimast hinnast u 45% madalamal, seega võib olla tegu põrkega, kuid see on oletus.",
       "sources": [],
@@ -161,7 +161,7 @@
       "fmp": "NXT",
       "sym": "nxt",
       "name": "Nextpower Inc.",
-      "pct": 6.34,
+      "pct": 7.52,
       "short": "Tõus ~6,3%: tänast põhjust ei kinnitanud",
       "text": "Nextpower tõusis täna u 6,3% hinnani 73,36 USD. Tänast ettevõttepõhist uudist ei leidnud; Zacks märkis vaid, et aktsia on kasutajate seas enim otsitud. Põhjus on kinnitamata.",
       "sources": [
@@ -176,7 +176,7 @@
       "fmp": "FLOC",
       "sym": "floc",
       "name": "Flowco Holdings Inc Class A",
-      "pct": 6.32,
+      "pct": 5.98,
       "short": "Tõus ~6,3%: tänast põhjust ei leidnud",
       "text": "Flowco Holdings tõusis täna u 6,3% hinnani 21,86 USD. Täna kuupäevaga ettevõttepõhist uudist ei leidnud, seega põhjus on kinnitamata.",
       "sources": [],
@@ -186,7 +186,7 @@
       "fmp": "TATT",
       "sym": "tatt",
       "name": "TAT Technologies Ltd.",
-      "pct": 6.24,
+      "pct": 6.11,
       "short": "Tõus ~6,2%: tänast põhjust ei kinnitanud",
       "text": "TAT Technologies tõusis täna u 6,2% hinnani 37,21 USD. Tänast uudist ei leidnud; eile avaldas Zacks analüüsi, mille järgi analüütikute konsensuse sihthind viitab u 74% tõusupotentsiaalile. See võib toetada huvi, kuid seos tänase liikumisega on kinnitamata.",
       "sources": [
@@ -276,7 +276,7 @@
       "fmp": "HLLY",
       "sym": "hlly",
       "name": "Holley Inc.",
-      "pct": 5.21,
+      "pct": 5,
       "short": "Tõus ~5,2%: tänast põhjust ei leidnud",
       "text": "Holley tõusis täna u 5,2% hinnani 2,525 USD. Täna kuupäevaga ettevõttepõhist uudist ei leidnud, seega põhjus on kinnitamata.",
       "sources": [],
@@ -286,11 +286,66 @@
       "fmp": "ALLT",
       "sym": "allt",
       "name": "Allot Ltd.",
-      "pct": 5.15,
+      "pct": 5.01,
       "short": "Tõus ~5,1%: tänast põhjust ei leidnud",
       "text": "Allot tõusis täna u 5,1% hinnani 8,19 USD. Täna kuupäevaga ettevõttepõhist uudist ei leidnud, seega põhjus on kinnitamata.",
       "sources": [],
       "at": "2026-11-27T17:07:15Z"
+    },
+    {
+      "fmp": "IPGP",
+      "sym": "ipgp",
+      "name": "IPG Photonics Corporation",
+      "pct": 5.19,
+      "short": "Aktsia tõusis +5,2% pärast värskeid 52 nädala madalaimaid hindu",
+      "text": "IPG Photonics tõusis täna u 5,2% hinnani 63,69 USD. Eelmisel nädalal (kolmapäeval) oli aktsia langenud uue 12 kuu madalaimani (u 57 USD), seega on tegu tõenäoliselt tehnilise taastumisega. Täna kuupäevaga ettevõttepõhist tõusu põhjust ei leidnud; seos on oletuslik.",
+      "sources": [
+        {
+          "title": "IPG Photonics Hits New 12-Month Low (Defense World)",
+          "url": "https://www.defenseworld.net/2026/11/27/ipg-photonics-nasdaqipgp-hits-new-12-month-low-time-to-sell.html"
+        }
+      ],
+      "at": "2026-11-27T20:06:38Z"
+    },
+    {
+      "fmp": "GRGD.TO",
+      "sym": "grgd-ca",
+      "name": "Groupe Dynamite Inc.",
+      "pct": 5.37,
+      "short": "Tõus ~5,4%: tänast põhjust ei leidnud",
+      "text": "Groupe Dynamite tõusis täna u 5,4% hinnani 55,35 CAD, jäädes siiski aasta kõrgeimast (98,9) kaugele. Täna kuupäevaga ettevõttepõhist uudist ei leidnud, seega põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-27T20:06:38Z"
+    },
+    {
+      "fmp": "MWH",
+      "sym": "mwh",
+      "name": "SOLV Energy Inc Class A",
+      "pct": 5.3,
+      "short": "Tõus ~5,3%: tänast põhjust ei leidnud",
+      "text": "SOLV Energy tõusis täna u 5,3% hinnani 27,21 USD. Tänaseid ettevõttepõhiseid uudiseid ei leidnud, mistõttu tõusu põhjus on kinnitamata. Aktsia on aasta kõrgeimast (48,4) siiski tugevalt madalamal.",
+      "sources": [],
+      "at": "2026-11-27T20:06:38Z"
+    },
+    {
+      "fmp": "VITL",
+      "sym": "vitl",
+      "name": "Vital Farms, Inc.",
+      "pct": 5.14,
+      "short": "Tõus ~5,1%: tänast põhjust ei leidnud",
+      "text": "Vital Farms tõusis täna u 5,1% hinnani 8,80 USD. Tänast uudist ei leidnud; aktsia on hiljutise tulemuste- ja juhiseelarve languse järel aasta madalate lähedal, mistõttu võib olla tegu tagasipõrkega, kuid see on oletus.",
+      "sources": [],
+      "at": "2026-11-27T20:06:38Z"
+    },
+    {
+      "fmp": "ENT.L",
+      "sym": "ent-lon",
+      "name": "Entain PLC",
+      "pct": 5.02,
+      "short": "Tõus ~5,0%: tänast põhjust ei leidnud",
+      "text": "Entain tõusis täna u 5,0% hinnani 477,2 pensi. Täna kuupäevaga uudist, mis tõusu selgitaks, ei leidnud, seega põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-27T20:06:38Z"
     }
   ]
 }
