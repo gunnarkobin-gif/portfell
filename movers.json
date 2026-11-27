@@ -1,176 +1,161 @@
 {
-  "date": "2026-11-26",
-  "updated": "2026-11-26T20:06:27Z",
+  "date": "2026-11-27",
+  "updated": "2026-11-27T09:07:02Z",
   "items": [
     {
-      "fmp": "THEON.AS",
-      "sym": "theon-ams",
-      "name": "Theon International Plc",
-      "pct": 9.96,
-      "short": "Tõus ~10%: tänast põhjust ei kinnitanud",
-      "text": "Theon International Plc tõusis täna u 10.0% hinnani 27.38. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker, M&A) ei leidnud ning FMP uudisvoog oli tühi. Põhjus on kinnitamata.",
-      "sources": [],
-      "at": "2026-11-26T17:06:35Z"
-    },
-    {
-      "fmp": "GUBRA.CO",
-      "sym": "gubra-dk",
-      "name": "Gubra A/S",
-      "pct": 6.22,
-      "short": "Tõus ~6%: tänast põhjust ei kinnitanud",
-      "text": "Gubra tõusis täna Kopenhaagenis u 6,0% hinnani 313,6 DKK. Leitud viimased ettevõtteuudised (Q3 kaubandusavaldus 6.11, juhtkonna vahetus 10.11) pärinevad varasemast ajast, seega ei seleta tänast liikumist. Põhjus on kinnitamata.",
-      "sources": [],
-      "at": "2026-11-26T09:06:30Z"
-    },
-    {
-      "fmp": "9866.HK",
-      "sym": "9866-hk",
-      "name": "NIO Inc. Class A",
-      "pct": 5.97,
-      "short": "Tõus ~6%: tänast põhjust ei kinnitanud",
-      "text": "NIO tõusis täna Hongkongis u 6,0% hinnani 21,3 HKD. Otsingutulemused NIO tõusude kohta ei olnud dateeritud tänase päevaga, seega ei saa neid selle liikumisega siduda. Põhjus on kinnitamata.",
-      "sources": [],
-      "at": "2026-11-26T09:06:30Z"
-    },
-    {
-      "fmp": "0780.HK",
-      "sym": "780-hk",
-      "name": "Tongcheng Travel Holdings Limited",
-      "pct": -5.86,
-      "short": "Langus ~6%: tänast põhjust ei kinnitanud",
-      "text": "Tongcheng Travel langes täna Hongkongis u 5,9% hinnani 8,11 HKD, päeva madalaimale tasemele. Tänast ettevõttepõhist uudist ei leidnud; leitud reisisektori regulatiivsed artiklid ei ole kinnitatult tänased. Põhjus on kinnitamata.",
-      "sources": [],
-      "at": "2026-11-26T09:06:30Z"
-    },
-    {
-      "fmp": "ENR.DE",
-      "sym": "enr-etr",
-      "name": "Siemens Energy AG",
-      "pct": 5.35,
-      "short": "Tõus ~5%: tänast põhjust ei kinnitanud",
-      "text": "Siemens Energy tõusis täna Xetras u 5,4% hinnani 118,48 eurot. Tänast uudist ei leidnud; leitud materjalid (novembri alguse tulemused ja keskpika perioodi eesmärgid) on varasemad. Põhjus on kinnitamata.",
-      "sources": [],
-      "at": "2026-11-26T09:06:30Z"
-    },
-    {
-      "fmp": "ADOC.PA",
-      "sym": "adoc-par",
-      "name": "Adocia SA",
-      "pct": 5.21,
-      "short": "Tõus ~5%: tänast põhjust ei kinnitanud",
-      "text": "Adocia tõusis täna Pariisis u 5,2% hinnani 3,43 eurot. Viimane leitud suurem uudis (kuupõhise süste lootus, 10.11) on varasem ega seleta tänast liikumist. Põhjus on kinnitamata.",
-      "sources": [],
-      "at": "2026-11-26T09:06:30Z"
-    },
-    {
-      "fmp": "ENVIP.OL",
-      "sym": "envi-ams",
-      "name": "Envipco Holding N.V.",
-      "pct": -12.48,
-      "short": "Langus ~12%: tänast põhjust ei kinnitanud",
-      "text": "Envipco Holding N.V. langes täna u 12.5% hinnani 28.4. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker, M&A) ei leidnud ning FMP uudisvoog oli tühi. Põhjus on kinnitamata.",
-      "sources": [],
-      "at": "2026-11-26T17:06:35Z"
-    },
-    {
-      "fmp": "VU.PA",
-      "sym": "vu-par",
-      "name": "VusionGroup S.A.",
-      "pct": 7.75,
-      "short": "Tõus ~8%: tänast põhjust ei kinnitanud",
-      "text": "VusionGroup S.A. tõusis täna u 7.8% hinnani 158.5. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker, M&A) ei leidnud ning FMP uudisvoog oli tühi. Põhjus on kinnitamata.",
-      "sources": [],
-      "at": "2026-11-26T17:06:35Z"
-    },
-    {
-      "fmp": "ABDP.L",
-      "sym": "abdp-lon",
-      "name": "AB Dynamics plc",
-      "pct": 7.58,
-      "short": "Tõus ~8%: tänast põhjust ei kinnitanud",
-      "text": "AB Dynamics plc tõusis täna u 7.6% hinnani 908. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker, M&A) ei leidnud ning FMP uudisvoog oli tühi. Põhjus on kinnitamata.",
-      "sources": [],
-      "at": "2026-11-26T17:06:35Z"
-    },
-    {
-      "fmp": "EKT.DE",
-      "sym": "ekt-etr",
-      "name": "EnergieKontor AG",
-      "pct": -7.17,
-      "short": "Langus ~7%: tänast põhjust ei kinnitanud",
-      "text": "EnergieKontor AG langes täna u 7.2% hinnani 18.12. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker, M&A) ei leidnud ning FMP uudisvoog oli tühi. Põhjus on kinnitamata.",
-      "sources": [],
-      "at": "2026-11-26T17:06:35Z"
-    },
-    {
-      "fmp": "QDT.PA",
-      "sym": "qdt-par",
-      "name": "Quadient SA",
-      "pct": 6.61,
-      "short": "Tõus ~7%: tänast põhjust ei kinnitanud",
-      "text": "Quadient SA tõusis täna u 6.6% hinnani 14.52. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker, M&A) ei leidnud ning FMP uudisvoog oli tühi. Põhjus on kinnitamata.",
-      "sources": [],
-      "at": "2026-11-26T17:06:35Z"
-    },
-    {
-      "fmp": "DIE.BR",
-      "sym": "die-be",
-      "name": "D'Ieteren Group SA/NV",
-      "pct": 6.1,
-      "short": "Tõus ~6%: tänast põhjust ei kinnitanud",
-      "text": "D'Ieteren Group SA/NV tõusis täna u 6.1% hinnani 184.3. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker, M&A) ei leidnud ning FMP uudisvoog oli tühi. Põhjus on kinnitamata.",
-      "sources": [],
-      "at": "2026-11-26T17:06:35Z"
-    },
-    {
-      "fmp": "GBG.L",
-      "sym": "gbg-lon",
-      "name": "GB Group PLC",
-      "pct": 6.08,
-      "short": "Tõus ~6%: tänast põhjust ei kinnitanud",
-      "text": "GB Group PLC tõusis täna u 6.1% hinnani 139.6. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker, M&A) ei leidnud ning FMP uudisvoog oli tühi. Põhjus on kinnitamata.",
-      "sources": [],
-      "at": "2026-11-26T17:06:35Z"
+      "fmp": "9698.HK",
+      "sym": "9698-hk",
+      "name": "GDS Holdings Ltd.",
+      "pct": 10.67,
+      "short": "Tõus ~11%: Hongkongi tehnoturu rallilt, firmauudist ei leidnud",
+      "text": "GDS tõusis täna u 10,7% hinnani 13,48. Hang Seng Tech indeks tõusis päeva lõpuks 6,45% ja Hang Sengi indeks 2,11%; tõusu vedasid tehnoloogia-, pooljuhi- ja tehisintellekti aktsiad pärast riiginõukogu kapitaliturgu toetavat signaali. Täna kuupäevaga ettevõttepõhist uudist ei leidnud, seega seos tururalliga on tõenäoline, kuid kinnitamata.",
+      "sources": [
+        {
+          "title": "Longbridge: HK Stocks Close (Nov 27)",
+          "url": "https://longbridge.com/en/news/306998352"
+        }
+      ],
+      "at": "2026-11-27T09:07:02Z"
     },
     {
       "fmp": "VER.ST",
       "sym": "ver-se",
       "name": "Verve Group Media SE Class A",
-      "pct": 6.06,
+      "pct": 10.57,
+      "short": "Tõus ~11%: tänast põhjust ei kinnitanud",
+      "text": "Verve tõusis täna u 10,6% hinnani 7,74 (SEK). Tänast ettevõttepõhist uudist ei leidnud; leitud materjalid (Q3 aruanne, maaklerite sihthindade langetamine) on varasemad. Põhjus on kinnitamata, võib olla tehniline põrge pärast aasta madalaid hindu.",
+      "sources": [],
+      "at": "2026-11-27T09:07:02Z"
+    },
+    {
+      "fmp": "2590.HK",
+      "sym": "2590-hk",
+      "name": "Beijing Geekplus Technology Co., Ltd. Class H",
+      "pct": 9.75,
+      "short": "Tõus ~10%: Hongkongi tehnoturu ralli, firmauudist ei leidnud",
+      "text": "Geekplus tõusis täna u 9,7% hinnani 5,63. Hang Seng Tech indeks tõusis päeva lõpuks 6,45% ja Hang Sengi indeks 2,11%; tõusu vedasid tehnoloogia-, pooljuhi- ja tehisintellekti aktsiad pärast riiginõukogu kapitaliturgu toetavat signaali. Ettevõttepõhist tänast uudist ei leidnud; seos turuga on tõenäoline, kuid kinnitamata.",
+      "sources": [
+        {
+          "title": "Longbridge: HK Stocks Close (Nov 27)",
+          "url": "https://longbridge.com/en/news/306998352"
+        }
+      ],
+      "at": "2026-11-27T09:07:02Z"
+    },
+    {
+      "fmp": "1357.HK",
+      "sym": "1357-hk",
+      "name": "Meitu, Inc",
+      "pct": 9.25,
+      "short": "Tõus ~9%: Hongkongi tehnoturu ralli, firmauudist ei leidnud",
+      "text": "Meitu tõusis täna u 9,3% hinnani 3,66. Hang Seng Tech indeks tõusis päeva lõpuks 6,45% ja Hang Sengi indeks 2,11%; tõusu vedasid tehnoloogia-, pooljuhi- ja tehisintellekti aktsiad pärast riiginõukogu kapitaliturgu toetavat signaali. Tänast Meitu-spetsiifilist uudist ei leidnud; põhjus on tõenäoliselt turupõhine, kuid kinnitamata.",
+      "sources": [
+        {
+          "title": "Longbridge: HK Stocks Close (Nov 27)",
+          "url": "https://longbridge.com/en/news/306998352"
+        }
+      ],
+      "at": "2026-11-27T09:07:02Z"
+    },
+    {
+      "fmp": "9626.HK",
+      "sym": "9626-hk",
+      "name": "Bilibili Inc. Class Z",
+      "pct": 8.51,
+      "short": "Tõus ~8,5%: Hongkongi tehnoturu ralli, firmauudist ei leidnud",
+      "text": "Bilibili tõusis täna u 8,5% hinnani 95,6. Hang Seng Tech indeks tõusis päeva lõpuks 6,45% ja Hang Sengi indeks 2,11%; tõusu vedasid tehnoloogia-, pooljuhi- ja tehisintellekti aktsiad pärast riiginõukogu kapitaliturgu toetavat signaali. Ettevõttepõhist tänast uudist ei leidnud; seos tururalliga on tõenäoline, kuid kinnitamata.",
+      "sources": [
+        {
+          "title": "Longbridge: HK Stocks Close (Nov 27)",
+          "url": "https://longbridge.com/en/news/306998352"
+        }
+      ],
+      "at": "2026-11-27T09:07:02Z"
+    },
+    {
+      "fmp": "9988.HK",
+      "sym": "9988-hkg",
+      "name": "Alibaba Group Holding Limited",
+      "pct": 7.03,
+      "short": "Tõus ~7%: Hongkongi tehnoralli; AI-kiipide teema",
+      "text": "Alibaba tõusis täna u 7,0% hinnani 88,3. Hang Seng Tech indeks tõusis päeva lõpuks 6,45% ja Hang Sengi indeks 2,11%; tõusu vedasid tehnoloogia-, pooljuhi- ja tehisintellekti aktsiad pärast riiginõukogu kapitaliturgu toetavat signaali. Artikli järgi plaanib MiniMax kasutusele võtta Huawei ja Alibaba AI-kiipe, et vähendada sõltuvust Nvidiast, mis võis toetada Alibaba sentimenti. Alibaba-spetsiifilist hinnaliikumise põhjust allikas ei nimeta, seos on tõenäoline, mitte kinnitatud.",
+      "sources": [
+        {
+          "title": "Longbridge: HK Stocks Close (Nov 27)",
+          "url": "https://longbridge.com/en/news/306998352"
+        }
+      ],
+      "at": "2026-11-27T09:07:02Z"
+    },
+    {
+      "fmp": "ENVIP.OL",
+      "sym": "envi-ams",
+      "name": "Envipco Holding N.V.",
+      "pct": -5.81,
+      "short": "Langus ~6%: tänast põhjust ei kinnitanud",
+      "text": "Envipco langes täna u 5,8% hinnani 26,75 (NOK), aktsia on aasta madalaimal tasemel. Tänast ettevõttepõhist uudist ei leidnud. Põhjus on kinnitamata.",
+      "sources": [],
+      "at": "2026-11-27T09:07:02Z"
+    },
+    {
+      "fmp": "THEON.AS",
+      "sym": "theon-ams",
+      "name": "Theon International Plc",
+      "pct": 5.77,
       "short": "Tõus ~6%: tänast põhjust ei kinnitanud",
-      "text": "Verve Group Media SE Class A tõusis täna u 6.1% hinnani 7. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker, M&A) ei leidnud ning FMP uudisvoog oli tühi. Põhjus on kinnitamata.",
+      "text": "Theon tõusis täna u 5,8% hinnani 28,96. Tänast ettevõttepõhist uudist ega kaitsesektori uudist, mis seda toetaks, ei leidnud. Põhjus on kinnitamata.",
       "sources": [],
-      "at": "2026-11-26T17:06:35Z"
+      "at": "2026-11-27T09:07:02Z"
     },
     {
-      "fmp": "DYVOX.ST",
-      "sym": "dyvox-se",
-      "name": "Dynavox Group AB",
-      "pct": 5.4,
-      "short": "Tõus ~5%: tänast põhjust ei kinnitanud",
-      "text": "Dynavox Group AB tõusis täna u 5.4% hinnani 79. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker, M&A) ei leidnud ning FMP uudisvoog oli tühi. Põhjus on kinnitamata.",
-      "sources": [],
-      "at": "2026-11-26T17:06:35Z"
+      "fmp": "2788.HK",
+      "sym": "2788-hk",
+      "name": "Chuangxin Industries Holdings Limited",
+      "pct": 5.72,
+      "short": "Tõus ~5,7%: põhjust ei leidnud, turg tõusis laiemalt",
+      "text": "Chuangxin tõusis täna u 5,7% hinnani 12,38. Hang Sengi indeks tõusis päeval 2,11%, kuid ettevõttepõhist uudist ei leidnud ning seost turuga ei saa kinnitada.",
+      "sources": [
+        {
+          "title": "Longbridge: HK Stocks Close (Nov 27)",
+          "url": "https://longbridge.com/en/news/306998352"
+        }
+      ],
+      "at": "2026-11-27T09:07:02Z"
     },
     {
-      "fmp": "GREEN.ST",
-      "sym": "green-se",
-      "name": "Green Landscaping Group AB",
-      "pct": 5.23,
-      "short": "Tõus ~5%: tänast põhjust ei kinnitanud",
-      "text": "Green Landscaping Group AB tõusis täna u 5.2% hinnani 13.68. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker, M&A) ei leidnud ning FMP uudisvoog oli tühi. Põhjus on kinnitamata.",
+      "fmp": "ADOC.PA",
+      "sym": "adoc-par",
+      "name": "Adocia SA",
+      "pct": 5.72,
+      "short": "Tõus ~5,7%: tänast põhjust ei kinnitanud",
+      "text": "Adocia tõusis täna u 5,7% hinnani 3,51. Tänast ettevõttepõhist uudist ei leidnud. Põhjus on kinnitamata; väikese kapitalisatsiooniga biotehnoloogia aktsia kõigub sageli ilma uudiseta.",
       "sources": [],
-      "at": "2026-11-26T17:06:35Z"
+      "at": "2026-11-27T09:07:02Z"
     },
     {
-      "fmp": "DEME.BR",
-      "sym": "deme-be",
-      "name": "DEME Group NV",
-      "pct": 5.1,
-      "short": "Tõus ~5%: tänast põhjust ei kinnitanud",
-      "text": "DEME Group NV tõusis täna u 5.1% hinnani 160.8. Tänast ettevõttepõhist uudist (tulemused, tellimus, broker, M&A) ei leidnud ning FMP uudisvoog oli tühi. Põhjus on kinnitamata.",
+      "fmp": "0189.HK",
+      "sym": "189-hk",
+      "name": "Dongyue Group Limited",
+      "pct": 5.65,
+      "short": "Tõus ~5,6%: põhjust ei leidnud, turg tõusis laiemalt",
+      "text": "Dongyue tõusis täna u 5,6% hinnani 8,79. Hang Sengi indeks tõusis päeval 2,11%, kuid ettevõttepõhist uudist ega keemiasektori põhjust ei leidnud; seos turuga on kinnitamata.",
+      "sources": [
+        {
+          "title": "Longbridge: HK Stocks Close (Nov 27)",
+          "url": "https://longbridge.com/en/news/306998352"
+        }
+      ],
+      "at": "2026-11-27T09:07:02Z"
+    },
+    {
+      "fmp": "RHM.DE",
+      "sym": "rhm-etr",
+      "name": "Rheinmetall AG",
+      "pct": 5.59,
+      "short": "Tõus ~5,6%: tänast põhjust ei kinnitanud",
+      "text": "Rheinmetall tõusis täna u 5,6% hinnani 808,5 pärast pikka langust (aasta kõrgeim ~1966). Tänast ettevõttepõhist uudist ega kinnitatud kaitsesektori põhjust ei leidnud. Põhjus on kinnitamata, võimalik on tehniline põrge.",
       "sources": [],
-      "at": "2026-11-26T17:06:35Z"
+      "at": "2026-11-27T09:07:02Z"
     }
   ]
 }
