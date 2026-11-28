@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T00:17:49Z",
+  "updated": "2026-11-28T00:22:19Z",
   "items": [
     {
       "isin": "USU45709AB58",
@@ -9,7 +9,7 @@
       "prevPrice": null,
       "source": null,
       "url": null,
-      "note": "uut hinda ei leitud 2026-11-24: FactSet/IBKR pole saadaval; veebiotsing (finanzen.net, TradingView, cbonds, bondblox, Deutsche Börse) ilma hinnata"
+      "note": "uut hinda ei leitud 2026-11-28: FactSet/IBKR pole saadaval; cbonds (fetch-viga), bondblox/Deutsche Börse (luba ei tulnud), veebiotsing"
     },
     {
       "isin": "USU6203KAE48",
@@ -19,7 +19,7 @@
       "prevPrice": null,
       "source": null,
       "url": null,
-      "note": "uut hinda ei leitud 2026-11-24: FactSet/IBKR pole saadaval; veebiotsing (finanzen.net, TradingView, cbonds, bondblox, Deutsche Börse) ilma hinnata"
+      "note": "uut hinda ei leitud 2026-11-28: FactSet/IBKR pole saadaval; TradingView (hind lukus), cbonds (fetch-viga), veebiotsing"
     },
     {
       "isin": "USU37027AB27",
@@ -29,7 +29,7 @@
       "prevPrice": null,
       "source": null,
       "url": null,
-      "note": "uut hinda ei leitud 2026-11-24: FactSet/IBKR pole saadaval; veebiotsing (finanzen.net, TradingView, cbonds, bondblox, Deutsche Börse) ilma hinnata"
+      "note": "uut hinda ei leitud 2026-11-28: FactSet/IBKR pole saadaval; TradingView (hind lukus), veebiotsing"
     },
     {
       "isin": "USU98401AE97",
@@ -37,8 +37,9 @@
       "price": 10.0,
       "priceDate": "2026-11-23",
       "prevPrice": 18.11,
-      "source": "finanzen.net (Frankfurt FSE 10.00; hõre turg, 15 min viivitus)",
-      "url": "https://www.finanzen.net/anleihen/a3lv8v-xerox-holdings-anleihe"
+      "source": "finanzen.net (Frankfurt FSE bid 10.00; hõre turg)",
+      "url": "https://www.finanzen.net/anleihen/a3lv8v-xerox-holdings-anleihe",
+      "note": "finanzen.net Frankfurt bid 10.00 (23.11.2026), uuemat noteeringut ei ole; FactSet/IBKR pole saadaval"
     },
     {
       "isin": "USP46214AJ49",
@@ -48,7 +49,7 @@
       "prevPrice": null,
       "source": null,
       "url": null,
-      "note": "uut hinda ei leitud 2026-11-24: FactSet/IBKR pole saadaval; veebiotsing (finanzen.net, TradingView, cbonds, bondblox, Deutsche Börse) ilma hinnata"
+      "note": "uut hinda ei leitud 2026-11-28: FactSet/IBKR pole saadaval; veebiotsing (sobivat lehte ei leitud)"
     }
   ]
 }
